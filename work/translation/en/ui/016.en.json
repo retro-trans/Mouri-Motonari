@@ -1,0 +1,346 @@
+[
+ {
+  "key": "I0003",
+  "en": "A sound piece of work that covers the basics.\nWidely available on the market.",
+  "note": "Shared by Tanto, Wakizashi, Kodachi, Katana, Long Sword, Tachi."
+ },
+ {
+  "key": "I0004",
+  "en": "Combines a weapon's performance with beauty.\nIts edge lives up to its looks.",
+  "note": "Shared by the six 'Fine' blades."
+ },
+ {
+  "key": "I0005",
+  "en": "The broad blade suits heavy blows more than cutting."
+ },
+ {
+  "key": "I0006",
+  "en": "The slim blade suits thrusting more than cutting."
+ },
+ {
+  "key": "I0007",
+  "en": "A tanto modeled on the armsmith Kunimitsu. A well-balanced blade."
+ },
+ {
+  "key": "I0008",
+  "en": "A tanto modeled on Yoshimitsu, swordsmith and bowyer. Light and easy to handle."
+ },
+ {
+  "key": "I0009",
+  "en": "A tanto modeled on the master swordsmith Masamune. A keen and beautiful blade."
+ },
+ {
+  "key": "I0010",
+  "en": "A wakizashi modeled on the armsmith Magobei. Light and easy to handle.",
+  "note": "[0.2.5: user decision I-26 A]"
+ },
+ {
+  "key": "I0011",
+  "en": "A wakizashi modeled on Yoshimitsu, swordsmith and bowyer. A well-balanced blade."
+ },
+ {
+  "key": "I0012",
+  "en": "A wakizashi modeled on the armsmith Muneshige. A keen-edged blade.",
+  "note": "[0.2.5: user decision I-26 A]"
+ },
+ {
+  "key": "I0013",
+  "en": "A kodachi modeled on the armsmith Muneshige. Light and easy to handle.",
+  "note": "[0.2.5: user decision I-26 A]"
+ },
+ {
+  "key": "I0014",
+  "en": "A kodachi modeled on the master swordsmith Masamune. A keen and beautiful blade."
+ },
+ {
+  "key": "I0015",
+  "en": "A kodachi modeled on the armsmith Kunimitsu. A well-balanced piece.",
+  "note": "[0.2.5: user decision I-26 A]"
+ },
+ {
+  "key": "I0016",
+  "en": "An odd-shaped sword, deeply curved, half of it double-edged. Very light. Kunimitsu's finest."
+ },
+ {
+  "key": "I0017",
+  "en": "A light, handy sword with a lovely hamon. Modeled on Magobei's most inspired work."
+ },
+ {
+  "key": "I0018",
+  "en": "A wakizashi stronger than a tachi. It carries on swordsmith Yoshimitsu's secret arts."
+ },
+ {
+  "key": "I0019",
+  "en": "A kodachi with a striking, mirror-bright blade. It revives Muneshige's most guarded secrets."
+ },
+ {
+  "key": "I0020",
+  "en": "An unsigned sword rusted down to little more than scrap. Useless as it is, but..."
+ },
+ {
+  "key": "I0021",
+  "en": "A perfectly straight tachi with no curve.\nOften used for iai, the quick draw."
+ },
+ {
+  "key": "I0022",
+  "en": "A stately tachi with a thick blade. A groove makes it lighter than it looks."
+ },
+ {
+  "key": "I0023",
+  "en": "A sword with a hamon like great surging waves.\nFairly powerful."
+ },
+ {
+  "key": "I0024",
+  "en": "The straight Hidden Blade reworked with a curve, giving it a keener edge."
+ },
+ {
+  "key": "I0025",
+  "en": "A sword modeled on the swordsmith Osafune.\nA tachi of bold, imposing form."
+ },
+ {
+  "key": "I0026",
+  "en": "A slender, beautiful tachi.\nLight, easy to handle, and powerful too."
+ },
+ {
+  "key": "I0027",
+  "en": "A blade engraved: \"Let all who go to battle stand at the front of the ranks.\""
+ },
+ {
+  "key": "I0028",
+  "en": "Modeled on swordsmith Yoshimitsu's late work. Seemingly unfinished, yet very powerful."
+ },
+ {
+  "key": "I0029",
+  "en": "A mighty sword reforged from the Denta.\nVery powerful and well balanced."
+ },
+ {
+  "key": "I0030",
+  "en": "A long sword made as long as a spear.\nPowerful, but hard to handle."
+ },
+ {
+  "key": "I0031",
+  "en": "Carries on master swordsmith Masamune's secret arts. Flawless in power and beauty."
+ },
+ {
+  "key": "I0032",
+  "en": "Masamune's inspired blade. So ominously keen it was renamed Muramasa to ward off evil."
+ },
+ {
+  "key": "I0033",
+  "en": "A cursed blade of terrible power.\nIts steel is said to be always wet..."
+ },
+ {
+  "key": "I0034",
+  "en": "A sword as light as a tanto. Its maker is unknown, but the style recalls Yoshimitsu.",
+  "note": "Tamagiri."
+ },
+ {
+  "key": "I0035",
+  "en": "A tube on the shaft lets it extend and retract at will. Good in close combat, too."
+ },
+ {
+  "key": "I0036",
+  "en": "A Kuda Yari with a stronger shaft that extends and retracts smoothly."
+ },
+ {
+  "key": "I0037",
+  "en": "A short spear with a huge spearhead.",
+  "note": "Omi Short Yari."
+ },
+ {
+  "key": "I0038",
+  "en": "A naginata with a reinforced shaft."
+ },
+ {
+  "key": "I0039",
+  "en": "A nagamaki with a reinforced shaft.",
+  "note": "Big Nagamaki."
+ },
+ {
+  "key": "I0040",
+  "en": "Spearsmith Kunimitsu's secret naginata. Its secret manual suggests it is unfinished."
+ },
+ {
+  "key": "I0041",
+  "en": "Spearsmith Magobei's secret nagamaki. Its secret manual suggests it is unfinished."
+ },
+ {
+  "key": "I0042",
+  "en": "The Kuda Yari of its creator, Ito Suketada. The most perfected form of the type."
+ },
+ {
+  "key": "I0043",
+  "en": "A kind of Ryokama Yari with a cross-shaped head. The head is of the ginkgo type."
+ },
+ {
+  "key": "I0044",
+  "en": "A kind of plain spear, with a blade-shaped head."
+ },
+ {
+  "key": "I0045",
+  "en": "An Omi Short Yari with a longer shaft."
+ },
+ {
+  "key": "I0046",
+  "en": "A spear with a head shaped like a bamboo leaf.",
+  "note": "Sasaho Yari."
+ },
+ {
+  "key": "I0047",
+  "en": "A spear with a sickle on one side of the head.\nThe head is of the ginkgo type.",
+  "note": "Katakama Yari."
+ },
+ {
+  "key": "I0048",
+  "en": "A spear with sickles on both sides of its head. The sickles curve upward.",
+  "note": "Ryokama Yari."
+ },
+ {
+  "key": "I0049",
+  "en": "An advanced Tsukushi Yari. Built for thrusting, with a reinforced shaft.",
+  "note": "Kikuchi Yari."
+ },
+ {
+  "key": "I0050",
+  "en": "A spear of the Hozoin school, with crescent-shaped sickles."
+ },
+ {
+  "key": "I0051",
+  "en": "A long spear modeled on the spearsmith Osafune. Mass-producible, yet very powerful.",
+  "note": "[edit: 'the spearsmith', as in the other 'modeled on the X' smith descriptions]"
+ },
+ {
+  "key": "I0052",
+  "en": "A long spear modeled on the spearsmith Muneshige. Mass-producible, yet very powerful.",
+  "note": "[edit: 'the spearsmith', as in the other 'modeled on the X' smith descriptions]"
+ },
+ {
+  "key": "I0053",
+  "en": "The finest of the bamboo-leaf spears. Said to cut even a dragonfly landing on its tip."
+ },
+ {
+  "key": "I0054",
+  "en": "The finest spear with a flat triangular head. A refined Omi Yari, drawn to its full potential."
+ },
+ {
+  "key": "I0055",
+  "en": "A naginata that carries on Kunimitsu's secret arts. A hollow shaft makes it lighter."
+ },
+ {
+  "key": "I0056",
+  "en": "A nagamaki of Magobei's secret arts. A famed spear said to be long enough to cut the moon.",
+  "note": "Moon Cleaver (glossary)."
+ },
+ {
+  "key": "I0057",
+  "en": "A small wooden bow. It has little draw strength, so its power is low."
+ },
+ {
+  "key": "I0058",
+  "en": "A small bamboo bow.\nBeing small, it lacks power.",
+  "note": "Sm.Bamboo Bow."
+ },
+ {
+  "key": "I0059",
+  "en": "A Small Bamboo Bow strengthened with a rattan wrapping.",
+  "note": "Sm.Rattan Bow; Small Bamboo Bow = full form of the item name Sm.Bamboo Bow (D0086)."
+ },
+ {
+  "key": "I0060",
+  "en": "An improved Small Wood Bow.\nEven so, its power is still low.",
+  "note": "Wood Bow; Small Wood Bow = full form of Sm.Wood Bow (D0085)."
+ },
+ {
+  "key": "I0061",
+  "en": "The standard type of bamboo bow.\nMany improved types build on it.",
+  "note": "Bamboo Bow."
+ },
+ {
+  "key": "I0062",
+  "en": "A Bamboo Bow wrapped in rattan, then lacquered over for strength."
+ },
+ {
+  "key": "I0063",
+  "en": "An improved Wood Bow, made larger still.\nIt has fair power."
+ },
+ {
+  "key": "I0064",
+  "en": "A 3-Ply Bow wrapped in rattan, then coated in black lacquer for strength."
+ },
+ {
+  "key": "I0065",
+  "en": "A Bamboo Bow reinforced with 4-year bamboo.\nIt lacks stability."
+ },
+ {
+  "key": "I0066",
+  "en": "A 2-Ply Bow reinforced with 3-year bamboo. The bow is sandwiched in 4- and 3-year bamboo."
+ },
+ {
+  "key": "I0067",
+  "en": "A 3-Ply Bow further reinforced with 3-year bamboo. More powerful, and very stable.",
+  "note": "4-Ply Bow."
+ },
+ {
+  "key": "I0068",
+  "en": "An enlarged Bamboo Bow reinforced with green bamboo. Pushes its materials to the limit."
+ },
+ {
+  "key": "I0069",
+  "en": "A Large Bamboo Bow wrapped in rattan, then coated in red lacquer for strength.",
+  "note": "Lg.Shigeto Bow; Large Bamboo Bow = full form of Lg.Bamboo Bow (D0096)."
+ },
+ {
+  "key": "I0070",
+  "en": "A bow with a \"ki\" device to draw the string. Powerful, but heavy and inaccurate."
+ },
+ {
+  "key": "I0071",
+  "en": "An improved 4-Sided Bow, with more spring."
+ },
+ {
+  "key": "I0072",
+  "en": "An improved Crossbow. More powerful, but inaccurate and heavy."
+ },
+ {
+  "key": "I0073",
+  "en": "A Chinese crossbow. Same as the Large Crossbow, but with a longer range."
+ },
+ {
+  "key": "I0074",
+  "en": "The crossbow as it is made in the West. Powerful, but inaccurate and heavy."
+ },
+ {
+  "key": "I0075",
+  "en": "A Wood Bow squared off and encased in bamboo. Springy and powerful."
+ },
+ {
+  "key": "I0076",
+  "en": "Yoshimitsu's masterpiece as a bowyer. Range, power and all else are flawless."
+ },
+ {
+  "key": "I0077",
+  "en": "A rapid-fire Chinese Crossbow. Powerful, but inaccurate and heavy."
+ },
+ {
+  "key": "I0078",
+  "en": "A rapid-fire Nanban Crossbow. Great range and power, but inaccurate and heavy.",
+  "note": "Nanb.Rep.Xbow; Nanban Crossbow = full form of Nanb.Crossbow."
+ },
+ {
+  "key": "I0079",
+  "en": "A replica of the bow said to have been used by Nasu no Yoichi. Light and accurate."
+ },
+ {
+  "key": "I0080",
+  "en": "A replica of the bow said to have been used by Minamoto no Yoshiie. Flawless range and power."
+ },
+ {
+  "key": "I0081",
+  "en": "A bow said to have been Xiang Yu's. Incredibly powerful for a bow, but very heavy.",
+  "note": "Xiang Yu Bow (glossary)."
+ },
+ {
+  "key": "I0082",
+  "en": "A high-performance version of the Yoichi Bow.\nVery easy to handle."
+ }
+]

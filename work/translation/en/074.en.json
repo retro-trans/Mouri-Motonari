@@ -1,0 +1,272 @@
+[
+ {
+  "key": "U05920",
+  "en": "Kyoto: Castle Town"
+ },
+ {
+  "key": "U05921"
+ },
+ {
+  "key": "U05922"
+ },
+ {
+  "key": "U05923",
+  "en": "Shikanosuke's Hideout"
+ },
+ {
+  "key": "U05924"
+ },
+ {
+  "key": "U05925"
+ },
+ {
+  "key": "U05926"
+ },
+ {
+  "key": "U05927"
+ },
+ {
+  "key": "U05928"
+ },
+ {
+  "key": "U05929"
+ },
+ {
+  "key": "U05930"
+ },
+ {
+  "key": "U05931"
+ },
+ {
+  "key": "U05932",
+  "en": "Hashiba Army HQ"
+ },
+ {
+  "key": "U05933"
+ },
+ {
+  "key": "U05934"
+ },
+ {
+  "key": "U05935",
+  "en": "Talk to Kobayakawa Takakage",
+  "note": "Menu entry; limit 96 px. 'Talk to Kobayakawa Takakage' does not fit; given name only (86 px), as in 'Talk to Ekei' (U05440). 0.2.14: written in full, since the scene-goal box now fits the English text (the shortened form was for the 8 px per character box)."
+ },
+ {
+  "key": "U05936"
+ },
+ {
+  "key": "U05937"
+ },
+ {
+  "key": "U05938",
+  "note": "Same Japanese as U05707 (only line breaks differ); English reused."
+ },
+ {
+  "key": "U05939"
+ },
+ {
+  "key": "U05940"
+ },
+ {
+  "key": "U05941"
+ },
+ {
+  "key": "U05942"
+ },
+ {
+  "key": "U05943",
+  "note": "Terumoto examining the temple pillar named by the riddle (U06001)."
+ },
+ {
+  "key": "U05944"
+ },
+ {
+  "key": "U05945"
+ },
+ {
+  "key": "U05946",
+  "en": "Pried the board off the pillar.",
+  "note": "Caption in the past-tense, subjectless form of 'Found materials in the castle town.' (U00335)."
+ },
+ {
+  "key": "U05947"
+ },
+ {
+  "key": "U05948",
+  "en": "Out came hidden riches!"
+ },
+ {
+  "key": "U05949",
+  "en": "Through Takakage's scheme,\nBessho Nagaharu, the Oda lord\nof Miki Castle, rose in revolt.\nTo subdue Bessho, the Hashiba Army\nturned toward Miki Castle,\nleaving the Amago remnants cut off."
+ },
+ {
+  "key": "U05950"
+ },
+ {
+  "key": "U05951"
+ },
+ {
+  "key": "U05952"
+ },
+ {
+  "key": "U05953"
+ },
+ {
+  "key": "U05954"
+ },
+ {
+  "key": "U05955"
+ },
+ {
+  "key": "U05956"
+ },
+ {
+  "key": "U05957"
+ },
+ {
+  "key": "U05958"
+ },
+ {
+  "key": "U05959",
+  "en": "Win Bessho over\nDon't win Bessho over"
+ },
+ {
+  "key": "U05960"
+ },
+ {
+  "key": "U05961",
+  "note": "Gameplay hint; one sentence over two sections, cut at the matching point. Impersonal 'you' (general advice from a book)."
+ },
+ {
+  "key": "U05962"
+ },
+ {
+  "key": "U05963"
+ },
+ {
+  "key": "U05964",
+  "note": "Variant of U05745; same English without the page break (no JP blank line here)."
+ },
+ {
+  "key": "U05965"
+ },
+ {
+  "key": "U05966"
+ },
+ {
+  "key": "U05967",
+  "note": "As U05751."
+ },
+ {
+  "key": "U05968"
+ },
+ {
+  "key": "U05969",
+  "note": "As U04385. Shared by 3 occurrences."
+ },
+ {
+  "key": "U05970",
+  "note": "As U05754. Kenmochi's gender unknown; no pronoun."
+ },
+ {
+  "key": "U05971",
+  "note": "As U05477."
+ },
+ {
+  "key": "U05972"
+ },
+ {
+  "key": "U05973"
+ },
+ {
+  "key": "U05974"
+ },
+ {
+  "key": "U05975",
+  "note": "As U05757. Shared by 3 occurrences."
+ },
+ {
+  "key": "U05976",
+  "note": "As U05758; the JP blank line kept as a page break. Shared by 3 occurrences."
+ },
+ {
+  "key": "U05977",
+  "note": "As U05759."
+ },
+ {
+  "key": "U05978",
+  "note": "As U05760. Shared by 2 occurrences."
+ },
+ {
+  "key": "U05979",
+  "note": "As U05761."
+ },
+ {
+  "key": "U05980",
+  "note": "As U05762."
+ },
+ {
+  "key": "U05981",
+  "note": "As U05489. Shared by 2 occurrences."
+ },
+ {
+  "key": "U05982",
+  "note": "As U05769. Shared by 3 occurrences."
+ },
+ {
+  "key": "U05983"
+ },
+ {
+  "key": "U05984"
+ },
+ {
+  "key": "U05985"
+ },
+ {
+  "key": "U05986"
+ },
+ {
+  "key": "U05987"
+ },
+ {
+  "key": "U05988"
+ },
+ {
+  "key": "U05989",
+  "en": "Read the writing on the paper.",
+  "note": "Subjectless past-tense caption, as U05946."
+ },
+ {
+  "key": "U05990",
+  "en": "Haji no shinrai. Put in order."
+ },
+ {
+  "key": "U05991"
+ },
+ {
+  "key": "U05992"
+ },
+ {
+  "key": "U05993"
+ },
+ {
+  "key": "U05994",
+  "en": "ha\nji\nno\nshi\nn\nra\ni"
+ },
+ {
+  "key": "U05995"
+ },
+ {
+  "key": "U05996"
+ },
+ {
+  "key": "U05997"
+ },
+ {
+  "key": "U05998"
+ },
+ {
+  "key": "U05999"
+ }
+]

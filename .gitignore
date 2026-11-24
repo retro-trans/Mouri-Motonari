@@ -1,0 +1,30 @@
+# Japanese source text and extracted game data (never commit, see AGENTS.md)
+work/source/
+work/translation/**/*.json
+!work/translation/**/*.en.json
+# review reports quote Japanese script lines
+work/translation/**/reports/
+# script dumps
+/017
+/all.txt
+
+# builds, emulator, captures, third-party binaries
+work/output/
+work/emulator/
+work/bin/
+work/ui/
+*.bin
+*.cue
+*.sav
+*.mcd
+*.iso
+*.chd
+*.xdelta
+
+# python
+__pycache__/
+*.pyc
+
+# outside files (box art, references) and release staging
+incoming/
+work/release/

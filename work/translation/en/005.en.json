@@ -1,0 +1,270 @@
+[
+ {
+  "key": "U00400"
+ },
+ {
+  "key": "U00401"
+ },
+ {
+  "key": "U00402"
+ },
+ {
+  "key": "U00403"
+ },
+ {
+  "key": "U00404"
+ },
+ {
+  "key": "U00405",
+  "en": "Talk to everyone, then go to the Living Quarters"
+ },
+ {
+  "key": "U00406",
+  "en": "Ogurayama Castle: Kikkawa Kunitsune's Residence",
+  "note": "Full form since 0.2.12 (caption box sized by text width, limit 288 px): family name and 'Residence' restored; 'Koriyama Castle' is the approved short form used by the other Koriyama captions. 240 px."
+ },
+ {
+  "key": "U00407"
+ },
+ {
+  "key": "U00408",
+  "note": "The maids are caught slacking (presumably by Motonari or their mistress); no one is named, so nothing added."
+ },
+ {
+  "key": "U00409"
+ },
+ {
+  "key": "U00410",
+  "en": "Ogurayama: House",
+  "note": "Shared caption (count 21). Matches 'Koriyama: House' (U00104)."
+ },
+ {
+  "key": "U00411"
+ },
+ {
+  "key": "U00412",
+  "note": "Kept the Japanese page break."
+ },
+ {
+  "key": "U00413"
+ },
+ {
+  "key": "U00414"
+ },
+ {
+  "key": "U00415",
+  "en": "Talk to Kikkawa Tsuneyo",
+  "note": "Limit 84 px; 'Talk to Kikkawa Tsuneyo' is 119 px, so the family name is dropped (78 px). 0.2.14: written in full, since the scene-goal box now fits the English text (the shortened form was for the 8 px per character box)."
+ },
+ {
+  "key": "U00416",
+  "note": "At Ogurayama: Fukubara and Shiji stay with Kunitsune while Motonari tours the castle alone (cf. U00423)."
+ },
+ {
+  "key": "U00417"
+ },
+ {
+  "key": "U00418"
+ },
+ {
+  "key": "U00419"
+ },
+ {
+  "key": "U00420"
+ },
+ {
+  "key": "U00421",
+  "en": "Talk to Fukubara Hirotoshi",
+  "note": "Shared label (count 5). Limit 84 px; 'Talk to Fukubara Hirotoshi' is 130 px, so the given name is dropped (83 px). 0.2.14: written in full, since the scene-goal box now fits the English text (the shortened form was for the 8 px per character box)."
+ },
+ {
+  "key": "U00422"
+ },
+ {
+  "key": "U00423"
+ },
+ {
+  "key": "U00424"
+ },
+ {
+  "key": "U00425"
+ },
+ {
+  "key": "U00426",
+  "en": "Amago Army HQ"
+ },
+ {
+  "key": "U00427"
+ },
+ {
+  "key": "U00428"
+ },
+ {
+  "key": "U00429"
+ },
+ {
+  "key": "U00430",
+  "note": "Answer to choosing not to march yet (after U00425)."
+ },
+ {
+  "key": "U00431"
+ },
+ {
+  "key": "U00432"
+ },
+ {
+  "key": "U00433"
+ },
+ {
+  "key": "U00434",
+  "note": "Trailing line kept unfinished (implied: he will be used by Saka's faction)."
+ },
+ {
+  "key": "U00435"
+ },
+ {
+  "key": "U00436",
+  "en": "Have him scout\nDon't scout",
+  "note": "Limit 72 px. 'Have him scout' (71 px) / 'Don't scout' (58 px); 'Don't send Seki' (75 px) does not fit. 'him' = Seki (male in characters.json)."
+ },
+ {
+  "key": "U00437"
+ },
+ {
+  "key": "U00438"
+ },
+ {
+  "key": "U00439",
+  "note": "After choosing 'Don't scout'."
+ },
+ {
+  "key": "U00440"
+ },
+ {
+  "key": "U00441"
+ },
+ {
+  "key": "U00442"
+ },
+ {
+  "key": "U00443"
+ },
+ {
+  "key": "U00444"
+ },
+ {
+  "key": "U00445"
+ },
+ {
+  "key": "U00446"
+ },
+ {
+  "key": "U00447"
+ },
+ {
+  "key": "U00448",
+  "note": "Same pleading voice as U00125/U00128."
+ },
+ {
+  "key": "U00449"
+ },
+ {
+  "key": "U00450"
+ },
+ {
+  "key": "U00451"
+ },
+ {
+  "key": "U00452"
+ },
+ {
+  "key": "U00453"
+ },
+ {
+  "key": "U00454"
+ },
+ {
+  "key": "U00455"
+ },
+ {
+  "key": "U00456",
+  "note": "One sentence across three Kunitsune sections; English cut at the matching points."
+ },
+ {
+  "key": "U00457"
+ },
+ {
+  "key": "U00458"
+ },
+ {
+  "key": "U00459"
+ },
+ {
+  "key": "U00460"
+ },
+ {
+  "key": "U00461"
+ },
+ {
+  "key": "U00462"
+ },
+ {
+  "key": "U00463"
+ },
+ {
+  "key": "U00464"
+ },
+ {
+  "key": "U00465",
+  "en": "Go to Ogurayama\nDon't go",
+  "note": "Limit 96 px; 'Don't go to Ogurayama' (over 96 px) shortened to 'Don't go' (41 px)."
+ },
+ {
+  "key": "U00466"
+ },
+ {
+  "key": "U00467",
+  "en": "Kunitsune's Castle: Ogurayama Castle"
+ },
+ {
+  "key": "U00468"
+ },
+ {
+  "key": "U00469"
+ },
+ {
+  "key": "U00470",
+  "note": "To his daughter Myo."
+ },
+ {
+  "key": "U00471"
+ },
+ {
+  "key": "U00472"
+ },
+ {
+  "key": "U00473",
+  "en": "Talk in the Living Quarters, then go to the Market",
+  "note": "Limit 144 px. 'After talking in the Living Quarters, go to the Market' does not fit; abbreviated as in U00405 (141 px). The verb 'go' is implied by 'then'; 'Talk in Qtrs., go to Market' (128 px) keeps it but is less consistent. 0.2.14: written in full, since the scene-goal box now fits the English text (the shortened form was for the 8 px per character box)."
+ },
+ {
+  "key": "U00474"
+ },
+ {
+  "key": "U00475",
+  "note": "Refers to the Amago's order to attack Kagamiyama (U00365-U00366)."
+ },
+ {
+  "key": "U00476"
+ },
+ {
+  "key": "U00477"
+ },
+ {
+  "key": "U00478",
+  "note": "Child's sex not yet known, so no pronoun."
+ },
+ {
+  "key": "U00479"
+ }
+]

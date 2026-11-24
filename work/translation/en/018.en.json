@@ -1,0 +1,282 @@
+[
+ {
+  "key": "U01440",
+  "en": "Konomine Castle: Castle Interior",
+  "note": "Glossary castle + caption 'Castle Interior' (32 chars). Shared by 2 occurrences. Takamoto is the Ouchi's hostage at Yamaguchi here."
+ },
+ {
+  "key": "U01441"
+ },
+ {
+  "key": "U01442"
+ },
+ {
+  "key": "U01443",
+  "note": "Maid apologising to Motonari for letting Jiro (male, characters.json) burst in."
+ },
+ {
+  "key": "U01444",
+  "en": "Talk to Sho no Jiro",
+  "note": "Menu entry; limit 84 px. 'Talk to Sho no Jiro' is 90 px, so 'See' as in the pilot's 'See Lady Sugi' (73 px). 0.2.14: written in full, since the scene-goal box now fits the English text (the shortened form was for the 8 px per character box)."
+ },
+ {
+  "key": "U01445"
+ },
+ {
+  "key": "U01446",
+  "en": "Ready\nNot ready"
+ },
+ {
+  "key": "U01447"
+ },
+ {
+  "key": "U01448"
+ },
+ {
+  "key": "U01449"
+ },
+ {
+  "key": "U01450"
+ },
+ {
+  "key": "U01451"
+ },
+ {
+  "key": "U01452"
+ },
+ {
+  "key": "U01453"
+ },
+ {
+  "key": "U01454"
+ },
+ {
+  "key": "U01455"
+ },
+ {
+  "key": "U01456"
+ },
+ {
+  "key": "U01457",
+  "note": "Direction: Naritada asks Motonari to deploy him next to Jiro."
+ },
+ {
+  "key": "U01458"
+ },
+ {
+  "key": "U01459"
+ },
+ {
+  "key": "U01460"
+ },
+ {
+  "key": "U01461"
+ },
+ {
+  "key": "U01462"
+ },
+ {
+  "key": "U01463"
+ },
+ {
+  "key": "U01464"
+ },
+ {
+  "key": "U01465"
+ },
+ {
+  "key": "U01466"
+ },
+ {
+  "key": "U01467"
+ },
+ {
+  "key": "U01468",
+  "en": "Shishido Takaie's Attack rose by 5.",
+  "note": "Pattern 'Attack rose by 5.' (U00372) with the name added; 35 chars."
+ },
+ {
+  "key": "U01469",
+  "en": "Shishido Takaie's Defense rose by 5.",
+  "note": "36 chars."
+ },
+ {
+  "key": "U01470",
+  "en": "Takaie's Intellect rose by 5.",
+  "note": "'Shishido Takaie's Intellect rose by 5.' is 38 chars (limit 36); family name dropped (Takaie is unique)."
+ },
+ {
+  "key": "U01471",
+  "en": "Takaie's Accuracy rose by 5.",
+  "note": "'Shishido Takaie's Accuracy rose by 5.' is 37 chars (limit 36); family name dropped as in U01470."
+ },
+ {
+  "key": "U01472",
+  "en": "Shishido Takaie's Speed rose by 5.",
+  "note": "34 chars."
+ },
+ {
+  "key": "U01473"
+ },
+ {
+  "key": "U01474",
+  "note": "Japanese page break mid-sentence is padding; kept a break at the same point as it falls naturally. 'They' = the Ouchi."
+ },
+ {
+  "key": "U01475",
+  "note": "Okata is née Kikkawa (characters.json), hence her dismay."
+ },
+ {
+  "key": "U01476"
+ },
+ {
+  "key": "U01477"
+ },
+ {
+  "key": "U01478"
+ },
+ {
+  "key": "U01479"
+ },
+ {
+  "key": "U01480",
+  "note": "'Father' added: Jiro thanks Motonari after permission (cf. U01485)."
+ },
+ {
+  "key": "U01481"
+ },
+ {
+  "key": "U01482"
+ },
+ {
+  "key": "U01483",
+  "en": "Talk to Kuchiba Michiyoshi and Kodama Naritada",
+  "note": "Menu entry; limit 144 px. Family names alone are ambiguous (two Kodamas), and 'Talk to Kuchiba Michiyoshi and Kodama Naritada' does not fit; given names with 'See' (133 px). Alt 'Talk to Kuchiba and Naritada' (140). 0.2.14: written in full, since the scene-goal box now fits the English text (the shortened form was for the 8 px per character box)."
+ },
+ {
+  "key": "U01484",
+  "en": "Allow him to go\nForbid it"
+ },
+ {
+  "key": "U01485"
+ },
+ {
+  "key": "U01486",
+  "en": "Sho no Jiro's Attack rose by 5.",
+  "note": "Pattern as U00372; 31 chars."
+ },
+ {
+  "key": "U01487"
+ },
+ {
+  "key": "U01488"
+ },
+ {
+  "key": "U01489"
+ },
+ {
+  "key": "U01490"
+ },
+ {
+  "key": "U01491"
+ },
+ {
+  "key": "U01492"
+ },
+ {
+  "key": "U01493"
+ },
+ {
+  "key": "U01494"
+ },
+ {
+  "key": "U01495"
+ },
+ {
+  "key": "U01496",
+  "note": "Matches U00795 wording. Shared by 7 occurrences."
+ },
+ {
+  "key": "U01497",
+  "note": "Matches U00178 wording. Shared by 7 occurrences."
+ },
+ {
+  "key": "U01498",
+  "note": "Same Japanese (line breaks only differ) as U00980 (012); same wording."
+ },
+ {
+  "key": "U01499",
+  "note": "Context: Seki Yoshinobu repaying the 500 gold loan (U00515); Motonari accepts. Wording aligned with U00985 (same Japanese). Shared by 4 occurrences."
+ },
+ {
+  "key": "U01500",
+  "note": "Wording aligned with U00987 (same Japanese)."
+ },
+ {
+  "key": "U01501",
+  "note": "Same Japanese (line breaks only differ) as U00988 (012); same wording. Shared by 2 occurrences."
+ },
+ {
+  "key": "U01502",
+  "note": "Same Japanese (line breaks only differ) as U00989 (012); same wording."
+ },
+ {
+  "key": "U01503",
+  "note": "Same Japanese (line breaks only differ) as U00992 (012); same wording."
+ },
+ {
+  "key": "U01504"
+ },
+ {
+  "key": "U01505",
+  "note": "Shared by 5 occurrences."
+ },
+ {
+  "key": "U01506"
+ },
+ {
+  "key": "U01507"
+ },
+ {
+  "key": "U01508",
+  "note": "Japanese differs from U01010 (012) only in line breaks; same wording; long ………… kept as '......'."
+ },
+ {
+  "key": "U01509",
+  "note": "Same wording as U00794 (009)."
+ },
+ {
+  "key": "U01510",
+  "note": "Same Japanese (line breaks only differ) as U01014 (012); same wording. Shared by 3 occurrences."
+ },
+ {
+  "key": "U01511",
+  "note": "Same Japanese (line breaks only differ) as U01016 (012); same wording."
+ },
+ {
+  "key": "U01512",
+  "note": "Same Japanese (line breaks only differ) as U01017 (012); same wording. Shared by 3 occurrences."
+ },
+ {
+  "key": "U01513"
+ },
+ {
+  "key": "U01514",
+  "note": "Same Japanese (line breaks only differ) as U01021 (012); same wording. Shared by 2 occurrences."
+ },
+ {
+  "key": "U01515"
+ },
+ {
+  "key": "U01516"
+ },
+ {
+  "key": "U01517"
+ },
+ {
+  "key": "U01518"
+ },
+ {
+  "key": "U01519"
+ }
+]

@@ -1,0 +1,326 @@
+[
+ {
+  "key": "D0321",
+  "en": "Koga Sec."
+ },
+ {
+  "key": "D0322",
+  "en": "Iga Sec."
+ },
+ {
+  "key": "D0323",
+  "en": "Koga Ult."
+ },
+ {
+  "key": "D0324",
+  "en": "Iga Ult."
+ },
+ {
+  "key": "D0325",
+  "en": "Life of Yoichi"
+ },
+ {
+  "key": "D0326",
+  "en": "Life of Yoshiie",
+  "note": "Glossary short of 'Life of Minamoto no Yoshiie' (72 px menu)."
+ },
+ {
+  "key": "D0327",
+  "en": "Bamboo"
+ },
+ {
+  "key": "D0328",
+  "en": "3-Yr Bamboo"
+ },
+ {
+  "key": "D0329",
+  "en": "4-Yr Bamboo"
+ },
+ {
+  "key": "D0330",
+  "en": "Green Bamboo"
+ },
+ {
+  "key": "D0331",
+  "en": "Bamboo Strips"
+ },
+ {
+  "key": "D0332",
+  "en": "Rattan"
+ },
+ {
+  "key": "D0333",
+  "en": "Haze Wood"
+ },
+ {
+  "key": "D0334",
+  "en": "Hinoki Cypress"
+ },
+ {
+  "key": "D0335",
+  "en": "Oak"
+ },
+ {
+  "key": "D0336",
+  "en": "Bound Shaft"
+ },
+ {
+  "key": "D0337",
+  "en": "Peach Oak",
+  "note": "Glossary short of 'Peach-Carved Oak' (full form 84 px)."
+ },
+ {
+  "key": "D0338",
+  "en": "Carved Oak",
+  "note": "Glossary short of 'Carved-Out Oak' (full form 77 px)."
+ },
+ {
+  "key": "D0339",
+  "en": "Hollow Shaft"
+ },
+ {
+  "key": "D0340",
+  "en": "Hard Shaft"
+ },
+ {
+  "key": "D0341",
+  "en": "Lacquer"
+ },
+ {
+  "key": "D0342",
+  "en": "Black Lacquer"
+ },
+ {
+  "key": "D0343",
+  "en": "Red Lacquer"
+ },
+ {
+  "key": "D0344",
+  "en": "Silver Plating"
+ },
+ {
+  "key": "D0345",
+  "en": "Gold Plating"
+ },
+ {
+  "key": "D0346",
+  "en": "Silk Thread",
+  "note": "Script U00386 'silk thread'."
+ },
+ {
+  "key": "D0347",
+  "en": "Red Thread"
+ },
+ {
+  "key": "D0348",
+  "en": "Black Thread"
+ },
+ {
+  "key": "D0349",
+  "en": "Single Bracer"
+ },
+ {
+  "key": "D0350",
+  "en": "Twin Bracers"
+ },
+ {
+  "key": "D0351",
+  "en": "Splint Bracers"
+ },
+ {
+  "key": "D0352",
+  "en": "Shinguards"
+ },
+ {
+  "key": "D0353",
+  "en": "Thigh Guards"
+ },
+ {
+  "key": "D0354",
+  "en": "Tall Shinguards"
+ },
+ {
+  "key": "D0355",
+  "en": "Ridge Helm"
+ },
+ {
+  "key": "D0356",
+  "en": "Gilt Ridge Helm"
+ },
+ {
+  "key": "D0357",
+  "en": "Antler Helm"
+ },
+ {
+  "key": "D0358",
+  "en": "Peach Helm"
+ },
+ {
+  "key": "D0359",
+  "en": "Eboshi Helm"
+ },
+ {
+  "key": "D0360",
+  "en": "Fudo Helm"
+ },
+ {
+  "key": "D0361",
+  "en": "Fur Bull Helm"
+ },
+ {
+  "key": "D0362",
+  "en": "White Lacing"
+ },
+ {
+  "key": "D0363",
+  "en": "Red Lacing"
+ },
+ {
+  "key": "D0364",
+  "en": "Black Lacing"
+ },
+ {
+  "key": "D0365",
+  "en": "Eucommia"
+ },
+ {
+  "key": "D0366",
+  "en": "Red Ginseng"
+ },
+ {
+  "key": "D0367",
+  "en": "Goji Berries"
+ },
+ {
+  "key": "D0368",
+  "en": "Rice"
+ },
+ {
+  "key": "D0369",
+  "en": "Korea Ginseng"
+ },
+ {
+  "key": "D0370",
+  "en": "Jujube"
+ },
+ {
+  "key": "D0371",
+  "en": "Balloon Flower"
+ },
+ {
+  "key": "D0372",
+  "en": "Cordyceps"
+ },
+ {
+  "key": "D0373",
+  "en": "Mountain Yam"
+ },
+ {
+  "key": "D0374",
+  "en": "Licorice"
+ },
+ {
+  "key": "D0375",
+  "en": "Lilyturf Root"
+ },
+ {
+  "key": "D0376",
+  "en": "Longan"
+ },
+ {
+  "key": "D0377",
+  "en": "Fleeceflower"
+ },
+ {
+  "key": "D0378",
+  "en": "Pine Nuts"
+ },
+ {
+  "key": "D0379",
+  "en": "Rehmannia"
+ },
+ {
+  "key": "D0380",
+  "en": "Schisandra"
+ },
+ {
+  "key": "D0381",
+  "en": "Angelica Root"
+ },
+ {
+  "key": "D0382",
+  "en": "Dried Viper"
+ },
+ {
+  "key": "D0383",
+  "en": "Polygala Root"
+ },
+ {
+  "key": "D0384",
+  "en": "Antler Velvet"
+ },
+ {
+  "key": "D0385",
+  "en": "Tiger Stomach"
+ },
+ {
+  "key": "D0386",
+  "en": "Fish Mint"
+ },
+ {
+  "key": "D0387",
+  "en": "Lizard"
+ },
+ {
+  "key": "D0388",
+  "en": "Newt"
+ },
+ {
+  "key": "D0389",
+  "en": "Snake"
+ },
+ {
+  "key": "D0390",
+  "en": "Solomon's Seal"
+ },
+ {
+  "key": "D0391",
+  "en": "Ox Bezoar"
+ },
+ {
+  "key": "D0392",
+  "en": "Astragalus"
+ },
+ {
+  "key": "D0393",
+  "en": "Fine Charcoal"
+ },
+ {
+  "key": "D0394",
+  "en": "Prime Charcoal"
+ },
+ {
+  "key": "D0395",
+  "en": "Frost Hone"
+ },
+ {
+  "key": "D0396",
+  "en": "Mirror Hone"
+ },
+ {
+  "key": "D0397",
+  "en": "Leather Tube"
+ },
+ {
+  "key": "D0398",
+  "en": "Copper Tube"
+ },
+ {
+  "key": "D0399",
+  "en": "Iron Tube"
+ },
+ {
+  "key": "D0400",
+  "en": "Tanned Hide"
+ }
+]

@@ -1,0 +1,274 @@
+[
+ {
+  "key": "U02080",
+  "en": "Recovered the money from the bandit."
+ },
+ {
+  "key": "U02081"
+ },
+ {
+  "key": "U02082",
+  "en": "Pay\nRefuse"
+ },
+ {
+  "key": "U02083",
+  "en": "Not enough gold.",
+  "note": "Generic message (24 occurrences); first seen here, after the 'Pay' choice (U02082) when funds are short."
+ },
+ {
+  "key": "U02084"
+ },
+ {
+  "key": "U02085"
+ },
+ {
+  "key": "U02086",
+  "en": "Gave the bandit 1000 gold.",
+  "note": "Pattern of U00515 'Gave Seki Yoshinobu 500 gold.'"
+ },
+ {
+  "key": "U02087"
+ },
+ {
+  "key": "U02088"
+ },
+ {
+  "key": "U02089"
+ },
+ {
+  "key": "U02090"
+ },
+ {
+  "key": "U02091"
+ },
+ {
+  "key": "U02092"
+ },
+ {
+  "key": "U02093",
+  "note": "Leads into U02079/U02080 (Motonari catches the bandit and recovers the money)."
+ },
+ {
+  "key": "U02094"
+ },
+ {
+  "key": "U02095"
+ },
+ {
+  "key": "U02096"
+ },
+ {
+  "key": "U02097",
+  "en": "Interception in Bingo\nVictory Conditions\n  1. Defeat all enemies\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 50 turns pass\n  4. Murakami's fort is captured\n  5. Miyoshi's castle is captured"
+ },
+ {
+  "key": "U02098"
+ },
+ {
+  "key": "U02099",
+  "en": "Interception in Bingo\n\nVictory Conditions\n  1. Defeat all enemies\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 50 turns pass\n  4. Murakami's fort is captured\n  5. Miyoshi's castle is captured",
+  "note": "Same as U02097, with the blank line kept."
+ },
+ {
+  "key": "U02100",
+  "en": "Amago Kunihisa's army arrived.",
+  "note": "Pattern of U01135 'Sue Okifusa's army has arrived.'"
+ },
+ {
+  "key": "U02101"
+ },
+ {
+  "key": "U02102"
+ },
+ {
+  "key": "U02103",
+  "en": "Kamei Hidetsuna's army arrived."
+ },
+ {
+  "key": "U02104"
+ },
+ {
+  "key": "U02105"
+ },
+ {
+  "key": "U02106"
+ },
+ {
+  "key": "U02107"
+ },
+ {
+  "key": "U02108"
+ },
+ {
+  "key": "U02109"
+ },
+ {
+  "key": "U02110"
+ },
+ {
+  "key": "U02111"
+ },
+ {
+  "key": "U02112"
+ },
+ {
+  "key": "U02113"
+ },
+ {
+  "key": "U02114",
+  "en": "Shrine"
+ },
+ {
+  "key": "U02115",
+  "en": "&\nThere's a shrine! We'll pray here for our victory!\n\n......\n\n...Hm? What's this? A scrap of paper? There's something written on it!",
+  "note": "Speaker line is a bare '&' (no portrait); copied as is. Speaker unknown (a Mouri unit commander), so no name added. 'We' = the Mouri side praying for victory."
+ },
+ {
+  "key": "U02116",
+  "en": "\"Four paces south of this spot\nI have buried my treasure.\""
+ },
+ {
+  "key": "U02117"
+ },
+ {
+  "key": "U02118"
+ },
+ {
+  "key": "U02119"
+ },
+ {
+  "key": "U02120"
+ },
+ {
+  "key": "U02121"
+ },
+ {
+  "key": "U02122",
+  "note": "Same text as U02104 (only the Japanese line breaks differ); identical English."
+ },
+ {
+  "key": "U02123"
+ },
+ {
+  "key": "U02124"
+ },
+ {
+  "key": "U02125"
+ },
+ {
+  "key": "U02126"
+ },
+ {
+  "key": "U02127"
+ },
+ {
+  "key": "U02128"
+ },
+ {
+  "key": "U02129",
+  "en": "Miyoshi Takasuke joined your army.",
+  "note": "Glossary battle_ui pattern 'X joined your army.' with period (U02131 is the documented 36-char exception without one)."
+ },
+ {
+  "key": "U02130"
+ },
+ {
+  "key": "U02131",
+  "en": "Murakami Yoshimitsu joined your army",
+  "note": "Glossary pattern; with a final period it is 37 chars (limit 36), so the period is dropped (as in U00694). Shared by 2 occurrences."
+ },
+ {
+  "key": "U02132"
+ },
+ {
+  "key": "U02133",
+  "note": "Bare '&' speaker = an unnamed enemy soldier; copied as is."
+ },
+ {
+  "key": "U02134",
+  "en": "Miyoshi's castle has been taken."
+ },
+ {
+  "key": "U02135"
+ },
+ {
+  "key": "U02136",
+  "en": "Murakami's fort has been taken."
+ },
+ {
+  "key": "U02137",
+  "note": "Shared by 6 occurrences (generic HQ-lost line)."
+ },
+ {
+  "key": "U02138"
+ },
+ {
+  "key": "U02139",
+  "en": "Ep. 9: Lesson of the Three Arrows",
+  "note": "Glossary 'Episode 9: Lesson of the Three Arrows' is 37 chars, title limit 36. Kept the glossary wording, prefix shortened to 'Ep. 9:' (33). Alt: 'Episode 9: The Three Arrows' Lesson' (35). Shared by 2 occurrences."
+ },
+ {
+  "key": "U02140",
+  "en": "Okitsune's Castle: Ogurayama Castle"
+ },
+ {
+  "key": "U02141"
+ },
+ {
+  "key": "U02142"
+ },
+ {
+  "key": "U02143"
+ },
+ {
+  "key": "U02144"
+ },
+ {
+  "key": "U02145"
+ },
+ {
+  "key": "U02146"
+ },
+ {
+  "key": "U02147"
+ },
+ {
+  "key": "U02148"
+ },
+ {
+  "key": "U02149"
+ },
+ {
+  "key": "U02150"
+ },
+ {
+  "key": "U02151"
+ },
+ {
+  "key": "U02152"
+ },
+ {
+  "key": "U02153"
+ },
+ {
+  "key": "U02154"
+ },
+ {
+  "key": "U02155",
+  "en": "On November 30, 1545,\nOkata, Motonari's wife, with her\nbeloved husband and three\nchildren at her side, quietly\npassed away. She was 47."
+ },
+ {
+  "key": "U02156"
+ },
+ {
+  "key": "U02157",
+  "note": "Tsuneyo attends the funeral; 'you' = Motonari. Leads to U02164."
+ },
+ {
+  "key": "U02158"
+ },
+ {
+  "key": "U02159",
+  "note": "Jiro speaks to his younger brother Tokujumaru, who lingers at the grave."
+ }
+]

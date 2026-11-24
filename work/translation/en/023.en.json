@@ -1,0 +1,283 @@
+[
+ {
+  "key": "U01840",
+  "note": "Shared by 5 occurrences (stages of the shogi match)."
+ },
+ {
+  "key": "U01841"
+ },
+ {
+  "key": "U01842",
+  "note": "Shared by 4 occurrences."
+ },
+ {
+  "key": "U01843"
+ },
+ {
+  "key": "U01844",
+  "note": "Shared by 5 occurrences."
+ },
+ {
+  "key": "U01845",
+  "note": "Shared by 4 occurrences."
+ },
+ {
+  "key": "U01846",
+  "note": "Shared by 4 occurrences."
+ },
+ {
+  "key": "U01847",
+  "note": "Shared by 5 occurrences."
+ },
+ {
+  "key": "U01848",
+  "note": "Shared by 5 occurrences."
+ },
+ {
+  "key": "U01849"
+ },
+ {
+  "key": "U01850",
+  "en": "Lost the shogi match.",
+  "note": "Mirrors 'Won the shogi match.' (U01833). Shared by 5 occurrences."
+ },
+ {
+  "key": "U01851"
+ },
+ {
+  "key": "U01852"
+ },
+ {
+  "key": "U01853"
+ },
+ {
+  "key": "U01854"
+ },
+ {
+  "key": "U01855",
+  "en": "Retreat from Izumo\nVictory Conditions\n  1. Mouri Motonari reaches the\n      southeast point\nDefeat Conditions\n  1. Mouri Motonari is destroyed\n  2. More than 40 turns pass",
+  "note": "Battle name and conditions from terms.json ('Retreat from Izumo', 'X reaches the southeast point', 'X is destroyed', 'More than 40 turns pass'). Line 4 indented with 6 spaces (3 full-width spaces)."
+ },
+ {
+  "key": "U01856"
+ },
+ {
+  "key": "U01857",
+  "en": "Retreat from Izumo\n\nVictory Conditions\n  1. Mouri Motonari reaches the\n      southeast point\nDefeat Conditions\n  1. Mouri Motonari is destroyed\n  2. More than 40 turns pass",
+  "note": "Same as U01855 with the Japanese blank line after the battle name."
+ },
+ {
+  "key": "U01858"
+ },
+ {
+  "key": "U01859"
+ },
+ {
+  "key": "U01860"
+ },
+ {
+  "key": "U01861"
+ },
+ {
+  "key": "U01862"
+ },
+ {
+  "key": "U01863"
+ },
+ {
+  "key": "U01864"
+ },
+ {
+  "key": "U01865",
+  "en": "Endurance rose by 100."
+ },
+ {
+  "key": "U01866"
+ },
+ {
+  "key": "U01867"
+ },
+ {
+  "key": "U01868"
+ },
+ {
+  "key": "U01869",
+  "en": "Kunitomi Ryuzo joined your army.",
+  "note": "Glossary pattern 'X joined your army' with a period (U00866). Shared by 11 occurrences."
+ },
+ {
+  "key": "U01870",
+  "note": "Okitsune switched from the Ouchi back to the Amago (U01710). His retort points at Motonari's own earlier change of sides; no explanation added."
+ },
+ {
+  "key": "U01871"
+ },
+ {
+  "key": "U01872"
+ },
+ {
+  "key": "U01873"
+ },
+ {
+  "key": "U01874"
+ },
+ {
+  "key": "U01875",
+  "note": "Same scene as U01873 without the opening 'Huh!?'; English kept identical."
+ },
+ {
+  "key": "U01876",
+  "note": "Same as U01874 (Bandit 2)."
+ },
+ {
+  "key": "U01877",
+  "note": "Same as U01875 (the Japanese differs only in a line break). Shared by 8 occurrences."
+ },
+ {
+  "key": "U01878",
+  "note": "Same as U01874 (Bandit 3)."
+ },
+ {
+  "key": "U01879",
+  "note": "Same as U01874 (Bandit 4)."
+ },
+ {
+  "key": "U01880",
+  "note": "Same as U01874 (Bandit 5)."
+ },
+ {
+  "key": "U01881",
+  "note": "Same as U01874 (Bandit 6)."
+ },
+ {
+  "key": "U01882",
+  "note": "Same as U01874 (Bandit 7)."
+ },
+ {
+  "key": "U01883",
+  "note": "Same as U01874 (Bandit 8)."
+ },
+ {
+  "key": "U01884",
+  "note": "Same as U01874 (Bandit 9)."
+ },
+ {
+  "key": "U01885"
+ },
+ {
+  "key": "U01886",
+  "en": "Amago Kunihisa's army appeared.",
+  "note": "Pattern of 'Shishido Motoyoshi's army appeared.' (U00338)."
+ },
+ {
+  "key": "U01887"
+ },
+ {
+  "key": "U01888",
+  "en": "Enemy reinforcements appeared."
+ },
+ {
+  "key": "U01889"
+ },
+ {
+  "key": "U01890"
+ },
+ {
+  "key": "U01891"
+ },
+ {
+  "key": "U01892"
+ },
+ {
+  "key": "U01893"
+ },
+ {
+  "key": "U01894"
+ },
+ {
+  "key": "U01895"
+ },
+ {
+  "key": "U01896",
+  "note": "First section has an empty speaker line '&' in the Japanese; copied as is. Whoever speaks it is unseen (probably a Mouri soldier). Ejiri's gender is unknown (characters.json); no pronoun used. Japanese blank line treated as padding."
+ },
+ {
+  "key": "U01897"
+ },
+ {
+  "key": "U01898"
+ },
+ {
+  "key": "U01899"
+ },
+ {
+  "key": "U01900",
+  "en": "Got 400 gold.",
+  "note": "Pattern 'Got 100 gold.' (U00271). Shared by 4 occurrences."
+ },
+ {
+  "key": "U01901"
+ },
+ {
+  "key": "U01902",
+  "en": "Mountains near Koriyama"
+ },
+ {
+  "key": "U01903"
+ },
+ {
+  "key": "U01904",
+  "en": "Motonari's party barely escaped\ntheir plight and cheated death.\nOuchi Yoshitaka also got away, and\nhis army was spared the worst.\n\n\nBut this crushing defeat let the\nAmago regain their strength, and\nthe two great powers, Ouchi and\nAmago, were deadlocked once more.\n\n\nAnd so the seasons turned. Spring."
+ },
+ {
+  "key": "U01905",
+  "en": "Episode 8: A Million Hearts as One",
+  "note": "terms.json, written in full (34 characters). Shared by 2 occurrences."
+ },
+ {
+  "key": "U01906"
+ },
+ {
+  "key": "U01907",
+  "en": "Yamanaka Mitsuyuki's House"
+ },
+ {
+  "key": "U01908",
+  "note": "Japanese blank line in the mother's sentence treated as padding."
+ },
+ {
+  "key": "U01909"
+ },
+ {
+  "key": "U01910"
+ },
+ {
+  "key": "U01911",
+  "en": "Meadow near Konomine Castle"
+ },
+ {
+  "key": "U01912"
+ },
+ {
+  "key": "U01913"
+ },
+ {
+  "key": "U01914",
+  "note": "Japanese blank line mid-sentence treated as padding."
+ },
+ {
+  "key": "U01915"
+ },
+ {
+  "key": "U01916"
+ },
+ {
+  "key": "U01917"
+ },
+ {
+  "key": "U01918"
+ },
+ {
+  "key": "U01919"
+ }
+]

@@ -1,0 +1,268 @@
+[
+ {
+  "key": "U01280",
+  "en": "Talk to Okata",
+  "note": "Scene menu entry; limit 72 px, 'Talk to Okata' is 68 px. Earlier menus used 'See Okata (Quarters)' only where 'Talk to' did not fit."
+ },
+ {
+  "key": "U01281"
+ },
+ {
+  "key": "U01282"
+ },
+ {
+  "key": "U01283"
+ },
+ {
+  "key": "U01284"
+ },
+ {
+  "key": "U01285"
+ },
+ {
+  "key": "U01286",
+  "note": "Long silence (……… x many); two ellipses as in the pilot."
+ },
+ {
+  "key": "U01287"
+ },
+ {
+  "key": "U01288",
+  "note": "Numata's gender is unknown; no he/she. Edit: restructured as one clause so the name is not repeated (was 'but I hear Hachibei is...', cf. U00829)."
+ },
+ {
+  "key": "U01289"
+ },
+ {
+  "key": "U01290"
+ },
+ {
+  "key": "U01291"
+ },
+ {
+  "key": "U01292"
+ },
+ {
+  "key": "U01293"
+ },
+ {
+  "key": "U01294"
+ },
+ {
+  "key": "U01295"
+ },
+ {
+  "key": "U01296"
+ },
+ {
+  "key": "U01297"
+ },
+ {
+  "key": "U01298"
+ },
+ {
+  "key": "U01299"
+ },
+ {
+  "key": "U01300"
+ },
+ {
+  "key": "U01301"
+ },
+ {
+  "key": "U01302",
+  "en": "The apothecary gave the girl a dose",
+  "note": "Caption, 35 chars (limit 36). 'The apothecary gave the girl medicine' is 37. No final period, as in U00574."
+ },
+ {
+  "key": "U01303"
+ },
+ {
+  "key": "U01304"
+ },
+ {
+  "key": "U01305"
+ },
+ {
+  "key": "U01306"
+ },
+ {
+  "key": "U01307"
+ },
+ {
+  "key": "U01308"
+ },
+ {
+  "key": "U01309"
+ },
+ {
+  "key": "U01310"
+ },
+ {
+  "key": "U01311"
+ },
+ {
+  "key": "U01312"
+ },
+ {
+  "key": "U01313"
+ },
+ {
+  "key": "U01314"
+ },
+ {
+  "key": "U01315"
+ },
+ {
+  "key": "U01316",
+  "note": "Same fix as U01314."
+ },
+ {
+  "key": "U01317"
+ },
+ {
+  "key": "U01318"
+ },
+ {
+  "key": "U01319"
+ },
+ {
+  "key": "U01320",
+  "en": "Def. Restor.\nInt. Restor."
+ },
+ {
+  "key": "U01321",
+  "note": "Said before the new maid (Maid 5) is unmasked as a kunoichi."
+ },
+ {
+  "key": "U01322"
+ },
+ {
+  "key": "U01323"
+ },
+ {
+  "key": "U01324"
+ },
+ {
+  "key": "U01325",
+  "note": "Page break before the trailing '...It'll be lonely' kept as a beat (follows the Japanese ……)."
+ },
+ {
+  "key": "U01326",
+  "note": "Japanese blank line kept as a beat."
+ },
+ {
+  "key": "U01327"
+ },
+ {
+  "key": "U01328"
+ },
+ {
+  "key": "U01329"
+ },
+ {
+  "key": "U01330",
+  "note": "Maid 5 is the new maid later unmasked as a kunoichi (U01220-U01226)."
+ },
+ {
+  "key": "U01331"
+ },
+ {
+  "key": "U01332"
+ },
+ {
+  "key": "U01333"
+ },
+ {
+  "key": "U01334",
+  "en": "Play\nPass",
+  "note": "Limit 48 px; 'Don't play' is 49 px. 'Play' / 'Pass' (20 / 24 px). Shared by 4 occurrences; the other three contexts were not located, so check that 'Play/Pass' suits them (alt: 'Do it' / 'Don't')."
+ },
+ {
+  "key": "U01335"
+ },
+ {
+  "key": "U01336"
+ },
+ {
+  "key": "U01337"
+ },
+ {
+  "key": "U01338",
+  "en": "Red box\nWhite box\nActually, no",
+  "note": "Limit 84 px; 38 / 45 / 55 px."
+ },
+ {
+  "key": "U01339",
+  "note": "Shared by 2 occurrences (red and white box branches). Page break after the reveal kept as a beat."
+ },
+ {
+  "key": "U01340",
+  "en": "Paid 100 gold.",
+  "note": "Caption; same form as 'Paid 10000 gold.' (U00547). Shared by 5 occurrences."
+ },
+ {
+  "key": "U01341",
+  "note": "Shared by 2 occurrences."
+ },
+ {
+  "key": "U01342"
+ },
+ {
+  "key": "U01343"
+ },
+ {
+  "key": "U01344",
+  "en": "Listen\nSkip"
+ },
+ {
+  "key": "U01345"
+ },
+ {
+  "key": "U01346"
+ },
+ {
+  "key": "U01347",
+  "en": "Lord\nSpearman\nArcher\nCavalry\nM. Archer\nRifleman\nCannonr.\nSwordsm.\nCancel"
+ },
+ {
+  "key": "U01348"
+ },
+ {
+  "key": "U01349"
+ },
+ {
+  "key": "U01350"
+ },
+ {
+  "key": "U01351"
+ },
+ {
+  "key": "U01352",
+  "note": "Japanese blank line after the first sentence treated as page padding (mid-description, no beat)."
+ },
+ {
+  "key": "U01353"
+ },
+ {
+  "key": "U01354"
+ },
+ {
+  "key": "U01355"
+ },
+ {
+  "key": "U01356"
+ },
+ {
+  "key": "U01357",
+  "note": "Same Japanese as U01343, same English."
+ },
+ {
+  "key": "U01358",
+  "note": "Same Japanese as U01345, same English."
+ },
+ {
+  "key": "U01359",
+  "note": "Same Japanese as U01346, same English."
+ }
+]

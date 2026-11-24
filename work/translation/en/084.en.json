@@ -1,0 +1,259 @@
+[
+ {
+  "key": "U06720"
+ },
+ {
+  "key": "U06721"
+ },
+ {
+  "key": "U06722"
+ },
+ {
+  "key": "U06723"
+ },
+ {
+  "key": "U06724"
+ },
+ {
+  "key": "U06725"
+ },
+ {
+  "key": "U06726"
+ },
+ {
+  "key": "U06727"
+ },
+ {
+  "key": "U06728"
+ },
+ {
+  "key": "U06729"
+ },
+ {
+  "key": "U06730"
+ },
+ {
+  "key": "U06731"
+ },
+ {
+  "key": "U06732"
+ },
+ {
+  "key": "U06733"
+ },
+ {
+  "key": "U06734"
+ },
+ {
+  "key": "U06735"
+ },
+ {
+  "key": "U06736"
+ },
+ {
+  "key": "U06737"
+ },
+ {
+  "key": "U06738"
+ },
+ {
+  "key": "U06739"
+ },
+ {
+  "key": "U06740"
+ },
+ {
+  "key": "U06741"
+ },
+ {
+  "key": "U06742"
+ },
+ {
+  "key": "U06743"
+ },
+ {
+  "key": "U06744"
+ },
+ {
+  "key": "U06745"
+ },
+ {
+  "key": "U06746"
+ },
+ {
+  "key": "U06747"
+ },
+ {
+  "key": "U06748"
+ },
+ {
+  "key": "U06749"
+ },
+ {
+  "key": "U06750"
+ },
+ {
+  "key": "U06751",
+  "en": "Battle of Azuchi Castle\nVictory Conditions\n  1. Make Akechi Mitsuhide retreat\nDefeat Conditions\n  1. Mouri Terumoto retreats\n  2. Mouri HQ is captured\n  3. More than 90 turns pass"
+ },
+ {
+  "key": "U06752"
+ },
+ {
+  "key": "U06753",
+  "en": "Battle of Azuchi Castle\n\nVictory Conditions\n  1. Make Akechi Mitsuhide retreat\nDefeat Conditions\n  1. Mouri Terumoto retreats\n  2. Mouri HQ is captured\n  3. More than 90 turns pass"
+ },
+ {
+  "key": "U06754"
+ },
+ {
+  "key": "U06755"
+ },
+ {
+  "key": "U06756"
+ },
+ {
+  "key": "U06757",
+  "en": "&\nThere's a shrine here! Grant us victory!\n\nHm? What's this...?",
+  "note": "Empty & header kept (the unit that reaches the shrine)."
+ },
+ {
+  "key": "U06758",
+  "note": "Pirate ambush event on the Azuchi map; translated as written."
+ },
+ {
+  "key": "U06759"
+ },
+ {
+  "key": "U06760"
+ },
+ {
+  "key": "U06761",
+  "en": "&\nNgh! Blast it!"
+ },
+ {
+  "key": "U06762"
+ },
+ {
+  "key": "U06763"
+ },
+ {
+  "key": "U06764"
+ },
+ {
+  "key": "U06765"
+ },
+ {
+  "key": "U06766"
+ },
+ {
+  "key": "U06767",
+  "en": "Ep. 26: The Vengeful Ghost of Kyoto",
+  "note": "terms.json \"Episode 26: The Vengeful Ghost of Kyoto\" is 39 chars (limit 36); prefix shortened to \"Ep. 26:\" as in U02139/U02960/U03528/U05137 (35 chars). Shared by 2 occurrences."
+ },
+ {
+  "key": "U06768",
+  "en": "Okazaki Castle: Council Chamber",
+  "note": "Glossary caption form (Okazaki Castle + Council Chamber), 31 chars. Shared by 2 occurrences."
+ },
+ {
+  "key": "U06769"
+ },
+ {
+  "key": "U06770"
+ },
+ {
+  "key": "U06771"
+ },
+ {
+  "key": "U06772"
+ },
+ {
+  "key": "U06773"
+ },
+ {
+  "key": "U06774"
+ },
+ {
+  "key": "U06775"
+ },
+ {
+  "key": "U06776"
+ },
+ {
+  "key": "U06777"
+ },
+ {
+  "key": "U06778"
+ },
+ {
+  "key": "U06779"
+ },
+ {
+  "key": "U06780"
+ },
+ {
+  "key": "U06781"
+ },
+ {
+  "key": "U06782",
+  "en": "Azuchi Castle"
+ },
+ {
+  "key": "U06783"
+ },
+ {
+  "key": "U06784"
+ },
+ {
+  "key": "U06785"
+ },
+ {
+  "key": "U06786"
+ },
+ {
+  "key": "U06787"
+ },
+ {
+  "key": "U06788"
+ },
+ {
+  "key": "U06789"
+ },
+ {
+  "key": "U06790",
+  "en": "Azuchi Castle: Retainers' Hall",
+  "note": "Glossary caption form (Retainers' Hall), 30 chars. Shared by 2 occurrences."
+ },
+ {
+  "key": "U06791"
+ },
+ {
+  "key": "U06792"
+ },
+ {
+  "key": "U06793"
+ },
+ {
+  "key": "U06794"
+ },
+ {
+  "key": "U06795"
+ },
+ {
+  "key": "U06796"
+ },
+ {
+  "key": "U06797",
+  "note": "Merchant 1 praises Merchant 3."
+ },
+ {
+  "key": "U06798",
+  "en": "Azuchi: Storehouse"
+ },
+ {
+  "key": "U06799",
+  "en": "Azuchi: Workshop",
+  "note": "As U05716 \"Okayama: Workshop\"."
+ }
+]

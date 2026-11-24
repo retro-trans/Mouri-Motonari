@@ -1,0 +1,269 @@
+[
+ {
+  "key": "U03440"
+ },
+ {
+  "key": "U03441",
+  "note": "Same as U03177."
+ },
+ {
+  "key": "U03442"
+ },
+ {
+  "key": "U03443",
+  "en": "Accept the offer\nDecline the offer"
+ },
+ {
+  "key": "U03444"
+ },
+ {
+  "key": "U03445"
+ },
+ {
+  "key": "U03446",
+  "en": "Max Endurance fell by 2."
+ },
+ {
+  "key": "U03447"
+ },
+ {
+  "key": "U03448"
+ },
+ {
+  "key": "U03449",
+  "note": "Branch where Motonari declines. Long silence -> '......'."
+ },
+ {
+  "key": "U03450"
+ },
+ {
+  "key": "U03451",
+  "note": "Same reasoning as U03448: no pronoun for the monk; subject restored as 'The monk' (acc review)."
+ },
+ {
+  "key": "U03452",
+  "note": "Same as U02887."
+ },
+ {
+  "key": "U03453"
+ },
+ {
+  "key": "U03454"
+ },
+ {
+  "key": "U03455",
+  "en": "Recited thanks to the ancestors."
+ },
+ {
+  "key": "U03456"
+ },
+ {
+  "key": "U03457"
+ },
+ {
+  "key": "U03458"
+ },
+ {
+  "key": "U03459",
+  "en": "Drink\nDecline"
+ },
+ {
+  "key": "U03460"
+ },
+ {
+  "key": "U03461"
+ },
+ {
+  "key": "U03462"
+ },
+ {
+  "key": "U03463",
+  "note": "Same as U03183/U02889."
+ },
+ {
+  "key": "U03464"
+ },
+ {
+  "key": "U03465",
+  "note": "Same Japanese as U02891; English reused."
+ },
+ {
+  "key": "U03466"
+ },
+ {
+  "key": "U03467"
+ },
+ {
+  "key": "U03468",
+  "note": "Same as U02896."
+ },
+ {
+  "key": "U03469"
+ },
+ {
+  "key": "U03470"
+ },
+ {
+  "key": "U03471"
+ },
+ {
+  "key": "U03472"
+ },
+ {
+  "key": "U03473"
+ },
+ {
+  "key": "U03474"
+ },
+ {
+  "key": "U03475"
+ },
+ {
+  "key": "U03476"
+ },
+ {
+  "key": "U03477",
+  "note": "Same as U02913."
+ },
+ {
+  "key": "U03478",
+  "note": "Same as U03194."
+ },
+ {
+  "key": "U03479"
+ },
+ {
+  "key": "U03480"
+ },
+ {
+  "key": "U03481"
+ },
+ {
+  "key": "U03482"
+ },
+ {
+  "key": "U03483",
+  "note": "Japanese blank line falls between two plain statements; treated as page padding."
+ },
+ {
+  "key": "U03484",
+  "note": "Same as U02911."
+ },
+ {
+  "key": "U03485"
+ },
+ {
+  "key": "U03486"
+ },
+ {
+  "key": "U03487"
+ },
+ {
+  "key": "U03488"
+ },
+ {
+  "key": "U03489"
+ },
+ {
+  "key": "U03490"
+ },
+ {
+  "key": "U03491"
+ },
+ {
+  "key": "U03492",
+  "note": "Shorter variant of the scene."
+ },
+ {
+  "key": "U03493"
+ },
+ {
+  "key": "U03494",
+  "note": "Same Japanese as U02926; English reused (Nemoto's gender unknown, no pronoun). Shared by 2 occurrences."
+ },
+ {
+  "key": "U03495",
+  "note": "Same Japanese as U02928; English reused."
+ },
+ {
+  "key": "U03496"
+ },
+ {
+  "key": "U03497",
+  "en": "Suo-Nagato Offensive\nVictory Conditions\n  1. Make Ouchi Yoshinaga retreat\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 60 turns pass"
+ },
+ {
+  "key": "U03498"
+ },
+ {
+  "key": "U03499",
+  "en": "Suo-Nagato Offensive\n\nVictory Conditions\n  1. Make Ouchi Yoshinaga retreat\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 60 turns pass",
+  "note": "Same as U03497 with the Japanese blank line after the battle name kept (line count must match)."
+ },
+ {
+  "key": "U03500",
+  "en": "Otomo Sorin's relief army arrived."
+ },
+ {
+  "key": "U03501"
+ },
+ {
+  "key": "U03502"
+ },
+ {
+  "key": "U03503"
+ },
+ {
+  "key": "U03504"
+ },
+ {
+  "key": "U03505"
+ },
+ {
+  "key": "U03506"
+ },
+ {
+  "key": "U03507"
+ },
+ {
+  "key": "U03508",
+  "en": "&\nThere's a shrine here! We'll pray for victory!",
+  "note": "Same as U00318 (blank speaker kept)."
+ },
+ {
+  "key": "U03509"
+ },
+ {
+  "key": "U03510"
+ },
+ {
+  "key": "U03511"
+ },
+ {
+  "key": "U03512",
+  "en": "Sugi Shigesuke's army appeared."
+ },
+ {
+  "key": "U03513"
+ },
+ {
+  "key": "U03514"
+ },
+ {
+  "key": "U03515"
+ },
+ {
+  "key": "U03516"
+ },
+ {
+  "key": "U03517"
+ },
+ {
+  "key": "U03518"
+ },
+ {
+  "key": "U03519",
+  "en": "Yoshimi Masayori joined your army.",
+  "note": "Glossary pattern 'X joined your army' with a period. Shared by 2 occurrences."
+ }
+]

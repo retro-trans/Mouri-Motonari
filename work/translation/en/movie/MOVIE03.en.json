@@ -1,0 +1,38 @@
+{
+ "movie": "MOVIE03",
+ "note": "Ep. 9: the Lesson of the Three Arrows. Motonari shows his three sons that one arrow breaks and three together do not; at 22.9 he hands the bundle to Motoharu. Japanese transcribed with faster-whisper large-v3 (tools/transcribe_movie.py, clips re-run with tools/transcribe_clip.py) and corrected by context and the frames; times in seconds from the start of the film (frame = round(t * 15) + 1). Speaker names are notes only (not shown).",
+ "subtitles": [
+  {
+   "start": 7.0,
+   "end": 10.9,
+   "speaker": "Mouri Motonari",
+   "en": "Each single arrow is one of you."
+  },
+  {
+   "start": 11.36,
+   "end": 15.3,
+   "speaker": "Mouri Motonari",
+   "en": "And the force that tries to break them is the enemy of the Mouri."
+  },
+  {
+   "start": 16.4,
+   "end": 22.36,
+   "speaker": "Mouri Motonari",
+   "en": "If each of you stands alone, you will be destroyed one by one, and our domain will easily fall."
+  },
+  {
+   "start": 22.94,
+   "end": 25.2,
+   "speaker": "Mouri Motonari",
+   "en": "Now then, Motoharu..."
+  },
+  {
+   "start": 27.1,
+   "end": 32.72,
+   "speaker": "Mouri Motonari",
+   "en": "But if the three of you stand together, your defense will hold, and no one will destroy you."
+  }
+ ],
+ "labels": [],
+ "review": "Self-reviewed 2026-11-18 (accuracy against the transcript and frames, voice, proofreading); not yet through separate review agents."
+}

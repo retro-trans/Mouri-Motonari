@@ -1,0 +1,346 @@
+[
+ {
+  "key": "E0070",
+  "en": "Which one do you want to load?"
+ },
+ {
+  "key": "E0071",
+  "en": "Which one do you want to save to?"
+ },
+ {
+  "key": "E0072",
+  "en": "No Memory Card is inserted.\nPlease insert a Memory Card into slot 1."
+ },
+ {
+  "key": "E0073",
+  "en": "This Memory Card is damaged.\nPlease insert a different Memory Card."
+ },
+ {
+  "key": "E0074",
+  "en": "This Memory Card is not formatted.\nPlease insert a different Memory Card."
+ },
+ {
+  "key": "E0075",
+  "en": "This Memory Card is not formatted.\nDo you want to format it?"
+ },
+ {
+  "key": "E0076",
+  "en": "Failed to format the Memory Card."
+ },
+ {
+  "key": "E0077",
+  "en": "There is no data for\nMouri Motonari: Oath of the Three Arrows.\nPlease insert a Memory Card with the data into slot 1.",
+  "note": "Game title = glossary game_title 'Mouri Motonari: Oath of the Three Arrows'; it does not fit one 276 px line with the rest of the sentence, so the first sentence is re-cut to put the title on its own line (same content, same 3 lines)."
+ },
+ {
+  "key": "E0078",
+  "en": "Which data do you want to load?"
+ },
+ {
+  "key": "E0079",
+  "en": "Saving requires 4 blocks.\nWhere do you want to save?"
+ },
+ {
+  "key": "E0080",
+  "en": "There are not enough free blocks.\nPlease insert a Memory Card with at least\n4 free blocks into slot 1."
+ },
+ {
+  "key": "E0081",
+  "en": "Are you sure you want to load this data?"
+ },
+ {
+  "key": "E0082",
+  "en": "A file already exists on the Memory Card.\nAre you sure you want to overwrite it?"
+ },
+ {
+  "key": "E0083",
+  "en": "Do you want to save to temporary memory?\nIt will be lost if you power off or reset!"
+ },
+ {
+  "key": "E0084",
+  "en": "Loading failed.\nDo you want to try loading again?"
+ },
+ {
+  "key": "E0085",
+  "en": "Saving failed.\nDo you want to try saving again?"
+ },
+ {
+  "key": "E0086",
+  "en": "Saving complete."
+ },
+ {
+  "key": "E0087",
+  "en": "This data is corrupted.\nPlease load different data."
+ },
+ {
+  "key": "E0088",
+  "en": "Now loading.\nDo not remove or insert a Memory Card."
+ },
+ {
+  "key": "E0089",
+  "en": "Now saving.\nDo not remove or insert a Memory Card."
+ },
+ {
+  "key": "E0090",
+  "en": "Now formatting the Memory Card.\nDo not remove or insert a Memory Card."
+ },
+ {
+  "key": "E0091",
+  "en": "Now checking the Memory Card.\nDo not remove or insert a Memory Card."
+ },
+ {
+  "key": "E0092",
+  "en": "The Memory Card was removed.\nThe operation has been canceled.",
+  "note": "American spelling 'canceled', as the script (honor, color)."
+ },
+ {
+  "key": "E0093",
+  "en": "%s was sent\nto the Storehouse."
+ },
+ {
+  "key": "E0094",
+  "en": "Storehouse full; item discarded"
+ },
+ {
+  "key": "E0095",
+  "en": "Got %s."
+ },
+ {
+  "key": "E0096",
+  "en": "Inventory is full.\nSend %s to the Storehouse?"
+ },
+ {
+  "key": "E0097",
+  "en": "%s cannot be carried.\nMove items %s the Storehouse?"
+ },
+ {
+  "key": "E0098",
+  "en": "Discard %s?",
+  "note": "In-place slot (23 bytes): 11 used."
+ },
+ {
+  "key": "E0099",
+  "en": "%s was discarded."
+ },
+ {
+  "key": "E0100",
+  "en": "%s is now level %u.",
+  "note": "In-place slot (23 bytes): 19 used."
+ },
+ {
+  "key": "E0101",
+  "en": " can equip",
+  "note": "strcat after a list of unit classes, each followed by ',' (0x80019498): 'Spearmen,Cavalry, can equip'. Leading space goes after the list's trailing comma. 10 of 11 bytes, 48 of 48 px."
+ },
+ {
+  "key": "E0102",
+  "en": "%s joined your army."
+ },
+ {
+  "key": "E0103",
+  "en": "Are you sure?",
+  "note": "Yes/no message box (0x8003F828)."
+ },
+ {
+  "key": "E0104",
+  "en": "Sound Output",
+  "note": "Settings screen: labels at x=40, values at x=216 (0x80022C60), so about 176 px of real room; checker limit 120 px. Options: Stereo / Mono."
+ },
+ {
+  "key": "E0105",
+  "en": "Battle Unit Movement"
+ },
+ {
+  "key": "E0106",
+  "en": "Battle Animations"
+ },
+ {
+  "key": "E0107",
+  "en": "Enemy Unit Actions"
+ },
+ {
+  "key": "E0108",
+  "en": "Battlefield Scroll Width"
+ },
+ {
+  "key": "E0109",
+  "en": "Battle Grid Display"
+ },
+ {
+  "key": "E0110",
+  "en": "   Stereo",
+  "note": "Value column (window printf '%s' at x=216): the Japanese values are centred with spaces in a ~52 px field; English re-centred with 3 px spaces."
+ },
+ {
+  "key": "E0111",
+  "en": "     Mono"
+ },
+ {
+  "key": "E0112",
+  "en": "       On"
+ },
+ {
+  "key": "E0113",
+  "en": "      Off"
+ },
+ {
+  "key": "E0114",
+  "en": "     Show"
+ },
+ {
+  "key": "E0115",
+  "en": "     Hide"
+ },
+ {
+  "key": "E0116",
+  "en": "    Simple"
+ },
+ {
+  "key": "E0117",
+  "en": " 4 squares"
+ },
+ {
+  "key": "E0118",
+  "en": " 3 squares"
+ },
+ {
+  "key": "E0119",
+  "en": " 2 squares"
+ },
+ {
+  "key": "E0120",
+  "en": " 1 square"
+ },
+ {
+  "key": "E0121",
+  "en": "Settings",
+  "note": "Title printed centred by byte count (0x8001BB94, 40-byte field); no padding (spaces would only shift it further left)."
+ },
+ {
+  "key": "E0122",
+  "en": "             Start Game",
+  "note": "Settings button printed at x=40 with puts; the Japanese is pushed right by spaces (it ends at the same x as E0123). Padded with the 13 spaces the 23-byte in-place slot allows."
+ },
+ {
+  "key": "E0123",
+  "en": "            Confirm"
+ },
+ {
+  "key": "E0124",
+  "en": "Cannot be displayed now."
+ },
+ {
+  "key": "E0125",
+  "en": "Do you want to save here?"
+ },
+ {
+  "key": "E0126",
+  "en": "Continue without saving?",
+  "note": "In-place slot (31 bytes): 24 used. Literal: 'Is it all right not to save?'"
+ },
+ {
+  "key": "E0127",
+  "en": "Do you want to enter %s?",
+  "note": "%s is probably a town / facility name (castle / town menu)."
+ },
+ {
+  "key": "E0128",
+  "en": "Koriyama"
+ },
+ {
+  "key": "E0129",
+  "en": "Iyo-Yuzuki",
+  "note": "World-map town label: glossary town name in full (the label is centred by its VWF width since 0.2.5, vwf.py town_label). [0.2.5: user decision I-52 A]"
+ },
+ {
+  "key": "E0130",
+  "en": "Nagato-Katsuyama",
+  "note": "World-map town label: glossary town name in full (the label is centred by its VWF width since 0.2.5, vwf.py town_label). [0.2.5: user decision I-52 A]"
+ },
+ {
+  "key": "E0131",
+  "en": "Gassan-Toda",
+  "note": "World-map town label: glossary town name in full (the label is centred by its VWF width since 0.2.5, vwf.py town_label). [0.2.5: user decision I-52 A]"
+ },
+ {
+  "key": "E0132",
+  "en": "Hiebiyama"
+ },
+ {
+  "key": "E0133",
+  "en": "Aki-Takamatsu",
+  "note": "World-map town label: glossary town name in full (the label is centred by its VWF width since 0.2.5, vwf.py town_label). [0.2.5: user decision I-52 A]"
+ },
+ {
+  "key": "E0134",
+  "en": "Bitchu-Takamatsu",
+  "note": "World-map town label: glossary town name in full (the label is centred by its VWF width since 0.2.5, vwf.py town_label). [0.2.5: user decision I-52 A]"
+ },
+ {
+  "key": "E0135",
+  "en": "Found pirate treasure.",
+  "note": "In-place slot (23 bytes): 22 used. Followed by E0136."
+ },
+ {
+  "key": "E0136",
+  "en": "Funds are now 50000"
+ },
+ {
+  "key": "E0137",
+  "en": "Council",
+  "note": "Facility menu (table 0x800DE1F8, centred in an 8-byte field by 0x8001BB94). Glossary 'Council Chamber' is 75 px > 48: short 'Council'."
+ },
+ {
+  "key": "E0138",
+  "en": "Retainers",
+  "note": "Glossary 'Retainers' Hall' is 70 px > 48: short 'Retainers' (48 px)."
+ },
+ {
+  "key": "E0139",
+  "en": "Wpn. 1st",
+  "note": "Storehouse sort order, the %s of E0142 ('Stores (Wpn. 1st)'). 'Weapons First' is 69 px > 48."
+ },
+ {
+  "key": "E0140",
+  "en": "Supp. 1st"
+ },
+ {
+  "key": "E0141",
+  "en": "Heal 1st"
+ },
+ {
+  "key": "E0142",
+  "en": "Stores (%s)",
+  "note": "Header of the storehouse list (window printf at x=184). In-place 11-byte slot: 'Storehouse (%s)' is 15 bytes, so 'Stores'."
+ },
+ {
+  "key": "E0143",
+  "en": "Unequip"
+ },
+ {
+  "key": "E0144",
+  "en": "Store"
+ },
+ {
+  "key": "E0145",
+  "en": "Equip"
+ },
+ {
+  "key": "E0146",
+  "en": "Equip this?"
+ },
+ {
+  "key": "E0147",
+  "en": "Item Info",
+  "note": "Button hint next to a button icon (0x8002897C)."
+ },
+ {
+  "key": "E0148",
+  "en": "Officers",
+  "note": "Button hint (0x800289B8) that toggles between the officers' list and the storehouse list; 'Officer Side' is 12 bytes > 11 in place."
+ },
+ {
+  "key": "E0149",
+  "en": "Storehouse"
+ }
+]

@@ -1,0 +1,265 @@
+[
+ {
+  "key": "U05360",
+  "en": "Battle of Mount Fube\nVictory Conditions\n  1. Make Amago Katsuhisa retreat\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 80 turns pass"
+ },
+ {
+  "key": "U05361"
+ },
+ {
+  "key": "U05362",
+  "en": "Battle of Mount Fube\n\nVictory Conditions\n  1. Make Amago Katsuhisa retreat\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 80 turns pass",
+  "note": "Same as U05360 with the Japanese blank second line kept."
+ },
+ {
+  "key": "U05363"
+ },
+ {
+  "key": "U05364"
+ },
+ {
+  "key": "U05365"
+ },
+ {
+  "key": "U05366"
+ },
+ {
+  "key": "U05367"
+ },
+ {
+  "key": "U05368"
+ },
+ {
+  "key": "U05369"
+ },
+ {
+  "key": "U05370"
+ },
+ {
+  "key": "U05371"
+ },
+ {
+  "key": "U05372"
+ },
+ {
+  "key": "U05373"
+ },
+ {
+  "key": "U05374"
+ },
+ {
+  "key": "U05375",
+  "note": "Kodama Narikata's halting pauses kept (characters.json: taciturn)."
+ },
+ {
+  "key": "U05376"
+ },
+ {
+  "key": "U05377"
+ },
+ {
+  "key": "U05378"
+ },
+ {
+  "key": "U05379"
+ },
+ {
+  "key": "U05380"
+ },
+ {
+  "key": "U05381",
+  "en": "Mouri Army Lodgings"
+ },
+ {
+  "key": "U05382"
+ },
+ {
+  "key": "U05383"
+ },
+ {
+  "key": "U05384"
+ },
+ {
+  "key": "U05385"
+ },
+ {
+  "key": "U05386"
+ },
+ {
+  "key": "U05387"
+ },
+ {
+  "key": "U05388"
+ },
+ {
+  "key": "U05389"
+ },
+ {
+  "key": "U05390",
+  "en": "Kyoto: Ashikaga Yoshiaki's Residence"
+ },
+ {
+  "key": "U05391"
+ },
+ {
+  "key": "U05392"
+ },
+ {
+  "key": "U05393"
+ },
+ {
+  "key": "U05394"
+ },
+ {
+  "key": "U05395"
+ },
+ {
+  "key": "U05396"
+ },
+ {
+  "key": "U05397"
+ },
+ {
+  "key": "U05398"
+ },
+ {
+  "key": "U05399"
+ },
+ {
+  "key": "U05400"
+ },
+ {
+  "key": "U05401",
+  "en": "Chapter 3: The Road to the Realm",
+  "note": "terms.json."
+ },
+ {
+  "key": "U05402",
+  "en": "Episode 21: Oath of the Three Arrows",
+  "note": "terms.json; exactly 36 characters. Shared by 3 occurrences."
+ },
+ {
+  "key": "U05403",
+  "en": "Koriyama Castle: Mouri Motonari's Residence",
+  "note": "Full form since 0.2.12 (caption box sized by text width, limit 288 px): family name and 'Residence' restored; 'Koriyama Castle' is the approved short form used by the other Koriyama captions. 213 px."
+ },
+ {
+  "key": "U05404",
+  "en": "Tajima: Castle Town"
+ },
+ {
+  "key": "U05405"
+ },
+ {
+  "key": "U05406"
+ },
+ {
+  "key": "U05407"
+ },
+ {
+  "key": "U05408"
+ },
+ {
+  "key": "U05409",
+  "en": "Soon after Motonari's death,\nShogun Yoshiaki raised troops\nagainst Nobunaga. Unable to bear\nbeing Shogun in name only, he rose\nup, but was swiftly crushed and\nexiled to Wakae Castle in Kawachi.\nThe Muromachi shogunate fell in\nall but name, and Yoshiaki took\nto wandering the provinces to\ntopple Nobunaga and restore it.\n\n\nYamanaka Shikanosuke rested in\nTajima, awaiting a chance to rise,\nwhile Terumoto, now Mouri head,\nworked to build up the clan's\nmight further under a new order.\nAnd so, several years passed."
+ },
+ {
+  "key": "U05410",
+  "en": "Ashikaga Yoshiaki's Hideout"
+ },
+ {
+  "key": "U05411"
+ },
+ {
+  "key": "U05412"
+ },
+ {
+  "key": "U05413"
+ },
+ {
+  "key": "U05414"
+ },
+ {
+  "key": "U05415"
+ },
+ {
+  "key": "U05416"
+ },
+ {
+  "key": "U05417",
+  "en": "Hotaru handed him a seashell.",
+  "note": "Item-hand-over caption, sentence form as U03330 'Handed over the letter.'."
+ },
+ {
+  "key": "U05418"
+ },
+ {
+  "key": "U05419",
+  "en": "The next morning..."
+ },
+ {
+  "key": "U05420"
+ },
+ {
+  "key": "U05421",
+  "en": "Talk to Kikkawa Motoharu and Kunishi Mototake",
+  "note": "Menu entry, given-name pattern of U01483 'See Michiyoshi and Naritada' (137 px, limit 144). 0.2.14: written in full, since the scene-goal box now fits the English text (the shortened form was for the 8 px per character box)."
+ },
+ {
+  "key": "U05422"
+ },
+ {
+  "key": "U05423"
+ },
+ {
+  "key": "U05424"
+ },
+ {
+  "key": "U05425"
+ },
+ {
+  "key": "U05426"
+ },
+ {
+  "key": "U05427"
+ },
+ {
+  "key": "U05428",
+  "note": "Same text and English as U05707 (ep. 21 parallel in slice 071)."
+ },
+ {
+  "key": "U05429"
+ },
+ {
+  "key": "U05430"
+ },
+ {
+  "key": "U05431",
+  "note": "Shared by 3 occurrences."
+ },
+ {
+  "key": "U05432",
+  "en": "Sakai: A Residence"
+ },
+ {
+  "key": "U05433"
+ },
+ {
+  "key": "U05434"
+ },
+ {
+  "key": "U05435"
+ },
+ {
+  "key": "U05436"
+ },
+ {
+  "key": "U05437"
+ },
+ {
+  "key": "U05438"
+ },
+ {
+  "key": "U05439"
+ }
+]

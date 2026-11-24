@@ -1,0 +1,325 @@
+[
+ {
+  "key": "I0323",
+  "en": "It's war, you lot!\nBring me my weapon!"
+ },
+ {
+  "key": "I0324",
+  "en": "War, is it...\nWhen will it ever end..."
+ },
+ {
+  "key": "I0325",
+  "en": "I march out!\nMy lord, behold my deeds!"
+ },
+ {
+  "key": "I0326",
+  "en": "A battle, eh? Ha ha ha!\nI can hardly wait!"
+ },
+ {
+  "key": "I0327",
+  "en": "Looks like it's begun.\nRight, here I come!"
+ },
+ {
+  "key": "I0328",
+  "en": "Naoyuki, lord of Koi Castle, rides out!"
+ },
+ {
+  "key": "I0329",
+  "en": "I'm Murakami Takeyoshi, chief of the Murakami Navy, finest in the West!"
+ },
+ {
+  "key": "I0330",
+  "en": "On the honor of the Kurushima Navy..."
+ },
+ {
+  "key": "I0331",
+  "en": "The Mouri clan has the Kurushima Navy! Come near, and you're fish food!"
+ },
+ {
+  "key": "I0332",
+  "en": "With this beauty from the Nanban lands, nobody can touch me."
+ },
+ {
+  "key": "I0333",
+  "en": "Rrright, we march!\nI'll blow them to smithereens!"
+ },
+ {
+  "key": "I0334",
+  "en": "The swordsmanship I honed for revenge now serves the Mouri clan!"
+ },
+ {
+  "key": "I0335",
+  "en": "I'll teach you to fear the pirates of Buzen."
+ },
+ {
+  "key": "I0336",
+  "en": "Now's the time to march! This gun will riddle them with holes.",
+  "note": "[edit: mixed idiom 'riddle them full of holes']"
+ },
+ {
+  "key": "I0337",
+  "en": "Well now, I wonder who will win this battle."
+ },
+ {
+  "key": "I0338",
+  "en": "Time I rode out, I think.\nBring me my spear!"
+ },
+ {
+  "key": "I0339",
+  "en": "Here we go, it's battle!\nTime to raise some hell!"
+ },
+ {
+  "key": "I0340",
+  "en": "The song of my flute shall lead us to victory."
+ },
+ {
+  "key": "I0341",
+  "en": "Tanezane, head of the Akizuki, noble house of Tsukushi, rides out!"
+ },
+ {
+  "key": "I0342",
+  "en": "Did you call for me?"
+ },
+ {
+  "key": "I0343",
+  "en": "Heh heh, I'm itching to fight. I'll show you my secret sword."
+ },
+ {
+  "key": "I0344",
+  "en": "Don't take me lightly just 'cause I'm a woman. I'll show you kunoichi arts!"
+ },
+ {
+  "key": "I0345",
+  "en": "Another battle..."
+ },
+ {
+  "key": "I0346",
+  "en": "A battle's startin', it is, it is. Guess I'll give it a go, I will!"
+ },
+ {
+  "key": "I0347",
+  "en": "War again...?\nO Buddha, forgive me..."
+ },
+ {
+  "key": "I0348",
+  "en": "Battle! Time for me to shine!"
+ },
+ {
+  "key": "I0349",
+  "en": "Don't you fret about rations. Leave 'em to Chosuke here!"
+ },
+ {
+  "key": "I0350",
+  "en": "Is this the end of the Mouri clan...? Forgive me, everyone..."
+ },
+ {
+  "key": "I0351",
+  "en": "In a place like this...\nI've set my brothers a poor example..."
+ },
+ {
+  "key": "I0352",
+  "en": "How can I face Lord Motonari now..."
+ },
+ {
+  "key": "I0353",
+  "en": "You dare make Motoharu retreat?! Someday I'll pay you back for this!",
+  "note": "Officer #3 = Kikkawa Motoharu. [edit: verbless fragment; 'pay you back for this one day' could misread; Motoharu's hot-blooded voice]"
+ },
+ {
+  "key": "I0354",
+  "en": "Ngh! Am I not fit to take Father's place?!"
+ },
+ {
+  "key": "I0355",
+  "en": "To outwit me...\nWell played..."
+ },
+ {
+  "key": "I0356",
+  "en": "Careless of me! Forgive me, my lord."
+ },
+ {
+  "key": "I0357",
+  "en": "I won't die in a place like this! Fall back! Fall back!"
+ },
+ {
+  "key": "I0358",
+  "en": "Withdraw at once!"
+ },
+ {
+  "key": "I0359",
+  "en": "Ngh, before I could even use the tactics Father taught me..."
+ },
+ {
+  "key": "I0360",
+  "en": "Argh, we're pulling back!"
+ },
+ {
+  "key": "I0361",
+  "en": "Now that it's come to this, retreat is unavoidable."
+ },
+ {
+  "key": "I0362",
+  "en": "Just when it was all beginning...\nForgive me, Father."
+ },
+ {
+  "key": "I0363",
+  "en": "Blast! I was too eager for glory!"
+ },
+ {
+  "key": "I0364",
+  "en": "Father, forgive your unworthy son."
+ },
+ {
+  "key": "I0365",
+  "en": "Whoa, this is no good!\nRetreat!"
+ },
+ {
+  "key": "I0366",
+  "en": "I was careless! I never thought they'd be this good..."
+ },
+ {
+  "key": "I0367",
+  "en": "Tch, not bad! It won't go like this next time!"
+ },
+ {
+  "key": "I0368",
+  "en": "I must strive harder..."
+ },
+ {
+  "key": "I0369",
+  "en": "So this is it... I blundered! No mercy next time!"
+ },
+ {
+  "key": "I0370",
+  "en": "We're no match for them.\nFall back!"
+ },
+ {
+  "key": "I0371",
+  "en": "How could this happen...\nI underestimated the enemy."
+ },
+ {
+  "key": "I0372",
+  "en": "Blast! I must retreat! Ninja art! Art of Vanishing in Dust!"
+ },
+ {
+  "key": "I0373",
+  "en": "How bitter...\nI've no choice but to pull back..."
+ },
+ {
+  "key": "I0374",
+  "en": "To have to fall back here... Curses!"
+ },
+ {
+  "key": "I0375",
+  "en": "At this rate, we're beaten. I must flee before my retreat is cut off."
+ },
+ {
+  "key": "I0376",
+  "en": "Is this all my swordsmanship is worth...? No! Next time, for sure..."
+ },
+ {
+  "key": "I0377",
+  "en": "Tch, the tide's against us. Guess I've got no choice but to retreat."
+ },
+ {
+  "key": "I0378",
+  "en": "I never knew they were this strong... At this rate, we're finished..."
+ },
+ {
+  "key": "I0379",
+  "en": "Pathetic, losing like this. Sorry... Forgive me, will ya..."
+ },
+ {
+  "key": "I0380",
+  "en": "Careless, careless."
+ },
+ {
+  "key": "I0381",
+  "en": "Our losses are worse than I expected... I'd best pull back for now."
+ },
+ {
+  "key": "I0382",
+  "en": "Well, well, I've gone and lost."
+ },
+ {
+  "key": "I0383",
+  "en": "Hmmm... No choice, then."
+ },
+ {
+  "key": "I0384",
+  "en": "Retreat? Surely not...\nThis wasn't supposed to happen..."
+ },
+ {
+  "key": "I0385",
+  "en": "The West's mightiest pirate, falling back?! Curse you!"
+ },
+ {
+  "key": "I0386",
+  "en": "On the honor of the Kurushima Navy... Next battle, I swear..."
+ },
+ {
+  "key": "I0387",
+  "en": "Time to pull back.\nGotta live to fight again."
+ },
+ {
+  "key": "I0388",
+  "en": "Nothing for it.\nI'll withdraw for now."
+ },
+ {
+  "key": "I0389",
+  "en": "Even this cannon can't turn the tide of battle...?"
+ },
+ {
+  "key": "I0390",
+  "en": "My skills aren't honed enough... I must start my training over.",
+  "note": "[edit: 'training ... training' repeated; 'honed' echoes his sortie I0334]"
+ },
+ {
+  "key": "I0391",
+  "en": "Dammit all! I've gone and shamed the pirate name."
+ },
+ {
+  "key": "I0392",
+  "en": "Did I get too close to the enemy?! I have no choice but to retreat!"
+ },
+ {
+  "key": "I0393",
+  "en": "Blast, are we surrounded?\nRetreat at once!"
+ },
+ {
+  "key": "I0394",
+  "en": "Not yet, I can't die yet... I have no choice but to fall back."
+ },
+ {
+  "key": "I0395",
+  "en": "So I'm still too green... I want more strength..."
+ },
+ {
+  "key": "I0396",
+  "en": "Does my flute's song not reach them...?"
+ },
+ {
+  "key": "I0397",
+  "en": "Is this the end of my ambition?"
+ },
+ {
+  "key": "I0398",
+  "en": "Blast, at this rate... Argh! Ninja art! Art of the Heavenly Five Escapes!"
+ },
+ {
+  "key": "I0399",
+  "en": "Argh, I underestimated the enemy! Next time, no mercy."
+ },
+ {
+  "key": "I0400",
+  "en": "Eek! I can't take any more!"
+ },
+ {
+  "key": "I0401",
+  "en": "You'll pay for this!"
+ },
+ {
+  "key": "I0402",
+  "en": "Ow, ow, I'm done for... Sorry, but I'm pullin' out."
+ }
+]

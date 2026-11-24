@@ -1,0 +1,92 @@
+{
+ "movie": "MOVIE06",
+ "note": "Ep. 17: Gassan-Toda Castle has fallen. The aged Motonari looks back on his life; then a retainer reports that Yamanaka Shikanosuke is not among those who surrendered. Japanese transcribed with faster-whisper large-v3 (tools/transcribe_movie.py, clips re-run with tools/transcribe_clip.py) and corrected by context and the frames; times in seconds from the start of the film (frame = round(t * 15) + 1). Speaker names are notes only (not shown).",
+ "subtitles": [
+  {
+   "start": 24.08,
+   "end": 29.52,
+   "speaker": "Retainer",
+   "en": "Fukubara Sadatoshi and Kuchiba Michiyoshi report that they have entered Toda Castle."
+  },
+  {
+   "start": 29.5,
+   "end": 31.5,
+   "speaker": "Mouri Motonari",
+   "en": "I see."
+  },
+  {
+   "start": 35.98,
+   "end": 40.36,
+   "speaker": "Mouri Motonari",
+   "en": "The long road to mastering the West... Looking back,"
+  },
+  {
+   "start": 40.36,
+   "end": 43.6,
+   "speaker": "Mouri Motonari",
+   "en": "it's a wonder I came this far."
+  },
+  {
+   "start": 44.54,
+   "end": 47.02,
+   "speaker": "Mouri Motonari",
+   "en": "When I lost my father and brother so young,"
+  },
+  {
+   "start": 47.02,
+   "end": 50.2,
+   "speaker": "Mouri Motonari",
+   "en": "and was left caught between the Ouchi in the west and the Amago in the east,"
+  },
+  {
+   "start": 50.2,
+   "end": 55.65,
+   "speaker": "Mouri Motonari",
+   "en": "I hardly felt alive."
+  },
+  {
+   "start": 57.27,
+   "end": 61.23,
+   "speaker": "Mouri Motonari",
+   "en": "And now, here I am,"
+  },
+  {
+   "start": 61.23,
+   "end": 69.23,
+   "speaker": "Mouri Motonari",
+   "en": "having paid a heavy price, as master of the West."
+  },
+  {
+   "start": 71.53,
+   "end": 72.79,
+   "speaker": "Retainer",
+   "en": "There you are, my lord."
+  },
+  {
+   "start": 72.79,
+   "end": 74.15,
+   "speaker": "Mouri Motonari",
+   "en": "What is it?"
+  },
+  {
+   "start": 74.15,
+   "end": 79.27,
+   "speaker": "Retainer",
+   "en": "We have finished going through those who surrendered, but that man is nowhere to be found."
+  },
+  {
+   "start": 79.27,
+   "end": 80.59,
+   "speaker": "Mouri Motonari",
+   "en": "That man?"
+  },
+  {
+   "start": 81.77,
+   "end": 83.81,
+   "speaker": "Retainer",
+   "en": "Yamanaka Shikanosuke, my lord."
+  }
+ ],
+ "labels": [],
+ "review": "Self-reviewed 2026-11-18 (accuracy against the transcript and frames, voice, proofreading); not yet through separate review agents."
+}

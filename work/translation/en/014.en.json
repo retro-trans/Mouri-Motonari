@@ -1,0 +1,275 @@
+[
+ {
+  "key": "U01120",
+  "en": "Battle of Kanayama Castle\nVictory Conditions\n  1. Make Ouchi Yoshitaka retreat\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 70 turns pass\n  4. Takeda Mitsukazu of Kanayama Castle\n      retreats"
+ },
+ {
+  "key": "U01121",
+  "en": "Kumagai Nobunao and Kikkawa\nMototsune led the vanguard to\nMitsukazu's Kanayama Castle.\nBut on the way, they ran into\nOuchi Yoshitaka's ambush\nand were surrounded."
+ },
+ {
+  "key": "U01122"
+ },
+ {
+  "key": "U01123",
+  "en": "Battle of Kanayama Castle\n\nVictory Conditions\n  1. Ouchi Yoshitaka retreats\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 70 turns pass\n  4. Takeda Mitsukazu of Kanayama Castle\n      retreats"
+ },
+ {
+  "key": "U01124"
+ },
+ {
+  "key": "U01125",
+  "en": "Fukubara Sadatoshi joined your army."
+ },
+ {
+  "key": "U01126",
+  "en": "Enemy reinforcements arrived.",
+  "note": "Shared by 2 occurrences."
+ },
+ {
+  "key": "U01127"
+ },
+ {
+  "key": "U01128"
+ },
+ {
+  "key": "U01129"
+ },
+ {
+  "key": "U01130"
+ },
+ {
+  "key": "U01131"
+ },
+ {
+  "key": "U01132",
+  "note": "Toji's gender is unknown; first person only."
+ },
+ {
+  "key": "U01133"
+ },
+ {
+  "key": "U01134"
+ },
+ {
+  "key": "U01135",
+  "en": "Sue Okifusa's army arrived."
+ },
+ {
+  "key": "U01136"
+ },
+ {
+  "key": "U01137"
+ },
+ {
+  "key": "U01138"
+ },
+ {
+  "key": "U01139"
+ },
+ {
+  "key": "U01140"
+ },
+ {
+  "key": "U01141"
+ },
+ {
+  "key": "U01142",
+  "en": "Kumagai Nobunao retreated.",
+  "note": "Pattern from U00864 ('X has retreated.')."
+ },
+ {
+  "key": "U01143"
+ },
+ {
+  "key": "U01144",
+  "en": "Saito Tatsuyoshi's sword snapped!",
+  "note": "33 characters."
+ },
+ {
+  "key": "U01145"
+ },
+ {
+  "key": "U01146",
+  "en": "Saito Tatsuyoshi joined your army."
+ },
+ {
+  "key": "U01147"
+ },
+ {
+  "key": "U01148",
+  "en": "Takeda's Kanayama Castle has fallen."
+ },
+ {
+  "key": "U01149",
+  "note": "Bare '&' speaker line copied as is (enemy soldier)."
+ },
+ {
+  "key": "U01150"
+ },
+ {
+  "key": "U01151",
+  "en": "Got 250 gold.",
+  "note": "Glossary form. Shared by 2 occurrences."
+ },
+ {
+  "key": "U01152",
+  "en": "Episode 5: What Makes a Leader",
+  "note": "Glossary form in full (30 characters)."
+ },
+ {
+  "key": "U01153",
+  "en": "Kanayama Castle: Battlefield"
+ },
+ {
+  "key": "U01154"
+ },
+ {
+  "key": "U01155"
+ },
+ {
+  "key": "U01156"
+ },
+ {
+  "key": "U01157",
+  "note": "Kumagai walks out of the feast in disgust; kept curt."
+ },
+ {
+  "key": "U01158"
+ },
+ {
+  "key": "U01159",
+  "en": "Konomine Castle: Living Quarters",
+  "note": "Glossary castle + room in full (32 characters)."
+ },
+ {
+  "key": "U01160"
+ },
+ {
+  "key": "U01161"
+ },
+ {
+  "key": "U01162",
+  "en": "Talk to Fukubara Sadatoshi, Shiji Hiroyoshi\nand Lady Sugi",
+  "note": "Menu entry; limit 192 px, this is 176. Family names only for the retainers, as in earlier labels ('Talk to Shiji', 'See Fukubara and Okata'). Fukubara here is Sadatoshi. 0.2.14: written in full, since the scene-goal box now fits the English text (the shortened form was for the 8 px per character box)."
+ },
+ {
+  "key": "U01163"
+ },
+ {
+  "key": "U01164"
+ },
+ {
+  "key": "U01165",
+  "en": "Talk to Kuchiba Michiyoshi",
+  "note": "Menu entry; limit 84 px, 74 px. Family name only, as in 'Talk to Shiji' (U00361). Shared by 4 occurrences. 0.2.14: written in full, since the scene-goal box now fits the English text (the shortened form was for the 8 px per character box)."
+ },
+ {
+  "key": "U01166"
+ },
+ {
+  "key": "U01167"
+ },
+ {
+  "key": "U01168"
+ },
+ {
+  "key": "U01169"
+ },
+ {
+  "key": "U01170"
+ },
+ {
+  "key": "U01171",
+  "en": "Goryu Castle: Living Quarters"
+ },
+ {
+  "key": "U01172"
+ },
+ {
+  "key": "U01173"
+ },
+ {
+  "key": "U01174"
+ },
+ {
+  "key": "U01175"
+ },
+ {
+  "key": "U01176"
+ },
+ {
+  "key": "U01177"
+ },
+ {
+  "key": "U01178",
+  "en": "Talk to the farmer at the Market"
+ },
+ {
+  "key": "U01179"
+ },
+ {
+  "key": "U01180"
+ },
+ {
+  "key": "U01181"
+ },
+ {
+  "key": "U01182"
+ },
+ {
+  "key": "U01183"
+ },
+ {
+  "key": "U01184"
+ },
+ {
+  "key": "U01185"
+ },
+ {
+  "key": "U01186"
+ },
+ {
+  "key": "U01187"
+ },
+ {
+  "key": "U01188",
+  "note": "Tutorial hint in Narikata's halting voice."
+ },
+ {
+  "key": "U01189"
+ },
+ {
+  "key": "U01190"
+ },
+ {
+  "key": "U01191",
+  "note": "Okata's line after Taro volunteers to go (U01198-U01199). Read as said about Taro to Motonari (third person); it could also be addressed to Taro ('you'd grown')."
+ },
+ {
+  "key": "U01192",
+  "note": "About the newborn Jiro (U01161)."
+ },
+ {
+  "key": "U01193",
+  "note": "The Ouchi condition is cut across two Motonari sections; English cut at the same point. Japanese page break kept before Okata's reason."
+ },
+ {
+  "key": "U01194"
+ },
+ {
+  "key": "U01195"
+ },
+ {
+  "key": "U01196"
+ },
+ {
+  "key": "U01197"
+ },
+ {
+  "key": "U01198"
+ },
+ {
+  "key": "U01199"
+ }
+]

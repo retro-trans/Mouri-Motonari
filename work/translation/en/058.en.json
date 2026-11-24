@@ -1,0 +1,275 @@
+[
+ {
+  "key": "U04640"
+ },
+ {
+  "key": "U04641"
+ },
+ {
+  "key": "U04642"
+ },
+ {
+  "key": "U04643"
+ },
+ {
+  "key": "U04644",
+  "en": "Yuzuki Castle: Council Chamber",
+  "note": "Room caption uses the glossary pattern 'Yuzuki Castle: <Room>' (follow-up 2026-10-28); 30 chars, fits 36. Proof: note updated to match the text."
+ },
+ {
+  "key": "U04645",
+  "en": "Yuzuki Castle: Retainers' Hall",
+  "note": "As U04644 (30 chars)."
+ },
+ {
+  "key": "U04646",
+  "en": "Yuzuki Castle: Living Quarters",
+  "note": "As U04644 (30 chars)."
+ },
+ {
+  "key": "U04647"
+ },
+ {
+  "key": "U04648"
+ },
+ {
+  "key": "U04649"
+ },
+ {
+  "key": "U04650",
+  "note": "Refers to the thieves dropping loot when caught in earlier encounters (U03289, U03551); 'they' for the pair."
+ },
+ {
+  "key": "U04651",
+  "en": "Iyo-Yuzuki: Storehouse"
+ },
+ {
+  "key": "U04652",
+  "en": "Iyo-Yuzuki: Tavern"
+ },
+ {
+  "key": "U04653",
+  "en": "Iyo-Yuzuki: Market"
+ },
+ {
+  "key": "U04654"
+ },
+ {
+  "key": "U04655"
+ },
+ {
+  "key": "U04656"
+ },
+ {
+  "key": "U04657",
+  "note": "As U00425. Shared by 6 occurrences."
+ },
+ {
+  "key": "U04658"
+ },
+ {
+  "key": "U04659"
+ },
+ {
+  "key": "U04660",
+  "en": "Go to Iyo-Yuzuki Castle\nDon't go",
+  "note": "Choice limit 120 px. 'Go to Iyo-Yuzuki Castle' is 115 px. 'Don't go to Yuzuki Castle' is 123 px, so the second option is 'Don't go' (41 px), as U00465/U00915 (destination clear from the first option)."
+ },
+ {
+  "key": "U04661"
+ },
+ {
+  "key": "U04662",
+  "en": "Michinao's Castle: Iyo-Yuzuki Castle"
+ },
+ {
+  "key": "U04663"
+ },
+ {
+  "key": "U04664"
+ },
+ {
+  "key": "U04665",
+  "note": "Explains why the Otomo act through Utsunomiya (cf. U04641). 'us' (the Mouri) restored."
+ },
+ {
+  "key": "U04666"
+ },
+ {
+  "key": "U04667"
+ },
+ {
+  "key": "U04668"
+ },
+ {
+  "key": "U04669"
+ },
+ {
+  "key": "U04670",
+  "note": "Page break kept (JP blank line before the second thought)."
+ },
+ {
+  "key": "U04671"
+ },
+ {
+  "key": "U04672",
+  "note": "Narikata's halting speech (long leading dots) kept."
+ },
+ {
+  "key": "U04673"
+ },
+ {
+  "key": "U04674"
+ },
+ {
+  "key": "U04675"
+ },
+ {
+  "key": "U04676",
+  "note": "Trailing JP blank line is page padding; ignored."
+ },
+ {
+  "key": "U04677"
+ },
+ {
+  "key": "U04678",
+  "note": "Unstated subject restored as 'That boy': her son Kikkawa Hiroie, who in the next unit (U04679) complains that books make him sleepy (characters.json: hates books). She is asking Motonari to speak to him."
+ },
+ {
+  "key": "U04679"
+ },
+ {
+  "key": "U04680"
+ },
+ {
+  "key": "U04681"
+ },
+ {
+  "key": "U04682",
+  "note": "The JP blank line mid-sentence is page padding; not kept as a beat."
+ },
+ {
+  "key": "U04683"
+ },
+ {
+  "key": "U04684"
+ },
+ {
+  "key": "U04685"
+ },
+ {
+  "key": "U04686"
+ },
+ {
+  "key": "U04687",
+  "note": "Same text as U04113 (only the JP line breaks differ); English reused. Kato's gender unknown: no pronoun. Editorial: wording aligned with the edited twin U04113 ('I have faith in your skill')."
+ },
+ {
+  "key": "U04688"
+ },
+ {
+  "key": "U04689"
+ },
+ {
+  "key": "U04690",
+  "note": "As U04109. Shared by 8 occurrences."
+ },
+ {
+  "key": "U04691"
+ },
+ {
+  "key": "U04692",
+  "note": "Drunk Itanokura brushing Motonari off."
+ },
+ {
+  "key": "U04693"
+ },
+ {
+  "key": "U04694"
+ },
+ {
+  "key": "U04695"
+ },
+ {
+  "key": "U04696",
+  "note": "As U04120 (same text, different JP line breaks). Kenmochi's gender unknown: no pronoun."
+ },
+ {
+  "key": "U04697",
+  "en": "Even if your work isn't going\nwell, your mother doesn't mind\nin the least.\nAbove all, what matters most\nis that you stay well.",
+  "note": "As U03909 (same text and same 5-line layout as this version)."
+ },
+ {
+  "key": "U04698",
+  "note": "As U03912 (same text, different JP line breaks). Farmer 1 is the father of Tokudawara Yonezo."
+ },
+ {
+  "key": "U04699"
+ },
+ {
+  "key": "U04700"
+ },
+ {
+  "key": "U04701"
+ },
+ {
+  "key": "U04702"
+ },
+ {
+  "key": "U04703",
+  "note": "One sentence split across two sections; cut at the matching point. Shared by 2 occurrences."
+ },
+ {
+  "key": "U04704"
+ },
+ {
+  "key": "U04705",
+  "note": "As U02742. Shared by 5 occurrences."
+ },
+ {
+  "key": "U04706",
+  "note": "As U04134. Shared by 5 occurrences."
+ },
+ {
+  "key": "U04707"
+ },
+ {
+  "key": "U04708",
+  "note": "As U03630."
+ },
+ {
+  "key": "U04709",
+  "note": "Shorter variant of U03635/U04143."
+ },
+ {
+  "key": "U04710",
+  "note": "As U03921 (same speaker, same muttering)."
+ },
+ {
+  "key": "U04711"
+ },
+ {
+  "key": "U04712"
+ },
+ {
+  "key": "U04713"
+ },
+ {
+  "key": "U04714"
+ },
+ {
+  "key": "U04715"
+ },
+ {
+  "key": "U04716"
+ },
+ {
+  "key": "U04717"
+ },
+ {
+  "key": "U04718"
+ },
+ {
+  "key": "U04719"
+ }
+]

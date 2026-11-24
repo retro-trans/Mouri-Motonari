@@ -1,0 +1,329 @@
+[
+ {
+  "key": "E0630",
+  "en": "M. Archer"
+ },
+ {
+  "key": "E0631",
+  "en": "Rifleman"
+ },
+ {
+  "key": "E0632",
+  "en": "Cannonr."
+ },
+ {
+  "key": "E0633",
+  "en": "Cann. Cpt."
+ },
+ {
+  "key": "E0634",
+  "en": "Swordsm."
+ },
+ {
+  "key": "E0635",
+  "en": "Swd. Mstr."
+ },
+ {
+  "key": "E0636",
+  "en": "Genin"
+ },
+ {
+  "key": "E0637",
+  "en": "Jonin"
+ },
+ {
+  "key": "E0638",
+  "en": "Kunoichi",
+  "note": "Glossary."
+ },
+ {
+  "key": "E0639",
+  "en": "Inspectr."
+ },
+ {
+  "key": "E0640",
+  "en": "Strat."
+ },
+ {
+  "key": "E0641",
+  "en": "Bandit",
+  "note": "Glossary."
+ },
+ {
+  "key": "E0642",
+  "en": "Nob. Thief"
+ },
+ {
+  "key": "E0643",
+  "en": "Pirate",
+  "note": "Glossary."
+ },
+ {
+  "key": "E0644",
+  "en": "Pir. Chief"
+ },
+ {
+  "key": "E0645",
+  "en": "War Monk"
+ },
+ {
+  "key": "E0646",
+  "en": "Lt. Supply"
+ },
+ {
+  "key": "E0647",
+  "en": "Hv. Supply"
+ },
+ {
+  "key": "E0648",
+  "en": "Fife&Drum"
+ },
+ {
+  "key": "E0649",
+  "en": "Mil. Band"
+ },
+ {
+  "key": "E0650",
+  "en": "Stores"
+ },
+ {
+  "key": "E0651",
+  "en": "Workshop"
+ },
+ {
+  "key": "E0652",
+  "en": "Market"
+ },
+ {
+  "key": "E0653",
+  "en": "Tavern"
+ },
+ {
+  "key": "E0654",
+  "en": "Samurai"
+ },
+ {
+  "key": "E0655",
+  "en": "House"
+ },
+ {
+  "key": "E0656",
+  "en": "Temple"
+ },
+ {
+  "key": "E0657",
+  "en": "Quarters"
+ },
+ {
+  "key": "E0658",
+  "en": "Exit"
+ },
+ {
+  "key": "E0659",
+  "en": "Yes"
+ },
+ {
+  "key": "E0660",
+  "en": "No"
+ },
+ {
+  "key": "E0661",
+  "en": "Enemies"
+ },
+ {
+  "key": "E0662",
+  "en": "Both"
+ },
+ {
+  "key": "E0663",
+  "en": "Move"
+ },
+ {
+  "key": "E0664",
+  "en": "%s: %s"
+ },
+ {
+  "key": "E0665",
+  "en": "Plain",
+  "note": "Terrain names (table 0x800FEF1C, 36 px)."
+ },
+ {
+  "key": "E0666",
+  "en": "Meadow"
+ },
+ {
+  "key": "E0667",
+  "en": "Road"
+ },
+ {
+  "key": "E0668",
+  "en": "Bridge"
+ },
+ {
+  "key": "E0669",
+  "en": "Field"
+ },
+ {
+  "key": "E0670",
+  "en": "Woods"
+ },
+ {
+  "key": "E0671",
+  "en": "Rough"
+ },
+ {
+  "key": "E0672",
+  "en": "Upland"
+ },
+ {
+  "key": "E0673",
+  "en": "Crag"
+ },
+ {
+  "key": "E0674",
+  "en": "Cliff"
+ },
+ {
+  "key": "E0675",
+  "en": "Sea"
+ },
+ {
+  "key": "E0676",
+  "en": "River"
+ },
+ {
+  "key": "E0677",
+  "en": "Pond"
+ },
+ {
+  "key": "E0678",
+  "en": "Shoal"
+ },
+ {
+  "key": "E0679",
+  "en": "Beach"
+ },
+ {
+  "key": "E0680",
+  "en": "Castle"
+ },
+ {
+  "key": "E0681",
+  "en": "Town"
+ },
+ {
+  "key": "E0682",
+  "en": "Village"
+ },
+ {
+  "key": "E0683",
+  "en": "Fort"
+ },
+ {
+  "key": "E0684",
+  "en": "Depot"
+ },
+ {
+  "key": "E0685",
+  "en": "Vault"
+ },
+ {
+  "key": "E0686",
+  "en": "Manor"
+ },
+ {
+  "key": "E0687",
+  "en": "Gate"
+ },
+ {
+  "key": "E0688",
+  "en": "Fence"
+ },
+ {
+  "key": "E0689",
+  "en": "Keep"
+ },
+ {
+  "key": "E0690",
+  "en": "Wall"
+ },
+ {
+  "key": "E0691",
+  "en": "Bulwark"
+ },
+ {
+  "key": "E0692",
+  "en": "Mound"
+ },
+ {
+  "key": "E0693",
+  "en": "Tower"
+ },
+ {
+  "key": "E0694",
+  "en": "Moat"
+ },
+ {
+  "key": "E0695",
+  "en": "HQ"
+ },
+ {
+  "key": "E0696",
+  "en": "Mine"
+ },
+ {
+  "key": "E0697",
+  "en": "Shrine"
+ },
+ {
+  "key": "E0698",
+  "en": "Fire"
+ },
+ {
+  "key": "E0699",
+  "en": "Water"
+ },
+ {
+  "key": "E0700",
+  "en": "Heals"
+ },
+ {
+  "key": "E0701",
+  "en": "Go!"
+ },
+ {
+  "key": "E0702",
+  "en": "Unit",
+  "note": "Same menu as E0701. 'Units' is 25 px > 24 (Japanese width); the box is sized by strlen x 8 (0x800599C0), so 'Units' would actually fit: use it if the limit is relaxed."
+ },
+ {
+  "key": "E0703",
+  "en": "A"
+ },
+ {
+  "key": "E0704",
+  "en": "Units"
+ },
+ {
+  "key": "E0705",
+  "en": "High Lv"
+ },
+ {
+  "key": "E0706",
+  "en": "Low Lv",
+  "note": "See E0705."
+ },
+ {
+  "key": "E0707",
+  "en": "%s ",
+  "note": "Hint showing the next sort order (table 0x800FF170, index (n+1) mod 4) at x=0x6C, y=0xD2 (0x80064A3C). The full-width space after %s becomes one ASCII space."
+ },
+ {
+  "key": "E0708",
+  "en": "Equip"
+ },
+ {
+  "key": "E0709",
+  "en": "Unequip"
+ }
+]

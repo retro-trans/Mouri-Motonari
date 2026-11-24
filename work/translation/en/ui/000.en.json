@@ -1,0 +1,328 @@
+[
+ {
+  "key": "D0001",
+  "en": "Poor Tanto"
+ },
+ {
+  "key": "D0002",
+  "en": "Poor Wakizashi"
+ },
+ {
+  "key": "D0003",
+  "en": "Poor Kodachi"
+ },
+ {
+  "key": "D0004",
+  "en": "Poor Katana"
+ },
+ {
+  "key": "D0005",
+  "en": "Tanto"
+ },
+ {
+  "key": "D0006",
+  "en": "Wakizashi"
+ },
+ {
+  "key": "D0007",
+  "en": "Kodachi"
+ },
+ {
+  "key": "D0008",
+  "en": "Katana"
+ },
+ {
+  "key": "D0009",
+  "en": "Fine Tanto"
+ },
+ {
+  "key": "D0010",
+  "en": "Fine Wakizashi"
+ },
+ {
+  "key": "D0011",
+  "en": "Fine Kodachi"
+ },
+ {
+  "key": "D0012",
+  "en": "Fine Katana"
+ },
+ {
+  "key": "D0013",
+  "en": "Broad Tanto"
+ },
+ {
+  "key": "D0014",
+  "en": "Slim Tanto"
+ },
+ {
+  "key": "D0015",
+  "en": "Broad Sword"
+ },
+ {
+  "key": "D0016",
+  "en": "Slim Sword"
+ },
+ {
+  "key": "D0017",
+  "en": "Kunimitsu Tan."
+ },
+ {
+  "key": "D0018",
+  "en": "Yoshimitsu Tan."
+ },
+ {
+  "key": "D0019",
+  "en": "Masamune Tan."
+ },
+ {
+  "key": "D0020",
+  "en": "Magobei Waki."
+ },
+ {
+  "key": "D0021",
+  "en": "Yoshimitsu Wk.",
+  "note": "'Yoshimitsu Waki.' is 75 px, so 'Wk.' here only."
+ },
+ {
+  "key": "D0022",
+  "en": "Muneshige Waki."
+ },
+ {
+  "key": "D0023",
+  "en": "Muneshige Kod."
+ },
+ {
+  "key": "D0024",
+  "en": "Masamune Kod."
+ },
+ {
+  "key": "D0025",
+  "en": "Kunimitsu Kod."
+ },
+ {
+  "key": "D0026",
+  "en": "Kogarasumaru"
+ },
+ {
+  "key": "D0027",
+  "en": "Sasameyuki"
+ },
+ {
+  "key": "D0028",
+  "en": "Benikiri"
+ },
+ {
+  "key": "D0029",
+  "en": "Kotetsu"
+ },
+ {
+  "key": "D0030",
+  "en": "Rusty Tachi"
+ },
+ {
+  "key": "D0031",
+  "en": "Poor L.Sword"
+ },
+ {
+  "key": "D0032",
+  "en": "Poor Tachi"
+ },
+ {
+  "key": "D0033",
+  "en": "Hidden Blade"
+ },
+ {
+  "key": "D0034",
+  "en": "Long Sword"
+ },
+ {
+  "key": "D0035",
+  "en": "Tachi"
+ },
+ {
+  "key": "D0036",
+  "en": "Fine L.Sword"
+ },
+ {
+  "key": "D0037",
+  "en": "Fine Tachi"
+ },
+ {
+  "key": "D0038",
+  "en": "Denta"
+ },
+ {
+  "key": "D0039",
+  "en": "Kagehide"
+ },
+ {
+  "key": "D0040",
+  "en": "Dai Hannya"
+ },
+ {
+  "key": "D0041",
+  "en": "Bizen Osafune"
+ },
+ {
+  "key": "D0042",
+  "en": "Kiku-Ichimonji"
+ },
+ {
+  "key": "D0043",
+  "en": "Izumi Kanesada"
+ },
+ {
+  "key": "D0044",
+  "en": "Honebami"
+ },
+ {
+  "key": "D0045",
+  "en": "Onimaru"
+ },
+ {
+  "key": "D0046",
+  "en": "Monohoshizao"
+ },
+ {
+  "key": "D0047",
+  "en": "Masamune"
+ },
+ {
+  "key": "D0048",
+  "en": "Muramasa",
+  "note": "Glossary."
+ },
+ {
+  "key": "D0049",
+  "en": "Murasame"
+ },
+ {
+  "key": "D0050",
+  "en": "Tamagiri"
+ },
+ {
+  "key": "D0051",
+  "en": "Poor Sh.Spear",
+  "note": "'Poor Short Spear' does not fit; Sh. = Short."
+ },
+ {
+  "key": "D0052",
+  "en": "Poor Naginata"
+ },
+ {
+  "key": "D0053",
+  "en": "Poor Nagamaki"
+ },
+ {
+  "key": "D0054",
+  "en": "Poor L.Spear"
+ },
+ {
+  "key": "D0055",
+  "en": "Short Spear"
+ },
+ {
+  "key": "D0056",
+  "en": "Naginata"
+ },
+ {
+  "key": "D0057",
+  "en": "Nagamaki"
+ },
+ {
+  "key": "D0058",
+  "en": "Long Spear"
+ },
+ {
+  "key": "D0059",
+  "en": "Kuda Yari"
+ },
+ {
+  "key": "D0060",
+  "en": "Fine Sh.Spear"
+ },
+ {
+  "key": "D0061",
+  "en": "Fine Naginata"
+ },
+ {
+  "key": "D0062",
+  "en": "Fine Nagamaki"
+ },
+ {
+  "key": "D0063",
+  "en": "Fine Kuda Yari"
+ },
+ {
+  "key": "D0064",
+  "en": "Fine L.Spear",
+  "note": "Glossary en 'Masterwork Long Spear' (116 px) has no short form; menu form chosen here."
+ },
+ {
+  "key": "D0065",
+  "en": "Omi Short Yari"
+ },
+ {
+  "key": "D0066",
+  "en": "Big Naginata"
+ },
+ {
+  "key": "D0067",
+  "en": "Big Nagamaki"
+ },
+ {
+  "key": "D0068",
+  "en": "Kunimitsu Nagi.",
+  "note": "Nagi. = Naginata."
+ },
+ {
+  "key": "D0069",
+  "en": "Magobei Naga.",
+  "note": "Naga. = Nagamaki (full form 85 px)."
+ },
+ {
+  "key": "D0070",
+  "en": "Ito Kuda Yari"
+ },
+ {
+  "key": "D0071",
+  "en": "Jumonji Yari"
+ },
+ {
+  "key": "D0072",
+  "en": "Tsukushi Yari"
+ },
+ {
+  "key": "D0073",
+  "en": "Omi Yari"
+ },
+ {
+  "key": "D0074",
+  "en": "Sasaho Yari"
+ },
+ {
+  "key": "D0075",
+  "en": "Katakama Yari"
+ },
+ {
+  "key": "D0076",
+  "en": "Ryokama Yari"
+ },
+ {
+  "key": "D0077",
+  "en": "Kikuchi Yari"
+ },
+ {
+  "key": "D0078",
+  "en": "Moon Jumonji"
+ },
+ {
+  "key": "D0079",
+  "en": "Osafune L.Sp."
+ },
+ {
+  "key": "D0080",
+  "en": "Muneshige L.Sp."
+ }
+]

@@ -1,0 +1,270 @@
+[
+ {
+  "key": "U05600"
+ },
+ {
+  "key": "U05601",
+  "note": "Pattern of U04512 ('Who on earth is he...'), made gender-neutral ('that'): the monk's gender is unknown in characters.json."
+ },
+ {
+  "key": "U05602",
+  "note": "Identical JP to U04511; its English reused. Branch where Terumoto declines the deal. Shared by 8 occurrences."
+ },
+ {
+  "key": "U05603"
+ },
+ {
+  "key": "U05604"
+ },
+ {
+  "key": "U05605"
+ },
+ {
+  "key": "U05606",
+  "note": "Acc review: subject restored ('The monk's gone!?'; all 4 occurrences are Komuso Monk scenes). Shared by 4 occurrences."
+ },
+ {
+  "key": "U05607"
+ },
+ {
+  "key": "U05608"
+ },
+ {
+  "key": "U05609"
+ },
+ {
+  "key": "U05610",
+  "note": "Same JP as U01553; its English reused. Shared by 5 occurrences."
+ },
+ {
+  "key": "U05611"
+ },
+ {
+  "key": "U05612"
+ },
+ {
+  "key": "U05613"
+ },
+ {
+  "key": "U05614"
+ },
+ {
+  "key": "U05615",
+  "note": "Shared by 2 occurrences."
+ },
+ {
+  "key": "U05616"
+ },
+ {
+  "key": "U05617",
+  "note": "As U05336."
+ },
+ {
+  "key": "U05618",
+  "note": "Shared by 2 occurrences."
+ },
+ {
+  "key": "U05619"
+ },
+ {
+  "key": "U05620"
+ },
+ {
+  "key": "U05621"
+ },
+ {
+  "key": "U05622"
+ },
+ {
+  "key": "U05623"
+ },
+ {
+  "key": "U05624",
+  "note": "Shared by 3 occurrences."
+ },
+ {
+  "key": "U05625"
+ },
+ {
+  "key": "U05626",
+  "note": "Shared by 4 occurrences."
+ },
+ {
+  "key": "U05627"
+ },
+ {
+  "key": "U05628"
+ },
+ {
+  "key": "U05629"
+ },
+ {
+  "key": "U05630"
+ },
+ {
+  "key": "U05631",
+  "note": "The reformed bandit of the R_20 tavern side story, after the reconciliation (U05633-U05636)."
+ },
+ {
+  "key": "U05632"
+ },
+ {
+  "key": "U05633"
+ },
+ {
+  "key": "U05634"
+ },
+ {
+  "key": "U05635"
+ },
+ {
+  "key": "U05636"
+ },
+ {
+  "key": "U05637"
+ },
+ {
+  "key": "U05638"
+ },
+ {
+  "key": "U05639"
+ },
+ {
+  "key": "U05640"
+ },
+ {
+  "key": "U05641"
+ },
+ {
+  "key": "U05642",
+  "note": "JP page break kept as in the source."
+ },
+ {
+  "key": "U05643"
+ },
+ {
+  "key": "U05644"
+ },
+ {
+  "key": "U05645",
+  "note": "Pattern of U01119 ('We now march to the relief of ...'). Okayama Castle per terms.json."
+ },
+ {
+  "key": "U05646"
+ },
+ {
+  "key": "U05647",
+  "en": "Bizen Campaign\nVictory Conditions\n  1. Defeat all enemies\nDefeat Conditions\n  1. Mouri Terumoto retreats\n  2. Mouri HQ is captured\n  3. More than 90 turns pass"
+ },
+ {
+  "key": "U05648"
+ },
+ {
+  "key": "U05649",
+  "en": "Bizen Campaign\n\nVictory Conditions\n  1. Defeat all enemies\nDefeat Conditions\n  1. Mouri Terumoto retreats\n  2. Mouri HQ is captured\n  3. More than 90 turns pass",
+  "note": "Same as U05647 with the JP blank second line kept."
+ },
+ {
+  "key": "U05650",
+  "en": "Takeyoshi's pirates appeared."
+ },
+ {
+  "key": "U05651"
+ },
+ {
+  "key": "U05652",
+  "note": "Noshima per terms.json."
+ },
+ {
+  "key": "U05653"
+ },
+ {
+  "key": "U05654"
+ },
+ {
+  "key": "U05655"
+ },
+ {
+  "key": "U05656"
+ },
+ {
+  "key": "U05657"
+ },
+ {
+  "key": "U05658",
+  "en": "&\nOh?\nWhat's this......",
+  "note": "Nameless speaker line '&' copied as is (the player's unit finding something on the map)."
+ },
+ {
+  "key": "U05659"
+ },
+ {
+  "key": "U05660"
+ },
+ {
+  "key": "U05661",
+  "en": "Ukita Naoie's army retreated.",
+  "note": "Pattern of U00692 ('... withdrew')."
+ },
+ {
+  "key": "U05662"
+ },
+ {
+  "key": "U05663",
+  "en": "Mimura Motochika's army appeared.",
+  "note": "Pattern of U01886."
+ },
+ {
+  "key": "U05664"
+ },
+ {
+  "key": "U05665",
+  "en": "Shikanosuke's Amago remnants arrived"
+ },
+ {
+  "key": "U05666",
+  "note": "Pattern of U04590 ('Shikanosuke ... will be your opponent!')."
+ },
+ {
+  "key": "U05667"
+ },
+ {
+  "key": "U05668"
+ },
+ {
+  "key": "U05669"
+ },
+ {
+  "key": "U05670"
+ },
+ {
+  "key": "U05671",
+  "en": "Murakami Takeyoshi joined your army.",
+  "note": "Glossary pattern with a period (36 chars). Shared by 3 occurrences."
+ },
+ {
+  "key": "U05672"
+ },
+ {
+  "key": "U05673"
+ },
+ {
+  "key": "U05674",
+  "note": "Same as U02137 with Terumoto. Shared by 6 occurrences."
+ },
+ {
+  "key": "U05675"
+ },
+ {
+  "key": "U05676"
+ },
+ {
+  "key": "U05677"
+ },
+ {
+  "key": "U05678"
+ },
+ {
+  "key": "U05679"
+ }
+]

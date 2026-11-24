@@ -1,0 +1,55 @@
+{
+ "movie": "MOVIE04",
+ "subtitles": [
+  {
+   "start": 6.7,
+   "end": 11.3,
+   "speaker": "Retainer",
+   "en": "Miyao Castle's water has already been cut off, and its garrison is suffering from thirst."
+  },
+  {
+   "start": 11.72,
+   "end": 14.6,
+   "speaker": "Retainer",
+   "en": "The castle is badly damaged as well. It can hold five more days at most."
+  },
+  {
+   "start": 15.12,
+   "end": 16.9,
+   "speaker": "Retainer",
+   "en": "Its fall is only a matter of time."
+  },
+  {
+   "start": 19.26,
+   "end": 22.8,
+   "speaker": "Mouri son",
+   "en": "Father, we can no longer wait for the Murakami Navy to arrive."
+  },
+  {
+   "start": 23.3,
+   "end": 27.1,
+   "speaker": "Mouri son",
+   "en": "If Miyao Castle falls, this war is as good as lost."
+  },
+  {
+   "start": 27.16,
+   "end": 29.48,
+   "speaker": "Mouri son",
+   "en": "Above all, we cannot leave the men at Miyao to die."
+  },
+  {
+   "start": 29.7,
+   "end": 32.5,
+   "speaker": "Mouri son",
+   "en": "We are short of ships, but that can't be helped now."
+  },
+  {
+   "start": 58.3,
+   "end": 61.8,
+   "speaker": "Mouri Motonari",
+   "en": "There will be no retreat in this battle! The time has come!"
+  }
+ ],
+ "labels": [],
+ "review": "Self-reviewed 2026-11-18 (accuracy against the transcript and frames, voice, proofreading); not yet through separate review agents."
+}

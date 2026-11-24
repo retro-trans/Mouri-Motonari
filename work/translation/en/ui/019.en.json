@@ -1,0 +1,331 @@
+[
+ {
+  "key": "I0243",
+  "en": "Calls down lightning on several enemy units, dealing damage."
+ },
+ {
+  "key": "I0244",
+  "en": "Swiftly slashes several enemy units, dealing damage."
+ },
+ {
+  "key": "I0245",
+  "en": "Engulfs several enemy units in flames, dealing damage."
+ },
+ {
+  "key": "I0246",
+  "en": "Deals 4x normal damage to several enemy units. The user is also hurt, wounded and confused."
+ },
+ {
+  "key": "I0247",
+  "en": "Damages several enemy units on plains, meadows or in woods with a fire attack."
+ },
+ {
+  "key": "I0248",
+  "en": "Damages several enemy units at sea, in shoals or on beaches with a flood attack."
+ },
+ {
+  "key": "I0249",
+  "en": "Fells great trees onto several enemy units in woods, dealing damage."
+ },
+ {
+  "key": "I0250",
+  "en": "Drops rocks onto several enemy units in the mountains, dealing damage."
+ },
+ {
+  "key": "I0251",
+  "en": "Damages several enemy units at sea with raging waves."
+ },
+ {
+  "key": "I0252",
+  "en": "Sets a bear on several enemy units in the mountains, damaging and confusing them."
+ },
+ {
+  "key": "I0253",
+  "en": "Sets sharks on several enemy units at sea, damaging and confusing them."
+ },
+ {
+  "key": "I0254",
+  "en": "Reduces the Skill Points of several enemy units."
+ },
+ {
+  "key": "I0255",
+  "en": "Attacks one enemy unit and one more enemy unit beyond it in the same line."
+ },
+ {
+  "key": "I0256",
+  "en": "Attacks one enemy unit and two more enemy units beyond it in the same line."
+ },
+ {
+  "key": "I0257",
+  "en": "Attacks two enemy units within range in quick succession."
+ },
+ {
+  "key": "I0258",
+  "en": "Stops one enemy Cavalry or Mounted Archer unit from moving."
+ },
+ {
+  "key": "I0259",
+  "en": "Stops one enemy unit at sea from moving."
+ },
+ {
+  "key": "I0260",
+  "en": "Stops several enemy units from moving and also lowers their Attack."
+ },
+ {
+  "key": "I0261",
+  "en": "Lowers the Attack of several enemy units."
+ },
+ {
+  "key": "I0262",
+  "en": "Lowers the Defense of one enemy unit.\nNo effect on Kunoichi or Kunoichi Chiefs."
+ },
+ {
+  "key": "I0263",
+  "en": "Lowers the Attack of several enemy units.\nNo effect on Kunoichi or Kunoichi Chiefs."
+ },
+ {
+  "key": "I0264",
+  "en": "Confuses several enemy units.\nNo effect on Kunoichi or Kunoichi Chiefs."
+ },
+ {
+  "key": "I0265",
+  "en": "Makes one enemy unit unlucky."
+ },
+ {
+  "key": "I0266",
+  "en": "Seals the skills of one enemy unit."
+ },
+ {
+  "key": "I0267",
+  "en": "Stops one enemy unit from moving."
+ },
+ {
+  "key": "I0268",
+  "en": "Steals Skill Points from one enemy unit, up to 80 percent of its maximum."
+ },
+ {
+  "key": "I0269",
+  "en": "Fully restores the Endurance of one allied unit."
+ },
+ {
+  "key": "I0270",
+  "en": "Restores the Endurance of one allied unit."
+ },
+ {
+  "key": "I0271",
+  "en": "Fully restores the Endurance of several allied units."
+ },
+ {
+  "key": "I0272",
+  "en": "Restores the Endurance of several allied units."
+ },
+ {
+  "key": "I0273",
+  "en": "Restores the user's Endurance when it is in the mountains or in woods."
+ },
+ {
+  "key": "I0274",
+  "en": "Restores the user's Endurance when it is at sea or in shoals."
+ },
+ {
+  "key": "I0275",
+  "en": "Fully restores the Endurance of all allied units."
+ },
+ {
+  "key": "I0276",
+  "en": "Restores the Endurance of all allied units."
+ },
+ {
+  "key": "I0277",
+  "en": "Calms the confusion of one allied unit."
+ },
+ {
+  "key": "I0278",
+  "en": "Unseals the skills of one allied unit."
+ },
+ {
+  "key": "I0279",
+  "en": "Frees one allied unit from being bound."
+ },
+ {
+  "key": "I0280",
+  "en": "Restores the lost luck of one allied unit."
+ },
+ {
+  "key": "I0281",
+  "en": "Heals the bad wounds of one allied unit."
+ },
+ {
+  "key": "I0282",
+  "en": "Raises the Attack of several allied units."
+ },
+ {
+  "key": "I0283",
+  "en": "Raises the Defense of several allied units."
+ },
+ {
+  "key": "I0284",
+  "en": "Raises the Intellect of several allied units."
+ },
+ {
+  "key": "I0285",
+  "en": "Restores the Skill Points of one allied unit."
+ },
+ {
+  "key": "I0286",
+  "en": "Swaps the Endurance of one enemy unit with the user's own."
+ },
+ {
+  "key": "I0287",
+  "en": "Lets one allied unit that has already acted take another action."
+ },
+ {
+  "key": "I0288",
+  "en": "Changes the weather."
+ },
+ {
+  "key": "I0289",
+  "en": "Steals all the funds of one enemy unit."
+ },
+ {
+  "key": "I0290",
+  "en": "Increases your funds when the user is in a town or village."
+ },
+ {
+  "key": "I0291",
+  "en": "Lets the user move further from where it now stands."
+ },
+ {
+  "key": "I0292",
+  "en": "Lets the user move further from where it now stands, but it loses Endurance."
+ },
+ {
+  "key": "I0293",
+  "en": "When the user is at sea, lets it move further from where it now stands."
+ },
+ {
+  "key": "I0294",
+  "en": "Men, follow me!"
+ },
+ {
+  "key": "I0295",
+  "en": "Eldest brother Takamoto is here! I want only the enemy general's head!"
+ },
+ {
+  "key": "I0296",
+  "en": "I am Terumoto!\nLord Motonari, watch me!"
+ },
+ {
+  "key": "I0297",
+  "en": "Motoharu is here!\nI'll cut down anyone in my way!",
+  "note": "Officer #3 Kikkawa Motoharu."
+ },
+ {
+  "key": "I0298",
+  "en": "Kikkawa Hiroie is here!\nSee the valor I got from my father!"
+ },
+ {
+  "key": "I0299",
+  "en": "Takakage is here!\nBehold my plan for sure victory!",
+  "note": "Officer #5 Kobayakawa Takakage."
+ },
+ {
+  "key": "I0300",
+  "en": "Now, we march!\nThe glory will be mine!"
+ },
+ {
+  "key": "I0301",
+  "en": "Come, we march!\nI'll scatter the enemy!"
+ },
+ {
+  "key": "I0302",
+  "en": "Our work here will decide\nvictory or defeat.",
+  "note": "Officer #8 Shiji Hiroyoshi."
+ },
+ {
+  "key": "I0303",
+  "en": "Here we go!\nNo foe can beat my ever-victorious plans!"
+ },
+ {
+  "key": "I0304",
+  "en": "Watch well the fine art\nof my archery!",
+  "note": "Officer #10 Kuchiba Michiyoshi."
+ },
+ {
+  "key": "I0305",
+  "en": "I'm the Mouri clan's best archer! I'll shoot down the enemy general!"
+ },
+ {
+  "key": "I0306",
+  "en": "I'll show you archery\nthe equal of my father's."
+ },
+ {
+  "key": "I0307",
+  "en": "First spear's glory is mine!\nDrive on to their HQ!"
+ },
+ {
+  "key": "I0308",
+  "en": "First spear will be mine!\nWe ride straight for their camp!"
+ },
+ {
+  "key": "I0309",
+  "en": "My name is Iida Yoshitake!\nBehold my prized spearwork!",
+  "note": "Officer #15 Iida Yoshitake."
+ },
+ {
+  "key": "I0310",
+  "en": "Where's the enemy?!\nI, Narikata, will face you!",
+  "note": "Officer #16 Kodama Narikata; 'you' = the enemy."
+ },
+ {
+  "key": "I0311",
+  "en": "Nomi Munekatsu, that's me!\nI'll show you how pirates fight!"
+ },
+ {
+  "key": "I0312",
+  "en": "Let me show you the power of the Buddha.",
+  "note": "Officer #18 Ankokuji Ekei (monk). The Japanese has a stray break before the final 。; no break in English."
+ },
+ {
+  "key": "I0313",
+  "en": "With this bow, I'll seize victory!\nWe march!"
+ },
+ {
+  "key": "I0314",
+  "en": "I'm right here with you!\nFight to your heart's content!"
+ },
+ {
+  "key": "I0315",
+  "en": "My one aim: the enemy general's head! I'll put an arrow through it!"
+ },
+ {
+  "key": "I0316",
+  "en": "Heh... Let me show you the secrets of the ninja arts."
+ },
+ {
+  "key": "I0317",
+  "en": "To battle! Let's go!\nI won't yield the glory to anyone!",
+  "note": "Officer #23 Kumagai Nobunao."
+ },
+ {
+  "key": "I0318",
+  "en": "I am Takaie of Goryu Castle!\nFace me! Face me!"
+ },
+ {
+  "key": "I0319",
+  "en": "Battle at last...\nMy blood is stirring...",
+  "note": "Officer #25 Kagawa Mitsukage."
+ },
+ {
+  "key": "I0320",
+  "en": "Whoever blocks the Mouri advance will be rust on my blade!"
+ },
+ {
+  "key": "I0321",
+  "en": "The battle begins...\nI'm shaking with excitement..."
+ },
+ {
+  "key": "I0322",
+  "en": "None can stand before me!\nYou lowborn dogs! Prepare to die!"
+ }
+]

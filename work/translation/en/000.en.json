@@ -1,0 +1,277 @@
+[
+ {
+  "key": "U00000",
+  "en": "Chapter 1: Unification of Aki",
+  "note": "Glossary form (29 chars). acc review: restored; titles grow with the text up to 36 chars (checker TITLE_BYTES), the earlier px limit was an outdated assumption."
+ },
+ {
+  "key": "U00001",
+  "en": "Episode 1: The Young Eagle's Debut"
+ },
+ {
+  "key": "U00002",
+  "en": "Battlefield vs. Shishido"
+ },
+ {
+  "key": "U00003"
+ },
+ {
+  "key": "U00004"
+ },
+ {
+  "key": "U00005"
+ },
+ {
+  "key": "U00006"
+ },
+ {
+  "key": "U00007",
+  "en": "Mouri Army HQ",
+  "note": "Glossary caption form. Shared by 11 occurrences. acc review: restored glossary form; titles grow with the text up to 36 chars (checker TITLE_BYTES), the earlier px limit was an outdated assumption."
+ },
+ {
+  "key": "U00008"
+ },
+ {
+  "key": "U00009"
+ },
+ {
+  "key": "U00010"
+ },
+ {
+  "key": "U00011"
+ },
+ {
+  "key": "U00012"
+ },
+ {
+  "key": "U00013"
+ },
+ {
+  "key": "U00014"
+ },
+ {
+  "key": "U00015"
+ },
+ {
+  "key": "U00016"
+ },
+ {
+  "key": "U00017"
+ },
+ {
+  "key": "U00018"
+ },
+ {
+  "key": "U00019"
+ },
+ {
+  "key": "U00020",
+  "note": "Interrupted line kept unfinished; Okimoto collapses."
+ },
+ {
+  "key": "U00021"
+ },
+ {
+  "key": "U00022"
+ },
+ {
+  "key": "U00023"
+ },
+ {
+  "key": "U00024",
+  "en": "Shishido Army HQ",
+  "note": "Same pattern as 'Mouri Army HQ' (U00007). acc review: restored glossary form; titles grow with the text up to 36 chars (checker TITLE_BYTES), the earlier px limit was an outdated assumption."
+ },
+ {
+  "key": "U00025"
+ },
+ {
+  "key": "U00026"
+ },
+ {
+  "key": "U00027"
+ },
+ {
+  "key": "U00028",
+  "note": "Direction: the commander asks Motoyoshi to entrust the pursuit to him."
+ },
+ {
+  "key": "U00029"
+ },
+ {
+  "key": "U00030"
+ },
+ {
+  "key": "U00031"
+ },
+ {
+  "key": "U00032"
+ },
+ {
+  "key": "U00033",
+  "en": "Tsunehisa's Seat: Gassan-Toda Castle"
+ },
+ {
+  "key": "U00034",
+  "en": "Gassan-Toda Castle: Garden",
+  "note": "Glossary place + room (26 chars). acc review: restored glossary form; titles grow with the text up to 36 chars (checker TITLE_BYTES), the earlier px limit was an outdated assumption."
+ },
+ {
+  "key": "U00035"
+ },
+ {
+  "key": "U00036"
+ },
+ {
+  "key": "U00037"
+ },
+ {
+  "key": "U00038"
+ },
+ {
+  "key": "U00039"
+ },
+ {
+  "key": "U00040"
+ },
+ {
+  "key": "U00041"
+ },
+ {
+  "key": "U00042"
+ },
+ {
+  "key": "U00043",
+  "en": "Yoshida-Koriyama Castle",
+  "note": "Glossary form (23 chars). Shared by 35 occurrences. acc review: restored glossary form; titles grow with the text up to 36 chars (checker TITLE_BYTES), the earlier px limit was an outdated assumption."
+ },
+ {
+  "key": "U00044",
+  "en": "Koriyama Castle: Castle Town"
+ },
+ {
+  "key": "U00045"
+ },
+ {
+  "key": "U00046"
+ },
+ {
+  "key": "U00047"
+ },
+ {
+  "key": "U00048"
+ },
+ {
+  "key": "U00049",
+  "note": "Fukubara calls out (U00048) but Shiji answers here, as in the Japanese."
+ },
+ {
+  "key": "U00050"
+ },
+ {
+  "key": "U00051",
+  "en": "Koriyama Castle: Mouri Okimoto's Residence",
+  "note": "Full form since 0.2.12 (caption box sized by text width, limit 288 px): family name and 'Residence' restored; 'Koriyama Castle' is the approved short form used by the other Koriyama captions. 209 px."
+ },
+ {
+  "key": "U00052"
+ },
+ {
+  "key": "U00053"
+ },
+ {
+  "key": "U00054",
+  "note": "'we' = Mototsuna and Lady Aio; addressed to Lady Fuji."
+ },
+ {
+  "key": "U00055",
+  "note": "'we' = Motonari and Lady Sugi."
+ },
+ {
+  "key": "U00056"
+ },
+ {
+  "key": "U00057",
+  "en": "Koriyama Castle: Castle Interior",
+  "note": "Glossary room name, 'Koriyama Castle:' prefix (32 chars). Shared by 3 occurrences. acc review: restored glossary form; titles grow with the text up to 36 chars (checker TITLE_BYTES), the earlier px limit was an outdated assumption."
+ },
+ {
+  "key": "U00058"
+ },
+ {
+  "key": "U00059"
+ },
+ {
+  "key": "U00060",
+  "en": "Koriyama Castle: Living Quarters",
+  "note": "Glossary room name, 'Koriyama Castle:' prefix (32 chars). Shared by 48 occurrences. acc review: restored glossary form; titles grow with the text up to 36 chars (checker TITLE_BYTES), the earlier px limit was an outdated assumption."
+ },
+ {
+  "key": "U00061"
+ },
+ {
+  "key": "U00062",
+  "en": "Go to the Council Chamber"
+ },
+ {
+  "key": "U00063",
+  "en": "Koriyama Castle: Council Chamber",
+  "note": "Glossary room name, 'Koriyama Castle:' prefix (32 chars). Shared by 50 occurrences. acc review: restored glossary form; titles grow with the text up to 36 chars (checker TITLE_BYTES), the earlier px limit was an outdated assumption."
+ },
+ {
+  "key": "U00064"
+ },
+ {
+  "key": "U00065"
+ },
+ {
+  "key": "U00066"
+ },
+ {
+  "key": "U00067"
+ },
+ {
+  "key": "U00068",
+  "en": "Talk to Lady Sugi"
+ },
+ {
+  "key": "U00069"
+ },
+ {
+  "key": "U00070"
+ },
+ {
+  "key": "U00071"
+ },
+ {
+  "key": "U00072",
+  "note": "Same wording as U00065 (identical Japanese line)."
+ },
+ {
+  "key": "U00073",
+  "en": "Koriyama Castle: Retainers' Hall"
+ },
+ {
+  "key": "U00074",
+  "en": "Koriyama: Storehouse"
+ },
+ {
+  "key": "U00075"
+ },
+ {
+  "key": "U00076",
+  "en": "Listen\nSkip"
+ },
+ {
+  "key": "U00077"
+ },
+ {
+  "key": "U00078",
+  "en": "Koriyama: Workshop",
+  "note": "Same as U00074. Shared by 28 occurrences. acc review: restored glossary form; titles grow with the text up to 36 chars (checker TITLE_BYTES), the earlier px limit was an outdated assumption."
+ },
+ {
+  "key": "U00079"
+ }
+]

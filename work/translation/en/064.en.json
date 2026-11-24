@@ -1,0 +1,269 @@
+[
+ {
+  "key": "U05120"
+ },
+ {
+  "key": "U05121"
+ },
+ {
+  "key": "U05122"
+ },
+ {
+  "key": "U05123",
+  "en": "&\nA shrine! We'll pray for our victory!"
+ },
+ {
+  "key": "U05124"
+ },
+ {
+  "key": "U05125",
+  "en": "Otomo Sorin's main army arrived."
+ },
+ {
+  "key": "U05126"
+ },
+ {
+  "key": "U05127",
+  "en": "Chikuzen Campaign\nVictory Conditions\n  1. Make Otomo Sorin retreat\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 60 turns pass",
+  "note": "Same form as U05115 (terms.json 'Chikuzen Campaign' and condition wording), victory target now Otomo Sorin."
+ },
+ {
+  "key": "U05128",
+  "en": "Chikuzen Campaign (Goal Changed)\n\nVictory Conditions\n  1. Make Otomo Sorin retreat\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 60 turns pass",
+  "note": "Glossary '(Victory Conditions Changed)' does not fit after the battle name (limit 168 px); '(Goal Changed)' as in U02654. JP blank second line kept (as U05116)."
+ },
+ {
+  "key": "U05129"
+ },
+ {
+  "key": "U05130"
+ },
+ {
+  "key": "U05131"
+ },
+ {
+  "key": "U05132"
+ },
+ {
+  "key": "U05133"
+ },
+ {
+  "key": "U05134"
+ },
+ {
+  "key": "U05135"
+ },
+ {
+  "key": "U05136"
+ },
+ {
+  "key": "U05137",
+  "en": "Ep. 20: Dream of an Amago Revival",
+  "note": "terms.json 'Episode 20: Dream of an Amago Revival' is 37 chars (limit 36); prefix shortened to 'Ep. 20:' as in U02139/U02960/U03528. Shared by 3 occurrences."
+ },
+ {
+  "key": "U05138"
+ },
+ {
+  "key": "U05139"
+ },
+ {
+  "key": "U05140",
+  "note": "Inner line kept in parentheses."
+ },
+ {
+  "key": "U05141"
+ },
+ {
+  "key": "U05142"
+ },
+ {
+  "key": "U05143"
+ },
+ {
+  "key": "U05144",
+  "en": "Nijo Castle: Council Chamber"
+ },
+ {
+  "key": "U05145",
+  "en": "Illness brought on by age and\noverwork forced Motonari to\nrest for a time.\n\n\n\nSeizing on this lull,\nShikanosuke met Sanehisa's\norphaned son, Magoshiro,\nand won his consent to lead the\nrestoration army as Amago head.\n\nHashiba Hideyoshi, learning of\nthis, approached Shikanosuke and\noffered to mediate with Nobunaga."
+ },
+ {
+  "key": "U05146"
+ },
+ {
+  "key": "U05147",
+  "note": "Hideyoshi orders an attendant to bring in Katsuhisa and Shikanosuke (U05148); 'them' restored."
+ },
+ {
+  "key": "U05148"
+ },
+ {
+  "key": "U05149"
+ },
+ {
+  "key": "U05150"
+ },
+ {
+  "key": "U05151",
+  "en": "Shikanosuke's Temple Lodging"
+ },
+ {
+  "key": "U05152"
+ },
+ {
+  "key": "U05153"
+ },
+ {
+  "key": "U05154"
+ },
+ {
+  "key": "U05155"
+ },
+ {
+  "key": "U05156"
+ },
+ {
+  "key": "U05157"
+ },
+ {
+  "key": "U05158"
+ },
+ {
+  "key": "U05159"
+ },
+ {
+  "key": "U05160"
+ },
+ {
+  "key": "U05161"
+ },
+ {
+  "key": "U05162"
+ },
+ {
+  "key": "U05163"
+ },
+ {
+  "key": "U05164",
+  "en": "Talk to Kikkawa Motoharu and\nKobayakawa Takakage"
+ },
+ {
+  "key": "U05165",
+  "en": "Gassan-Toda Castle: Retainers' Hall",
+  "note": "Glossary forms in full (35 chars). Shared by 5 occurrences."
+ },
+ {
+  "key": "U05166"
+ },
+ {
+  "key": "U05167",
+  "note": "The gift itself is not named in the text."
+ },
+ {
+  "key": "U05168"
+ },
+ {
+  "key": "U05169"
+ },
+ {
+  "key": "U05170",
+  "en": "Gassan-Toda: Storehouse"
+ },
+ {
+  "key": "U05171",
+  "en": "Gassan-Toda: Tavern",
+  "note": "Shared by 6 occurrences."
+ },
+ {
+  "key": "U05172",
+  "en": "Gassan-Toda: Market",
+  "note": "Shared by 6 occurrences."
+ },
+ {
+  "key": "U05173",
+  "en": "Gassan-Toda: House",
+  "note": "Shared by 6 occurrences."
+ },
+ {
+  "key": "U05174",
+  "note": "Terumoto's mother speaking of her son: plain 'Terumoto'."
+ },
+ {
+  "key": "U05175"
+ },
+ {
+  "key": "U05176"
+ },
+ {
+  "key": "U05177"
+ },
+ {
+  "key": "U05178"
+ },
+ {
+  "key": "U05179"
+ },
+ {
+  "key": "U05180"
+ },
+ {
+  "key": "U05181"
+ },
+ {
+  "key": "U05182",
+  "en": "Amago Katsuhisa's Army HQ"
+ },
+ {
+  "key": "U05183"
+ },
+ {
+  "key": "U05184"
+ },
+ {
+  "key": "U05185"
+ },
+ {
+  "key": "U05186"
+ },
+ {
+  "key": "U05187"
+ },
+ {
+  "key": "U05188"
+ },
+ {
+  "key": "U05189"
+ },
+ {
+  "key": "U05190"
+ },
+ {
+  "key": "U05191"
+ },
+ {
+  "key": "U05192"
+ },
+ {
+  "key": "U05193"
+ },
+ {
+  "key": "U05194"
+ },
+ {
+  "key": "U05195"
+ },
+ {
+  "key": "U05196"
+ },
+ {
+  "key": "U05197"
+ },
+ {
+  "key": "U05198"
+ },
+ {
+  "key": "U05199",
+  "note": "Motoharu (his uncle) speaking to Motonari: plain 'Terumoto'. The JP page break between sentences is kept."
+ }
+]

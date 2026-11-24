@@ -1,0 +1,276 @@
+[
+ {
+  "key": "U03760"
+ },
+ {
+  "key": "U03761"
+ },
+ {
+  "key": "U03762",
+  "note": "Count 7. Same wording as U02330."
+ },
+ {
+  "key": "U03763"
+ },
+ {
+  "key": "U03764"
+ },
+ {
+  "key": "U03765"
+ },
+ {
+  "key": "U03766"
+ },
+ {
+  "key": "U03767",
+  "note": "Count 6."
+ },
+ {
+  "key": "U03768"
+ },
+ {
+  "key": "U03769"
+ },
+ {
+  "key": "U03770"
+ },
+ {
+  "key": "U03771"
+ },
+ {
+  "key": "U03772"
+ },
+ {
+  "key": "U03773"
+ },
+ {
+  "key": "U03774"
+ },
+ {
+  "key": "U03775",
+  "note": "Count 7."
+ },
+ {
+  "key": "U03776"
+ },
+ {
+  "key": "U03777"
+ },
+ {
+  "key": "U03778",
+  "note": "Count 2."
+ },
+ {
+  "key": "U03779"
+ },
+ {
+  "key": "U03780",
+  "note": "Spoken in the storehouse; 'here' kept."
+ },
+ {
+  "key": "U03781"
+ },
+ {
+  "key": "U03782",
+  "note": "Generic 'you' (the listener / anyone who trains)."
+ },
+ {
+  "key": "U03783"
+ },
+ {
+  "key": "U03784"
+ },
+ {
+  "key": "U03785",
+  "note": "The Japanese blank line is page padding, not a beat; dropped."
+ },
+ {
+  "key": "U03786"
+ },
+ {
+  "key": "U03787",
+  "note": "Count 5."
+ },
+ {
+  "key": "U03788"
+ },
+ {
+  "key": "U03789"
+ },
+ {
+  "key": "U03790"
+ },
+ {
+  "key": "U03791",
+  "note": "Count 2. Nemoto's gender is unknown (glossary); no pronoun."
+ },
+ {
+  "key": "U03792"
+ },
+ {
+  "key": "U03793",
+  "note": "Count 7. Casual pirate speech."
+ },
+ {
+  "key": "U03794"
+ },
+ {
+  "key": "U03795"
+ },
+ {
+  "key": "U03796"
+ },
+ {
+  "key": "U03797"
+ },
+ {
+  "key": "U03798"
+ },
+ {
+  "key": "U03799"
+ },
+ {
+  "key": "U03800",
+  "en": "Struggle for Moji Castle\nVictory Conditions\n  1. Capture Moji Castle\n  2. Defeat all enemies\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 60 turns pass",
+  "note": "Glossary battle name and condition forms."
+ },
+ {
+  "key": "U03801"
+ },
+ {
+  "key": "U03802"
+ },
+ {
+  "key": "U03803",
+  "en": "Struggle for Moji Castle\n\nVictory Conditions\n  1. Capture Moji Castle\n  2. Defeat all enemies\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 60 turns pass",
+  "note": "Same as U03800, with the blank line kept."
+ },
+ {
+  "key": "U03804"
+ },
+ {
+  "key": "U03805"
+ },
+ {
+  "key": "U03806",
+  "note": "Count 2."
+ },
+ {
+  "key": "U03807",
+  "note": "Count 2."
+ },
+ {
+  "key": "U03808"
+ },
+ {
+  "key": "U03809"
+ },
+ {
+  "key": "U03810"
+ },
+ {
+  "key": "U03811",
+  "en": "&\nSo this is a shrine... Let's pray for victory!"
+ },
+ {
+  "key": "U03812"
+ },
+ {
+  "key": "U03813",
+  "en": "&\nAll right! Moji Castle is ours! We've taken it!"
+ },
+ {
+  "key": "U03814"
+ },
+ {
+  "key": "U03815",
+  "en": "Struggle for Moji Castle\nVictory Conditions\n  1. Defeat all enemies\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Moji Castle is captured\n  3. Mouri HQ is captured\n  4. More than 60 turns pass"
+ },
+ {
+  "key": "U03816",
+  "en": "Struggle for Moji (New Conditions)\n\nVictory Conditions\n  1. Defeat all enemies\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Moji Castle is captured\n  3. Mouri HQ is captured\n  4. More than 60 turns pass",
+  "note": "First line limit 168 px. Glossary 'Struggle for Moji Castle (Conditions Changed)' is 220 px; shortened to 'Struggle for Moji (New Conditions)' (163 px): 'Castle' dropped and the glossary suffix '(Conditions Changed)' rephrased. Alt: 'Moji Castle (Conditions Changed)' (155 px; keeps the suffix, drops 'Struggle for'). Both victory and defeat conditions change here, so 'Conditions' rather than 'Goal'."
+ },
+ {
+  "key": "U03817",
+  "en": "Dosetsu's Otomo relief army arrived."
+ },
+ {
+  "key": "U03818"
+ },
+ {
+  "key": "U03819",
+  "note": "Standalone '!' as in U01068, followed by a page break as a reaction beat."
+ },
+ {
+  "key": "U03820",
+  "note": "Count 2."
+ },
+ {
+  "key": "U03821"
+ },
+ {
+  "key": "U03822"
+ },
+ {
+  "key": "U03823"
+ },
+ {
+  "key": "U03824"
+ },
+ {
+  "key": "U03825"
+ },
+ {
+  "key": "U03826"
+ },
+ {
+  "key": "U03827",
+  "en": "Masaki Kenichiro joined your army."
+ },
+ {
+  "key": "U03828",
+  "en": "&\nWe've taken back Moji Castle!",
+  "note": "Blank speaker '&' kept (an Otomo voice)."
+ },
+ {
+  "key": "U03829"
+ },
+ {
+  "key": "U03830",
+  "en": "The enemy retook Moji Castle."
+ },
+ {
+  "key": "U03831"
+ },
+ {
+  "key": "U03832",
+  "en": "Episode 15: The Rising Star of Owari",
+  "note": "Glossary title. Count 3."
+ },
+ {
+  "key": "U03833"
+ },
+ {
+  "key": "U03834",
+  "en": "Kiyosu Castle: Council Chamber",
+  "note": "Glossary forms. Count 2."
+ },
+ {
+  "key": "U03835"
+ },
+ {
+  "key": "U03836"
+ },
+ {
+  "key": "U03837"
+ },
+ {
+  "key": "U03838",
+  "en": "Kiyosu Castle: Living Quarters",
+  "note": "Glossary forms."
+ },
+ {
+  "key": "U03839"
+ }
+]

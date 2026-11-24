@@ -1,0 +1,269 @@
+[
+ {
+  "key": "U02480",
+  "note": "Same Japanese as U01718 (slice 022) apart from a page break; same English reused."
+ },
+ {
+  "key": "U02481"
+ },
+ {
+  "key": "U02482"
+ },
+ {
+  "key": "U02483",
+  "note": "Same wording as U01001/U01715."
+ },
+ {
+  "key": "U02484",
+  "note": "Hint line spoken before the recruit condition is met; the long ……… rendered as one '...'."
+ },
+ {
+  "key": "U02485"
+ },
+ {
+  "key": "U02486"
+ },
+ {
+  "key": "U02487"
+ },
+ {
+  "key": "U02488"
+ },
+ {
+  "key": "U02489"
+ },
+ {
+  "key": "U02490"
+ },
+ {
+  "key": "U02491"
+ },
+ {
+  "key": "U02492"
+ },
+ {
+  "key": "U02493"
+ },
+ {
+  "key": "U02494"
+ },
+ {
+  "key": "U02495"
+ },
+ {
+  "key": "U02496",
+  "en": "Train a little\nNot today"
+ },
+ {
+  "key": "U02497"
+ },
+ {
+  "key": "U02498"
+ },
+ {
+  "key": "U02499"
+ },
+ {
+  "key": "U02500",
+  "note": "Sparring kiai shouts kept as sounds."
+ },
+ {
+  "key": "U02501"
+ },
+ {
+  "key": "U02502"
+ },
+ {
+  "key": "U02503"
+ },
+ {
+  "key": "U02504",
+  "en": "EXP rose by 3."
+ },
+ {
+  "key": "U02505"
+ },
+ {
+  "key": "U02506"
+ },
+ {
+  "key": "U02507"
+ },
+ {
+  "key": "U02508",
+  "note": "Shorter version of the U02491 gossip; same English for the shared lines. 'he' = Yanohara (male). [acc] Matches U02491."
+ },
+ {
+  "key": "U02509",
+  "note": "JP page break kept."
+ },
+ {
+  "key": "U02510",
+  "note": "Close to U01744 ('Shogi? I'm no good at that.'); the …… pause kept."
+ },
+ {
+  "key": "U02511"
+ },
+ {
+  "key": "U02512"
+ },
+ {
+  "key": "U02513"
+ },
+ {
+  "key": "U02514"
+ },
+ {
+  "key": "U02515"
+ },
+ {
+  "key": "U02516",
+  "en": "Right box\nMiddle box\nLeft box\nActually, no",
+  "note": "Limit 84 px; 45 / 48 / 44 / 55 px. 'Actually, no' as in U01338."
+ },
+ {
+  "key": "U02517",
+  "note": "Shared by 2 occurrences."
+ },
+ {
+  "key": "U02518"
+ },
+ {
+  "key": "U02519"
+ },
+ {
+  "key": "U02520",
+  "note": "Same English as U02514."
+ },
+ {
+  "key": "U02521"
+ },
+ {
+  "key": "U02522",
+  "en": "Right box\nLeft box\nActually, no",
+  "note": "Limit 84 px; same options as U02516."
+ },
+ {
+  "key": "U02523"
+ },
+ {
+  "key": "U02524",
+  "en": "Paid 200 gold.",
+  "note": "Caption style as U02504 ('Got 100 gold.' pattern in terms.json)."
+ },
+ {
+  "key": "U02525"
+ },
+ {
+  "key": "U02526"
+ },
+ {
+  "key": "U02527"
+ },
+ {
+  "key": "U02528"
+ },
+ {
+  "key": "U02529"
+ },
+ {
+  "key": "U02530"
+ },
+ {
+  "key": "U02531"
+ },
+ {
+  "key": "U02532",
+  "note": "[edit] Same Motonari line as U02477/U02739: 'I'll have to pass this time'."
+ },
+ {
+  "key": "U02533"
+ },
+ {
+  "key": "U02534"
+ },
+ {
+  "key": "U02535",
+  "en": "Mat.\nTake\nUme",
+  "note": "Limit is the 24 px floor (JP lines are 1 character). 'Matsu' is 29 px; abbreviated to 'Mat.' (20 px), readable after the dialogue introduces Matsu. 'Take' 24 px, 'Ume' 18 px."
+ },
+ {
+  "key": "U02536"
+ },
+ {
+  "key": "U02537",
+  "note": "Shared by 2 occurrences (both wrong answers)."
+ },
+ {
+  "key": "U02538"
+ },
+ {
+  "key": "U02539"
+ },
+ {
+  "key": "U02540",
+  "note": "Comic follow-up: Motonari (if he played the box game) has just learned he was swindled."
+ },
+ {
+  "key": "U02541"
+ },
+ {
+  "key": "U02542"
+ },
+ {
+  "key": "U02543",
+  "note": "Read as Townsperson 19 addressing Townsperson 11 (11 answers), the swindled pair of U02539."
+ },
+ {
+  "key": "U02544"
+ },
+ {
+  "key": "U02545",
+  "note": "Speaker's gender unknown; 'We're having' avoids implying father or mother."
+ },
+ {
+  "key": "U02546"
+ },
+ {
+  "key": "U02547",
+  "note": "JP page break before the prayer kept."
+ },
+ {
+  "key": "U02548"
+ },
+ {
+  "key": "U02549"
+ },
+ {
+  "key": "U02550",
+  "note": "Whose baby is not said (possibly Townsperson 24's); 'the baby' keeps it open."
+ },
+ {
+  "key": "U02551"
+ },
+ {
+  "key": "U02552"
+ },
+ {
+  "key": "U02553"
+ },
+ {
+  "key": "U02554"
+ },
+ {
+  "key": "U02555"
+ },
+ {
+  "key": "U02556"
+ },
+ {
+  "key": "U02557"
+ },
+ {
+  "key": "U02558"
+ },
+ {
+  "key": "U02559",
+  "note": "Speaker's gender unknown; 'we're blessed' avoids implying father or mother."
+ }
+]

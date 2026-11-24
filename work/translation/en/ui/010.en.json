@@ -1,0 +1,339 @@
+[
+ {
+  "key": "E0310",
+  "en": "Can't equip that item."
+ },
+ {
+  "key": "E0311",
+  "en": "Unequip %s?"
+ },
+ {
+  "key": "E0312",
+  "en": "That item can't be used."
+ },
+ {
+  "key": "E0313",
+  "en": "%s used %s.",
+  "note": "Officer %s used item %s (order kept as in the Japanese)."
+ },
+ {
+  "key": "E0314",
+  "en": "%s dodged the attack."
+ },
+ {
+  "key": "E0315",
+  "en": "Critical hit!",
+  "note": "Glossary: critical hit."
+ },
+ {
+  "key": "E0316",
+  "en": "Lucky blow!",
+  "note": "Glossary: lucky blow (distinct from critical hit)."
+ },
+ {
+  "key": "E0317",
+  "en": "No allied units in range."
+ },
+ {
+  "key": "E0318",
+  "en": "No enemy units in range."
+ },
+ {
+  "key": "E0319",
+  "en": "Enemy unit."
+ },
+ {
+  "key": "E0320",
+  "en": "That unit can't be selected."
+ },
+ {
+  "key": "E0321",
+  "en": "Can't attack allied units."
+ },
+ {
+  "key": "E0322",
+  "en": "Not in range."
+ },
+ {
+  "key": "E0323",
+  "en": "No Entry"
+ },
+ {
+  "key": "E0324",
+  "en": "No one is in the HQ."
+ },
+ {
+  "key": "E0325",
+  "en": "Not in the sortie area."
+ },
+ {
+  "key": "E0326",
+  "en": "Sortie limit reached."
+ },
+ {
+  "key": "E0327",
+  "en": "Cancel the ongoing rally?"
+ },
+ {
+  "key": "E0328",
+  "en": "Got ultimate manual"
+ },
+ {
+  "key": "E0329",
+  "en": "Officer"
+ },
+ {
+  "key": "E0330",
+  "en": "Select All"
+ },
+ {
+  "key": "E0331",
+  "en": "By Atk.",
+  "note": "Sort option (table with E0705/E0706 price order). 'By Attack' 51 px > 48."
+ },
+ {
+  "key": "E0332",
+  "en": "By Def.",
+  "note": "Sort option; 'By Defense' 56 px > 48."
+ },
+ {
+  "key": "E0333",
+  "en": "Officers (%s)    "
+ },
+ {
+  "key": "E0334",
+  "en": "Skill Name"
+ },
+ {
+  "key": "E0335",
+  "en": "Skill Cost"
+ },
+ {
+  "key": "E0336",
+  "en": "Required Item"
+ },
+ {
+  "key": "E0337",
+  "en": "Skill Info"
+ },
+ {
+  "key": "E0338",
+  "en": "End commands for all units?"
+ },
+ {
+  "key": "E0339",
+  "en": "<< Full Retreat >>\n\nA full retreat restarts the battle."
+ },
+ {
+  "key": "E0340",
+  "en": "No units can act."
+ },
+ {
+  "key": "E0341",
+  "en": "%s Turn %2d/%2d",
+  "note": "Turn counter (current/limit); word order changed so the number follows 'Turn' as in E0066."
+ },
+ {
+  "key": "E0342",
+  "en": "Enemy Phase"
+ },
+ {
+  "key": "E0343",
+  "en": "No units can rally."
+ },
+ {
+  "key": "E0344",
+  "en": "Choose a rally point."
+ },
+ {
+  "key": "E0345",
+  "en": "Can't move there."
+ },
+ {
+  "key": "E0346",
+  "en": "Player Phase"
+ },
+ {
+  "key": "E0347",
+  "en": "Battle dragged on. Retreating.",
+  "note": "Subject kept impersonal: the message does not say whose army retreats (probably the player's, turn limit); 'We retreat' would assume it."
+ },
+ {
+  "key": "E0348",
+  "en": "Turn %w  %s",
+  "note": "Two spaces kept as in the Japanese; %s is probably the phase name (E0342/E0346)."
+ },
+ {
+  "key": "E0349",
+  "en": "Each surviving unit\ngained %w EXP."
+ },
+ {
+  "key": "E0350",
+  "en": "I keep the stores."
+ },
+ {
+  "key": "E0351",
+  "en": "Crafting %s requires %s, %s, %s."
+ },
+ {
+  "key": "E0352",
+  "en": "Not enough %s%s%s%s%s.",
+  "note": "The five %s are filled at runtime (material names, probably with separators); kept together in the same order."
+ },
+ {
+  "key": "E0353",
+  "en": "Of the missing materials, %s can be bought for %u gold, fee included."
+ },
+ {
+  "key": "E0354",
+  "en": "You have %u gold.\nBuy %s for %u gold?"
+ },
+ {
+  "key": "E0355",
+  "en": "Couldn't buy it: no room in the Storehouse.",
+  "note": "'Storehouse' capitalised as in E0093/E0096/E0097."
+ },
+ {
+  "key": "E0356",
+  "en": "Not enough gold."
+ },
+ {
+  "key": "E0357",
+  "en": "Welcome."
+ },
+ {
+  "key": "E0358",
+  "en": "??????",
+  "note": "Unknown item placeholder."
+ },
+ {
+  "key": "E0359",
+  "en": "Owned"
+ },
+ {
+  "key": "E0360",
+  "en": "Equippable By"
+ },
+ {
+  "key": "E0361",
+  "en": "Choose an item."
+ },
+ {
+  "key": "E0362",
+  "en": "Products"
+ },
+ {
+  "key": "E0363",
+  "en": "Choose a type."
+ },
+ {
+  "key": "E0364",
+  "en": "------------",
+  "note": "Same as E0157."
+ },
+ {
+  "key": "E0365",
+  "en": "Cannonsm."
+ },
+ {
+  "key": "E0366",
+  "en": "%s.\nAre you sure?"
+ },
+ {
+  "key": "E0367",
+  "en": "%s is now level %u.",
+  "note": "Same as E0100 (craftsman level-up in the forge)."
+ },
+ {
+  "key": "E0368",
+  "en": "Storehouse is full."
+ },
+ {
+  "key": "E0369",
+  "en": "Not enough materials."
+ },
+ {
+  "key": "E0370",
+  "en": "O: Can make",
+  "note": "Legend marks in ASCII: ○ = O, △ = ^, × = X. The single-mark units E0743 ○, E0744 △, E0739 × (slice 015) use the same letters; E0749 × is the shop's times sign 'x'. [proof: note]"
+ },
+ {
+  "key": "E0371",
+  "en": "^: Buy materials to make"
+ },
+ {
+  "key": "E0372",
+  "en": "X: Can't make"
+ },
+ {
+  "key": "E0373",
+  "en": "X Low skill"
+ },
+ {
+  "key": "E0374",
+  "en": "O Can make"
+ },
+ {
+  "key": "E0375",
+  "en": "Stored"
+ },
+ {
+  "key": "E0376",
+  "en": "Carried"
+ },
+ {
+  "key": "E0377",
+  "en": "Mat. 1st"
+ },
+ {
+  "key": "E0378",
+  "en": "Price 1st"
+ },
+ {
+  "key": "E0379",
+  "en": "Goods"
+ },
+ {
+  "key": "E0380",
+  "en": "Stores",
+  "note": "[gaps pass 2026-10-28, I-03: was \"Storage\"]"
+ },
+ {
+  "key": "E0381",
+  "en": "Can't buy any more."
+ },
+ {
+  "key": "E0382",
+  "en": "Can Buy"
+ },
+ {
+  "key": "E0383",
+  "en": "How many will you take?",
+  "note": "Shopkeeper; 23-byte in-place slot."
+ },
+ {
+  "key": "E0384",
+  "en": "Are you sure?",
+  "note": "[gaps pass 2026-10-28, I-51: was \"Is that all right?\"]"
+ },
+ {
+  "key": "E0385",
+  "en": "Can Sell"
+ },
+ {
+  "key": "E0386",
+  "en": "How many will you\nsell me?"
+ },
+ {
+  "key": "E0387",
+  "en": "Buy/Sell"
+ },
+ {
+  "key": "E0388",
+  "en": "Thank you very much."
+ },
+ {
+  "key": "E0389",
+  "en": "Story"
+ }
+]

@@ -1,0 +1,47 @@
+[
+ {
+  "key": "U07280",
+  "en": "",
+  "note": "Credit-roll unit already in English in the original (staff names / 'THANKS FOR PLAYING'). Left empty so the original bytes are kept: copying it verbatim would make the inserter re-page it (each single blank line between names becomes two), changing the credits layout. Same mechanism as the empty op01 units (U01625 etc.)."
+ },
+ {
+  "key": "U07281",
+  "en": "",
+  "note": "Credit-roll unit already in English in the original (staff names / 'THANKS FOR PLAYING'). Left empty so the original bytes are kept: copying it verbatim would make the inserter re-page it (each single blank line between names becomes two), changing the credits layout. Same mechanism as the empty op01 units (U01625 etc.)."
+ },
+ {
+  "key": "U07282",
+  "en": "",
+  "note": "Credit-roll unit already in English in the original (staff names / 'THANKS FOR PLAYING'). Left empty so the original bytes are kept: copying it verbatim would make the inserter re-page it (each single blank line between names becomes two), changing the credits layout. Same mechanism as the empty op01 units (U01625 etc.)."
+ },
+ {
+  "key": "U07283",
+  "en": "",
+  "note": "Credit-roll unit already in English in the original (staff names / 'THANKS FOR PLAYING'). Left empty so the original bytes are kept: copying it verbatim would make the inserter re-page it (each single blank line between names becomes two), changing the credits layout. Same mechanism as the empty op01 units (U01625 etc.)."
+ },
+ {
+  "key": "U07284",
+  "en": "",
+  "note": "Credit-roll unit already in English in the original (staff names / 'THANKS FOR PLAYING'). Left empty so the original bytes are kept: copying it verbatim would make the inserter re-page it (each single blank line between names becomes two), changing the credits layout. Same mechanism as the empty op01 units (U01625 etc.)."
+ },
+ {
+  "key": "U07285",
+  "en": "",
+  "note": "Credit-roll unit already in English in the original (staff names / 'THANKS FOR PLAYING'). Left empty so the original bytes are kept: copying it verbatim would make the inserter re-page it (each single blank line between names becomes two), changing the credits layout. Same mechanism as the empty op01 units (U01625 etc.)."
+ },
+ {
+  "key": "U07286",
+  "en": "",
+  "note": "Credit-roll unit already in English in the original (staff names / 'THANKS FOR PLAYING'). Left empty so the original bytes are kept: copying it verbatim would make the inserter re-page it (each single blank line between names becomes two), changing the credits layout. Same mechanism as the empty op01 units (U01625 etc.)."
+ },
+ {
+  "key": "U07287",
+  "en": "",
+  "note": "Credit-roll unit already in English in the original (staff names / 'THANKS FOR PLAYING'). Left empty so the original bytes are kept: copying it verbatim would make the inserter re-page it (each single blank line between names becomes two), changing the credits layout. Same mechanism as the empty op01 units (U01625 etc.)."
+ },
+ {
+  "key": "U07288",
+  "en": "$&\nMouri Motonari:\nOath of the Three Arrows\n",
+  "note": "Game title card after the credits; glossary game_title form. '$&' credit-header line kept exactly. Explicit break after the colon: the full title (about 200 px) does not fit the 168 px line, and the auto-wrap would leave 'Arrows' alone on line 2. With the break it stays one 3-line page like the Japanese ('$&' + 2 title lines)."
+ }
+]

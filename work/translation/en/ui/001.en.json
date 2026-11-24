@@ -1,0 +1,336 @@
+[
+ {
+  "key": "D0081",
+  "en": "Tonbogiri",
+  "note": "Historical named spear (Honda Tadakatsu's); romanized like Muramasa."
+ },
+ {
+  "key": "D0082",
+  "en": "Nihongo",
+  "note": "Historical named spear (Nihongo / 'Japan No. 1'); romanized."
+ },
+ {
+  "key": "D0083",
+  "en": "Cloud Haze"
+ },
+ {
+  "key": "D0084",
+  "en": "Moon Cleaver"
+ },
+ {
+  "key": "D0085",
+  "en": "Sm. Wood Bow"
+ },
+ {
+  "key": "D0086",
+  "en": "Sm.Bamboo Bow"
+ },
+ {
+  "key": "D0087",
+  "en": "Sm.Rattan Bow"
+ },
+ {
+  "key": "D0088",
+  "en": "Wood Bow"
+ },
+ {
+  "key": "D0089",
+  "en": "Bamboo Bow"
+ },
+ {
+  "key": "D0090",
+  "en": "Rattan Bow"
+ },
+ {
+  "key": "D0091",
+  "en": "Lg. Wood Bow"
+ },
+ {
+  "key": "D0092",
+  "en": "Shigeto Bow"
+ },
+ {
+  "key": "D0093",
+  "en": "2-Ply Bow"
+ },
+ {
+  "key": "D0094",
+  "en": "3-Ply Bow"
+ },
+ {
+  "key": "D0095",
+  "en": "4-Ply Bow"
+ },
+ {
+  "key": "D0096",
+  "en": "Lg.Bamboo Bow"
+ },
+ {
+  "key": "D0097",
+  "en": "Lg.Shigeto Bow"
+ },
+ {
+  "key": "D0098",
+  "en": "Crossbow"
+ },
+ {
+  "key": "D0099",
+  "en": "Laminated Bow"
+ },
+ {
+  "key": "D0100",
+  "en": "Lg. Crossbow",
+  "note": "[gaps pass 2026-10-28, I-23: was \"Lg.Crossbow\"]"
+ },
+ {
+  "key": "D0101",
+  "en": "Chn.Crossbow"
+ },
+ {
+  "key": "D0102",
+  "en": "Nanb.Crossbow"
+ },
+ {
+  "key": "D0103",
+  "en": "4-Sided Bow"
+ },
+ {
+  "key": "D0104",
+  "en": "Yoshimitsu Bow"
+ },
+ {
+  "key": "D0105",
+  "en": "Chn.Rep.Xbow"
+ },
+ {
+  "key": "D0106",
+  "en": "Nanb.Rep.Xbow"
+ },
+ {
+  "key": "D0107",
+  "en": "Yoichi Bow"
+ },
+ {
+  "key": "D0108",
+  "en": "Yoshiie Bow"
+ },
+ {
+  "key": "D0109",
+  "en": "Xiang Yu Bow",
+  "note": "Glossary 'Xiang Yu Bow (attrib.)' (U04206); '(attrib.)' dropped, field is 72 px."
+ },
+ {
+  "key": "D0110",
+  "en": "Swallow"
+ },
+ {
+  "key": "D0111",
+  "en": "Matchlock",
+  "note": "Same word as U03822 ('matchlocks')."
+ },
+ {
+  "key": "D0112",
+  "en": "Tanegashima"
+ },
+ {
+  "key": "D0113",
+  "en": "Matchlock+"
+ },
+ {
+  "key": "D0114",
+  "en": "Tanegashima+"
+ },
+ {
+  "key": "D0115",
+  "en": "Senshu Gun"
+ },
+ {
+  "key": "D0116",
+  "en": "Kunitomo Gun"
+ },
+ {
+  "key": "D0117",
+  "en": "Saika Gun"
+ },
+ {
+  "key": "D0118",
+  "en": "Light Gun"
+ },
+ {
+  "key": "D0119",
+  "en": "Senshu Gun+"
+ },
+ {
+  "key": "D0120",
+  "en": "Kunitomo Gun+"
+ },
+ {
+  "key": "D0121",
+  "en": "Saika Gun+"
+ },
+ {
+  "key": "D0122",
+  "en": "Light Gun+"
+ },
+ {
+  "key": "D0123",
+  "en": "Horse Pistol"
+ },
+ {
+  "key": "D0124",
+  "en": "Nanban Gun"
+ },
+ {
+  "key": "D0125",
+  "en": "Horse Rep."
+ },
+ {
+  "key": "D0126",
+  "en": "Nanban Rep."
+ },
+ {
+  "key": "D0127",
+  "en": "Kunitomo Rep."
+ },
+ {
+  "key": "D0128",
+  "en": "Senshu Rep."
+ },
+ {
+  "key": "D0129",
+  "en": "Saika Rep."
+ },
+ {
+  "key": "D0130",
+  "en": "Nanban 6-Shot"
+ },
+ {
+  "key": "D0131",
+  "en": "Faranki Cannon"
+ },
+ {
+  "key": "D0132",
+  "en": "Furanki Cannon"
+ },
+ {
+  "key": "D0133",
+  "en": "Lg. Faranki",
+  "note": "'Cannon' dropped for width. [gaps pass 2026-10-28, I-23: was \"Lg.Faranki\"]"
+ },
+ {
+  "key": "D0134",
+  "en": "Lg. Furanki",
+  "note": "'Cannon' dropped for width. [gaps pass 2026-10-28, I-23: was \"Lg.Furanki\"]"
+ },
+ {
+  "key": "D0135",
+  "en": "Kun. Cannon"
+ },
+ {
+  "key": "D0136",
+  "en": "Senshu Cannon"
+ },
+ {
+  "key": "D0137",
+  "en": "Kun. Lg. Cannon"
+ },
+ {
+  "key": "D0138",
+  "en": "Sen. Lg. Cannon",
+  "note": "[gaps pass 2026-10-28, I-23: was \"Sen.Lg.Cannon\"]"
+ },
+ {
+  "key": "D0139",
+  "en": "Kunikuzushi",
+  "note": "Historical named cannon (Otomo Sorin's); romanized."
+ },
+ {
+  "key": "D0140",
+  "en": "Saker Cannon"
+ },
+ {
+  "key": "D0141",
+  "en": "Culverin Cannon",
+  "note": "72 px, exactly the limit."
+ },
+ {
+  "key": "D0142",
+  "en": "Ninja Sword"
+ },
+ {
+  "key": "D0143",
+  "en": "Hand Dart"
+ },
+ {
+  "key": "D0144",
+  "en": "Flying Claw"
+ },
+ {
+  "key": "D0145",
+  "en": "Cross Shuriken",
+  "note": "72 px, exactly the limit."
+ },
+ {
+  "key": "D0146",
+  "en": "Knife Shuriken"
+ },
+ {
+  "key": "D0147",
+  "en": "Fire Pot"
+ },
+ {
+  "key": "D0148",
+  "en": "Kusarigama"
+ },
+ {
+  "key": "D0149",
+  "en": "Iga Shuriken",
+  "note": "Iga (glossary)."
+ },
+ {
+  "key": "D0150",
+  "en": "Koga Shuriken"
+ },
+ {
+  "key": "D0151",
+  "en": "Dragon Claw"
+ },
+ {
+  "key": "D0152",
+  "en": "Chain Dart"
+ },
+ {
+  "key": "D0153",
+  "en": "Horoku Bomb"
+ },
+ {
+  "key": "D0154",
+  "en": "Vajra Skyrend"
+ },
+ {
+  "key": "D0155",
+  "en": "Shadow Killer"
+ },
+ {
+  "key": "D0156",
+  "en": "Hanzo Shuriken",
+  "note": "Hanzo as in Hattori Hanzo (glossary)."
+ },
+ {
+  "key": "D0157",
+  "en": "Cuirass"
+ },
+ {
+  "key": "D0158",
+  "en": "Barrel Cuirass"
+ },
+ {
+  "key": "D0159",
+  "en": "Solid Cuirass"
+ },
+ {
+  "key": "D0160",
+  "en": "Nanb.Cuirass",
+  "note": "'Nanban Cuirass' is 73 px (1 over)."
+ }
+]

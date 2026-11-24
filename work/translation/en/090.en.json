@@ -1,0 +1,295 @@
+[
+ {
+  "key": "U07200",
+  "note": "Motoharu is wounded and stayed behind (U06989, U07255). The JP blank line is page padding."
+ },
+ {
+  "key": "U07201"
+ },
+ {
+  "key": "U07202"
+ },
+ {
+  "key": "U07203",
+  "note": "JP blank line falls mid-sentence (page padding), so no page break."
+ },
+ {
+  "key": "U07204"
+ },
+ {
+  "key": "U07205"
+ },
+ {
+  "key": "U07206",
+  "note": "JP's two blank lines kept as a page break (beat before the order)."
+ },
+ {
+  "key": "U07207",
+  "note": "Same text as U07203 with different line breaks; same English."
+ },
+ {
+  "key": "U07208"
+ },
+ {
+  "key": "U07209",
+  "note": "Castle talk line; read as Hotaru speaking to Terumoto (the player). Could also be said about him to a third party."
+ },
+ {
+  "key": "U07210",
+  "note": "Town/castle talk in R_28/1; same JP as U06579 (Azuchi chapter), so the U06579 English is reused (editorial pass), as U07211 reuses U06580. Probably a reused line."
+ },
+ {
+  "key": "U07211",
+  "note": "Identical JP to U06580; kept the same English for consistency. Motoharu is wounded at this point in the story, so this is probably a leftover talk line."
+ },
+ {
+  "key": "U07212"
+ },
+ {
+  "key": "U07213"
+ },
+ {
+  "key": "U07214",
+  "note": "Nomi is the naval officer; he is relishing the lake. Laugh kept at full length."
+ },
+ {
+  "key": "U07215",
+  "note": "Same text as U07204 with different line breaks; same English."
+ },
+ {
+  "key": "U07216"
+ },
+ {
+  "key": "U07217",
+  "en": "Battle of Gifu Castle\nVictory Conditions\n  1. Make Tokugawa Ieyasu retreat\nDefeat Conditions\n  1. Mouri Terumoto retreats\n  2. Mouri HQ is captured\n  3. More than 99 turns pass"
+ },
+ {
+  "key": "U07218"
+ },
+ {
+  "key": "U07219",
+  "en": "Battle of Gifu Castle\n\nVictory Conditions\n  1. Make Tokugawa Ieyasu retreat\nDefeat Conditions\n  1. Mouri Terumoto retreats\n  2. Mouri HQ is captured\n  3. More than 99 turns pass",
+  "note": "0.2.14: names written in full; the boxes now take 240 px (narration window) / 256 px (goal box) per line."
+ },
+ {
+  "key": "U07220"
+ },
+ {
+  "key": "U07221"
+ },
+ {
+  "key": "U07222"
+ },
+ {
+  "key": "U07223"
+ },
+ {
+  "key": "U07224"
+ },
+ {
+  "key": "U07225"
+ },
+ {
+  "key": "U07226"
+ },
+ {
+  "key": "U07227"
+ },
+ {
+  "key": "U07228"
+ },
+ {
+  "key": "U07229"
+ },
+ {
+  "key": "U07230"
+ },
+ {
+  "key": "U07231",
+  "en": "Owari Coast",
+  "note": "Same form as 'Mikawa Coast' (U02176)."
+ },
+ {
+  "key": "U07232",
+  "en": "Beaten by the Mouri at Gifu,\nIeyasu fled the castle with a few\nsoldiers, making for Mikawa.\n\n\n\nBut on the retreat, they ran into\npeasants hunting fleeing warriors.\nHis men fell away, first one,\nthen another...\nuntil at last only Ieyasu\nwas left.\nIeyasu, too, was badly wounded.\nBarely clinging to life,\nhe somehow managed to reach\nthe coast of Owari."
+ },
+ {
+  "key": "U07233"
+ },
+ {
+  "key": "U07234"
+ },
+ {
+  "key": "U07235"
+ },
+ {
+  "key": "U07236"
+ },
+ {
+  "key": "U07237"
+ },
+ {
+  "key": "U07238"
+ },
+ {
+  "key": "U07239"
+ },
+ {
+  "key": "U07240",
+  "note": "Flashback: young Takechiyo (Ieyasu) with his parents."
+ },
+ {
+  "key": "U07241"
+ },
+ {
+  "key": "U07242"
+ },
+ {
+  "key": "U07243"
+ },
+ {
+  "key": "U07244"
+ },
+ {
+  "key": "U07245",
+  "note": "JP blank lines are deliberate pauses; kept as page breaks."
+ },
+ {
+  "key": "U07246",
+  "en": "Victors over the Tokugawa\nat Gifu, Terumoto and the\nMouri returned to Kyoto..."
+ },
+ {
+  "key": "U07247"
+ },
+ {
+  "key": "U07248"
+ },
+ {
+  "key": "U07249"
+ },
+ {
+  "key": "U07250"
+ },
+ {
+  "key": "U07251"
+ },
+ {
+  "key": "U07252"
+ },
+ {
+  "key": "U07253"
+ },
+ {
+  "key": "U07254"
+ },
+ {
+  "key": "U07255"
+ },
+ {
+  "key": "U07256"
+ },
+ {
+  "key": "U07257"
+ },
+ {
+  "key": "U07258"
+ },
+ {
+  "key": "U07259"
+ },
+ {
+  "key": "U07260"
+ },
+ {
+  "key": "U07261"
+ },
+ {
+  "key": "U07262",
+  "en": "After that, what became\nof the Mouri, who had\nmarched on Kyoto;\nwhat became of the army\nthat marched on Bungo;\n\nand what became of\nTerumoto and Hotaru...\nis another story..."
+ },
+ {
+  "key": "U07263",
+  "en": "$&\nMouri Motonari:\nOath of the Three Arrows",
+  "note": "Credits title card. Glossary game_title 'Mouri Motonari: Oath of the Three Arrows', broken after the colon so it wraps cleanly; '$&' code kept. The JP trailing empty line is replaced by the second title line (3 lines either way). Credits may be drawn by a different routine than the dialogue window: check in game."
+ },
+ {
+  "key": "U07264",
+  "en": "",
+  "note": "Staff credit, already in English: left untranslated (empty) so the game keeps the original bytes and line layout (the dialogue re-layout would change the blank-line spacing)."
+ },
+ {
+  "key": "U07265",
+  "en": "",
+  "note": "Staff credit, already in English: left untranslated (empty) so the game keeps the original bytes and line layout (the dialogue re-layout would change the blank-line spacing)."
+ },
+ {
+  "key": "U07266",
+  "en": "",
+  "note": "Staff credit, already in English: left untranslated (empty) so the game keeps the original bytes and line layout (the dialogue re-layout would change the blank-line spacing)."
+ },
+ {
+  "key": "U07267",
+  "en": "",
+  "note": "Staff credit, already in English: left untranslated (empty) so the game keeps the original bytes and line layout (the dialogue re-layout would change the blank-line spacing)."
+ },
+ {
+  "key": "U07268",
+  "en": "",
+  "note": "Staff credit, already in English: left untranslated (empty) so the game keeps the original bytes and line layout (the dialogue re-layout would change the blank-line spacing)."
+ },
+ {
+  "key": "U07269",
+  "en": "",
+  "note": "Staff credit, already in English: left untranslated (empty) so the game keeps the original bytes and line layout (the dialogue re-layout would change the blank-line spacing)."
+ },
+ {
+  "key": "U07270",
+  "en": "",
+  "note": "Staff credit, already in English: left untranslated (empty) so the game keeps the original bytes and line layout (the dialogue re-layout would change the blank-line spacing)."
+ },
+ {
+  "key": "U07271",
+  "en": "",
+  "note": "Staff credit, already in English: left untranslated (empty) so the game keeps the original bytes and line layout (the dialogue re-layout would change the blank-line spacing)."
+ },
+ {
+  "key": "U07272",
+  "en": "",
+  "note": "Staff credit, already in English: left untranslated (empty) so the game keeps the original bytes and line layout (the dialogue re-layout would change the blank-line spacing)."
+ },
+ {
+  "key": "U07273",
+  "en": "",
+  "note": "Staff credit, already in English: left untranslated (empty) so the game keeps the original bytes and line layout (the dialogue re-layout would change the blank-line spacing)."
+ },
+ {
+  "key": "U07274",
+  "en": "",
+  "note": "Staff credit, already in English: left untranslated (empty) so the game keeps the original bytes and line layout (the dialogue re-layout would change the blank-line spacing)."
+ },
+ {
+  "key": "U07275",
+  "en": "",
+  "note": "Staff credit, already in English: left untranslated (empty) so the game keeps the original bytes and line layout (the dialogue re-layout would change the blank-line spacing)."
+ },
+ {
+  "key": "U07276",
+  "en": "",
+  "note": "Staff credit, already in English: left untranslated (empty) so the game keeps the original bytes and line layout (the dialogue re-layout would change the blank-line spacing)."
+ },
+ {
+  "key": "U07277",
+  "en": "",
+  "note": "Staff credit, already in English: left untranslated (empty) so the game keeps the original bytes and line layout (the dialogue re-layout would change the blank-line spacing)."
+ },
+ {
+  "key": "U07278",
+  "en": "",
+  "note": "Staff credit, already in English: left untranslated (empty) so the game keeps the original bytes and line layout (the dialogue re-layout would change the blank-line spacing)."
+ },
+ {
+  "key": "U07279",
+  "en": "",
+  "note": "Staff credit, already in English: left untranslated (empty) so the game keeps the original bytes and line layout (the dialogue re-layout would change the blank-line spacing). 'SoftwareManual' (missing space) is the original's spelling; left as is."
+ }
+]

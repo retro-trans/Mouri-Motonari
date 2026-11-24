@@ -1,0 +1,262 @@
+[
+ {
+  "key": "U00800"
+ },
+ {
+  "key": "U00801"
+ },
+ {
+  "key": "U00802"
+ },
+ {
+  "key": "U00803",
+  "note": "Soldier (workshop attendant) asking Motonari to recruit craftsmen; 'us' = the workshop."
+ },
+ {
+  "key": "U00804",
+  "note": "Tametsugu's gender is unknown (characters.json), so 'someone' rather than 'a man'."
+ },
+ {
+  "key": "U00805"
+ },
+ {
+  "key": "U00806"
+ },
+ {
+  "key": "U00807"
+ },
+ {
+  "key": "U00808"
+ },
+ {
+  "key": "U00809"
+ },
+ {
+  "key": "U00810",
+  "note": "The Japanese blank line falls mid-sentence (page padding), so no page break kept."
+ },
+ {
+  "key": "U00811"
+ },
+ {
+  "key": "U00812"
+ },
+ {
+  "key": "U00813"
+ },
+ {
+  "key": "U00814"
+ },
+ {
+  "key": "U00815"
+ },
+ {
+  "key": "U00816"
+ },
+ {
+  "key": "U00817"
+ },
+ {
+  "key": "U00818"
+ },
+ {
+  "key": "U00819"
+ },
+ {
+  "key": "U00820"
+ },
+ {
+  "key": "U00821"
+ },
+ {
+  "key": "U00822"
+ },
+ {
+  "key": "U00823"
+ },
+ {
+  "key": "U00824"
+ },
+ {
+  "key": "U00825"
+ },
+ {
+  "key": "U00826"
+ },
+ {
+  "key": "U00827"
+ },
+ {
+  "key": "U00828"
+ },
+ {
+  "key": "U00829",
+  "note": "Hachibei's gender is unknown; name repeated instead of he/she."
+ },
+ {
+  "key": "U00830"
+ },
+ {
+  "key": "U00831",
+  "note": "Glossary craft names: Swordsmith, Spearsmith, Bowyer, Gunsmith."
+ },
+ {
+  "key": "U00832"
+ },
+ {
+  "key": "U00833"
+ },
+ {
+  "key": "U00834"
+ },
+ {
+  "key": "U00835"
+ },
+ {
+  "key": "U00836"
+ },
+ {
+  "key": "U00837"
+ },
+ {
+  "key": "U00838"
+ },
+ {
+  "key": "U00839"
+ },
+ {
+  "key": "U00840"
+ },
+ {
+  "key": "U00841"
+ },
+ {
+  "key": "U00842",
+  "note": "Japanese blank line between the two sentences treated as page padding."
+ },
+ {
+  "key": "U00843"
+ },
+ {
+  "key": "U00844"
+ },
+ {
+  "key": "U00845"
+ },
+ {
+  "key": "U00846"
+ },
+ {
+  "key": "U00847"
+ },
+ {
+  "key": "U00848"
+ },
+ {
+  "key": "U00849"
+ },
+ {
+  "key": "U00850"
+ },
+ {
+  "key": "U00851"
+ },
+ {
+  "key": "U00852"
+ },
+ {
+  "key": "U00853"
+ },
+ {
+  "key": "U00854"
+ },
+ {
+  "key": "U00855"
+ },
+ {
+  "key": "U00856"
+ },
+ {
+  "key": "U00857"
+ },
+ {
+  "key": "U00858",
+  "note": "Drunk slur; shared by 2 occurrences. 'more' added for the drunk's tone; literal is 'give me sake'."
+ },
+ {
+  "key": "U00859"
+ },
+ {
+  "key": "U00860",
+  "en": "Battle of Funayama Castle\nVictory Conditions\n  1. Defeat all enemies\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 50 turns pass",
+  "note": "Glossary battle UI wording."
+ },
+ {
+  "key": "U00861"
+ },
+ {
+  "key": "U00862",
+  "en": "Battle of Funayama Castle\n\nVictory Conditions\n  1. Defeat all enemies\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 50 turns pass",
+  "note": "Same as U00860 but the Japanese has an empty second line; kept so the line count matches."
+ },
+ {
+  "key": "U00863"
+ },
+ {
+  "key": "U00864",
+  "en": "Aio Mototsuna retreated."
+ },
+ {
+  "key": "U00865"
+ },
+ {
+  "key": "U00866",
+  "en": "Katsura Motozumi joined your army.",
+  "note": "Glossary pattern 'X joined your army' plus a period, matching 'Got 100 gold.'."
+ },
+ {
+  "key": "U00867"
+ },
+ {
+  "key": "U00868"
+ },
+ {
+  "key": "U00869"
+ },
+ {
+  "key": "U00870"
+ },
+ {
+  "key": "U00871"
+ },
+ {
+  "key": "U00872",
+  "en": "Found treasure.",
+  "note": "Shared by 48 occurrences. Period to match 'Got 100 gold.'."
+ },
+ {
+  "key": "U00873"
+ },
+ {
+  "key": "U00874"
+ },
+ {
+  "key": "U00875",
+  "en": "Got 150 gold."
+ },
+ {
+  "key": "U00876"
+ },
+ {
+  "key": "U00877"
+ },
+ {
+  "key": "U00878",
+  "en": "Got 10000 gold.",
+  "note": "Shared by 2 occurrences. Number kept without a comma as in the Japanese (other gold captions follow the same form)."
+ },
+ {
+  "key": "U00879",
+  "en": "...Or so it seemed."
+ }
+]

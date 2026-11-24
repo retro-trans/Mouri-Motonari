@@ -1,0 +1,266 @@
+[
+ {
+  "key": "U01520"
+ },
+ {
+  "key": "U01521"
+ },
+ {
+  "key": "U01522"
+ },
+ {
+  "key": "U01523"
+ },
+ {
+  "key": "U01524"
+ },
+ {
+  "key": "U01525"
+ },
+ {
+  "key": "U01526",
+  "note": "Shared by 2 occurrences."
+ },
+ {
+  "key": "U01527"
+ },
+ {
+  "key": "U01528"
+ },
+ {
+  "key": "U01529",
+  "note": "Said to Motonari (honorific address), so 'You have'."
+ },
+ {
+  "key": "U01530"
+ },
+ {
+  "key": "U01531"
+ },
+ {
+  "key": "U01532",
+  "note": "Drunk townsperson (see U01540-U01543)."
+ },
+ {
+  "key": "U01533",
+  "note": "Japanese page break kept as a beat."
+ },
+ {
+  "key": "U01534"
+ },
+ {
+  "key": "U01535"
+ },
+ {
+  "key": "U01536"
+ },
+ {
+  "key": "U01537"
+ },
+ {
+  "key": "U01538"
+ },
+ {
+  "key": "U01539"
+ },
+ {
+  "key": "U01540",
+  "note": "Probably the drunk townsperson (U01542-U01543)."
+ },
+ {
+  "key": "U01541"
+ },
+ {
+  "key": "U01542"
+ },
+ {
+  "key": "U01543"
+ },
+ {
+  "key": "U01544"
+ },
+ {
+  "key": "U01545"
+ },
+ {
+  "key": "U01546"
+ },
+ {
+  "key": "U01547"
+ },
+ {
+  "key": "U01548"
+ },
+ {
+  "key": "U01549"
+ },
+ {
+  "key": "U01550"
+ },
+ {
+  "key": "U01551"
+ },
+ {
+  "key": "U01552"
+ },
+ {
+  "key": "U01553"
+ },
+ {
+  "key": "U01554"
+ },
+ {
+  "key": "U01555",
+  "en": "Luck rose by 3.",
+  "note": "Pattern of U00140 'Luck rose by 5.'. Shared by 9 occurrences."
+ },
+ {
+  "key": "U01556"
+ },
+ {
+  "key": "U01557"
+ },
+ {
+  "key": "U01558"
+ },
+ {
+  "key": "U01559"
+ },
+ {
+  "key": "U01560"
+ },
+ {
+  "key": "U01561"
+ },
+ {
+  "key": "U01562"
+ },
+ {
+  "key": "U01563",
+  "en": "Took the lost child home."
+ },
+ {
+  "key": "U01564"
+ },
+ {
+  "key": "U01565",
+  "note": "The missionary speaks in halting katakana; rendered with the halting-comma voice (user decision 20A), no phonetic misspellings (editorial pass removed 'ees')."
+ },
+ {
+  "key": "U01566",
+  "note": "Page break added before the self-deprecating punchline (deliberate beat after '...')."
+ },
+ {
+  "key": "U01567"
+ },
+ {
+  "key": "U01568"
+ },
+ {
+  "key": "U01569"
+ },
+ {
+  "key": "U01570"
+ },
+ {
+  "key": "U01571"
+ },
+ {
+  "key": "U01572"
+ },
+ {
+  "key": "U01573"
+ },
+ {
+  "key": "U01574"
+ },
+ {
+  "key": "U01575",
+  "note": "Parentheses = inner thought, kept."
+ },
+ {
+  "key": "U01576"
+ },
+ {
+  "key": "U01577"
+ },
+ {
+  "key": "U01578"
+ },
+ {
+  "key": "U01579"
+ },
+ {
+  "key": "U01580"
+ },
+ {
+  "key": "U01581"
+ },
+ {
+  "key": "U01582",
+  "en": "Battle of Yoshida-Koriyama Castle\nVictory Conditions\n  1. Defeat all enemies\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 60 turns pass",
+  "note": "Glossary 'Battle of Yoshida-Koriyama Castle' is 170 px, limit 168; 'Castle' dropped (135 px). Condition wording per terms.json. 0.2.14: names written in full; the boxes now take 240 px (narration window) / 256 px (goal box) per line."
+ },
+ {
+  "key": "U01583",
+  "en": "Amago Haruhisa's army made camp\non Mount Aomitsui, facing Koriyama.\nOn its flanks waited the forces of\nAmago allies Takeda Nobushige and\nKikkawa Okitsune, and Haruhisa's\nuncle Kunihisa was ordered to\nspearhead the attack on Koriyama.\nBut Ouchi Yoshitaka's relief army\nhad still not appeared at Koriyama..."
+ },
+ {
+  "key": "U01584"
+ },
+ {
+  "key": "U01585",
+  "en": "Sho no Jiro took the field."
+ },
+ {
+  "key": "U01586",
+  "note": "Haruhisa's page break kept as a beat (turning to give Kunihisa the order)."
+ },
+ {
+  "key": "U01587",
+  "en": "Battle of Yoshida-Koriyama Castle\n\nVictory Conditions\n  1. Defeat all enemies\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 60 turns pass",
+  "note": "Same as U01582 with the Japanese blank second line kept (line count must match). 0.2.14: names written in full; the boxes now take 240 px (narration window) / 256 px (goal box) per line."
+ },
+ {
+  "key": "U01588",
+  "en": "Sue Harukata's relief army arrived."
+ },
+ {
+  "key": "U01589"
+ },
+ {
+  "key": "U01590"
+ },
+ {
+  "key": "U01591",
+  "en": "Found a charm at the shrine."
+ },
+ {
+  "key": "U01592",
+  "note": "A villager inside the battle map."
+ },
+ {
+  "key": "U01593"
+ },
+ {
+  "key": "U01594",
+  "note": "Takahashi Ukyota's gender is unknown; no pronoun needed."
+ },
+ {
+  "key": "U01595",
+  "en": "&\nWe've taken the Amago fort!",
+  "note": "Empty speaker line '&' kept exactly. Shared by 4 occurrences."
+ },
+ {
+  "key": "U01596"
+ },
+ {
+  "key": "U01597"
+ },
+ {
+  "key": "U01598"
+ },
+ {
+  "key": "U01599"
+ }
+]

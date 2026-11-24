@@ -1,0 +1,336 @@
+[
+ {
+  "key": "E0390",
+  "en": "Item Transfer"
+ },
+ {
+  "key": "E0391",
+  "en": "Item List"
+ },
+ {
+  "key": "E0392",
+  "en": "Material List"
+ },
+ {
+  "key": "E0393",
+  "en": "Store/Retr."
+ },
+ {
+  "key": "E0394",
+  "en": "End Phase"
+ },
+ {
+  "key": "E0395",
+  "en": "Victory Cond."
+ },
+ {
+  "key": "E0396",
+  "en": "Full Map"
+ },
+ {
+  "key": "E0397",
+  "en": "Turn%3u",
+  "note": "Current turn (+1) in the box above the victory conditions (printed at x 240, box about 72 px wide; checked in game 0.2.7). Was \"%3u turns\" (\"1 turns\"). %3u pads with spaces, so no space after \"Turn\". [0.2.7]"
+ },
+ {
+  "key": "E0398",
+  "en": "Skill Cost%3u"
+ },
+ {
+  "key": "E0399",
+  "en": "Req. Wpn."
+ },
+ {
+  "key": "E0400",
+  "en": "None"
+ },
+ {
+  "key": "E0401",
+  "en": "--------------",
+  "note": "7 full-width dashes -> 14 hyphens (cf. E0157: 6 -> 12)."
+ },
+ {
+  "key": "E0402",
+  "en": "Move Cursor"
+ },
+ {
+  "key": "E0403",
+  "en": "Sel./Desel."
+ },
+ {
+  "key": "E0404",
+  "en": "Select All"
+ },
+ {
+  "key": "E0405",
+  "en": "Clear All"
+ },
+ {
+  "key": "E0406",
+  "en": "Episode 11"
+ },
+ {
+  "key": "E0407",
+  "en": "Episode 12"
+ },
+ {
+  "key": "E0408",
+  "en": "Episode 13"
+ },
+ {
+  "key": "E0409",
+  "en": "Episode 14"
+ },
+ {
+  "key": "E0410",
+  "en": "Episode 15"
+ },
+ {
+  "key": "E0411",
+  "en": "Episode 16"
+ },
+ {
+  "key": "E0412",
+  "en": "Episode 17"
+ },
+ {
+  "key": "E0413",
+  "en": "Episode 18"
+ },
+ {
+  "key": "E0414",
+  "en": "Episode 19"
+ },
+ {
+  "key": "E0415",
+  "en": "Episode 20"
+ },
+ {
+  "key": "E0416",
+  "en": "Episode 21"
+ },
+ {
+  "key": "E0417",
+  "en": "Episode 22"
+ },
+ {
+  "key": "E0418",
+  "en": "Episode 23"
+ },
+ {
+  "key": "E0419",
+  "en": "Episode 24"
+ },
+ {
+  "key": "E0420",
+  "en": "Episode 25"
+ },
+ {
+  "key": "E0421",
+  "en": "Episode 26"
+ },
+ {
+  "key": "E0422",
+  "en": "There is no profile for this person."
+ },
+ {
+  "key": "E0423",
+  "en": "Mouri Ret."
+ },
+ {
+  "key": "E0424",
+  "en": "By Ep."
+ },
+ {
+  "key": "E0425",
+  "en": "Characters (By Name)"
+ },
+ {
+  "key": "E0426",
+  "en": "%s (%u)",
+  "note": "Category name and number of people."
+ },
+ {
+  "key": "E0427",
+  "en": "By Name",
+  "note": "See E0425."
+ },
+ {
+  "key": "E0428",
+  "en": "Characters (By Episode)",
+  "note": "Exactly 23/23 bytes, 119/120 px."
+ },
+ {
+  "key": "E0429",
+  "en": "I'll show you the pride\nof the head of the\nMouri clan!"
+ },
+ {
+  "key": "E0430",
+  "en": "The Mouri clan's fate is\nat stake! I cannot lose!"
+ },
+ {
+  "key": "E0431",
+  "en": "Take that!\nThis is the eldest\nbrother's spearwork!"
+ },
+ {
+  "key": "E0432",
+  "en": "If I don't hold firm,\nFather can't retire\nin peace.",
+  "note": "Takamoto, about Motonari."
+ },
+ {
+  "key": "E0433",
+  "en": "If I lose here, my father,\nLord Motonari, will laugh\nat me from the beyond!"
+ },
+ {
+  "key": "E0434",
+  "en": "Father, Lord Motonari!\nWatch over me!"
+ },
+ {
+  "key": "E0435",
+  "en": "I'll show you the finest\nvalor in all the West!"
+ },
+ {
+  "key": "E0436",
+  "en": "As if you could stop\nthe advance of Motoharu!"
+ },
+ {
+  "key": "E0437",
+  "en": "I must do my part\nand Father's too!"
+ },
+ {
+  "key": "E0438",
+  "en": "I can't disgrace\nmy father's name!"
+ },
+ {
+  "key": "E0439",
+  "en": "I'll show you I have\nmore than just my wits."
+ },
+ {
+  "key": "E0440",
+  "en": "Just attacking wildly\nisn't the answer.",
+  "note": "[edit: acc 011 return: 'not enough' implied wild attacks are needed but insufficient; the Japanese says they are not the way]"
+ },
+ {
+  "key": "E0441",
+  "en": "For Lord Terumoto!",
+  "note": "Retainer's cry. 'Lord' chosen because Terumoto leads battles after he becomes head of the clan; a single shared string, so the Master/Lord succession split (U05353/U05415) cannot be applied per scene."
+ },
+ {
+  "key": "E0442",
+  "en": "I must protect\nLord Terumoto!",
+  "note": "Subject restored as 'I' (one unit speaking)."
+ },
+ {
+  "key": "E0443",
+  "en": "I'll show you the\nfruits of my training!"
+ },
+ {
+  "key": "E0444",
+  "en": "Why don't you just\nretreat already?!"
+ },
+ {
+  "key": "E0445",
+  "en": "Roar, Norimitsu!"
+ },
+ {
+  "key": "E0446",
+  "en": "The Amago clan...\nwill never perish!",
+  "note": "One Japanese line split in two for the 26-byte balloon line."
+ },
+ {
+  "key": "E0447",
+  "en": "With the realm in sight,\nI cannot lose!"
+ },
+ {
+  "key": "E0448",
+  "en": "Back, you wretch!\nI'll cut you down!"
+ },
+ {
+  "key": "E0449",
+  "en": "The realm belongs to\nme, Mitsuhide! No one\nwill stand in my way!",
+  "note": "Akechi Mitsuhide."
+ },
+ {
+  "key": "E0450",
+  "en": "After coming this far,\nI won't be beaten now!"
+ },
+ {
+  "key": "E0451",
+  "en": "The Tokugawa have Ii's\nred-armored corps!"
+ },
+ {
+  "key": "E0452",
+  "en": "Ii Naomasa, Tokugawa\nvanguard, has arrived!"
+ },
+ {
+  "key": "E0453",
+  "en": "Sakon! I leave the\ncommand to you!"
+ },
+ {
+  "key": "E0454",
+  "en": "Sakon! Scatter them\nfor me!",
+  "note": "Same speaker; asks Sakon to do it."
+ },
+ {
+  "key": "E0455",
+  "en": "I must protect\nLord Mitsuhide!",
+  "note": "Akechi retainer."
+ },
+ {
+  "key": "E0456",
+  "en": "Lord Mitsuhide is our\nhope! I won't let you\ntouch him!",
+  "note": "Mitsuhide is male (glossary)."
+ },
+ {
+  "key": "E0457",
+  "en": "None can stand\nbefore Raikiri!"
+ },
+ {
+  "key": "E0458",
+  "en": "Forward! Forward!"
+ },
+ {
+  "key": "E0459",
+  "en": "O Lord, protect us!"
+ },
+ {
+  "key": "E0460",
+  "en": "You Mouri lot! I'll\nteach you a lesson you\nwon't forget!"
+ },
+ {
+  "key": "E0461",
+  "en": "And that's that!"
+ },
+ {
+  "key": "E0462",
+  "en": "This is what happens when\nyou let your guard down\njust because I'm a woman!"
+ },
+ {
+  "key": "E0463",
+  "en": "This ends it!"
+ },
+ {
+  "key": "E0464",
+  "en": "Drop dead!"
+ },
+ {
+  "key": "E0465",
+  "en": "Had enough yet?!"
+ },
+ {
+  "key": "E0466",
+  "en": "See if you can take\nthis blow!"
+ },
+ {
+  "key": "E0467",
+  "en": "How about this?!"
+ },
+ {
+  "key": "E0468",
+  "en": "This attack\nwill do it!"
+ },
+ {
+  "key": "E0469",
+  "en": "Hail Hachiman, great\nbodhisattva! Please,\nlet it hit!"
+ }
+]

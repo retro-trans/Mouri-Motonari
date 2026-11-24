@@ -1,0 +1,62 @@
+{
+ "movie": "MOVIE07",
+ "note": "Motonari on his deathbed with Kikkawa Motoharu, Kobayakawa Takakage and the young Terumoto. The last two lines are the uncles' reply (one each). Japanese transcribed with faster-whisper large-v3 (tools/transcribe_movie.py, clips re-run with tools/transcribe_clip.py) and corrected by context and the frames; times in seconds from the start of the film (frame = round(t * 15) + 1). Speaker names are notes only (not shown).",
+ "subtitles": [
+  {
+   "start": 16.74,
+   "end": 20.58,
+   "speaker": "Mouri Motonari",
+   "en": "Do you remember the Lesson of the Three Arrows?"
+  },
+  {
+   "start": 20.58,
+   "end": 26.68,
+   "speaker": "Mouri Terumoto",
+   "en": "Yes, of course. My late father told me of it as well."
+  },
+  {
+   "start": 28.94,
+   "end": 30.74,
+   "speaker": "Mouri Motonari",
+   "en": "As it should be."
+  },
+  {
+   "start": 31.8,
+   "end": 41.08,
+   "speaker": "Mouri Motonari",
+   "en": "The Lesson of the Three Arrows holds only when all three houses stand together."
+  },
+  {
+   "start": 42.78,
+   "end": 52.0,
+   "speaker": "Mouri Motonari",
+   "en": "Terumoto, without the Two Rivers, the Kikkawa and the Kobayakawa, the Mouri cannot prosper."
+  },
+  {
+   "start": 52.18,
+   "end": 54.04,
+   "speaker": "Mouri Terumoto",
+   "en": "Of course. I understand."
+  },
+  {
+   "start": 55.92,
+   "end": 61.98,
+   "speaker": "Mouri Motonari",
+   "en": "Motoharu, Takakage... I leave Terumoto in your care."
+  },
+  {
+   "start": 62.2,
+   "end": 63.56,
+   "speaker": "Motoharu / Takakage",
+   "en": "Leave it to us."
+  },
+  {
+   "start": 63.68,
+   "end": 66.9,
+   "speaker": "Motoharu / Takakage",
+   "en": "We will serve him with our lives."
+  }
+ ],
+ "labels": [],
+ "review": "Self-reviewed 2026-11-18 (accuracy against the transcript and frames, voice, proofreading); not yet through separate review agents."
+}

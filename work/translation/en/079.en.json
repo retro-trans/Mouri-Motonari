@@ -1,0 +1,281 @@
+[
+ {
+  "key": "U06320"
+ },
+ {
+  "key": "U06321"
+ },
+ {
+  "key": "U06322",
+  "note": "Shared by 2 occurrences."
+ },
+ {
+  "key": "U06323"
+ },
+ {
+  "key": "U06324"
+ },
+ {
+  "key": "U06325"
+ },
+ {
+  "key": "U06326"
+ },
+ {
+  "key": "U06327"
+ },
+ {
+  "key": "U06328"
+ },
+ {
+  "key": "U06329"
+ },
+ {
+  "key": "U06330"
+ },
+ {
+  "key": "U06331",
+  "note": "Page break kept as a beat before the realization."
+ },
+ {
+  "key": "U06332"
+ },
+ {
+  "key": "U06333"
+ },
+ {
+  "key": "U06334"
+ },
+ {
+  "key": "U06335"
+ },
+ {
+  "key": "U06336"
+ },
+ {
+  "key": "U06337"
+ },
+ {
+  "key": "U06338"
+ },
+ {
+  "key": "U06339"
+ },
+ {
+  "key": "U06340"
+ },
+ {
+  "key": "U06341",
+  "note": "Shared by 4 occurrences."
+ },
+ {
+  "key": "U06342"
+ },
+ {
+  "key": "U06343",
+  "note": "Sentence runs across the JP page break; kept the break as a beat, as the Japanese does."
+ },
+ {
+  "key": "U06344"
+ },
+ {
+  "key": "U06345"
+ },
+ {
+  "key": "U06346"
+ },
+ {
+  "key": "U06347"
+ },
+ {
+  "key": "U06348"
+ },
+ {
+  "key": "U06349",
+  "note": "………… trailing pauses reduced to '...'."
+ },
+ {
+  "key": "U06350",
+  "note": "Shared by 2 occurrences."
+ },
+ {
+  "key": "U06351"
+ },
+ {
+  "key": "U06352"
+ },
+ {
+  "key": "U06353"
+ },
+ {
+  "key": "U06354"
+ },
+ {
+  "key": "U06355"
+ },
+ {
+  "key": "U06356"
+ },
+ {
+  "key": "U06357"
+ },
+ {
+  "key": "U06358"
+ },
+ {
+  "key": "U06359",
+  "en": "Pursuit of the Hashiba Army\nVictory Conditions\n  1. Make Hashiba Hideyoshi retreat\nDefeat Conditions\n  1. Mouri Terumoto retreats\n  2. Mouri HQ is captured\n  3. More than 80 turns pass"
+ },
+ {
+  "key": "U06360"
+ },
+ {
+  "key": "U06361",
+  "en": "Pursuit of the Hashiba Army\n\nVictory Conditions\n  1. Make Hashiba Hideyoshi retreat\nDefeat Conditions\n  1. Mouri Terumoto retreats\n  2. Mouri HQ is captured\n  3. More than 80 turns pass",
+  "note": "Same as U06359 with the JP blank second line kept. 0.2.14: names written in full; the boxes now take 240 px (narration window) / 256 px (goal box) per line."
+ },
+ {
+  "key": "U06362"
+ },
+ {
+  "key": "U06363"
+ },
+ {
+  "key": "U06364"
+ },
+ {
+  "key": "U06365"
+ },
+ {
+  "key": "U06366"
+ },
+ {
+  "key": "U06367",
+  "en": "Hashiba Hideyoshi entered the castle",
+  "note": "Battle caption, 36 characters; no period to stay within 36 (cf. 'The Hashiba Army has withdrawn', U06161)."
+ },
+ {
+  "key": "U06368"
+ },
+ {
+  "key": "U06369",
+  "en": "Fukushima Masanori's unit appeared.",
+  "note": "Pattern of U04586 \"Yuhara Harutsuna's unit appeared.\" (35 characters)."
+ },
+ {
+  "key": "U06370"
+ },
+ {
+  "key": "U06371",
+  "en": "Kato Kiyomasa's unit appeared.",
+  "note": "Pattern of U04586."
+ },
+ {
+  "key": "U06372"
+ },
+ {
+  "key": "U06373"
+ },
+ {
+  "key": "U06374"
+ },
+ {
+  "key": "U06375"
+ },
+ {
+  "key": "U06376"
+ },
+ {
+  "key": "U06377"
+ },
+ {
+  "key": "U06378"
+ },
+ {
+  "key": "U06379",
+  "en": "Episode 25: Crimson Lake Biwa",
+  "note": "terms.json form. Shared by 3 occurrences."
+ },
+ {
+  "key": "U06380",
+  "en": "Himeji Castle",
+  "note": "Shared by 2 occurrences."
+ },
+ {
+  "key": "U06381",
+  "en": "Himeji Castle: Council Chamber",
+  "note": "Shared by 6 occurrences."
+ },
+ {
+  "key": "U06382"
+ },
+ {
+  "key": "U06383",
+  "en": "Akechi Army HQ"
+ },
+ {
+  "key": "U06384"
+ },
+ {
+  "key": "U06385"
+ },
+ {
+  "key": "U06386"
+ },
+ {
+  "key": "U06387",
+  "en": "Himeji Castle: Retainers' Hall",
+  "note": "Shared by 4 occurrences."
+ },
+ {
+  "key": "U06388",
+  "en": "Himeji Castle: Living Quarters",
+  "note": "Shared by 4 occurrences."
+ },
+ {
+  "key": "U06389",
+  "en": "Himeji: Storehouse",
+  "note": "Shared by 4 occurrences."
+ },
+ {
+  "key": "U06390",
+  "en": "Himeji: Workshop",
+  "note": "Shared by 4 occurrences."
+ },
+ {
+  "key": "U06391",
+  "en": "Himeji: Tavern",
+  "note": "Shared by 4 occurrences."
+ },
+ {
+  "key": "U06392"
+ },
+ {
+  "key": "U06393",
+  "en": "Himeji: Market",
+  "note": "Shared by 4 occurrences."
+ },
+ {
+  "key": "U06394",
+  "en": "Himeji: Training Ground",
+  "note": "Shared by 4 occurrences."
+ },
+ {
+  "key": "U06395",
+  "en": "Himeji: House",
+  "note": "Shared by 6 occurrences."
+ },
+ {
+  "key": "U06396",
+  "note": "Takamoto's Wife to her son Terumoto."
+ },
+ {
+  "key": "U06397"
+ },
+ {
+  "key": "U06398"
+ },
+ {
+  "key": "U06399"
+ }
+]

@@ -1,0 +1,330 @@
+[
+ {
+  "key": "E0550",
+  "en": "Workshop"
+ },
+ {
+  "key": "E0551",
+  "en": "Market"
+ },
+ {
+  "key": "E0552",
+  "en": "Tavern"
+ },
+ {
+  "key": "E0553",
+  "en": "Training",
+  "note": "Glossary 'Training Ground' (location caption) is 85 px; the 48 px menu keeps 'Training'."
+ },
+ {
+  "key": "E0554",
+  "en": "Samurai"
+ },
+ {
+  "key": "E0555",
+  "en": "House"
+ },
+ {
+  "key": "E0556",
+  "en": "Temple"
+ },
+ {
+  "key": "E0557",
+  "en": "Quarters",
+  "note": "Glossary 'Living Quarters'; the script's labels already shorten it to 'Quarters' / 'Qtrs.'."
+ },
+ {
+  "key": "E0558",
+  "en": "Exit"
+ },
+ {
+  "key": "E0559",
+  "en": "Name",
+  "note": "Column header, in place (7 bytes); exactly 24 px."
+ },
+ {
+  "key": "E0560",
+  "en": "Qty"
+ },
+ {
+  "key": "E0561",
+  "en": "Cost"
+ },
+ {
+  "key": "E0562",
+  "en": "Weapons",
+  "note": "Also the %s of E0158 '%s: none' and E0153 'Name (%s)' (slice 008, with E0151/E0152 'Support' / 'Healing') and of E0576 '%s List'. [proof: note]"
+ },
+ {
+  "key": "E0563",
+  "en": "Support"
+ },
+ {
+  "key": "E0564",
+  "en": "Healing"
+ },
+ {
+  "key": "E0565",
+  "en": "Endur."
+ },
+ {
+  "key": "E0566",
+  "en": "Skill Pts"
+ },
+ {
+  "key": "E0567",
+  "en": "Attack"
+ },
+ {
+  "key": "E0568",
+  "en": "Defense"
+ },
+ {
+  "key": "E0569",
+  "en": "Intellect",
+  "note": "Shared by the item-effect lists and the stat list (with Attack / Defense / Luck, E0614-E0616)."
+ },
+ {
+  "key": "E0570",
+  "en": "Bound"
+ },
+ {
+  "key": "E0571",
+  "en": "Sealed"
+ },
+ {
+  "key": "E0572",
+  "en": "Confused"
+ },
+ {
+  "key": "E0573",
+  "en": "Wounded"
+ },
+ {
+  "key": "E0574",
+  "en": "Unlucky"
+ },
+ {
+  "key": "E0575",
+  "en": "Eff."
+ },
+ {
+  "key": "E0576",
+  "en": "%s List"
+ },
+ {
+  "key": "E0577",
+  "en": "Exit"
+ },
+ {
+  "key": "E0578",
+  "en": "Cmd."
+ },
+ {
+  "key": "E0579",
+  "en": "Talk"
+ },
+ {
+  "key": "E0580",
+  "en": "Skill"
+ },
+ {
+  "key": "E0581",
+  "en": "",
+  "note": "Not text: binary data. The 6 bytes 8E 8D 8F 92 93 97 are copied at 80034078 into an 8-byte-stride stack table next to rising numbers (34 37 38 3B 3D 42 ...) indexed by the class byte +0x31 (training ground). Left empty on purpose (extraction false positive); translating it would corrupt the data."
+ },
+ {
+  "key": "E0582",
+  "en": "",
+  "note": "Not text: binary data (8E 8D 8F 92 93 98), same table as E0581 (copied at 800340A0). Left empty on purpose (extraction false positive)."
+ },
+ {
+  "key": "E0583",
+  "en": "Sword Sm."
+ },
+ {
+  "key": "E0584",
+  "en": "Spear Sm."
+ },
+ {
+  "key": "E0585",
+  "en": "Bowyer"
+ },
+ {
+  "key": "E0586",
+  "en": "Ninja Sm."
+ },
+ {
+  "key": "E0587",
+  "en": "Armorer"
+ },
+ {
+  "key": "E0588",
+  "en": "Apothec."
+ },
+ {
+  "key": "E0589",
+  "en": "Swd/Bow"
+ },
+ {
+  "key": "E0590",
+  "en": "Spr/Bow"
+ },
+ {
+  "key": "E0591",
+  "en": "Shield Sm."
+ },
+ {
+  "key": "E0592",
+  "en": "Trainer"
+ },
+ {
+  "key": "E0593",
+  "en": "Tactician"
+ },
+ {
+  "key": "E0594",
+  "en": "Merchant"
+ },
+ {
+  "key": "E0595",
+  "en": "Officer"
+ },
+ {
+  "key": "E0596",
+  "en": "Artisan"
+ },
+ {
+  "key": "E0597",
+  "en": "Civilian"
+ },
+ {
+  "key": "E0598",
+  "en": "Swd"
+ },
+ {
+  "key": "E0599",
+  "en": "Spr"
+ },
+ {
+  "key": "E0600",
+  "en": "Bow"
+ },
+ {
+  "key": "E0601",
+  "en": "Gun"
+ },
+ {
+  "key": "E0602",
+  "en": "Cannon"
+ },
+ {
+  "key": "E0603",
+  "en": "Thrown"
+ },
+ {
+  "key": "E0604",
+  "en": "Materials"
+ },
+ {
+  "key": "E0605",
+  "en": "Otomo"
+ },
+ {
+  "key": "E0606",
+  "en": "Ukita"
+ },
+ {
+  "key": "E0607",
+  "en": "Akechi"
+ },
+ {
+  "key": "E0608",
+  "en": "Hongan-ji"
+ },
+ {
+  "key": "E0609",
+  "en": "Sue"
+ },
+ {
+  "key": "E0610",
+  "en": "Takeda",
+  "note": "Faction list: the Aki-Takeda clan in the glossary, here the bare surname like the other entries."
+ },
+ {
+  "key": "E0611",
+  "en": "Saika"
+ },
+ {
+  "key": "E0612",
+  "en": "Kono"
+ },
+ {
+  "key": "E0613",
+  "en": "Unaligned"
+ },
+ {
+  "key": "E0614",
+  "en": "Attack"
+ },
+ {
+  "key": "E0615",
+  "en": "Defense"
+ },
+ {
+  "key": "E0616",
+  "en": "Luck"
+ },
+ {
+  "key": "E0617",
+  "en": "Endur."
+ },
+ {
+  "key": "E0618",
+  "en": "Skill Pts"
+ },
+ {
+  "key": "E0619",
+  "en": "Accuracy"
+ },
+ {
+  "key": "E0620",
+  "en": "Speed"
+ },
+ {
+  "key": "E0621",
+  "en": "Level"
+ },
+ {
+  "key": "E0622",
+  "en": "EXP"
+ },
+ {
+  "key": "E0623",
+  "en": "Magnate"
+ },
+ {
+  "key": "E0624",
+  "en": "Daimyo"
+ },
+ {
+  "key": "E0625",
+  "en": "Spearman"
+ },
+ {
+  "key": "E0626",
+  "en": "Spr. Cpt."
+ },
+ {
+  "key": "E0627",
+  "en": "Archer"
+ },
+ {
+  "key": "E0628",
+  "en": "Arch. Cpt."
+ },
+ {
+  "key": "E0629",
+  "en": "Cavalry"
+ }
+]

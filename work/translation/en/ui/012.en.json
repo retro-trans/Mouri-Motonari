@@ -1,0 +1,340 @@
+[
+ {
+  "key": "E0470",
+  "en": "Will this blow land?!"
+ },
+ {
+  "key": "E0471",
+  "en": "Luck's with me today!"
+ },
+ {
+  "key": "E0472",
+  "en": "Right there!"
+ },
+ {
+  "key": "E0473",
+  "en": ": "
+ },
+ {
+  "key": "E0474",
+  "en": ", ",
+  "note": "Line-split marker of the save list (0x80015BB0): line 1 = title up to and including the first match (x 0x32), line 2 = the rest (x 0x7A, 14 px lower). JP splits after 』 (episode | battle/castle part). If there is no match line 1 is not drawn and the whole title goes on line 2. E0066 ', %s Turn %2d', E0067 ', %s HQ' and E0483 ', in %s' start with ', ' for this split (0.2.4). No ', ' occurs in E0008-E0035 or E0065. [proof: note]"
+ },
+ {
+  "key": "E0475",
+  "en": "Mouri",
+  "note": "Clan name: save title ' %s HQ' (E0067, table 0x800BE860) and the clan column (table 0x800F9DE4)."
+ },
+ {
+  "key": "E0476",
+  "en": "Oda"
+ },
+ {
+  "key": "E0477",
+  "en": "Ouchi"
+ },
+ {
+  "key": "E0478",
+  "en": "Amago"
+ },
+ {
+  "key": "E0479",
+  "en": "Hashiba"
+ },
+ {
+  "key": "E0480",
+  "en": "Tokugawa"
+ },
+ {
+  "key": "E0481",
+  "en": "Motonari"
+ },
+ {
+  "key": "E0482",
+  "en": "Terumoto"
+ },
+ {
+  "key": "E0483",
+  "en": ", in %s",
+  "note": "Castle part of the save title (sprintf at 0x80016388, %s = DATA castle name: Koriyama, Ogura, ... Kyoto, Azuchi), appended right after the episode title. ', ' is the line-split marker E0474, so line 2 reads 'in Koriyama'. 'Castle' is left out: 24 px limit, and 'Kyoto Castle' would be wrong."
+ },
+ {
+  "key": "E0484",
+  "en": "0",
+  "note": "Digit table 0x800BE87C used by the save-number formatter 0x800166FC (entry 10 = '' for leading zeros)."
+ },
+ {
+  "key": "E0485",
+  "en": "1"
+ },
+ {
+  "key": "E0486",
+  "en": "2"
+ },
+ {
+  "key": "E0487",
+  "en": "3"
+ },
+ {
+  "key": "E0488",
+  "en": "4"
+ },
+ {
+  "key": "E0489",
+  "en": "5"
+ },
+ {
+  "key": "E0490",
+  "en": "6"
+ },
+ {
+  "key": "E0491",
+  "en": "7"
+ },
+ {
+  "key": "E0492",
+  "en": "8"
+ },
+ {
+  "key": "E0493",
+  "en": "9"
+ },
+ {
+  "key": "E0494",
+  "en": "to",
+  "note": "Particle %s of E0097 (0x80124194) and E0216 (0x8012466C), chosen when the storehouse still has room (s3 = 1 at 0x800183E8 / 0x8003B844): 'Move items to the Storehouse?'."
+ },
+ {
+  "key": "E0495",
+  "en": "from"
+ },
+ {
+  "key": "E0496",
+  "en": "->",
+  "note": "Level-up / item screen: old value -> new value (puts at 0x800186BC)."
+ },
+ {
+  "key": "E0497",
+  "en": "Music",
+  "note": "Settings screen label (table 0x800DC200); values On / Off (E0112/E0113)."
+ },
+ {
+  "key": "E0498",
+  "en": "Sound Effects",
+  "note": "Settings screen label; 73 px of 120."
+ },
+ {
+  "key": "E0499",
+  "en": "Ogurayama",
+  "note": "World-map town label: glossary town name in full (the label is centred by its VWF width since 0.2.5, vwf.py town_label). [0.2.5: user decision I-52 A]"
+ },
+ {
+  "key": "E0500",
+  "en": "Takayama"
+ },
+ {
+  "key": "E0501",
+  "en": "Sakurao"
+ },
+ {
+  "key": "E0502",
+  "en": "Shiraga"
+ },
+ {
+  "key": "E0503",
+  "en": "Okayama"
+ },
+ {
+  "key": "E0504",
+  "en": "Himeji"
+ },
+ {
+  "key": "E0505",
+  "en": "Kyoto"
+ },
+ {
+  "key": "E0506",
+  "en": "Azuchi"
+ },
+ {
+  "key": "E0507",
+  "en": "Kannabe"
+ },
+ {
+  "key": "E0508",
+  "en": "Innoshima"
+ },
+ {
+  "key": "E0509",
+  "en": "Noshima"
+ },
+ {
+  "key": "E0510",
+  "en": "Kurushima"
+ },
+ {
+  "key": "E0511",
+  "en": "Koyama"
+ },
+ {
+  "key": "E0512",
+  "en": "Hatagaeshi",
+  "note": "World-map town label: glossary town name in full (the label is centred by its VWF width since 0.2.5, vwf.py town_label). [0.2.5: user decision I-52 A]"
+ },
+ {
+  "key": "E0513",
+  "en": "Shirayama"
+ },
+ {
+  "key": "E0514",
+  "en": "Kashirazaki",
+  "note": "World-map town label: glossary town name in full (the label is centred by its VWF width since 0.2.5, vwf.py town_label). [0.2.5: user decision I-52 A]"
+ },
+ {
+  "key": "E0515",
+  "en": "Kagamiyama",
+  "note": "World-map town label: glossary town name in full (the label is centred by its VWF width since 0.2.5, vwf.py town_label). [0.2.5: user decision I-52 A]"
+ },
+ {
+  "key": "E0516",
+  "en": "Goryu"
+ },
+ {
+  "key": "E0517",
+  "en": "Tokonoyama",
+  "note": "World-map town label: glossary town name in full (the label is centred by its VWF width since 0.2.5, vwf.py town_label). [0.2.5: user decision I-52 A]"
+ },
+ {
+  "key": "E0518",
+  "en": "Hogi"
+ },
+ {
+  "key": "E0519",
+  "en": "Arita"
+ },
+ {
+  "key": "E0520",
+  "en": "Kanayama"
+ },
+ {
+  "key": "E0521",
+  "en": "Koi"
+ },
+ {
+  "key": "E0522",
+  "en": "Itsukushima",
+  "note": "World-map town label: glossary town name in full (the label is centred by its VWF width since 0.2.5, vwf.py town_label). [0.2.5: user decision I-52 A]"
+ },
+ {
+  "key": "E0523",
+  "en": "Sanbonmatsu",
+  "note": "World-map town label: glossary town name in full (the label is centred by its VWF width since 0.2.5, vwf.py town_label). [0.2.5: user decision I-52 A]"
+ },
+ {
+  "key": "E0524",
+  "en": "Iwakuni"
+ },
+ {
+  "key": "E0525",
+  "en": "Konomine"
+ },
+ {
+  "key": "E0526",
+  "en": "Mitoya"
+ },
+ {
+  "key": "E0527",
+  "en": "Mizawa"
+ },
+ {
+  "key": "E0528",
+  "en": "Yamabuki"
+ },
+ {
+  "key": "E0529",
+  "en": "Otoake",
+  "note": "Glossary reading (a guess)."
+ },
+ {
+  "key": "E0530",
+  "en": "Ozu"
+ },
+ {
+  "key": "E0531",
+  "en": "Rengeyama",
+  "note": "World-map town label: glossary town name in full (the label is centred by its VWF width since 0.2.5, vwf.py town_label). [0.2.5: user decision I-52 A]"
+ },
+ {
+  "key": "E0532",
+  "en": "Nanao"
+ },
+ {
+  "key": "E0533",
+  "en": "Wakayama"
+ },
+ {
+  "key": "E0534",
+  "en": "Moji"
+ },
+ {
+  "key": "E0535",
+  "en": "Tachibana"
+ },
+ {
+  "key": "E0536",
+  "en": "Koshosan"
+ },
+ {
+  "key": "E0537",
+  "en": "Homanzan",
+  "note": "Glossary reading (a guess)."
+ },
+ {
+  "key": "E0538",
+  "en": "Usuki"
+ },
+ {
+  "key": "E0539",
+  "en": "Gifu"
+ },
+ {
+  "key": "E0540",
+  "en": "Ogaki"
+ },
+ {
+  "key": "E0541",
+  "en": "Kiyosu"
+ },
+ {
+  "key": "E0542",
+  "en": "Okazaki"
+ },
+ {
+  "key": "E0543",
+  "en": "Ishiyama"
+ },
+ {
+  "key": "E0544",
+  "en": "Arioka"
+ },
+ {
+  "key": "E0545",
+  "en": "Miki"
+ },
+ {
+  "key": "E0546",
+  "en": "Kozuki"
+ },
+ {
+  "key": "E0547",
+  "en": "Tottori"
+ },
+ {
+  "key": "E0548",
+  "en": "Ueshi"
+ },
+ {
+  "key": "E0549",
+  "en": "Stores"
+ }
+]

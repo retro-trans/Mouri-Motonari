@@ -1,0 +1,272 @@
+[
+ {
+  "key": "U03840"
+ },
+ {
+  "key": "U03841"
+ },
+ {
+  "key": "U03842"
+ },
+ {
+  "key": "U03843"
+ },
+ {
+  "key": "U03844"
+ },
+ {
+  "key": "U03845"
+ },
+ {
+  "key": "U03846"
+ },
+ {
+  "key": "U03847"
+ },
+ {
+  "key": "U03848",
+  "en": "Imagawa Army HQ"
+ },
+ {
+  "key": "U03849"
+ },
+ {
+  "key": "U03850"
+ },
+ {
+  "key": "U03851"
+ },
+ {
+  "key": "U03852",
+  "en": "In Eiroku 3, Imagawa Yoshimoto\nof Suruga, set on ruling the realm,\nbegan his march on the capital.\nLeading a vast army of 25,000 to\nKyoto, he seemed to have no rival.\n\nBut Yoshimoto's dream fell\nat Okehazama."
+ },
+ {
+  "key": "U03853",
+  "en": "Oda Nobunaga, a minor lord\nof Owari. With a mere 2,000 men,\nhe crushed Imagawa's 25,000.\nThis man would go on to change\nthe course of this age of war."
+ },
+ {
+  "key": "U03854",
+  "en": "Odaka Castle: Castle Interior"
+ },
+ {
+  "key": "U03855"
+ },
+ {
+  "key": "U03856"
+ },
+ {
+  "key": "U03857",
+  "en": "Go to Mouri Takamoto's Residence",
+  "note": "Label limit 96 px. Pattern 'Visit Okimoto's Res.' (U00136) gives 'Visit Takamoto's Res.' (105 px), so 'Visit' became 'To' (95 px). Takamoto is away at Moji Castle; the residence is where his wife and Terumoto live. 0.2.14: written in full, since the scene-goal box now fits the English text (the shortened form was for the 8 px per character box)."
+ },
+ {
+  "key": "U03858"
+ },
+ {
+  "key": "U03859"
+ },
+ {
+  "key": "U03860"
+ },
+ {
+  "key": "U03861"
+ },
+ {
+  "key": "U03862"
+ },
+ {
+  "key": "U03863",
+  "en": "Talk to Fukubara Sadatoshi, then sortie",
+  "note": "Form of 'Talk to Takamoto, then sortie' (U03012). Full 'Talk to Fukubara Sadatoshi to sortie' is 184 px (limit 156); given name dropped as in U02969 'Talk to Fukubara' (Sadatoshi is the only Fukubara serving now). 'See Fukubara Sadatoshi, sortie' (154 px) also fits. Shared by 9 occurrences. 0.2.14: written in full, since the scene-goal box now fits the English text (the shortened form was for the 8 px per character box)."
+ },
+ {
+  "key": "U03864"
+ },
+ {
+  "key": "U03865"
+ },
+ {
+  "key": "U03866"
+ },
+ {
+  "key": "U03867"
+ },
+ {
+  "key": "U03868"
+ },
+ {
+  "key": "U03869",
+  "note": "Takamoto speaking at Moji Castle about his son."
+ },
+ {
+  "key": "U03870"
+ },
+ {
+  "key": "U03871"
+ },
+ {
+  "key": "U03872"
+ },
+ {
+  "key": "U03873"
+ },
+ {
+  "key": "U03874"
+ },
+ {
+  "key": "U03875"
+ },
+ {
+  "key": "U03876",
+  "en": "Yoshihisa's Seat: Gassan-Toda Castle"
+ },
+ {
+  "key": "U03877"
+ },
+ {
+  "key": "U03878"
+ },
+ {
+  "key": "U03879"
+ },
+ {
+  "key": "U03880",
+  "note": "Japanese page break kept."
+ },
+ {
+  "key": "U03881"
+ },
+ {
+  "key": "U03882",
+  "note": "The Japanese has two blank lines (page padding); one page break kept as a beat."
+ },
+ {
+  "key": "U03883"
+ },
+ {
+  "key": "U03884"
+ },
+ {
+  "key": "U03885"
+ },
+ {
+  "key": "U03886"
+ },
+ {
+  "key": "U03887"
+ },
+ {
+  "key": "U03888"
+ },
+ {
+  "key": "U03889"
+ },
+ {
+  "key": "U03890",
+  "note": "Same text as U03066 (only the line breaks differ); English reused. Ikoma's gender unknown; no pronoun. Shared by 2 occurrences."
+ },
+ {
+  "key": "U03891",
+  "note": "Same text as U03071 (Townsperson 3 there); English reused. 'them' = the collapsed Ikoma (gender unknown). Shared by 2 occurrences."
+ },
+ {
+  "key": "U03892",
+  "note": "Same text as U03077; English reused. Utajima's gender unknown; no pronoun."
+ },
+ {
+  "key": "U03893"
+ },
+ {
+  "key": "U03894"
+ },
+ {
+  "key": "U03895"
+ },
+ {
+  "key": "U03896"
+ },
+ {
+  "key": "U03897"
+ },
+ {
+  "key": "U03898",
+  "note": "Shared by 6 occurrences."
+ },
+ {
+  "key": "U03899",
+  "note": "Shared by 6 occurrences."
+ },
+ {
+  "key": "U03900"
+ },
+ {
+  "key": "U03901"
+ },
+ {
+  "key": "U03902"
+ },
+ {
+  "key": "U03903",
+  "note": "As U02742. Shared by 9 occurrences."
+ },
+ {
+  "key": "U03904"
+ },
+ {
+  "key": "U03905"
+ },
+ {
+  "key": "U03906",
+  "note": "Same text as U03328 (line breaks differ); English reused. Shared by 3 occurrences."
+ },
+ {
+  "key": "U03907",
+  "en": "Your mother hasn't forgotten you\nfor even a single day......"
+ },
+ {
+  "key": "U03908",
+  "en": "You've always been stubborn, so\nI wonder if you can't bring yourself\nto come home and are at a loss?",
+  "note": "As U03336, re-broken to the 3 lines of this version. Shared by 5 occurrences."
+ },
+ {
+  "key": "U03909",
+  "en": "Even if your work isn't going\nwell, your mother doesn't mind\nin the least.\nAbove all, what matters most\nis that you stay well."
+ },
+ {
+  "key": "U03910",
+  "en": "Just come home to me safe and well,\nand that will be enough......\nI'm always waiting eagerly\nfor your return.",
+  "note": "As U03338, re-broken to the 4 lines of this version. Shared by 2 occurrences."
+ },
+ {
+  "key": "U03911"
+ },
+ {
+  "key": "U03912",
+  "note": "Farmer 1 is Yonezo's father (father/son established by the scene), so 'sir' and 'his'. ………………… -> '......' (long silence kept; proofreading: dot runs normalised to '......' as in U03603)."
+ },
+ {
+  "key": "U03913",
+  "note": "Shared by 3 occurrences (the branch where Motonari does not speak to the father)."
+ },
+ {
+  "key": "U03914",
+  "note": "Same text as U03346 (line breaks and a full-width comma differ); English reused. Nemoto's gender unknown; no pronoun. The conditional sentence runs across two sections, cut at the matching point."
+ },
+ {
+  "key": "U03915"
+ },
+ {
+  "key": "U03916"
+ },
+ {
+  "key": "U03917",
+  "en": "Gave Chosuke 100 gold.",
+  "note": "Pattern of 'Gave Seki Yoshinobu 500 gold.' (U00515). Shared by 6 occurrences."
+ },
+ {
+  "key": "U03918"
+ },
+ {
+  "key": "U03919"
+ }
+]

@@ -1,0 +1,334 @@
+[
+ {
+  "key": "I0163",
+  "en": "An elixir that restores a little Endurance to several units."
+ },
+ {
+  "key": "I0164",
+  "en": "An elixir that restores much Endurance to several units."
+ },
+ {
+  "key": "I0165",
+  "en": "Water that restores a little of the user's Skill Points."
+ },
+ {
+  "key": "I0166",
+  "en": "Tea that restores some of the user's Skill Points."
+ },
+ {
+  "key": "I0167",
+  "en": "Wine that restores much of the user's Skill Points."
+ },
+ {
+  "key": "I0168",
+  "en": "Holy water that restores much of the user's Skill Points."
+ },
+ {
+  "key": "I0169",
+  "en": "Sake that restores a little of the user's Skill Points.",
+  "note": "Heal Sake (Plum / Bamboo / Pine) = small / some / much."
+ },
+ {
+  "key": "I0170",
+  "en": "Sake that restores some of the user's Skill Points."
+ },
+ {
+  "key": "I0171",
+  "en": "Sake that restores much of the user's Skill Points."
+ },
+ {
+  "key": "I0172",
+  "en": "Medicine that raises the user's Attack."
+ },
+ {
+  "key": "I0173",
+  "en": "Medicine that raises the user's Defense."
+ },
+ {
+  "key": "I0174",
+  "en": "Medicine that raises the user's Intellect."
+ },
+ {
+  "key": "I0175",
+  "en": "Medicine that cures the user when bound and unable to act."
+ },
+ {
+  "key": "I0176",
+  "en": "Medicine that unseals the user's skills."
+ },
+ {
+  "key": "I0177",
+  "en": "Medicine that calms the user's confusion."
+ },
+ {
+  "key": "I0178",
+  "en": "Medicine that heals the user when badly wounded."
+ },
+ {
+  "key": "I0179",
+  "en": "Medicine that brings back the user's lost luck."
+ },
+ {
+  "key": "I0180",
+  "en": "Iron material. Used to make swords, armor, guns and much more.",
+  "note": "Shared by Iron Sand, Scrap Iron, Wrought Iron, Tamahagane, Iwami / Izumo Iron. Forced break dropped."
+ },
+ {
+  "key": "I0181",
+  "en": "A small iron plate.\nStrung in rows to make lacing and such."
+ },
+ {
+  "key": "I0182",
+  "en": "A book on the basic methods of making tanto and wakizashi.",
+  "note": "Item type names as in the item list (Tanto, Wakizashi, Kodachi, Katana, Long Sword, Tachi), lower case in prose."
+ },
+ {
+  "key": "I0183",
+  "en": "A book on the basic methods of making kodachi and katana."
+ },
+ {
+  "key": "I0184",
+  "en": "A book on the basic methods of making long swords and tachi."
+ },
+ {
+  "key": "I0185",
+  "en": "A book on the basic methods of making spears."
+ },
+ {
+  "key": "I0186",
+  "en": "A book on the basic methods of making naginata and nagamaki."
+ },
+ {
+  "key": "I0187",
+  "en": "A book on the basic methods of making bows."
+ },
+ {
+  "key": "I0188",
+  "en": "A book on the basic methods of making pistols."
+ },
+ {
+  "key": "I0189",
+  "en": "A book on how to mix gunpowder.",
+  "note": "Shared by Powder Recipe and Fine Powd. Rec."
+ },
+ {
+  "key": "I0190",
+  "en": "A book on making 3-monme shot.\nUsed in repeating guns."
+ },
+ {
+  "key": "I0191",
+  "en": "A book on methods of forging iron.",
+  "note": "Shared by the Maru / Kobuse / Sanmai / Shihozume / Awase technique books and Maru Sec."
+ },
+ {
+  "key": "I0192",
+  "en": "A book on the shapes, traits and forging of spearheads."
+ },
+ {
+  "key": "I0193",
+  "en": "A book written by craftsmen hailed as masters."
+ },
+ {
+  "key": "I0194",
+  "en": "A book on making cannons."
+ },
+ {
+  "key": "I0195",
+  "en": "A book of the Koga ninja arts. A hand copy, so its contents may not be genuine."
+ },
+ {
+  "key": "I0196",
+  "en": "A book of the Iga ninja arts. A hand copy, so its contents may not be genuine.",
+  "note": "Forced break dropped (see I0195)."
+ },
+ {
+  "key": "I0197",
+  "en": "A book recording part of the Koga ninja arts. One of the few genuine copies."
+ },
+ {
+  "key": "I0198",
+  "en": "A book recording part of the Iga ninja arts. One of the few genuine copies.",
+  "note": "Forced break dropped."
+ },
+ {
+  "key": "I0199",
+  "en": "A book of the legends of Nasu no Yoichi. It describes the bow Yoichi used."
+ },
+ {
+  "key": "I0200",
+  "en": "A book of the legends of Minamoto no Yoshiie. It describes the bow Yoshiie used."
+ },
+ {
+  "key": "I0201",
+  "en": "Used for bows and spear shafts. It grows tougher with age, at 3 years and more so at 4."
+ },
+ {
+  "key": "I0202",
+  "en": "Bamboo of especially fine quality."
+ },
+ {
+  "key": "I0203",
+  "en": "Thin, supple strips of bamboo.\nBundled to make a bow springier."
+ },
+ {
+  "key": "I0204",
+  "en": "A plant that grows like a vine.\nUsed to bind laminated wood together."
+ },
+ {
+  "key": "I0205",
+  "en": "Timber.\nMainly used for spear shafts, bows and such.",
+  "note": "Shared by Haze Wood, Hinoki Cypress, Oak."
+ },
+ {
+  "key": "I0206",
+  "en": "A spear shaft of bamboo wedges set around a thin rod and bound tight with thread."
+ },
+ {
+  "key": "I0207",
+  "en": "A spear shaft carved from oak. It has a knob to show which way the head faces."
+ },
+ {
+  "key": "I0208",
+  "en": "A spear shaft carved from oak."
+ },
+ {
+  "key": "I0209",
+  "en": "A variant of the Bound Shaft.\nLight, as it has no wooden core rod."
+ },
+ {
+  "key": "I0210",
+  "en": "A hardened, reinforced Bound Shaft. Even a sword blow can rarely cut through it."
+ },
+ {
+  "key": "I0211",
+  "en": "A coating that keeps out rain and hardens the surface.",
+  "note": "Shared by Lacquer, Black Lacquer, Red Lacquer."
+ },
+ {
+  "key": "I0212",
+  "en": "Used for plating.\nMainly meant to intimidate."
+ },
+ {
+  "key": "I0213",
+  "en": "Essential for making lacing.\nIts color also serves to intimidate."
+ },
+ {
+  "key": "I0214",
+  "en": "Armor that guards the arms. Useless alone; use with a cuirass and leg armor."
+ },
+ {
+  "key": "I0215",
+  "en": "Leg armor that guards below the knee. Useless alone; use with a cuirass and bracers."
+ },
+ {
+  "key": "I0216",
+  "en": "Leg armor that guards above the knee. Useless alone; use with a cuirass and bracers."
+ },
+ {
+  "key": "I0217",
+  "en": "Shinguards and Thigh Guards in one. Use with a cuirass and bracers."
+ },
+ {
+  "key": "I0218",
+  "en": "Armor that guards the head. Useless alone; use with body armor and lacing."
+ },
+ {
+  "key": "I0219",
+  "en": "Reinforces armor, and also intimidates.\nUse with body armor and a helmet."
+ },
+ {
+  "key": "I0220",
+  "en": "A medicinal ingredient. Used in mixing all sorts of medicines.",
+  "note": "Shared by Eucommia, Red Ginseng, Goji Berries, Rice, Korea Ginseng, Jujube."
+ },
+ {
+  "key": "I0221",
+  "en": "Fuel that makes the great heat needed to forge iron.",
+  "note": "Fine / Prime Charcoal."
+ },
+ {
+  "key": "I0222",
+  "en": "Used to polish sword blades."
+ },
+ {
+  "key": "I0223",
+  "en": "A part for the Kuda Yari. The shaft runs through it, making thrusts quicker."
+ },
+ {
+  "key": "I0224",
+  "en": "Softened leather.\nStuck onto shield faces to reinforce them."
+ },
+ {
+  "key": "I0225",
+  "en": "A large cart bed.\nUsed together with wheels."
+ },
+ {
+  "key": "I0226",
+  "en": "A large wheel.\nUsed together with a cart bed."
+ },
+ {
+  "key": "I0227",
+  "en": "An ornament for a helmet.",
+  "note": "Antler / Fudo / Buffalo Crest."
+ },
+ {
+  "key": "I0228",
+  "en": "Bear fur. Fixed onto armor or lacing to shield the iron from rain. It also intimidates."
+ },
+ {
+  "key": "I0229",
+  "en": "War funds."
+ },
+ {
+  "key": "I0230",
+  "en": "Deals four times the normal damage to one enemy unit."
+ },
+ {
+  "key": "I0231",
+  "en": "Deals three times the normal damage to one enemy unit."
+ },
+ {
+  "key": "I0232",
+  "en": "Attacks one enemy unit, but never deals the finishing blow."
+ },
+ {
+  "key": "I0233",
+  "en": "Attacks one enemy unit. Usable only in rain."
+ },
+ {
+  "key": "I0234",
+  "en": "Deals double damage to one enemy unit. The user also loses a tenth of its Max Endurance."
+ },
+ {
+  "key": "I0235",
+  "en": "Destroys one enemy unit.\nBut the user also retreats."
+ },
+ {
+  "key": "I0236",
+  "en": "Attacks one enemy unit and lowers its Skill Points by 10."
+ },
+ {
+  "key": "I0237",
+  "en": "Attacks one enemy unit and gains twice the normal EXP."
+ },
+ {
+  "key": "I0238",
+  "en": "Attacks one enemy unit and leaves it badly wounded."
+ },
+ {
+  "key": "I0239",
+  "en": "Attacks one enemy unit and throws it into confusion."
+ },
+ {
+  "key": "I0240",
+  "en": "Attacks one enemy unit twice in a single action."
+ },
+ {
+  "key": "I0241",
+  "en": "Attacks one enemy unit up to five times in a single action."
+ },
+ {
+  "key": "I0242",
+  "en": "Attacks all units within range, friend and foe alike."
+ }
+]

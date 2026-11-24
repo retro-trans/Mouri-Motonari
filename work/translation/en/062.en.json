@@ -1,0 +1,265 @@
+[
+ {
+  "key": "U04960",
+  "note": "Soldier 11 is the workshop attendant who reported the missing craftsman (U04982). Motonari's 'don't rush it' section is addressed to Kojima."
+ },
+ {
+  "key": "U04961"
+ },
+ {
+  "key": "U04962",
+  "note": "Shape follows the earlier rendering of the same refusal (U03905)."
+ },
+ {
+  "key": "U04963"
+ },
+ {
+  "key": "U04964"
+ },
+ {
+  "key": "U04965"
+ },
+ {
+  "key": "U04966",
+  "note": "Spoken to the amnesiac Kojima wandering off (assumed from the R_18/1/75 event order)."
+ },
+ {
+  "key": "U04967"
+ },
+ {
+  "key": "U04968"
+ },
+ {
+  "key": "U04969"
+ },
+ {
+  "key": "U04970"
+ },
+ {
+  "key": "U04971",
+  "note": "JP blank line kept as a beat before the consolation."
+ },
+ {
+  "key": "U04972"
+ },
+ {
+  "key": "U04973",
+  "note": "Near-identical to U03603; that rendering was reused with the ellipses normalised."
+ },
+ {
+  "key": "U04974",
+  "note": "Follows U03604."
+ },
+ {
+  "key": "U04975"
+ },
+ {
+  "key": "U04976"
+ },
+ {
+  "key": "U04977"
+ },
+ {
+  "key": "U04978"
+ },
+ {
+  "key": "U04979"
+ },
+ {
+  "key": "U04980"
+ },
+ {
+  "key": "U04981",
+  "note": "Direction: the soldier asks Motonari to take care of (find) the missing craftsman, after Motonari's 'leave him to me' (U04982)."
+ },
+ {
+  "key": "U04982"
+ },
+ {
+  "key": "U04983"
+ },
+ {
+  "key": "U04984",
+  "note": "Wording follows U03921; written as prose without manual line breaks (the inserter wraps), ellipses normalised."
+ },
+ {
+  "key": "U04985"
+ },
+ {
+  "key": "U04986"
+ },
+ {
+  "key": "U04987"
+ },
+ {
+  "key": "U04988",
+  "note": "Refers to the impostor collecting money in Motonari's name (U05015-U05019, U05060)."
+ },
+ {
+  "key": "U04989"
+ },
+ {
+  "key": "U04990"
+ },
+ {
+  "key": "U04991"
+ },
+ {
+  "key": "U04992",
+  "note": "Same rendering as U04148."
+ },
+ {
+  "key": "U04993"
+ },
+ {
+  "key": "U04994",
+  "note": "Same rendering as U03652."
+ },
+ {
+  "key": "U04995",
+  "note": "Identical to U04153; reused. Yukimi's gender is unknown, so the last line uses the name instead of a pronoun."
+ },
+ {
+  "key": "U04996"
+ },
+ {
+  "key": "U04997"
+ },
+ {
+  "key": "U04998"
+ },
+ {
+  "key": "U04999"
+ },
+ {
+  "key": "U05000"
+ },
+ {
+  "key": "U05001"
+ },
+ {
+  "key": "U05002"
+ },
+ {
+  "key": "U05003"
+ },
+ {
+  "key": "U05004",
+  "note": "Townsperson 15 listening to someone (probably the impostor, who later targets them in U05015). Kept vague."
+ },
+ {
+  "key": "U05005"
+ },
+ {
+  "key": "U05006"
+ },
+ {
+  "key": "U05007"
+ },
+ {
+  "key": "U05008",
+  "note": "Before the scam is exposed: the townsperson thinks Motonari ordered the levy."
+ },
+ {
+  "key": "U05009"
+ },
+ {
+  "key": "U05010"
+ },
+ {
+  "key": "U05011",
+  "note": "Same wording as U04161, but kept as a page break (JP blank line) rather than a new speaker section, so the & lines match the source."
+ },
+ {
+  "key": "U05012"
+ },
+ {
+  "key": "U05013"
+ },
+ {
+  "key": "U05014"
+ },
+ {
+  "key": "U05015"
+ },
+ {
+  "key": "U05016"
+ },
+ {
+  "key": "U05017"
+ },
+ {
+  "key": "U05018"
+ },
+ {
+  "key": "U05019"
+ },
+ {
+  "key": "U05020",
+  "en": "Recovered the stolen money.",
+  "note": "Caption; form follows U01372 'Recovered the townsperson's money.'"
+ },
+ {
+  "key": "U05021"
+ },
+ {
+  "key": "U05022"
+ },
+ {
+  "key": "U05023"
+ },
+ {
+  "key": "U05024",
+  "en": "The people got their money back.",
+  "note": "Caption (37-character literal 'The money was returned to the people.' exceeded the 36-character limit)."
+ },
+ {
+  "key": "U05025",
+  "note": "Townsperson 23 kept campy as in U04164; Motonari's retort follows U02816/U03126."
+ },
+ {
+  "key": "U05026",
+  "note": "Same rendering as U03670."
+ },
+ {
+  "key": "U05027"
+ },
+ {
+  "key": "U05028"
+ },
+ {
+  "key": "U05029"
+ },
+ {
+  "key": "U05030"
+ },
+ {
+  "key": "U05031"
+ },
+ {
+  "key": "U05032"
+ },
+ {
+  "key": "U05033"
+ },
+ {
+  "key": "U05034"
+ },
+ {
+  "key": "U05035"
+ },
+ {
+  "key": "U05036",
+  "note": "Identical to U04179; reused with ellipses normalised. Kato Gonroku's gender is unknown: no pronoun."
+ },
+ {
+  "key": "U05037"
+ },
+ {
+  "key": "U05038",
+  "note": "Same as U04180."
+ },
+ {
+  "key": "U05039"
+ }
+]

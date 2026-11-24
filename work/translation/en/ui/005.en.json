@@ -1,0 +1,367 @@
+[
+ {
+  "key": "D0401",
+  "en": "Lg. Cart Bed"
+ },
+ {
+  "key": "D0402",
+  "en": "Lg. Wheel",
+  "note": "[gaps pass 2026-10-28, I-23: was \"Large Wheel\"]"
+ },
+ {
+  "key": "D0403",
+  "en": "Antler Crest"
+ },
+ {
+  "key": "D0404",
+  "en": "Fudo Crest"
+ },
+ {
+  "key": "D0405",
+  "en": "Buffalo Crest"
+ },
+ {
+  "key": "D0406",
+  "en": "Bear Fur"
+ },
+ {
+  "key": "D0407",
+  "en": "Gold Dust"
+ },
+ {
+  "key": "D0408",
+  "en": "Oshu Gold"
+ },
+ {
+  "key": "D0409",
+  "en": "Koshu Gold"
+ },
+ {
+  "key": "D0410",
+  "en": "Sado Gold"
+ },
+ {
+  "key": "D0411",
+  "en": "Silver Bars",
+  "note": "Glossary prose form \"silver bars\" (U04038), capitalised as an item name."
+ },
+ {
+  "key": "D0412",
+  "en": "Tajima Silver"
+ },
+ {
+  "key": "D0413",
+  "en": "Iwami Silver",
+  "note": "Pattern of glossary \"Iwami Iron\"."
+ },
+ {
+  "key": "D0414",
+  "en": "Nanban Silver",
+  "note": "Glossary (U03973)."
+ },
+ {
+  "key": "D0415",
+  "en": "Koriyama"
+ },
+ {
+  "key": "D0416",
+  "en": "Ogura",
+  "note": "\"Ogurayama\" is 9 bytes (field holds 8); truncated to \"Ogura\". Uncertain."
+ },
+ {
+  "key": "D0417",
+  "en": "Takayama",
+  "note": "48 px, exactly the limit."
+ },
+ {
+  "key": "D0418",
+  "en": "Sakurao"
+ },
+ {
+  "key": "D0419",
+  "en": "Shiraga"
+ },
+ {
+  "key": "D0420",
+  "en": "Yuzuki",
+  "note": "\"Iyo-Yuzuki\" is 10 bytes; glossary room-caption short \"Yuzuki\"."
+ },
+ {
+  "key": "D0421",
+  "en": "Nagato"
+ },
+ {
+  "key": "D0422",
+  "en": "Okayama"
+ },
+ {
+  "key": "D0423",
+  "en": "Toda"
+ },
+ {
+  "key": "D0424",
+  "en": "Himeji"
+ },
+ {
+  "key": "D0425",
+  "en": "Kyoto"
+ },
+ {
+  "key": "D0426",
+  "en": "Azuchi"
+ },
+ {
+  "key": "D0427",
+  "en": "Deathblow",
+  "note": "4x damage to one unit."
+ },
+ {
+  "key": "D0428",
+  "en": "Slay Blade",
+  "note": "Glossary \"Slaying Blade\" (13 bytes) shortened."
+ },
+ {
+  "key": "D0429",
+  "en": "Mercy Edge",
+  "note": "Attacks without finishing off. \"Mercy Blade\" is 11 bytes."
+ },
+ {
+  "key": "D0430",
+  "en": "Rain Guard",
+  "note": "Attack possible only in rain (rain cover for the matchlock)."
+ },
+ {
+  "key": "D0431",
+  "en": "Charge"
+ },
+ {
+  "key": "D0432",
+  "en": "Sacrifice",
+  "note": "Pattern \"X Art\" does not fit 10 bytes; Art dropped."
+ },
+ {
+  "key": "D0433",
+  "en": "Smash",
+  "note": "Attack + lowers skill points by 10."
+ },
+ {
+  "key": "D0434",
+  "en": "Train. Art",
+  "note": "Glossary \"Art of Training\"; skill-menu pattern \"X Art\" (README), \"Training Art\" is 12 bytes."
+ },
+ {
+  "key": "D0435",
+  "en": "Psn. Arrow",
+  "note": "Glossary \"Poison Arrow\" (12 bytes) abbreviated."
+ },
+ {
+  "key": "D0436",
+  "en": "Fire Arrow",
+  "note": "Glossary."
+ },
+ {
+  "key": "D0437",
+  "en": "Quick Shot"
+ },
+ {
+  "key": "D0438",
+  "en": "Dnc. Blade",
+  "note": "Glossary \"Dancing Blade\" (13 bytes) abbreviated."
+ },
+ {
+  "key": "D0439",
+  "en": "Rapid Fire",
+  "note": "Glossary."
+ },
+ {
+  "key": "D0440",
+  "en": "Rampage"
+ },
+ {
+  "key": "D0441",
+  "en": "Thunder",
+  "note": "Glossary \"Thunderbolt\" is 11 bytes."
+ },
+ {
+  "key": "D0442",
+  "en": "Whirlwind",
+  "note": "Glossary \"Whirlwind Slash\" (15 bytes) shortened."
+ },
+ {
+  "key": "D0443",
+  "en": "Flame Art",
+  "note": "Skill-menu pattern \"X Art\"."
+ },
+ {
+  "key": "D0444",
+  "en": "Self-Blast"
+ },
+ {
+  "key": "D0445",
+  "en": "Fire Atk.",
+  "note": "\"Fire Attack\" is 11 bytes."
+ },
+ {
+  "key": "D0446",
+  "en": "Water Atk.",
+  "note": "Pairs with Fire Atk.; \"Flood Siege\" (U06241) is the historical event, not this skill."
+ },
+ {
+  "key": "D0447",
+  "en": "Fall. Tree",
+  "note": "Glossary \"Falling Tree\" (12 bytes) abbreviated."
+ },
+ {
+  "key": "D0448",
+  "en": "Rockfall",
+  "note": "Glossary."
+ },
+ {
+  "key": "D0449",
+  "en": "Rag. Waves",
+  "note": "Glossary \"Raging Waves\" (12 bytes) abbreviated."
+ },
+ {
+  "key": "D0450",
+  "en": "Bear",
+  "note": "Glossary."
+ },
+ {
+  "key": "D0451",
+  "en": "Shark",
+  "note": "Glossary."
+ },
+ {
+  "key": "D0452",
+  "en": "Skill Jam",
+  "note": "Lowers several enemies' skill points."
+ },
+ {
+  "key": "D0453",
+  "en": "Dbl Thrust",
+  "note": "Glossary \"Double Thrust\" (13 bytes) abbreviated."
+ },
+ {
+  "key": "D0454",
+  "en": "Tri Thrust",
+  "note": "Glossary \"Triple Thrust\" (13 bytes) abbreviated."
+ },
+ {
+  "key": "D0455",
+  "en": "Chain Fire",
+  "note": "Attacks two enemy units in a row."
+ },
+ {
+  "key": "D0456",
+  "en": "Halt Horse",
+  "note": "Immobilises a cavalry / mounted archer unit."
+ },
+ {
+  "key": "D0457",
+  "en": "Halt Ship",
+  "note": "Immobilises a unit at sea."
+ },
+ {
+  "key": "D0458",
+  "en": "Warn. Shot",
+  "note": "Glossary \"Warning Shot\" (12 bytes) abbreviated."
+ },
+ {
+  "key": "D0459",
+  "en": "Home Song",
+  "note": "Glossary \"Song of Home\" (12 bytes); menu pattern \"X Song\"."
+ },
+ {
+  "key": "D0460",
+  "en": "Lure Dance"
+ },
+ {
+  "key": "D0461",
+  "en": "Seduce",
+  "note": "Glossary."
+ },
+ {
+  "key": "D0462",
+  "en": "Bewilder",
+  "note": "Glossary."
+ },
+ {
+  "key": "D0463",
+  "en": "Misfortune",
+  "note": "Glossary \"Misfortune Art\" (14 bytes); Art dropped."
+ },
+ {
+  "key": "D0464",
+  "en": "Seal Art",
+  "note": "Glossary."
+ },
+ {
+  "key": "D0465",
+  "en": "Bind. Art",
+  "note": "Glossary \"Binding Art\" (11 bytes) abbreviated."
+ },
+ {
+  "key": "D0466",
+  "en": "Hex Rite"
+ },
+ {
+  "key": "D0467",
+  "en": "Encourage",
+  "note": "Fully restores one ally."
+ },
+ {
+  "key": "D0468",
+  "en": "Supply"
+ },
+ {
+  "key": "D0469",
+  "en": "Max Supply"
+ },
+ {
+  "key": "D0470",
+  "en": "Big Supply"
+ },
+ {
+  "key": "D0471",
+  "en": "Hunting",
+  "note": "Glossary."
+ },
+ {
+  "key": "D0472",
+  "en": "Fishing",
+  "note": "Glossary."
+ },
+ {
+  "key": "D0473",
+  "en": "Big Reinf."
+ },
+ {
+  "key": "D0474",
+  "en": "Reinforce"
+ },
+ {
+  "key": "D0475",
+  "en": "Calm Song"
+ },
+ {
+  "key": "D0476",
+  "en": "Unseal Sg."
+ },
+ {
+  "key": "D0477",
+  "en": "Vigor Song"
+ },
+ {
+  "key": "D0478",
+  "en": "Luck Art"
+ },
+ {
+  "key": "D0479",
+  "en": "First Aid"
+ },
+ {
+  "key": "D0480",
+  "en": "Valor Song",
+  "note": "Glossary \"Song of Valor\" (13 bytes); menu pattern \"X Song\"."
+ }
+]

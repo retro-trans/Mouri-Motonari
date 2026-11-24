@@ -1,0 +1,61 @@
+{
+ "movie": "MOVIE05",
+ "subtitles": [
+  {
+   "start": 2.36,
+   "end": 8.4,
+   "speaker": "Woman",
+   "en": "I have heard that Motonari is a black-hearted schemer. Please, do not let your guard down."
+  },
+  {
+   "start": 8.5,
+   "end": 12.18,
+   "speaker": "Yamanaka Shikanosuke",
+   "en": "Have no fear. No scheme can kill me."
+  },
+  {
+   "start": 13.6,
+   "end": 19.76,
+   "speaker": "Yamanaka Shikanosuke",
+   "en": "Besides, I have Norimitsu, the sword my father left me."
+  },
+  {
+   "start": 20.3,
+   "end": 23.56,
+   "speaker": "Woman",
+   "en": "Will that sword ever be drawn?"
+  },
+  {
+   "start": 24.56,
+   "end": 27.24,
+   "speaker": "Yamanaka Shikanosuke",
+   "en": "When the time comes, perhaps it will."
+  },
+  {
+   "start": 31.06,
+   "end": 33.8,
+   "speaker": "Yamanaka Shikanosuke",
+   "en": "I must go. The hour is near."
+  },
+  {
+   "start": 38.24,
+   "end": 39.6,
+   "speaker": "Yamanaka Shikanosuke",
+   "en": "Take care!"
+  },
+  {
+   "start": 40.12,
+   "end": 42.0,
+   "speaker": "Woman",
+   "en": "Yes! Farewell!"
+  },
+  {
+   "start": 55.38,
+   "end": 59.4,
+   "speaker": "Yamanaka Shikanosuke",
+   "en": "I pray you, grant me seven hardships and eight trials!"
+  }
+ ],
+ "labels": [],
+ "review": "Self-reviewed 2026-11-18 (accuracy against the transcript and frames, voice, proofreading); not yet through separate review agents."
+}

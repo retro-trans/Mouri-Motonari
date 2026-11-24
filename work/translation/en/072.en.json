@@ -1,0 +1,261 @@
+[
+ {
+  "key": "U05760"
+ },
+ {
+  "key": "U05761",
+  "note": "Same exchange as U04968 (Motonari version); English reused with Terumoto speaking."
+ },
+ {
+  "key": "U05762",
+  "note": "Refusal branch; Shindo's line trails off as in the Japanese."
+ },
+ {
+  "key": "U05763"
+ },
+ {
+  "key": "U05764"
+ },
+ {
+  "key": "U05765"
+ },
+ {
+  "key": "U05766"
+ },
+ {
+  "key": "U05767"
+ },
+ {
+  "key": "U05768"
+ },
+ {
+  "key": "U05769"
+ },
+ {
+  "key": "U05770"
+ },
+ {
+  "key": "U05771"
+ },
+ {
+  "key": "U05772"
+ },
+ {
+  "key": "U05773"
+ },
+ {
+  "key": "U05774",
+  "note": "Post-earthquake variant of Soldier 11 (the quake happens in U05843)."
+ },
+ {
+  "key": "U05775"
+ },
+ {
+  "key": "U05776"
+ },
+ {
+  "key": "U05777"
+ },
+ {
+  "key": "U05778"
+ },
+ {
+  "key": "U05779"
+ },
+ {
+  "key": "U05780"
+ },
+ {
+  "key": "U05781"
+ },
+ {
+  "key": "U05782",
+  "note": "Item gift; the item name is shown by the game."
+ },
+ {
+  "key": "U05783"
+ },
+ {
+  "key": "U05784"
+ },
+ {
+  "key": "U05785"
+ },
+ {
+  "key": "U05786",
+  "note": "Speaker's gender unknown; 'We're having' (as U02545) avoids implying father or mother."
+ },
+ {
+  "key": "U05787"
+ },
+ {
+  "key": "U05788"
+ },
+ {
+  "key": "U05789"
+ },
+ {
+  "key": "U05790",
+  "note": "Said after the pickpocket scene (U05808-U05811)."
+ },
+ {
+  "key": "U05791"
+ },
+ {
+  "key": "U05792"
+ },
+ {
+  "key": "U05793"
+ },
+ {
+  "key": "U05794"
+ },
+ {
+  "key": "U05795",
+  "note": "Probably the post-earthquake variant (same speaker, event 95)."
+ },
+ {
+  "key": "U05796"
+ },
+ {
+  "key": "U05797"
+ },
+ {
+  "key": "U05798",
+  "note": "Past tense kept (Motonari is dead by this chapter). Motonari is male per characters.json."
+ },
+ {
+  "key": "U05799"
+ },
+ {
+  "key": "U05800"
+ },
+ {
+  "key": "U05801",
+  "note": "Same as U05799 (only a comma differs)."
+ },
+ {
+  "key": "U05802"
+ },
+ {
+  "key": "U05803"
+ },
+ {
+  "key": "U05804"
+ },
+ {
+  "key": "U05805"
+ },
+ {
+  "key": "U05806"
+ },
+ {
+  "key": "U05807"
+ },
+ {
+  "key": "U05808",
+  "note": "Farmer 8 bumps into Townsperson 11 and picks the purse."
+ },
+ {
+  "key": "U05809"
+ },
+ {
+  "key": "U05810"
+ },
+ {
+  "key": "U05811",
+  "note": "Returned to the victim / Terumoto; no indirect object needed."
+ },
+ {
+  "key": "U05812"
+ },
+ {
+  "key": "U05813"
+ },
+ {
+  "key": "U05814"
+ },
+ {
+  "key": "U05815"
+ },
+ {
+  "key": "U05816"
+ },
+ {
+  "key": "U05817"
+ },
+ {
+  "key": "U05818"
+ },
+ {
+  "key": "U05819"
+ },
+ {
+  "key": "U05820",
+  "en": "Sake\nHlth."
+ },
+ {
+  "key": "U05821"
+ },
+ {
+  "key": "U05822",
+  "note": "Assumed reply to choosing health (disagreement)."
+ },
+ {
+  "key": "U05823",
+  "note": "Silence; Farmer 8 is the pickpocket (U05808-U05811)."
+ },
+ {
+  "key": "U05824"
+ },
+ {
+  "key": "U05825"
+ },
+ {
+  "key": "U05826"
+ },
+ {
+  "key": "U05827"
+ },
+ {
+  "key": "U05828"
+ },
+ {
+  "key": "U05829"
+ },
+ {
+  "key": "U05830",
+  "en": "1\n2\n3",
+  "note": "Choice limit is the 24 px floor (1 JP char each). 'Three' is 28 px, so digits are used for all three. Alt: 'I/II/III' (12 px max)."
+ },
+ {
+  "key": "U05831",
+  "note": "Fortune result (a hardship)."
+ },
+ {
+  "key": "U05832",
+  "note": "Fortune result (stability). Japanese blank line kept as a page beat."
+ },
+ {
+  "key": "U05833",
+  "note": "Fortune result (upheaval). Page beat after the hesitation."
+ },
+ {
+  "key": "U05834"
+ },
+ {
+  "key": "U05835"
+ },
+ {
+  "key": "U05836"
+ },
+ {
+  "key": "U05837"
+ },
+ {
+  "key": "U05838"
+ },
+ {
+  "key": "U05839"
+ }
+]

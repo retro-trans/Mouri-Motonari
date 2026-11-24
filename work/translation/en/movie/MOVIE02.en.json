@@ -1,0 +1,44 @@
+{
+ "movie": "MOVIE02",
+ "note": "Motonari waits under the cherry trees outside the castle for his bride, Lady Myo (Kikkawa), who arrives in a procession. The woman in court robes who speaks first and laughs at the end is taken to be Lady Sugi (she raised Motonari). Japanese transcribed with faster-whisper large-v3 (tools/transcribe_movie.py, clips re-run with tools/transcribe_clip.py) and corrected by context and the frames; times in seconds from the start of the film (frame = round(t * 15) + 1). Speaker names are notes only (not shown).",
+ "subtitles": [
+  {
+   "start": 10.1,
+   "end": 13.48,
+   "speaker": "Lady Sugi",
+   "en": "If you had waited inside, I would have brought her to you."
+  },
+  {
+   "start": 13.84,
+   "end": 18.3,
+   "speaker": "Mouri Motonari",
+   "en": "That would be discourteous to the woman who is to be my wife."
+  },
+  {
+   "start": 18.92,
+   "end": 24.08,
+   "speaker": "Lady Sugi",
+   "en": "Even so, there is no need for you, my lord, to go all the way outside the castle to meet her."
+  },
+  {
+   "start": 58.28,
+   "end": 60.86,
+   "speaker": "Mouri Motonari",
+   "en": "Welcome. I have been waiting for you."
+  },
+  {
+   "start": 61.1,
+   "end": 64.4,
+   "speaker": "Lady Myo",
+   "en": "How kind of you to come out to meet me."
+  },
+  {
+   "start": 65.34,
+   "end": 66.9,
+   "speaker": "Lady Sugi",
+   "en": "My, my."
+  }
+ ],
+ "labels": [],
+ "review": "Self-reviewed 2026-11-18 (accuracy against the transcript and frames, voice, proofreading); not yet through separate review agents."
+}

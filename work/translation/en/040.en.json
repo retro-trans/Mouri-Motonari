@@ -1,0 +1,271 @@
+[
+ {
+  "key": "U03200",
+  "note": "Motonari accepting the strategist's request (U03198, choice U03199 'Play'). Japanese page break kept as a beat."
+ },
+ {
+  "key": "U03201"
+ },
+ {
+  "key": "U03202"
+ },
+ {
+  "key": "U03203"
+ },
+ {
+  "key": "U03204"
+ },
+ {
+  "key": "U03205"
+ },
+ {
+  "key": "U03206"
+ },
+ {
+  "key": "U03207"
+ },
+ {
+  "key": "U03208"
+ },
+ {
+  "key": "U03209"
+ },
+ {
+  "key": "U03210"
+ },
+ {
+  "key": "U03211",
+  "note": "Same scene as U02634 (English reused), with the extra startled '!' kept; page break after it for the reaction beat."
+ },
+ {
+  "key": "U03212"
+ },
+ {
+  "key": "U03213"
+ },
+ {
+  "key": "U03214"
+ },
+ {
+  "key": "U03215"
+ },
+ {
+  "key": "U03216"
+ },
+ {
+  "key": "U03217"
+ },
+ {
+  "key": "U03218"
+ },
+ {
+  "key": "U03219"
+ },
+ {
+  "key": "U03220"
+ },
+ {
+  "key": "U03221"
+ },
+ {
+  "key": "U03222"
+ },
+ {
+  "key": "U03223"
+ },
+ {
+  "key": "U03224"
+ },
+ {
+  "key": "U03225"
+ },
+ {
+  "key": "U03226"
+ },
+ {
+  "key": "U03227",
+  "note": "Same Japanese as U03225 apart from one line break; same English."
+ },
+ {
+  "key": "U03228"
+ },
+ {
+  "key": "U03229",
+  "note": "Same as the first section of U03228."
+ },
+ {
+  "key": "U03230"
+ },
+ {
+  "key": "U03231",
+  "en": "Battle of Itsukushima\nVictory Conditions\n  1. Make Sue Harukata retreat\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Miyao Castle is captured\n  3. Sakurao Castle is captured\n  4. Mouri HQ is captured\n  5. More than 90 turns pass"
+ },
+ {
+  "key": "U03232",
+  "en": "Battle of Itsukushima\n\nVictory Conditions\n  1. Make Sue Harukata retreat\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Miyao Castle is captured\n  3. Sakurao Castle is captured\n  4. Mouri HQ is captured\n  5. More than 90 turns pass"
+ },
+ {
+  "key": "U03233",
+  "note": "Era's dying words; implies Motonari will be master of the West (echo of Sue in U03223). Fragmented delivery kept."
+ },
+ {
+  "key": "U03234"
+ },
+ {
+  "key": "U03235"
+ },
+ {
+  "key": "U03236"
+ },
+ {
+  "key": "U03237"
+ },
+ {
+  "key": "U03238"
+ },
+ {
+  "key": "U03239"
+ },
+ {
+  "key": "U03240",
+  "en": "Itsukushima Shrine",
+  "note": "terms.json."
+ },
+ {
+  "key": "U03241",
+  "en": "&\nWe have defiled the sacred grounds......\n\nWe will surely purify them afterward, so we humbly beseech you to grant us victory.",
+  "note": "Bare '&' speaker copied as is (a Mouri unit praying at the shrine on the battle map); 'we' since the speaker is unnamed. Japanese page break kept."
+ },
+ {
+  "key": "U03242",
+  "en": "The Great Torii",
+  "note": "terms.json 'the Great Torii', capitalized as a caption."
+ },
+ {
+  "key": "U03243",
+  "en": "Era Fusahide's ambushers appeared."
+ },
+ {
+  "key": "U03244"
+ },
+ {
+  "key": "U03245"
+ },
+ {
+  "key": "U03246"
+ },
+ {
+  "key": "U03247"
+ },
+ {
+  "key": "U03248"
+ },
+ {
+  "key": "U03249",
+  "note": "Bare '&' (enemy unit) copied as is; first line as U01149."
+ },
+ {
+  "key": "U03250"
+ },
+ {
+  "key": "U03251",
+  "en": "Miyao Castle fell; the Mouri lost."
+ },
+ {
+  "key": "U03252"
+ },
+ {
+  "key": "U03253",
+  "en": "Sakurao Castle fell; the Mouri lost.",
+  "note": "36 chars; same pattern as U03251."
+ },
+ {
+  "key": "U03254"
+ },
+ {
+  "key": "U03255",
+  "en": "Got 700 gold.",
+  "note": "terms.json form."
+ },
+ {
+  "key": "U03256",
+  "en": "Chapter 2: Campaigns in the West",
+  "note": "terms.json (32 chars)."
+ },
+ {
+  "key": "U03257",
+  "en": "Episode 13: The Puppet Daimyo",
+  "note": "terms.json (29 chars)."
+ },
+ {
+  "key": "U03258",
+  "en": "Itsukushima Coast"
+ },
+ {
+  "key": "U03259"
+ },
+ {
+  "key": "U03260"
+ },
+ {
+  "key": "U03261"
+ },
+ {
+  "key": "U03262"
+ },
+ {
+  "key": "U03263"
+ },
+ {
+  "key": "U03264"
+ },
+ {
+  "key": "U03265"
+ },
+ {
+  "key": "U03266"
+ },
+ {
+  "key": "U03267"
+ },
+ {
+  "key": "U03268",
+  "en": "Riverbank in Izumo"
+ },
+ {
+  "key": "U03269"
+ },
+ {
+  "key": "U03270"
+ },
+ {
+  "key": "U03271",
+  "en": "Izumo Mountains: Shikanosuke's House"
+ },
+ {
+  "key": "U03272"
+ },
+ {
+  "key": "U03273"
+ },
+ {
+  "key": "U03274",
+  "en": "Ankokuji Ekei's Temple"
+ },
+ {
+  "key": "U03275"
+ },
+ {
+  "key": "U03276",
+  "note": "Takamoto hurries off when the farmer appears (presumably afraid of being recognized, U03278)."
+ },
+ {
+  "key": "U03277"
+ },
+ {
+  "key": "U03278"
+ },
+ {
+  "key": "U03279"
+ }
+]

@@ -1,0 +1,396 @@
+[
+ {
+  "key": "D0241",
+  "en": "Heal Sake(Plum)",
+  "note": "Glossary: Heal Sake (Plum); written without the space to match the attested \"Heal Sake(B)\"."
+ },
+ {
+  "key": "D0242",
+  "en": "Heal Sake(B)",
+  "note": "Glossary short (attested in U06887). Full: Heal Sake (Bamboo); \"Heal Sake(Bamboo)\" does not fit 72 px."
+ },
+ {
+  "key": "D0243",
+  "en": "Heal Sake(Pine)",
+  "note": "Glossary: Heal Sake (Pine); fits exactly (72 px)."
+ },
+ {
+  "key": "D0244",
+  "en": "Atk. Restor.",
+  "note": "Glossary short; full \"Attack Restorative\" (83 px) does not fit."
+ },
+ {
+  "key": "D0245",
+  "en": "Def. Restor.",
+  "note": "Glossary short; full \"Defense Restorative\"."
+ },
+ {
+  "key": "D0246",
+  "en": "Int. Restor.",
+  "note": "Glossary short; full \"Intellect Restorative\"."
+ },
+ {
+  "key": "D0247",
+  "en": "Unbind Med.",
+  "note": "Glossary short (U07159); full \"Unbinding Medicine\"."
+ },
+ {
+  "key": "D0248",
+  "en": "Unseal Med.",
+  "note": "Glossary short (U07159); full \"Unsealing Medicine\"."
+ },
+ {
+  "key": "D0249",
+  "en": "Stimulant"
+ },
+ {
+  "key": "D0250",
+  "en": "Buddha Pill"
+ },
+ {
+  "key": "D0251",
+  "en": "Exorcism Med.",
+  "note": "Glossary full \"Exorcism Medicine\" (84 px) does not fit; abbreviated like Unbind Med. / Unseal Med."
+ },
+ {
+  "key": "D0252",
+  "en": "Ninja 3 Throws",
+  "note": "Not in glossary. Full \"Ninja Three Throws\" (Kunoichi -> Kunoichi Head class-up item, I0137). Partner of the Ninja class-up item (D0202, slice 002)."
+ },
+ {
+  "key": "D0253",
+  "en": "None",
+  "note": "Empty item slot."
+ },
+ {
+  "key": "D0254",
+  "en": "Iron Sand",
+  "note": "Not in glossary (satetsu)."
+ },
+ {
+  "key": "D0255",
+  "en": "Scrap Iron",
+  "note": "Not in glossary (old iron)."
+ },
+ {
+  "key": "D0256",
+  "en": "Wrought Iron",
+  "note": "Not in glossary. Hochotetsu = low-carbon wrought iron from the tatara."
+ },
+ {
+  "key": "D0257",
+  "en": "Tamahagane",
+  "note": "Not in glossary; the standard English term for tatara steel."
+ },
+ {
+  "key": "D0258",
+  "en": "Iwami Iron",
+  "note": "Glossary full form fits (the \"Iwami I.\" short is for narrower menus)."
+ },
+ {
+  "key": "D0259",
+  "en": "Izumo Iron",
+  "note": "Glossary full form fits."
+ },
+ {
+  "key": "D0260",
+  "en": "Hoki Iron",
+  "note": "Glossary full form fits."
+ },
+ {
+  "key": "D0261",
+  "en": "Bizen Iron",
+  "note": "Glossary full form fits."
+ },
+ {
+  "key": "D0262",
+  "en": "Nanban Iron",
+  "note": "Glossary full form fits."
+ },
+ {
+  "key": "D0263",
+  "en": "Thin Iron"
+ },
+ {
+  "key": "D0264",
+  "en": "Iron Plate"
+ },
+ {
+  "key": "D0265",
+  "en": "Iwami Plate",
+  "note": "Not in glossary. Full \"Iwami Iron Plate\" (76 px) does not fit."
+ },
+ {
+  "key": "D0266",
+  "en": "Izumo Plate",
+  "note": "Not in glossary. Full \"Izumo Iron Plate\"."
+ },
+ {
+  "key": "D0267",
+  "en": "Nanban Plate",
+  "note": "Not in glossary. Full \"Nanban Iron Plate\"."
+ },
+ {
+  "key": "D0268",
+  "en": "Iron Chain",
+  "note": "Not in glossary."
+ },
+ {
+  "key": "D0269",
+  "en": "Kozane",
+  "note": "Not in glossary. Armour lamellae (small iron plates laced together, I0181)."
+ },
+ {
+  "key": "D0270",
+  "en": "Mitsume-zane",
+  "note": "Not in glossary. Mitsume-zane, three-hole lamellae."
+ },
+ {
+  "key": "D0271",
+  "en": "Hon-Kozane",
+  "note": "Not in glossary. Hon-kozane, true (full-size) lamellae."
+ },
+ {
+  "key": "D0272",
+  "en": "Rivets",
+  "note": "Not in glossary."
+ },
+ {
+  "key": "D0273",
+  "en": "Tanto Manual",
+  "note": "Not in glossary. Seiho-sho = Manual, as in the glossary's Three-Monme Shot Manual."
+ },
+ {
+  "key": "D0274",
+  "en": "Tachi Manual",
+  "note": "Not in glossary."
+ },
+ {
+  "key": "D0275",
+  "en": "Sword Manual",
+  "note": "Not in glossary. Token = swords in general (I0184: long swords and tachi)."
+ },
+ {
+  "key": "D0276",
+  "en": "Spear Manual",
+  "note": "Not in glossary."
+ },
+ {
+  "key": "D0277",
+  "en": "Naginata Mnl.",
+  "note": "Not in glossary. Full \"Naginata Manual\" (76 px) does not fit."
+ },
+ {
+  "key": "D0278",
+  "en": "Bow Manual",
+  "note": "Not in glossary."
+ },
+ {
+  "key": "D0279",
+  "en": "Pistol Manual",
+  "note": "Not in glossary. Tanju = pistol."
+ },
+ {
+  "key": "D0280",
+  "en": "Powder Recipe",
+  "note": "Not in glossary. Full \"Gunpowder Recipe Book\"."
+ },
+ {
+  "key": "D0281",
+  "en": "Fine Powd. Rec.",
+  "note": "Not in glossary. Full \"Fine Gunpowder Recipe Book\"."
+ },
+ {
+  "key": "D0282",
+  "en": "3-Monme Mnl.",
+  "note": "Glossary full \"Three-Monme Shot Manual\" (121 px) does not fit; no glossary short."
+ },
+ {
+  "key": "D0283",
+  "en": "Maru Tech.",
+  "note": "Not in glossary. Full \"Maru Technique Manual\" (pattern of the glossary's Kobuse Technique Manual); gijutsu-sho = Tech."
+ },
+ {
+  "key": "D0284",
+  "en": "Kobuse Tech.",
+  "note": "Glossary full \"Kobuse Technique Manual\" does not fit; the Kobuse reading is a glossary guess."
+ },
+ {
+  "key": "D0285",
+  "en": "Sanmai Tech.",
+  "note": "Not in glossary. Full \"Sanmai Technique Manual\"."
+ },
+ {
+  "key": "D0286",
+  "en": "Shihozume Tech",
+  "note": "Not in glossary. Full \"Shihozume Technique Manual\"; period dropped, \"Shihozume Tech.\" is 74 px."
+ },
+ {
+  "key": "D0287",
+  "en": "Awase Tech.",
+  "note": "Not in glossary. Full \"Awase Technique Manual\"."
+ },
+ {
+  "key": "D0288",
+  "en": "Maru Sec.",
+  "note": "Not in glossary. Full \"Maru Secret Manual\"; hiden-sho = Sec."
+ },
+ {
+  "key": "D0289",
+  "en": "Kobuse Sec.",
+  "note": "Full \"Kobuse Secret Manual\"."
+ },
+ {
+  "key": "D0290",
+  "en": "Sanmai Sec.",
+  "note": "Full \"Sanmai Secret Manual\"."
+ },
+ {
+  "key": "D0291",
+  "en": "Shihozume Sec.",
+  "note": "Full \"Shihozume Secret Manual\"."
+ },
+ {
+  "key": "D0292",
+  "en": "Awase Sec.",
+  "note": "Full \"Awase Secret Manual\"."
+ },
+ {
+  "key": "D0293",
+  "en": "Ginkgo Tech.",
+  "note": "Full \"Ginkgo Spear Technique Manual\"."
+ },
+ {
+  "key": "D0294",
+  "en": "Blade Tech.",
+  "note": "Not in glossary. Blade-shaped spearhead. Full \"Blade Spear Technique Manual\"."
+ },
+ {
+  "key": "D0295",
+  "en": "Triangle Tech.",
+  "note": "Not in glossary. Triangular spearhead. Full \"Triangle Spear Technique Manual\"."
+ },
+ {
+  "key": "D0296",
+  "en": "Sasa Tech.",
+  "note": "Not in glossary. Bamboo-leaf (sasaho) spearhead. Full \"Sasa-Leaf Spear Technique Manual\"."
+ },
+ {
+  "key": "D0297",
+  "en": "Ginkgo Sec."
+ },
+ {
+  "key": "D0298",
+  "en": "Blade Sec.",
+  "note": "Full \"Blade Spear Secret Manual\"."
+ },
+ {
+  "key": "D0299",
+  "en": "Ginkgo Ult."
+ },
+ {
+  "key": "D0300",
+  "en": "Blade Ult.",
+  "note": "Full \"Blade Spear Ultimate Manual\" (ougi-sho = Ult.)."
+ },
+ {
+  "key": "D0301",
+  "en": "Triangle Ult.",
+  "note": "Full \"Triangle Spear Ultimate Manual\"."
+ },
+ {
+  "key": "D0302",
+  "en": "Sasa Ult.",
+  "note": "Full \"Sasa-Leaf Spear Ultimate Manual\"."
+ },
+ {
+  "key": "D0303",
+  "en": "Kunimitsu Sec.",
+  "note": "Not in glossary. Kunimitsu (spearsmith, I0040). Full \"Kunimitsu Secret Manual\"."
+ },
+ {
+  "key": "D0304",
+  "en": "Yoshimitsu Sec",
+  "note": "Not in glossary. Yoshimitsu. Full \"Yoshimitsu Secret Manual\"; period dropped, \"Yoshimitsu Sec.\" is 73 px."
+ },
+ {
+  "key": "D0305",
+  "en": "Masamune Sec.",
+  "note": "Glossary full \"Masamune Secret Manual\" does not fit."
+ },
+ {
+  "key": "D0306",
+  "en": "Magobei Sec.",
+  "note": "Not in glossary. Magobei (-bei rule; spearsmith, I0041). Full \"Magobei Secret Manual\"."
+ },
+ {
+  "key": "D0307",
+  "en": "Muneshige Sec.",
+  "note": "Glossary full \"Muneshige Secret Manual\" (reading a guess) does not fit."
+ },
+ {
+  "key": "D0308",
+  "en": "Osafune Sec.",
+  "note": "Not in glossary. Osafune (Bizen school). Full \"Osafune Secret Manual\"."
+ },
+ {
+  "key": "D0309",
+  "en": "Kunimitsu Ult.",
+  "note": "Full \"Kunimitsu Ultimate Manual\"."
+ },
+ {
+  "key": "D0310",
+  "en": "Yoshimitsu Ult.",
+  "note": "Full \"Yoshimitsu Ultimate Manual\"."
+ },
+ {
+  "key": "D0311",
+  "en": "Masamune Ult.",
+  "note": "Full \"Masamune Ultimate Manual\"."
+ },
+ {
+  "key": "D0312",
+  "en": "Magobei Ult.",
+  "note": "Full \"Magobei Ultimate Manual\"."
+ },
+ {
+  "key": "D0313",
+  "en": "Muneshige Ult.",
+  "note": "Full \"Muneshige Ultimate Manual\"."
+ },
+ {
+  "key": "D0314",
+  "en": "Osafune Ult.",
+  "note": "Full \"Osafune Ultimate Manual\"."
+ },
+ {
+  "key": "D0315",
+  "en": "2-Kanme Plans",
+  "note": "Not in glossary. Zukai = illustrated plans. Full \"Two-Kanme Cannon Plans\"."
+ },
+ {
+  "key": "D0316",
+  "en": "4-Kanme Plans",
+  "note": "Full \"Four-Kanme Cannon Plans\"."
+ },
+ {
+  "key": "D0317",
+  "en": "5-Kanme Plans",
+  "note": "Full \"Five-Kanme Cannon Plans\"."
+ },
+ {
+  "key": "D0318",
+  "en": "6-Kanme Plans",
+  "note": "Full \"Six-Kanme Cannon Plans\"."
+ },
+ {
+  "key": "D0319",
+  "en": "Koga Manual",
+  "note": "Not in glossary. Koga. Full \"Koga Ninja Manual\" (a copy of a Koga ninjutsu book, I0195)."
+ },
+ {
+  "key": "D0320",
+  "en": "Iga Manual",
+  "note": "Iga = glossary province. Full \"Iga Ninja Manual\" (I0196)."
+ }
+]

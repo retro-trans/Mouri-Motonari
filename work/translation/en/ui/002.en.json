@@ -1,0 +1,341 @@
+[
+ {
+  "key": "D0161",
+  "en": "Barrel Armor"
+ },
+ {
+  "key": "D0162",
+  "en": "Solid Armor"
+ },
+ {
+  "key": "D0163",
+  "en": "Nanban Armor"
+ },
+ {
+  "key": "D0164",
+  "en": "Ridge W. Mail"
+ },
+ {
+  "key": "D0165",
+  "en": "Antler R. Mail"
+ },
+ {
+  "key": "D0166",
+  "en": "Nanban B. Mail"
+ },
+ {
+  "key": "D0167",
+  "en": "Eboshi W. Mail"
+ },
+ {
+  "key": "D0168",
+  "en": "Myoo R. Mail"
+ },
+ {
+  "key": "D0169",
+  "en": "Bear Fur B. Mail"
+ },
+ {
+  "key": "D0170",
+  "en": "Zhanguo Ce"
+ },
+ {
+  "key": "D0171",
+  "en": "Chunqiu"
+ },
+ {
+  "key": "D0172",
+  "en": "Sanlue"
+ },
+ {
+  "key": "D0173",
+  "en": "Analects"
+ },
+ {
+  "key": "D0174",
+  "en": "Wuzi"
+ },
+ {
+  "key": "D0175",
+  "en": "Sun Tzu"
+ },
+ {
+  "key": "D0176",
+  "en": "Ise Charm",
+  "note": "Glossary short form (72 px menu); full 'Ise Shrine Charm' is 79 px."
+ },
+ {
+  "key": "D0177",
+  "en": "Narita Charm",
+  "note": "Glossary short form; full 'Naritasan Charm' is 79 px."
+ },
+ {
+  "key": "D0178",
+  "en": "Itsuku. Charm",
+  "note": "Glossary short form; full 'Itsukushima Charm' is 88 px."
+ },
+ {
+  "key": "D0179",
+  "en": "Tenman Charm"
+ },
+ {
+  "key": "D0180",
+  "en": "Fudo Charm",
+  "note": "Glossary 'Fudo Myoo Charm' is 81 px; short form 'Fudo Charm'. Dialogue keeps the full name (and the fake 'Fudo Myoe Charm')."
+ },
+ {
+  "key": "D0181",
+  "en": "Dainichi Charm"
+ },
+ {
+  "key": "D0182",
+  "en": "Wooden Shield"
+ },
+ {
+  "key": "D0183",
+  "en": "Leather Shield"
+ },
+ {
+  "key": "D0184",
+  "en": "White Shield"
+ },
+ {
+  "key": "D0185",
+  "en": "Black Shield"
+ },
+ {
+  "key": "D0186",
+  "en": "Red Shield"
+ },
+ {
+  "key": "D0187",
+  "en": "Iron Shield"
+ },
+ {
+  "key": "D0188",
+  "en": "Fujin Statue"
+ },
+ {
+  "key": "D0189",
+  "en": "Raijin Statue"
+ },
+ {
+  "key": "D0190",
+  "en": "Indra Statue"
+ },
+ {
+  "key": "D0191",
+  "en": "Ashura Statue"
+ },
+ {
+  "key": "D0192",
+  "en": "Fudo Statue"
+ },
+ {
+  "key": "D0193",
+  "en": "Kannon Statue"
+ },
+ {
+  "key": "D0194",
+  "en": "Brocade Coat"
+ },
+ {
+  "key": "D0195",
+  "en": "Issued Armor"
+ },
+ {
+  "key": "D0196",
+  "en": "Great Quiver"
+ },
+ {
+  "key": "D0197",
+  "en": "Barding"
+ },
+ {
+  "key": "D0198",
+  "en": "Light Barding"
+ },
+ {
+  "key": "D0199",
+  "en": "Cartridges"
+ },
+ {
+  "key": "D0200",
+  "en": "Lg. Gun Mount"
+ },
+ {
+  "key": "D0201",
+  "en": "Mastery Scroll"
+ },
+ {
+  "key": "D0202",
+  "en": "Ninja 3 Blades"
+ },
+ {
+  "key": "D0203",
+  "en": "War Fan"
+ },
+ {
+  "key": "D0204",
+  "en": "Mt. God Charm"
+ },
+ {
+  "key": "D0205",
+  "en": "Sea God Charm"
+ },
+ {
+  "key": "D0206",
+  "en": "Bodhi. Beads"
+ },
+ {
+  "key": "D0207",
+  "en": "Great Cart"
+ },
+ {
+  "key": "D0208",
+  "en": "Sacred Score"
+ },
+ {
+  "key": "D0209",
+  "en": "Sorrel Horse"
+ },
+ {
+  "key": "D0210",
+  "en": "Black Horse"
+ },
+ {
+  "key": "D0211",
+  "en": "Hoshizaki"
+ },
+ {
+  "key": "D0212",
+  "en": "Nokaze"
+ },
+ {
+  "key": "D0213",
+  "en": "Taishakukurige"
+ },
+ {
+  "key": "D0214",
+  "en": "Matsukaze"
+ },
+ {
+  "key": "D0215",
+  "en": "Heike Copy"
+ },
+ {
+  "key": "D0216",
+  "en": "Gikeiki Copy"
+ },
+ {
+  "key": "D0217",
+  "en": "Taiheiki Copy"
+ },
+ {
+  "key": "D0218",
+  "en": "Heal Beans"
+ },
+ {
+  "key": "D0219",
+  "en": "Heal Barley",
+  "note": "Glossary."
+ },
+ {
+  "key": "D0220",
+  "en": "Heal Rice",
+  "note": "Glossary."
+ },
+ {
+  "key": "D0221",
+  "en": "Heal Meat",
+  "note": "Glossary."
+ },
+ {
+  "key": "D0222",
+  "en": "Min. Heal Scroll",
+  "note": "Glossary short form for the 72 px menu (full 'Minor Heal Scroll', 77 px)."
+ },
+ {
+  "key": "D0223",
+  "en": "Mid Heal Scroll"
+ },
+ {
+  "key": "D0224",
+  "en": "Maj. Heal Scroll",
+  "note": "'Major Heal Scroll' is 80 px."
+ },
+ {
+  "key": "D0225",
+  "en": "Full Heal Scroll"
+ },
+ {
+  "key": "D0226",
+  "en": "Min. Heal Book",
+  "note": "Glossary 'Minor Heal Book' is 74 px."
+ },
+ {
+  "key": "D0227",
+  "en": "Maj. Heal Book",
+  "note": "'Major Heal Book' is 77 px."
+ },
+ {
+  "key": "D0228",
+  "en": "Restor. Plum",
+  "note": "Glossary short form."
+ },
+ {
+  "key": "D0229",
+  "en": "Restor. Bamb.",
+  "note": "Glossary short 'Restor. Bamboo' is 76 px > 72; 'Bamb.' abbreviated."
+ },
+ {
+  "key": "D0230",
+  "en": "Restor. Pine",
+  "note": "Glossary short form."
+ },
+ {
+  "key": "D0231",
+  "en": "Min. Heal Med.",
+  "note": "Glossary short form (full 'Minor Heal Medicine', 89 px)."
+ },
+ {
+  "key": "D0232",
+  "en": "Mid Heal Med.",
+  "note": "Same 'Mid' as D0223."
+ },
+ {
+  "key": "D0233",
+  "en": "Maj. Heal Med.",
+  "note": "Glossary 'Major Heal Medicine' is too wide; short form on the Min. pattern."
+ },
+ {
+  "key": "D0234",
+  "en": "Full Heal Med."
+ },
+ {
+  "key": "D0235",
+  "en": "Min. Heal Elixir"
+ },
+ {
+  "key": "D0236",
+  "en": "Maj. Heal Elixir",
+  "note": "16 B, at the byte limit."
+ },
+ {
+  "key": "D0237",
+  "en": "Heal Water"
+ },
+ {
+  "key": "D0238",
+  "en": "Heal Tea",
+  "note": "Glossary."
+ },
+ {
+  "key": "D0239",
+  "en": "Heal Wine"
+ },
+ {
+  "key": "D0240",
+  "en": "Holy Water"
+ }
+]

@@ -1,0 +1,332 @@
+[
+ {
+  "key": "I0563",
+  "en": "I'm humbled. I lost this bout, fair and square."
+ },
+ {
+  "key": "I0564",
+  "en": "The victory is mine. Now, try not to lose heart."
+ },
+ {
+  "key": "I0565",
+  "en": "You should put more effort into your training."
+ },
+ {
+  "key": "I0566",
+  "en": "Use this chance to throw yourself into training."
+ },
+ {
+  "key": "I0567",
+  "en": "Young lord, your attacks are too soft."
+ },
+ {
+  "key": "I0568",
+  "en": "Young lord, with skill like that you are not fit for war.",
+  "note": "[edit: 'cannot go to war' read as a ban; now unfit for war]"
+ },
+ {
+  "key": "I0569",
+  "en": "With skill like that, you'll never shine in battle."
+ },
+ {
+  "key": "I0570",
+  "en": "With skill that poor, the sword at your hip must weep."
+ },
+ {
+  "key": "I0571",
+  "en": "Weak, weak! A swordsman, with that skill? What a joke!"
+ },
+ {
+  "key": "I0572",
+  "en": "All talk, I see. Come back when you're ready."
+ },
+ {
+  "key": "I0573",
+  "en": "You've a long way to go. Use this to spur yourself on."
+ },
+ {
+  "key": "I0574",
+  "en": "How feeble... I shall train you myself."
+ },
+ {
+  "key": "I0575",
+  "en": "You're weak. And you call yourself a ninja?"
+ },
+ {
+  "key": "I0576",
+  "en": "You want to take me on? Come back in ten years!"
+ },
+ {
+  "key": "I0577",
+  "en": "The win is mine. Come back when you're stronger."
+ },
+ {
+  "key": "I0578",
+  "en": "How can one so weak be a kunoichi? Come back when ready."
+ },
+ {
+  "key": "I0579",
+  "en": "Don't blame yourself... You were simply outmatched."
+ },
+ {
+  "key": "I0580",
+  "en": "I'll take you on again anytime."
+ },
+ {
+  "key": "I0581",
+  "en": "When you're able to beat me, I'll take you on again."
+ },
+ {
+  "key": "I0582",
+  "en": "In battle, one careless moment like that means death!"
+ },
+ {
+  "key": "I0583",
+  "en": "I had thought you would be stronger. How disappointing."
+ },
+ {
+  "key": "I0584",
+  "en": "To prepare for war, daily training is a must, I'd say..."
+ },
+ {
+  "key": "I0585",
+  "en": "At this rate, His Lordship will laugh at you!"
+ },
+ {
+  "key": "I0586",
+  "en": "To think I beat one so strong! I'll brag to everyone."
+ },
+ {
+  "key": "I0587",
+  "en": "I thought you were strong, but it was all for show."
+ },
+ {
+  "key": "I0588",
+  "en": "So you only looked strong, did you?"
+ },
+ {
+  "key": "I0589",
+  "en": "For a ninja, you were full of openings."
+ },
+ {
+  "key": "I0590",
+  "en": "Weak. Is this one really a ninja?"
+ },
+ {
+  "key": "I0591",
+  "en": "Heh. I can't afford to lose that easily."
+ },
+ {
+  "key": "I0592",
+  "en": "All bark and no bite. You're no match for me."
+ },
+ {
+  "key": "I0593",
+  "en": "Hehehe... I can't let myself lose that easily, you know."
+ },
+ {
+  "key": "I0594",
+  "en": "Heh, you caught on too late. You're no match for me."
+ },
+ {
+  "key": "I0595",
+  "en": "I've wasted my time again."
+ },
+ {
+  "key": "I0596",
+  "en": "Seems you need more training. Come back when you're ready."
+ },
+ {
+  "key": "I0597",
+  "en": "Take this\n%\nas a keepsake.",
+  "note": "% = item name inserted at runtime (up to 16 bytes): kept on its own line as in the Japanese so the longest name fits the 20-byte line."
+ },
+ {
+  "key": "I0598",
+  "en": "You got me. Here,\ntake my\n%."
+ },
+ {
+  "key": "I0599",
+  "en": "Please put this\n%\nto good use.",
+  "note": "% on its own line (see I0597)."
+ },
+ {
+  "key": "P0001",
+  "en": "Mother of Aio Mototsuna, Mouri Motonari's half-brother. She schemes to make her son Mototsuna head of the Mouri clan with the help of the Amago."
+ },
+ {
+  "key": "P0002",
+  "en": "Mother of Aio Mototsuna, Mouri Motonari's half-brother. She schemes to make her son Mototsuna head of the Mouri clan with the help of the Amago.\nAfter the death of the boy clan head Komatsumaru, she plots with the retainer Saka Hirohide and has Mototsuna rise in rebellion, but the plot fails. While fleeing to the Amago, she and Mototsuna both die at Amago hands. (Ep. 4)"
+ },
+ {
+  "key": "P0003",
+  "en": "Mouri Motonari's half-brother. He is called Aio Mototsuna because he lived in Aio. He is said to surpass Motonari in valor."
+ },
+ {
+  "key": "P0004",
+  "en": "Mouri Motonari's half-brother. He is called Aio Mototsuna because he lived in Aio. He was said to surpass Motonari in valor.\nPushed on by the retainer Saka Hirohide and by his mother, Lady Aio, he rebels against Motonari. Defeated by Motonari, he flees toward the Amago, and on the way he and his mother both die at Amago hands. (Ep. 4)"
+ },
+ {
+  "key": "P0005",
+  "en": "An Amago retainer. In the Retreat from Izumo, he lies in wait for the retreating Mouri Motonari. (Ep. 6)"
+ },
+ {
+  "key": "P0006",
+  "en": "An Amago retainer and one of the Ten Braves of Amago. Even after the Mouri destroy the Amago, he works tirelessly with Yamanaka Shikanosuke and others to restore the Amago clan."
+ },
+ {
+  "key": "P0007",
+  "en": "An Amago retainer and one of the Ten Braves of Amago. Even after the Mouri destroy the Amago, he works tirelessly with Yamanaka Shikanosuke and others to restore the Amago clan.\nIn the Bizen Campaign, he appears with the army of the Amago remnants and confronts Mouri Terumoto. (Ep. 21)"
+ },
+ {
+  "key": "P0008",
+  "en": "An Amago retainer and one of the Ten Braves of Amago. Even after the Mouri destroy the Amago, he works tirelessly with Yamanaka Shikanosuke and others to restore the Amago clan.\nIn the Bizen Campaign, he appears with the army of the Amago remnants and confronts Mouri Terumoto. (Ep. 21)\nAt the Battle of Kozuki Castle, he sallies out of the castle to meet the attacking Mouri Army. (Ep. 23)"
+ },
+ {
+  "key": "P0009",
+  "en": "A local lord of Chikuzen, based at Koshosan Castle. His father, Akizuki Fumitane, rebelled against Otomo Sorin and was killed."
+ },
+ {
+  "key": "P0010",
+  "en": "A local lord of Chikuzen, based at Koshosan Castle. His father, Akizuki Fumitane, rebelled against Otomo Sorin and was killed.\nTo avenge his father, he turns to the Mouri clan and receives war funds from them. (Ep. 14)"
+ },
+ {
+  "key": "P0011",
+  "en": "A local lord of Chikuzen, based at Koshosan Castle. His father, Akizuki Fumitane, rebelled against Otomo Sorin and was killed.\nTo avenge his father, he turns to the Mouri clan, but leaves without receiving war funds. (Ep. 14)"
+ },
+ {
+  "key": "P0012",
+  "en": "A local lord of Chikuzen, based at Koshosan Castle. His father, Akizuki Fumitane, rebelled against Otomo Sorin and was killed.\nTo avenge his father, he turns to the Mouri clan and receives war funds from them. (Ep. 14)\nWith that support, he raises an army in answer to the revolts of Tachibana Akitoshi and Takahashi Akitane.\n(Ep. 19)"
+ },
+ {
+  "key": "P0013",
+  "en": "A local lord of Chikuzen, based at Koshosan Castle. His father, Akizuki Fumitane, rebelled against Otomo Sorin and was killed.\nTo avenge his father, he turns to the Mouri clan, but leaves without receiving war funds. (Ep. 14)",
+  "note": "The Japanese is P0011's text plus a designer comment ('// same as Episode 14 battle flag 336 off'), which the inserter drops; translated identically to P0011."
+ },
+ {
+  "key": "P0014",
+  "en": "A local lord of Chikuzen, based at Koshosan Castle. His father, Akizuki Fumitane, rebelled against Otomo Sorin and was killed.\nTo avenge his father, he turns to the Mouri clan and receives war funds from them. (Ep. 14)\nWith that support, he raises an army in answer to the revolts of Tachibana Akitoshi and Takahashi Akitane, and joins the Mouri Army in the Chikuzen Campaign. (Ep. 19)"
+ },
+ {
+  "key": "P0015",
+  "en": "A local lord of Chikuzen, based at Koshosan Castle. His father, Akizuki Fumitane, rebelled against Otomo Sorin and was killed.\nTo avenge his father, he turns to the Mouri clan and receives war funds from them. (Ep. 14)\nWith that support, he raises an army in answer to the revolts of Tachibana Akitoshi and Takahashi Akitane. In the Chikuzen Campaign, he confronts the Otomo Army at Koshosan Castle. (Ep. 19)"
+ },
+ {
+  "key": "P0016",
+  "en": "An Oda retainer and the son-in-law of Akechi Mitsuhide. He serves in Mitsuhide's campaign to conquer the Tanba region, and follows him in the Honno-ji Incident as well."
+ },
+ {
+  "key": "P0017",
+  "en": "An Oda retainer and the son-in-law of Akechi Mitsuhide. He serves in Mitsuhide's campaign to conquer the Tanba region, and follows him in the Honno-ji Incident as well.\nAt the Battle of Azuchi Castle, he fights back against the Mouri Army as it marches on Azuchi Castle with the Shogun Ashikaga Yoshiaki at its head. (Ep. 25)"
+ },
+ {
+  "key": "P0018",
+  "en": "A general of great learning in the service of Ashikaga Yoshiaki. When Yoshiaki turns to Oda Nobunaga, Mitsuhide acts as the go-between for the two.",
+  "note": "[edit: two fragments joined; Mitsuhide named after Yoshiaki/Nobunaga]"
+ },
+ {
+  "key": "P0019",
+  "en": "A general of great learning in the service of Ashikaga Yoshiaki. When Yoshiaki turns to Oda Nobunaga, Mitsuhide acts as the go-between for the two.\nAfter Nobunaga escorts Yoshiaki into Kyoto, Mitsuhide becomes an Oda retainer at Nobunaga's wish. (Ep. 19)"
+ },
+ {
+  "key": "P0020",
+  "en": "A general of great learning. He first served Ashikaga Yoshiaki, and when Yoshiaki turned to Oda Nobunaga, Mitsuhide acted as the go-between for the two.\nAfter Nobunaga escorts Yoshiaki into Kyoto, Mitsuhide becomes an Oda retainer at Nobunaga's wish. (Ep. 19)\nBut a rift grows between him and Nobunaga, who treats the Shogun Yoshiaki with contempt and launches ferocious attacks even on the Ikko followers."
+ },
+ {
+  "key": "P0021",
+  "en": "A general of great learning. He first served Ashikaga Yoshiaki, and when Yoshiaki turned to Oda Nobunaga, Mitsuhide acted as the go-between for the two.\nAfter Nobunaga escorts Yoshiaki into Kyoto, Mitsuhide becomes an Oda retainer at Nobunaga's wish. (Ep. 19)\nBut a rift grows between him and Nobunaga, who treats the Shogun Yoshiaki with contempt and launches ferocious attacks even on the Ikko followers. At last, he mounts a surprise attack on Nobunaga at Honno-ji. (Ep. 24)"
+ },
+ {
+  "key": "P0022",
+  "en": "A general of great learning. He first served Ashikaga Yoshiaki, and when Yoshiaki turned to Oda Nobunaga, Mitsuhide acted as the go-between for the two.\nAfter Nobunaga escorts Yoshiaki into Kyoto, Mitsuhide becomes an Oda retainer at Nobunaga's wish. (Ep. 19)\nBut a rift grows between him and Nobunaga, who treats the Shogun Yoshiaki with contempt and launches ferocious attacks even on the Ikko followers, and at last he kills Nobunaga at Honno-ji. (Ep. 24)\nHe then faces the Mouri Army, which has pursued Hashiba Hideyoshi and pushed all the way to Kyoto. Defeated by the Mouri Army at the Battle of Azuchi Castle, he dies in battle. (Ep. 25)"
+ },
+ {
+  "key": "P0023",
+  "en": "The 15th Shogun of the Muromachi shogunate. Escorted by Oda Nobunaga, he marches on Kyoto and becomes Shogun. (Ep. 19)"
+ },
+ {
+  "key": "P0024",
+  "en": "The 15th Shogun of the Muromachi shogunate. Escorted by Oda Nobunaga, he marches on Kyoto and becomes Shogun. (Ep. 19)\nBut Yoshiaki, who wants to wield real power as Shogun, and Nobunaga, who wants a figurehead Shogun whose authority he can exploit, gradually come into conflict. Yoshiaki raises an army to overthrow Nobunaga but is defeated, and turns to the Mouri clan.\n(Ep. 21)"
+ },
+ {
+  "key": "P0025",
+  "en": "One of the local lords of Aki, based at Tokonoyama Castle."
+ },
+ {
+  "key": "P0026",
+  "en": "A Mouri retainer. Formerly a local lord of Aki based at Tokonoyama Castle, he surrenders to the Mouri clan in the Pacification of Aki and Bingo and becomes a retainer. (Ep. 10)",
+  "note": "[gaps pass 2026-10-28, I-06] [edit: episode tag layout normalised (no split \"(Ep.\" / \"N)\")]"
+ },
+ {
+  "key": "P0027",
+  "en": "One of the local lords of Aki, based at Tokonoyama Castle. In the Pacification of Aki and Bingo, he fights the Mouri Army. (Ep. 10)",
+  "note": "[gaps pass 2026-10-28, I-06]"
+ },
+ {
+  "key": "P0028",
+  "en": "The surviving son of Amago Sanehisa of the Shinguto. After Amago Haruhisa destroys the Shinguto, Katsuhisa becomes a monk at Tofuku-ji in Kyoto. Later, set up as leader by Yamanaka Shikanosuke and others, he turns to Oda Nobunaga to restore the Amago clan. (Ep. 20)"
+ },
+ {
+  "key": "P0029",
+  "en": "The surviving son of Amago Sanehisa of the Shinguto. After Amago Haruhisa destroys the Shinguto, Katsuhisa becomes a monk at Tofuku-ji in Kyoto. Later, set up as leader by Yamanaka Shikanosuke and others, he turns to Oda Nobunaga to restore the Amago clan.\nAt the Battle of Mount Fube, aiming to retake Gassan-Toda Castle, he clashes with the Mouri Army. (Ep. 20)",
+  "note": "The Japanese drops the (Ep. 20) tag after the first paragraph in this variant; followed. [acc: 'he becomes a monk' read as Haruhisa after the clause; subject named]"
+ },
+ {
+  "key": "P0030",
+  "en": "The surviving son of Amago Sanehisa of the Shinguto. After Amago Haruhisa destroys the Shinguto, Katsuhisa becomes a monk at Tofuku-ji in Kyoto. Later, set up as leader by Yamanaka Shikanosuke and others, he turns to Oda Nobunaga to restore the Amago clan.\nAt the Battle of Mount Fube, aiming to retake Gassan-Toda Castle, he clashes with the Mouri Army. (Ep. 20)\nHe then joins the Hashiba Army and holds out in Kozuki Castle to meet the Mouri Army, but is left isolated when the Hashiba Army turns instead to the siege of Miki Castle. Kozuki falls, and Katsuhisa takes his own life.\n(Ep. 23)",
+  "note": "[acc: 'he becomes a monk' read as Haruhisa after the clause; subject named]"
+ },
+ {
+  "key": "P0031",
+  "en": "The surviving son of Amago Sanehisa of the Shinguto. After Amago Haruhisa destroys the Shinguto, Katsuhisa becomes a monk at Tofuku-ji in Kyoto. Later, set up as leader by Yamanaka Shikanosuke and others, he turns to Oda Nobunaga to restore the Amago clan.\nAt the Battle of Mount Fube, aiming to retake Gassan-Toda Castle, he clashes with the Mouri Army. (Ep. 20)\nHe then joins the Hashiba Army and holds out in Kozuki Castle to meet the Mouri Army, but despite a hard fight the castle falls, and Katsuhisa takes his own life. (Ep. 23)",
+  "note": "[acc: 'he becomes a monk' read as Haruhisa after the clause; subject named]"
+ },
+ {
+  "key": "P0032",
+  "en": "Second son of Amago Tsunehisa. He leads a fighting band renowned for its might even within the Amago Army. Because its quarters lay in Shingudani, the band is called the Shinguto."
+ },
+ {
+  "key": "P0033",
+  "en": "Second son of Amago Tsunehisa. He leads a fighting band renowned for its might even within the Amago Army. Because its quarters lay in Shingudani, the band is called the Shinguto.\nAt the Battle of Yoshida-Koriyama Castle, he marches on the castle with Amago Haruhisa. (Ep. 6)"
+ },
+ {
+  "key": "P0034",
+  "en": "Second son of Amago Tsunehisa. He leads a fighting band renowned for its might even within the Amago Army. Because its quarters lay in Shingudani, the band is called the Shinguto.\nAt the Battle of Yoshida-Koriyama Castle, he marches on the castle with Amago Haruhisa. (Ep. 6)\nIn the Retreat from Izumo, he stands in the way of the retreating Mouri Army. (Ep. 7)"
+ },
+ {
+  "key": "P0035",
+  "en": "Second son of Amago Tsunehisa. He leads a fighting band renowned for its might even within the Amago Army. Because its quarters lay in Shingudani, the band is called the Shinguto.\nAt the Battle of Yoshida-Koriyama Castle, he marches on the castle with Amago Haruhisa. (Ep. 6)\nIn the Retreat from Izumo, he stands in the way of the retreating Mouri Army. (Ep. 7)\nIn the Interception in Bingo, he also appears at the head of the Amago Army's main force.\n(Ep. 8)"
+ },
+ {
+  "key": "P0036",
+  "en": "Second son of Amago Tsunehisa. He leads a fighting band renowned for its might even within the Amago Army. Because its quarters lay in Shingudani, the band is called the Shinguto.\nAt the Battle of Yoshida-Koriyama Castle, he marches on the castle with Amago Haruhisa. (Ep. 6)\nIn the Retreat from Izumo, he stands in the way of the retreating Mouri Army. (Ep. 7)\nIn the Interception in Bingo, he also appears at the head of the Amago Army's main force.\n(Ep. 8)\nIn the Westward Push through Aki, he strikes at the rear of the Mouri Army as it moves against the Ouchi Army, and tries to take Yoshida-Koriyama Castle. (Ep. 11)"
+ },
+ {
+  "key": "P0037",
+  "en": "Second son of Amago Tsunehisa. He leads a fighting band renowned for its might even within the Amago Army. Because its quarters lay in Shingudani, the band is called the Shinguto.\nAt the Battle of Yoshida-Koriyama Castle, he marches on the castle with Amago Haruhisa. (Ep. 6)\nIn the Retreat from Izumo, he stands in the way of the retreating Mouri Army. (Ep. 7)\nIn the Interception in Bingo, he also appears at the head of the Amago Army's main force.\n(Ep. 8)\nBut Haruhisa, taken in by a Mouri scheme, suspects him of treason, and Kunihisa is killed. (Ep. 11)"
+ },
+ {
+  "key": "P0038",
+  "en": "A Sengoku daimyo of Izumo. Once the deputy governor of Izumo, he was driven out, yet from a life little better than a ronin's he rose by his wits to rule eleven provinces of San'in and San'yo. A pioneer of gekokujo, the low overthrowing the high."
+ },
+ {
+  "key": "P0039",
+  "en": "A Sengoku daimyo of Izumo. Once the deputy governor of Izumo, he was driven out, yet from a life little better than a ronin's he rose by his wits to rule eleven provinces of San'in and San'yo. A pioneer of gekokujo, the low overthrowing the high.\nOn hearing that Mouri Motonari has slain Takeda Motoshige, he tries every means to win him over. (Ep. 2)"
+ },
+ {
+  "key": "P0040",
+  "en": "A Sengoku daimyo of Izumo. Once the deputy governor of Izumo, he was driven out, yet from a life little better than a ronin's he rose by his wits to rule eleven provinces of San'in and San'yo. A pioneer of gekokujo, the low overthrowing the high.\nHe brings Mouri Motonari over to his side, yet comes to be wary of Motonari's talent for strategy. (Ep. 3)"
+ },
+ {
+  "key": "P0041",
+  "en": "A Sengoku daimyo of Izumo. Once the deputy governor of Izumo, he was driven out, yet from a life little better than a ronin's he rose by his wits to rule eleven provinces of San'in and San'yo. A pioneer of gekokujo, the low overthrowing the high.\nHe brings Mouri Motonari over to his side, yet grows wary of Motonari's talent for strategy and schemes to be rid of him. (Ep. 3)"
+ },
+ {
+  "key": "P0042",
+  "en": "A Sengoku daimyo of Izumo. Once the deputy governor of Izumo, he was driven out, yet from a life little better than a ronin's he rose by his wits to rule eleven provinces of San'in and San'yo. A pioneer of gekokujo, the low overthrowing the high.\nAfter the Battle of Kanayama Castle, he passes the headship to his grandson Haruhisa. (Ep. 5)"
+ },
+ {
+  "key": "P0043",
+  "en": "A Sengoku daimyo of Izumo. Once the deputy governor of Izumo, he was driven out, yet from a life little better than a ronin's he rose by his wits to rule eleven provinces of San'in and San'yo. A pioneer of gekokujo, the low overthrowing the high.\nAfter the Battle of Kanayama Castle, he passes the headship to his grandson Haruhisa. (Ep. 5)\nIn the end, he admonishes Haruhisa, who was routed while trying to punish the Mouri for defecting to the Ouchi, and dies with these last words: \"If only you were a clan head like Motonari, I could die in peace.\" (Ep. 7)"
+ }
+]

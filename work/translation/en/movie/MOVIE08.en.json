@@ -1,0 +1,38 @@
+{
+ "movie": "MOVIE08",
+ "note": "The siege of Takamatsu Castle. Terumoto apologises to Shimizu Muneharu, who commits seppuku on a boat; the Hashiba side confirms it, then news reaches the Mouri (\"If that is true...\", the death of Nobunaga in the story). Japanese transcribed with faster-whisper large-v3 (tools/transcribe_movie.py, clips re-run with tools/transcribe_clip.py) and corrected by context and the frames; times in seconds from the start of the film (frame = round(t * 15) + 1). Speaker names are notes only (not shown).",
+ "subtitles": [
+  {
+   "start": 5.28,
+   "end": 8.3,
+   "speaker": "Mouri Terumoto",
+   "en": "Muneharu... forgive me."
+  },
+  {
+   "start": 52.82,
+   "end": 54.8,
+   "speaker": "Hashiba envoy",
+   "en": "It has been duly witnessed."
+  },
+  {
+   "start": 56.62,
+   "end": 58.76,
+   "speaker": "Retainer",
+   "en": "My lord, there is something you must hear."
+  },
+  {
+   "start": 59.98,
+   "end": 61.2,
+   "speaker": "Mouri Terumoto",
+   "en": "What?"
+  },
+  {
+   "start": 62.86,
+   "end": 65.4,
+   "speaker": "Mouri Terumoto",
+   "en": "If that is true..."
+  }
+ ],
+ "labels": [],
+ "review": "Self-reviewed 2026-11-18 (accuracy against the transcript and frames, voice, proofreading); not yet through separate review agents."
+}

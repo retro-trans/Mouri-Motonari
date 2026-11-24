@@ -1,0 +1,286 @@
+[
+ {
+  "key": "U04320"
+ },
+ {
+  "key": "U04321"
+ },
+ {
+  "key": "U04322"
+ },
+ {
+  "key": "U04323"
+ },
+ {
+  "key": "U04324"
+ },
+ {
+  "key": "U04325"
+ },
+ {
+  "key": "U04326"
+ },
+ {
+  "key": "U04327"
+ },
+ {
+  "key": "U04328"
+ },
+ {
+  "key": "U04329"
+ },
+ {
+  "key": "U04330",
+  "en": "Episode 17: The Fall of Toda",
+  "note": "terms.json form. Shared by 3 occurrences."
+ },
+ {
+  "key": "U04331"
+ },
+ {
+  "key": "U04332"
+ },
+ {
+  "key": "U04333"
+ },
+ {
+  "key": "U04334",
+  "en": "Shiraga Castle"
+ },
+ {
+  "key": "U04335",
+  "en": "Shiraga Castle: Council Chamber",
+  "note": "Shared by 5 occurrences."
+ },
+ {
+  "key": "U04336"
+ },
+ {
+  "key": "U04337"
+ },
+ {
+  "key": "U04338"
+ },
+ {
+  "key": "U04339"
+ },
+ {
+  "key": "U04340"
+ },
+ {
+  "key": "U04341"
+ },
+ {
+  "key": "U04342"
+ },
+ {
+  "key": "U04343"
+ },
+ {
+  "key": "U04344"
+ },
+ {
+  "key": "U04345"
+ },
+ {
+  "key": "U04346"
+ },
+ {
+  "key": "U04347"
+ },
+ {
+  "key": "U04348"
+ },
+ {
+  "key": "U04349"
+ },
+ {
+  "key": "U04350",
+  "en": "Koriyama Castle: Mouri Terumoto's Residence",
+  "note": "Full form since 0.2.12 (caption box sized by text width, limit 288 px): family name and 'Residence' restored; 'Koriyama Castle' is the approved short form used by the other Koriyama captions. 217 px."
+ },
+ {
+  "key": "U04351",
+  "en": "Shiraga Castle: Retainers' Hall",
+  "note": "Shared by 4 occurrences."
+ },
+ {
+  "key": "U04352",
+  "en": "Shiraga Castle: Living Quarters",
+  "note": "Shared by 4 occurrences."
+ },
+ {
+  "key": "U04353"
+ },
+ {
+  "key": "U04354"
+ },
+ {
+  "key": "U04355"
+ },
+ {
+  "key": "U04356"
+ },
+ {
+  "key": "U04357",
+  "note": "As U03290/U03552. Shared by 4 occurrences. [edit] 'Let's meet again' sounded like an invitation to people already gone; 'We'll meet again somewhere'."
+ },
+ {
+  "key": "U04358",
+  "en": "Shiraga: Storehouse"
+ },
+ {
+  "key": "U04359",
+  "en": "Shiraga: Tavern",
+  "note": "Shared by 4 occurrences."
+ },
+ {
+  "key": "U04360",
+  "en": "Shiraga: Market",
+  "note": "Shared by 4 occurrences."
+ },
+ {
+  "key": "U04361",
+  "en": "Shiraga: House",
+  "note": "Shared by 4 occurrences."
+ },
+ {
+  "key": "U04362"
+ },
+ {
+  "key": "U04363"
+ },
+ {
+  "key": "U04364"
+ },
+ {
+  "key": "U04365"
+ },
+ {
+  "key": "U04366"
+ },
+ {
+  "key": "U04367"
+ },
+ {
+  "key": "U04368"
+ },
+ {
+  "key": "U04369"
+ },
+ {
+  "key": "U04370",
+  "note": "JP page break kept as a beat."
+ },
+ {
+  "key": "U04371"
+ },
+ {
+  "key": "U04372",
+  "en": "Do it\nDon't do it"
+ },
+ {
+  "key": "U04373"
+ },
+ {
+  "key": "U04374",
+  "note": "Takakage's reply if the plan is declined (choice U04372)."
+ },
+ {
+  "key": "U04375"
+ },
+ {
+  "key": "U04376",
+  "note": "JP page break falls mid-sentence; kept at the matching point (the book's second clause). Alt: join."
+ },
+ {
+  "key": "U04377",
+  "note": "Same as U04108 (only a JP line break differs); English reused. Kato's gender unknown: no pronoun."
+ },
+ {
+  "key": "U04378",
+  "note": "Same as U04113 (only JP line breaks differ); English reused."
+ },
+ {
+  "key": "U04379",
+  "note": "Same as U03594 apart from a JP page break inside the last section (mid-sentence padding, dropped); English reused."
+ },
+ {
+  "key": "U04380",
+  "note": "Same as U03893 (only a full-width space differs); English reused."
+ },
+ {
+  "key": "U04381",
+  "note": "Same as U04122 (only a JP line break differs); English reused."
+ },
+ {
+  "key": "U04382",
+  "note": "Kumon Murashige, ninja toolsmith, after Motonari cleared up the misunderstanding with his master (U04387-U04389). Shared by 4 occurrences."
+ },
+ {
+  "key": "U04383"
+ },
+ {
+  "key": "U04384",
+  "note": "As U04137. Shared by 13 occurrences."
+ },
+ {
+  "key": "U04385",
+  "note": "As U03343. Shared by 10 occurrences."
+ },
+ {
+  "key": "U04386",
+  "note": "As U00782. Shared by 4 occurrences."
+ },
+ {
+  "key": "U04387"
+ },
+ {
+  "key": "U04388",
+  "en": "Told Kumon Murashige the truth.",
+  "note": "Caption; pattern of 'Handed over the letter.' (U03330). 31 characters. Shared by 4 occurrences."
+ },
+ {
+  "key": "U04389",
+  "note": "Shared by 3 occurrences."
+ },
+ {
+  "key": "U04390"
+ },
+ {
+  "key": "U04391",
+  "note": "Shared by 4 occurrences."
+ },
+ {
+  "key": "U04392",
+  "note": "Shared by 4 occurrences; same as the last section of U04393."
+ },
+ {
+  "key": "U04393"
+ },
+ {
+  "key": "U04394",
+  "note": "Shared by 4 occurrences."
+ },
+ {
+  "key": "U04395",
+  "note": "Shared by 4 occurrences."
+ },
+ {
+  "key": "U04396"
+ },
+ {
+  "key": "U04397",
+  "en": "You ran out of the house,\nsaying you'd come back\na true craftsman, and\nhow many years have\ngone by since then?",
+  "note": "Teshima Shogo's mother's letter; wording of U03334, re-broken to the 5 JP lines of this version."
+ },
+ {
+  "key": "U04398",
+  "en": "As long as you come home well,\nthat alone will be enough...... I'm always waiting eagerly\nfor your return.",
+  "note": "Wording of U03600/U03910, re-broken to the 3 JP lines; the JP middle line is unusually long (the original runs two sentences on one line), and the English mirrors it. Shared by 3 occurrences."
+ },
+ {
+  "key": "U04399",
+  "note": "Same as U03601 (only JP line breaks differ); English reused, including its kept page break."
+ }
+]

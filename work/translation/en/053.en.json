@@ -1,0 +1,266 @@
+[
+ {
+  "key": "U04240",
+  "note": "Monk 10 is the monk close to the Shogun (U04084, U04244); repeat visit after declining."
+ },
+ {
+  "key": "U04241"
+ },
+ {
+  "key": "U04242"
+ },
+ {
+  "key": "U04243"
+ },
+ {
+  "key": "U04244"
+ },
+ {
+  "key": "U04245",
+  "en": "Offer\nDon't offer"
+ },
+ {
+  "key": "U04246"
+ },
+ {
+  "key": "U04247",
+  "note": "Page break added after the long pause."
+ },
+ {
+  "key": "U04248",
+  "note": "JP blank line kept as a page break."
+ },
+ {
+  "key": "U04249"
+ },
+ {
+  "key": "U04250"
+ },
+ {
+  "key": "U04251",
+  "note": "Same wording as U03754 (that line has an extra comma). Shared by 2 occurrences."
+ },
+ {
+  "key": "U04252"
+ },
+ {
+  "key": "U04253"
+ },
+ {
+  "key": "U04254"
+ },
+ {
+  "key": "U04255"
+ },
+ {
+  "key": "U04256"
+ },
+ {
+  "key": "U04257",
+  "en": "Apothecary gave the right medicine."
+ },
+ {
+  "key": "U04258"
+ },
+ {
+  "key": "U04259"
+ },
+ {
+  "key": "U04260"
+ },
+ {
+  "key": "U04261"
+ },
+ {
+  "key": "U04262"
+ },
+ {
+  "key": "U04263"
+ },
+ {
+  "key": "U04264",
+  "note": "The JP blank line falls mid-sentence (page padding); joined. Shared by 4 occurrences."
+ },
+ {
+  "key": "U04265",
+  "note": "Shared by 2 occurrences."
+ },
+ {
+  "key": "U04266"
+ },
+ {
+  "key": "U04267"
+ },
+ {
+  "key": "U04268"
+ },
+ {
+  "key": "U04269"
+ },
+ {
+  "key": "U04270"
+ },
+ {
+  "key": "U04271"
+ },
+ {
+  "key": "U04272"
+ },
+ {
+  "key": "U04273"
+ },
+ {
+  "key": "U04274"
+ },
+ {
+  "key": "U04275"
+ },
+ {
+  "key": "U04276"
+ },
+ {
+  "key": "U04277"
+ },
+ {
+  "key": "U04278"
+ },
+ {
+  "key": "U04279"
+ },
+ {
+  "key": "U04280"
+ },
+ {
+  "key": "U04281"
+ },
+ {
+  "key": "U04282"
+ },
+ {
+  "key": "U04283",
+  "note": "Takamoto ordering his own troops."
+ },
+ {
+  "key": "U04284"
+ },
+ {
+  "key": "U04285",
+  "en": "Siege of Shiraga Castle\nVictory Conditions\n  1. Capture Shiraga Castle\n  2. Defeat all enemies\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 50 turns pass"
+ },
+ {
+  "key": "U04286"
+ },
+ {
+  "key": "U04287"
+ },
+ {
+  "key": "U04288"
+ },
+ {
+  "key": "U04289",
+  "en": "Siege of Shiraga Castle\n\nVictory Conditions\n  1. Capture Shiraga Castle\n  2. Defeat all enemies\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 50 turns pass",
+  "note": "Same as U04285 with the JP blank line kept."
+ },
+ {
+  "key": "U04290",
+  "en": "Gassan-Toda's relief army arrived."
+ },
+ {
+  "key": "U04291"
+ },
+ {
+  "key": "U04292"
+ },
+ {
+  "key": "U04293"
+ },
+ {
+  "key": "U04294"
+ },
+ {
+  "key": "U04295"
+ },
+ {
+  "key": "U04296"
+ },
+ {
+  "key": "U04297",
+  "note": "Trailing JP blank line before Motonari's header is page padding; dropped."
+ },
+ {
+  "key": "U04298",
+  "note": "Shorter variant of U04292."
+ },
+ {
+  "key": "U04299"
+ },
+ {
+  "key": "U04300"
+ },
+ {
+  "key": "U04301"
+ },
+ {
+  "key": "U04302"
+ },
+ {
+  "key": "U04303",
+  "en": "Mizawa Tamekiyo joined your army.",
+  "note": "Glossary pattern 'X joined your army' with a period (33 characters)."
+ },
+ {
+  "key": "U04304"
+ },
+ {
+  "key": "U04305",
+  "en": "Mitoya Hisasuke joined your army.",
+  "note": "Glossary pattern with a period (33 characters)."
+ },
+ {
+  "key": "U04306",
+  "note": "The first speaker line is a bare '&' in the Japanese (no name); copied as is."
+ },
+ {
+  "key": "U04307"
+ },
+ {
+  "key": "U04308",
+  "en": "Road to Koriyama"
+ },
+ {
+  "key": "U04309",
+  "note": "Takamoto on his way to Koriyama visits Ekei at Ankoku-ji (U04311)."
+ },
+ {
+  "key": "U04310"
+ },
+ {
+  "key": "U04311"
+ },
+ {
+  "key": "U04312"
+ },
+ {
+  "key": "U04313"
+ },
+ {
+  "key": "U04314",
+  "en": "Residence of a Local Aki Lord"
+ },
+ {
+  "key": "U04315"
+ },
+ {
+  "key": "U04316"
+ },
+ {
+  "key": "U04317"
+ },
+ {
+  "key": "U04318"
+ },
+ {
+  "key": "U04319",
+  "en": "A House in Aki"
+ }
+]

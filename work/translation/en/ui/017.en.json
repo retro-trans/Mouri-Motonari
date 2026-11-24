@@ -1,0 +1,325 @@
+[
+ {
+  "key": "I0083",
+  "en": "A muzzle-loading matchlock musket. A domestic copy of the gun that reached Tanegashima."
+ },
+ {
+  "key": "I0084",
+  "en": "A copy of the gun brought over from Portugal."
+ },
+ {
+  "key": "I0085",
+  "en": "Oak stock cut short to suit Japanese armor.\nFired with the stock held to the cheek."
+ },
+ {
+  "key": "I0086",
+  "en": "A Japanese gun developed in Sakai, Senshu.\nBuilt with accuracy in mind."
+ },
+ {
+  "key": "I0087",
+  "en": "A Japanese gun developed in Kunitomo, Omi.\nSuccessfully made lighter."
+ },
+ {
+  "key": "I0088",
+  "en": "A Japanese gun researched and developed by the Saika group. Built with power in mind."
+ },
+ {
+  "key": "I0089",
+  "en": "A pistol. Weak, but light and easy to handle."
+ },
+ {
+  "key": "I0090",
+  "en": "As gunpowder improved, the barrel too was built sturdier to match."
+ },
+ {
+  "key": "I0091",
+  "en": "A pistol made for use on horseback.\nShort range, but high accuracy."
+ },
+ {
+  "key": "I0092",
+  "en": "A long-range matchlock.\nFired with the stock against the shoulder."
+ },
+ {
+  "key": "I0093",
+  "en": "A gun of several bound barrels. It rotates with each shot to fire the next barrel.",
+  "note": "Shared by Horse / Nanban / Kunitomo / Senshu / Saika repeaters."
+ },
+ {
+  "key": "I0094",
+  "en": "A repeater of six bound barrels. Made as a pistol to cut weight, but still heavy."
+ },
+ {
+  "key": "I0095",
+  "en": "A bronze cannon. Lacking in both accuracy and power."
+ },
+ {
+  "key": "I0096",
+  "en": "A larger version of the bronze cannon, but its power is still lacking."
+ },
+ {
+  "key": "I0097",
+  "en": "A Japanese iron cannon developed in Kunitomo, Omi. Highly accurate."
+ },
+ {
+  "key": "I0098",
+  "en": "A Japanese iron cannon developed in Sakai, Senshu. Far stronger than bronze cannons."
+ },
+ {
+  "key": "I0099",
+  "en": "A cannon firing 4-kanme shot.\nLong range, and damages a wide area."
+ },
+ {
+  "key": "I0100",
+  "en": "The culmination of Japanese cannons, using all the gunsmithing skill of Kunitomo and Sakai."
+ },
+ {
+  "key": "I0101",
+  "en": "A Western cannon, powerful and accurate. Proof of how advanced Western gunsmithing is."
+ },
+ {
+  "key": "I0102",
+  "en": "A cannon of tremendous power.\nDamages a very wide area."
+ },
+ {
+  "key": "I0103",
+  "en": "A sword fitted with all sorts of tricks."
+ },
+ {
+  "key": "I0104",
+  "en": "A throwing dart. Short range and weak, but very light."
+ },
+ {
+  "key": "I0105",
+  "en": "A hooked claw on an iron chain, swung to attack. Weak."
+ },
+ {
+  "key": "I0106",
+  "en": "A cross-shaped shuriken. Very accurate, but useless in close combat."
+ },
+ {
+  "key": "I0107",
+  "en": "A dagger-shaped shuriken. Usable in close combat, but inaccurate."
+ },
+ {
+  "key": "I0108",
+  "en": "A round pot packed with gunpowder, thrown to explode. Pebbles and such are packed in too."
+ },
+ {
+  "key": "I0109",
+  "en": "A sickle and weight joined by an iron chain. Strikes from a distance, and hits hard."
+ },
+ {
+  "key": "I0110",
+  "en": "The same type of shuriken the Iga ninja use. Whether it is as powerful is unclear."
+ },
+ {
+  "key": "I0111",
+  "en": "The same type of shuriken the Koga ninja use. Whether it is as powerful is unclear."
+ },
+ {
+  "key": "I0112",
+  "en": "An improved Flying Claw. Its long, sharp claws can inflict deep wounds."
+ },
+ {
+  "key": "I0113",
+  "en": "An improved Hand Dart, thicker and heavier. Its iron chain lets it be thrown and pulled back."
+ },
+ {
+  "key": "I0114",
+  "en": "A Koga secret exploding shell, packed with strong gunpowder and bullets."
+ },
+ {
+  "key": "I0115",
+  "en": "An Iga secret weapon for near and far. The finest of all ninja fighting weapons."
+ },
+ {
+  "key": "I0116",
+  "en": "A Koga ultimate secret. Works as a flash bomb as well as an exploding shell."
+ },
+ {
+  "key": "I0117",
+  "en": "An Iga ultimate secret: the most perfected shuriken. Flawless accuracy and power."
+ },
+ {
+  "key": "I0118",
+  "en": "Simple armor of worked iron plates joined together. Raises Defense."
+ },
+ {
+  "key": "I0119",
+  "en": "A cuirass made sturdier with reinforced iron plates. Raises Defense.",
+  "note": "Forced break dropped."
+ },
+ {
+  "key": "I0120",
+  "en": "A cuirass made from a single iron plate.\nRaises Defense."
+ },
+ {
+  "key": "I0121",
+  "en": "A Solid Cuirass improved to deflect bullets and spears. Raises Defense."
+ },
+ {
+  "key": "I0122",
+  "en": "A full armor set: cuirass with bracers and leg armor. Raises Defense.",
+  "note": "Shared by Okegawa-do / Hotoke-do / Nanban-do. [gaps pass 2026-10-28, I-11]"
+ },
+ {
+  "key": "I0123",
+  "en": "A full great-armor set: reinforced body armor with a helmet. Greatly raises Defense."
+ },
+ {
+  "key": "I0124",
+  "en": "A book that raises an officer's Intellect."
+ },
+ {
+  "key": "I0125",
+  "en": "A charm that raises an officer's Luck."
+ },
+ {
+  "key": "I0126",
+  "en": "A shield that raises a unit's Endurance."
+ },
+ {
+  "key": "I0127",
+  "en": "A statue that raises an officer's Skill Points."
+ },
+ {
+  "key": "I0128",
+  "en": "Used to class up: a Lv 20+ Magnate becomes a Daimyo."
+ },
+ {
+  "key": "I0129",
+  "en": "Used to class up: a Lv 20+ Spearman becomes a Spear Captain."
+ },
+ {
+  "key": "I0130",
+  "en": "Used to class up: a Lv 20+ Archer becomes an Archer Captain."
+ },
+ {
+  "key": "I0131",
+  "en": "Used to class up: a Lv 20+ Cavalry becomes a Cavalry Captain."
+ },
+ {
+  "key": "I0132",
+  "en": "Used to class up: a Lv 20+ Mounted Archer becomes a Mounted Archer Captain."
+ },
+ {
+  "key": "I0133",
+  "en": "Used to class up: a Lv 20+ Rifleman becomes a Rifle Captain."
+ },
+ {
+  "key": "I0134",
+  "en": "Used to class up: a Lv 20+ Cannoneer becomes a Cannon Captain."
+ },
+ {
+  "key": "I0135",
+  "en": "Used to class up: a Lv 20+ Swordsman becomes a Master Swordsman."
+ },
+ {
+  "key": "I0136",
+  "en": "Used to class up: a Lv 20+ Genin becomes a Jonin."
+ },
+ {
+  "key": "I0137",
+  "en": "Used to class up: a Lv 20+ Kunoichi becomes a Kunoichi Chief."
+ },
+ {
+  "key": "I0138",
+  "en": "Used to class up: a Lv 20+ Inspector becomes a Strategist."
+ },
+ {
+  "key": "I0139",
+  "en": "Used to class up: a Lv 20+ Bandit becomes a Noble Thief."
+ },
+ {
+  "key": "I0140",
+  "en": "Used to class up: a Lv 20+ Pirate becomes a Pirate Chief."
+ },
+ {
+  "key": "I0141",
+  "en": "Used to class up: a Lv 20+ Warrior Monk becomes a Yamabushi."
+ },
+ {
+  "key": "I0142",
+  "en": "Used to class up: a Lv 20+ Light Supply becomes a Heavy Supply."
+ },
+ {
+  "key": "I0143",
+  "en": "Used to class up: a Lv 20+ Fife & Drum becomes a Military Band."
+ },
+ {
+  "key": "I0144",
+  "en": "A horse that raises a unit's Movement."
+ },
+ {
+  "key": "I0145",
+  "en": "A hand copy that increases the EXP gained."
+ },
+ {
+  "key": "I0146",
+  "en": "Beans that restore a little of the user's Endurance."
+ },
+ {
+  "key": "I0147",
+  "en": "Barley that restores some of the user's Endurance."
+ },
+ {
+  "key": "I0148",
+  "en": "Rice that restores much of the user's Endurance."
+ },
+ {
+  "key": "I0149",
+  "en": "Meat that fully restores the user's Endurance."
+ },
+ {
+  "key": "I0150",
+  "en": "A scroll that restores a little Endurance to several units."
+ },
+ {
+  "key": "I0151",
+  "en": "A scroll that restores some Endurance to several units."
+ },
+ {
+  "key": "I0152",
+  "en": "A scroll that restores much Endurance to several units."
+ },
+ {
+  "key": "I0153",
+  "en": "A scroll that fully restores the Endurance of several units."
+ },
+ {
+  "key": "I0154",
+  "en": "A book that restores a little Endurance to several units."
+ },
+ {
+  "key": "I0155",
+  "en": "A book that restores much Endurance to several units."
+ },
+ {
+  "key": "I0156",
+  "en": "Medicine that restores some of the user's Endurance."
+ },
+ {
+  "key": "I0157",
+  "en": "Medicine that restores much of the user's Endurance."
+ },
+ {
+  "key": "I0158",
+  "en": "Medicine that fully restores the user's Endurance."
+ },
+ {
+  "key": "I0159",
+  "en": "Medicine that restores a little Endurance to several units."
+ },
+ {
+  "key": "I0160",
+  "en": "Medicine that restores some Endurance to several units."
+ },
+ {
+  "key": "I0161",
+  "en": "Medicine that restores much Endurance to several units."
+ },
+ {
+  "key": "I0162",
+  "en": "Medicine that fully restores the Endurance of several units."
+ }
+]

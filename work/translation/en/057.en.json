@@ -1,0 +1,288 @@
+[
+ {
+  "key": "U04560"
+ },
+ {
+  "key": "U04561"
+ },
+ {
+  "key": "U04562",
+  "note": "Japanese page break kept as a beat."
+ },
+ {
+  "key": "U04563"
+ },
+ {
+  "key": "U04564"
+ },
+ {
+  "key": "U04565"
+ },
+ {
+  "key": "U04566"
+ },
+ {
+  "key": "U04567",
+  "en": "Siege of Gassan-Toda Castle\nVictory Conditions\n  1. Capture Toda Castle\n  2. Defeat all enemies\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 60 turns pass"
+ },
+ {
+  "key": "U04568"
+ },
+ {
+  "key": "U04569"
+ },
+ {
+  "key": "U04570",
+  "en": "Siege of Gassan-Toda Castle\n\nVictory Conditions\n  1. Capture Toda Castle\n  2. Defeat all enemies\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 60 turns pass",
+  "note": "Same as U04567 with the Japanese blank second line kept."
+ },
+ {
+  "key": "U04571"
+ },
+ {
+  "key": "U04572",
+  "en": "Uyama Hisanobu was killed.",
+  "note": "26 characters. Past tense like the other result captions ('... appeared.')."
+ },
+ {
+  "key": "U04573",
+  "en": "Enemy reinforcements appeared."
+ },
+ {
+  "key": "U04574"
+ },
+ {
+  "key": "U04575",
+  "note": "Defeat/retreat cry on the map."
+ },
+ {
+  "key": "U04576",
+  "note": "Defeat cry."
+ },
+ {
+  "key": "U04577"
+ },
+ {
+  "key": "U04578"
+ },
+ {
+  "key": "U04579"
+ },
+ {
+  "key": "U04580"
+ },
+ {
+  "key": "U04581",
+  "en": "&\nThere's a shrine here! Grant me victory!"
+ },
+ {
+  "key": "U04582"
+ },
+ {
+  "key": "U04583"
+ },
+ {
+  "key": "U04584",
+  "en": "Kunoichi appeared."
+ },
+ {
+  "key": "U04585"
+ },
+ {
+  "key": "U04586",
+  "en": "Yuhara Harutsuna's unit appeared.",
+  "note": "33 characters. Count 2."
+ },
+ {
+  "key": "U04587",
+  "note": "Count 2. 'he' = Yuhara (male, characters.json), the speaker who just sprang the ambush."
+ },
+ {
+  "key": "U04588"
+ },
+ {
+  "key": "U04589"
+ },
+ {
+  "key": "U04590"
+ },
+ {
+  "key": "U04591"
+ },
+ {
+  "key": "U04592"
+ },
+ {
+  "key": "U04593"
+ },
+ {
+  "key": "U04594",
+  "en": "Yuhara Harutsuna joined your army.",
+  "note": "Glossary pattern 'X joined your army.' with a period (34 characters). Count 2."
+ },
+ {
+  "key": "U04595",
+  "note": "Same text as U04593 spoken by Mizawa Tamekiyo; identical English."
+ },
+ {
+  "key": "U04596",
+  "en": "&\nAll right! We've taken Toda Castle!",
+  "note": "Blank speaker line copied as is (Mouri side)."
+ },
+ {
+  "key": "U04597"
+ },
+ {
+  "key": "U04598"
+ },
+ {
+  "key": "U04599"
+ },
+ {
+  "key": "U04600"
+ },
+ {
+  "key": "U04601",
+  "note": "Thought in parentheses, as earlier slices."
+ },
+ {
+  "key": "U04602"
+ },
+ {
+  "key": "U04603"
+ },
+ {
+  "key": "U04604"
+ },
+ {
+  "key": "U04605"
+ },
+ {
+  "key": "U04606"
+ },
+ {
+  "key": "U04607"
+ },
+ {
+  "key": "U04608"
+ },
+ {
+  "key": "U04609"
+ },
+ {
+  "key": "U04610",
+  "en": "Episode 18: Relief for Iyo",
+  "note": "terms.json. Count 2."
+ },
+ {
+  "key": "U04611"
+ },
+ {
+  "key": "U04612"
+ },
+ {
+  "key": "U04613"
+ },
+ {
+  "key": "U04614",
+  "en": "Gifu Castle: Living Quarters",
+  "note": "terms.json caption pattern '<Place>: <Room>'; 28 characters."
+ },
+ {
+  "key": "U04615"
+ },
+ {
+  "key": "U04616"
+ },
+ {
+  "key": "U04617"
+ },
+ {
+  "key": "U04618"
+ },
+ {
+  "key": "U04619"
+ },
+ {
+  "key": "U04620"
+ },
+ {
+  "key": "U04621",
+  "en": "In the West and in the East,\nthe age was in great flux.\nThe Mouri... and the Oda...\nA meeting between the two\nwas fast becoming something\nthat could not be avoided...\nAnd then, one year later..."
+ },
+ {
+  "key": "U04622",
+  "en": "A Highway"
+ },
+ {
+  "key": "U04623"
+ },
+ {
+  "key": "U04624"
+ },
+ {
+  "key": "U04625"
+ },
+ {
+  "key": "U04626"
+ },
+ {
+  "key": "U04627"
+ },
+ {
+  "key": "U04628",
+  "en": "Kunishi Mototake's Attack rose by 5.",
+  "note": "Pattern of U01468 ('Shishido Takaie's Attack rose by 5.'); 36 characters."
+ },
+ {
+  "key": "U04629",
+  "en": "Mototake's Defense rose by 5.",
+  "note": "Full name would be 37 characters (limit 36); family name dropped as in U01470 (Mototake is unique)."
+ },
+ {
+  "key": "U04630",
+  "en": "Mototake's Intellect rose by 5.",
+  "note": "Full name would be 39 characters; family name dropped."
+ },
+ {
+  "key": "U04631",
+  "en": "Mototake's Accuracy rose by 5.",
+  "note": "Full name would be 38 characters; family name dropped."
+ },
+ {
+  "key": "U04632",
+  "en": "Kunishi Mototake's Speed rose by 5.",
+  "note": "35 characters."
+ },
+ {
+  "key": "U04633"
+ },
+ {
+  "key": "U04634",
+  "en": "Kodama Motoyoshi's Attack rose by 5.",
+  "note": "36 characters."
+ },
+ {
+  "key": "U04635",
+  "en": "Motoyoshi's Defense rose by 5.",
+  "note": "Full name would be 37 characters; family name dropped. Note 'Motoyoshi' is also the given name of Shishido Motoyoshi (an early-chapter character), but the scene makes the referent clear."
+ },
+ {
+  "key": "U04636",
+  "en": "Motoyoshi's Intellect rose by 5.",
+  "note": "Full name would be 39 characters; family name dropped (see U04635)."
+ },
+ {
+  "key": "U04637",
+  "en": "Motoyoshi's Accuracy rose by 5.",
+  "note": "Full name would be 38 characters; family name dropped (see U04635)."
+ },
+ {
+  "key": "U04638",
+  "en": "Kodama Motoyoshi's Speed rose by 5.",
+  "note": "35 characters."
+ },
+ {
+  "key": "U04639"
+ }
+]

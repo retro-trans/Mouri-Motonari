@@ -1,0 +1,277 @@
+[
+ {
+  "key": "U00240"
+ },
+ {
+  "key": "U00241",
+  "note": "Japanese blank line is page padding; ignored."
+ },
+ {
+  "key": "U00242"
+ },
+ {
+  "key": "U00243"
+ },
+ {
+  "key": "U00244"
+ },
+ {
+  "key": "U00245"
+ },
+ {
+  "key": "U00246",
+  "en": "Draw\nPass",
+  "note": "'Don't draw' is 52 px > 48 px limit, so 'Pass' (24 px)."
+ },
+ {
+  "key": "U00247"
+ },
+ {
+  "key": "U00248"
+ },
+ {
+  "key": "U00249",
+  "en": "Right\nLeft",
+  "note": "'Right box'/'Left box' are 45/44 px > 36 px limit; 'box' is implied by U00248."
+ },
+ {
+  "key": "U00250"
+ },
+ {
+  "key": "U00251",
+  "en": "Luck rose by 2.",
+  "note": "Format follows the pilot's 'Luck rose by 5.'"
+ },
+ {
+  "key": "U00252"
+ },
+ {
+  "key": "U00253",
+  "en": "Luck fell by 1."
+ },
+ {
+  "key": "U00254"
+ },
+ {
+  "key": "U00255",
+  "en": "Luck fell by 2."
+ },
+ {
+  "key": "U00256"
+ },
+ {
+  "key": "U00257",
+  "en": "Luck rose by 1."
+ },
+ {
+  "key": "U00258",
+  "note": "Numata's gender is unknown (characters.json), so the name is repeated instead of a pronoun."
+ },
+ {
+  "key": "U00259"
+ },
+ {
+  "key": "U00260"
+ },
+ {
+  "key": "U00261"
+ },
+ {
+  "key": "U00262"
+ },
+ {
+  "key": "U00263"
+ },
+ {
+  "key": "U00264"
+ },
+ {
+  "key": "U00265"
+ },
+ {
+  "key": "U00266"
+ },
+ {
+  "key": "U00267"
+ },
+ {
+  "key": "U00268",
+  "en": "Motonari pried up the floorboards.",
+  "note": "Caption; subject (Motonari) restored."
+ },
+ {
+  "key": "U00269"
+ },
+ {
+  "key": "U00270",
+  "en": "Hidden riches lay under the floor!"
+ },
+ {
+  "key": "U00271",
+  "en": "Got 100 gold.",
+  "note": "terms.json example form. Shared by 7 scenes."
+ },
+ {
+  "key": "U00272"
+ },
+ {
+  "key": "U00273"
+ },
+ {
+  "key": "U00274"
+ },
+ {
+  "key": "U00275"
+ },
+ {
+  "key": "U00276"
+ },
+ {
+  "key": "U00277",
+  "note": "Shared by 6 scenes; same as U00220 '...'."
+ },
+ {
+  "key": "U00278"
+ },
+ {
+  "key": "U00279"
+ },
+ {
+  "key": "U00280"
+ },
+ {
+  "key": "U00281"
+ },
+ {
+  "key": "U00282"
+ },
+ {
+  "key": "U00283",
+  "note": "Japanese blank line is page padding; ignored."
+ },
+ {
+  "key": "U00284"
+ },
+ {
+  "key": "U00285"
+ },
+ {
+  "key": "U00286",
+  "note": "Read as addressed to Motonari (the player is talking to her)."
+ },
+ {
+  "key": "U00287"
+ },
+ {
+  "key": "U00288"
+ },
+ {
+  "key": "U00289"
+ },
+ {
+  "key": "U00290"
+ },
+ {
+  "key": "U00291"
+ },
+ {
+  "key": "U00292"
+ },
+ {
+  "key": "U00293",
+  "note": "Location not stated; since Motonari then sends the swordsman to the training ground (U00294), 'here' is somewhere else (probably the tavern)."
+ },
+ {
+  "key": "U00294",
+  "note": "Swordsman gender unknown; no pronoun needed."
+ },
+ {
+  "key": "U00295"
+ },
+ {
+  "key": "U00296"
+ },
+ {
+  "key": "U00297"
+ },
+ {
+  "key": "U00298"
+ },
+ {
+  "key": "U00299"
+ },
+ {
+  "key": "U00300",
+  "en": "Battle of Arita Castle\nVictory Conditions\n  1. Takeda Motoshige retreats\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 40 turns pass\n  4. Oda Nobutada of Arita Castle retreats"
+ },
+ {
+  "key": "U00301",
+  "en": "Arita Castle: Mouri-Kikkawa Border"
+ },
+ {
+  "key": "U00302",
+  "en": "Invading Kikkawa Mototsune's\nlands, Takeda Motoshige closed\nin on Oda Nobutada's Arita Castle.\nMotoshige besieged the castle,\nthen sent Kumagai Motonao to\nthe border with Mouri lands.",
+  "note": "Six lines as in the Japanese; line breaks follow the Japanese as closely as English order allows."
+ },
+ {
+  "key": "U00303"
+ },
+ {
+  "key": "U00304"
+ },
+ {
+  "key": "U00305",
+  "en": "Battle of Arita Castle\n\nVictory Conditions\n  1. Takeda Motoshige retreats\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 40 turns pass\n  4. Oda Nobutada of Arita Castle retreats",
+  "note": "Same as U00300 with the blank second line kept (line count must match). 0.2.14: names written in full; the boxes now take 240 px (narration window) / 256 px (goal box) per line."
+ },
+ {
+  "key": "U00306"
+ },
+ {
+  "key": "U00307"
+ },
+ {
+  "key": "U00308"
+ },
+ {
+  "key": "U00309",
+  "note": "Blank speaker '&' kept as is; the raider is an unnamed Takeda soldier."
+ },
+ {
+  "key": "U00310",
+  "en": "A village is being set on fire!",
+  "note": "Shared by 6 scenes."
+ },
+ {
+  "key": "U00311"
+ },
+ {
+  "key": "U00312"
+ },
+ {
+  "key": "U00313"
+ },
+ {
+  "key": "U00314"
+ },
+ {
+  "key": "U00315",
+  "en": "The village is being set on fire!",
+  "note": "Polite variant of U00310; slightly varied wording."
+ },
+ {
+  "key": "U00316"
+ },
+ {
+  "key": "U00317"
+ },
+ {
+  "key": "U00318",
+  "en": "&\nThere's a shrine here! We'll pray for victory!",
+  "note": "Blank speaker: the player's unit on the battle map; 'We'll' since the speaker is unnamed. Shared by 2 scenes."
+ },
+ {
+  "key": "U00319",
+  "en": "Mine"
+ }
+]

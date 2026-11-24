@@ -1,0 +1,272 @@
+[
+ {
+  "key": "U00640",
+  "note": "Maids 1-5 talk to Motonari around the birth of his child (U00634-U00649); the child is not named, so 'the baby'."
+ },
+ {
+  "key": "U00641"
+ },
+ {
+  "key": "U00642",
+  "note": "Could be said before or after the birth (U00643-U00644 are pre-birth lines of the same maid); 'seems to be very healthy' works for both."
+ },
+ {
+  "key": "U00643"
+ },
+ {
+  "key": "U00644"
+ },
+ {
+  "key": "U00645"
+ },
+ {
+  "key": "U00646"
+ },
+ {
+  "key": "U00647"
+ },
+ {
+  "key": "U00648"
+ },
+ {
+  "key": "U00649"
+ },
+ {
+  "key": "U00650"
+ },
+ {
+  "key": "U00651"
+ },
+ {
+  "key": "U00652",
+  "en": "Let it go\nRefuse",
+  "note": "Choice limit 60 px. 'Don't let it go' is 69 px, so the refusal is 'Refuse' (35 px). Alt: 'Don't' (26 px)."
+ },
+ {
+  "key": "U00653"
+ },
+ {
+  "key": "U00654"
+ },
+ {
+  "key": "U00655"
+ },
+ {
+  "key": "U00656"
+ },
+ {
+  "key": "U00657",
+  "note": "The 'shady customer' is probably Motonari, but the Japanese keeps it impersonal; so does the English."
+ },
+ {
+  "key": "U00658"
+ },
+ {
+  "key": "U00659"
+ },
+ {
+  "key": "U00660"
+ },
+ {
+  "key": "U00661",
+  "en": "Siege of Kagamiyama Castle\nVictory Conditions\n  1. Kurata Fusanobu retreats\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 50 turns pass"
+ },
+ {
+  "key": "U00662",
+  "en": "The Mouri and Kikkawa, on the Amago\nside, besieged Kagamiyama Castle,\nheld by the Ouchi's Kurata Fusanobu.\n\n\n\nIn response, the Ouchi sent Amano\nOkisada and Amano Takashige to\nrelieve Kagamiyama Castle."
+ },
+ {
+  "key": "U00663"
+ },
+ {
+  "key": "U00664"
+ },
+ {
+  "key": "U00665"
+ },
+ {
+  "key": "U00666",
+  "en": "Siege of Kagamiyama Castle\n\nVictory Conditions\n  1. Kurata Fusanobu retreats\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 50 turns pass",
+  "note": "Same as U00661, with the Japanese blank line kept."
+ },
+ {
+  "key": "U00667"
+ },
+ {
+  "key": "U00668",
+  "en": "Morale rose inside Kagamiyama Castle"
+ },
+ {
+  "key": "U00669"
+ },
+ {
+  "key": "U00670"
+ },
+ {
+  "key": "U00671"
+ },
+ {
+  "key": "U00672"
+ },
+ {
+  "key": "U00673"
+ },
+ {
+  "key": "U00674"
+ },
+ {
+  "key": "U00675"
+ },
+ {
+  "key": "U00676"
+ },
+ {
+  "key": "U00677"
+ },
+ {
+  "key": "U00678",
+  "en": "Shigenori's reinforcements arrived."
+ },
+ {
+  "key": "U00679"
+ },
+ {
+  "key": "U00680"
+ },
+ {
+  "key": "U00681",
+  "en": "Found \"materials\" in the village",
+  "note": "Shared caption (count 172). The 『』 quotes kept as plain ASCII double quotes."
+ },
+ {
+  "key": "U00682"
+ },
+ {
+  "key": "U00683"
+ },
+ {
+  "key": "U00684"
+ },
+ {
+  "key": "U00685"
+ },
+ {
+  "key": "U00686"
+ },
+ {
+  "key": "U00687",
+  "note": "Hinase Noriaki: gender unknown and reading a guess (glossary); no pronoun needed."
+ },
+ {
+  "key": "U00688",
+  "en": "Warehouse"
+ },
+ {
+  "key": "U00689",
+  "en": "&\nLook what we found in the warehouse!",
+  "note": "Blank speaker (&) kept. Count 2. Who speaks is not shown, so 'we'."
+ },
+ {
+  "key": "U00690",
+  "en": "Got 200 gold!"
+ },
+ {
+  "key": "U00691"
+ },
+ {
+  "key": "U00692",
+  "en": "Ando Kagetsuna's unit retreated."
+ },
+ {
+  "key": "U00693"
+ },
+ {
+  "key": "U00694",
+  "en": "Ando Kagetsuna joined your army."
+ },
+ {
+  "key": "U00695"
+ },
+ {
+  "key": "U00696",
+  "en": "Amano Takashige joined your army."
+ },
+ {
+  "key": "U00697"
+ },
+ {
+  "key": "U00698",
+  "en": "Naonobu defected and retreated."
+ },
+ {
+  "key": "U00699"
+ },
+ {
+  "key": "U00700"
+ },
+ {
+  "key": "U00701"
+ },
+ {
+  "key": "U00702",
+  "en": "Castellan Fusanobu yielded,\nand Kagamiyama Castle fell."
+ },
+ {
+  "key": "U00703"
+ },
+ {
+  "key": "U00704",
+  "en": "Got 500 gold.",
+  "note": "Shared caption (count 12), glossary example 'Got 100 gold.'"
+ },
+ {
+  "key": "U00705",
+  "note": "Blank speaker (&) kept: an enemy announcing the capture of the Mouri camp (defeat condition)."
+ },
+ {
+  "key": "U00706"
+ },
+ {
+  "key": "U00707",
+  "en": "Kagamiyama Castle has fallen"
+ },
+ {
+  "key": "U00708"
+ },
+ {
+  "key": "U00709",
+  "en": "Episode 3: Brothers",
+  "note": "Count 2. Glossary form."
+ },
+ {
+  "key": "U00710"
+ },
+ {
+  "key": "U00711"
+ },
+ {
+  "key": "U00712"
+ },
+ {
+  "key": "U00713"
+ },
+ {
+  "key": "U00714"
+ },
+ {
+  "key": "U00715"
+ },
+ {
+  "key": "U00716"
+ },
+ {
+  "key": "U00717"
+ },
+ {
+  "key": "U00718"
+ },
+ {
+  "key": "U00719",
+  "en": "After this, Komatsumaru went to\nthe head-viewing ceremony, where\nhe found himself staring into the\ndead eyes of the enemy general\nKurata Fusanobu. Overcome with\nterror, he fell ill with the fever\ncalled ague, in those days one of\nthe deadliest diseases..."
+ }
+]

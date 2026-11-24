@@ -1,0 +1,268 @@
+[
+ {
+  "key": "U06000"
+ },
+ {
+  "key": "U06001",
+  "note": "The answer is a kana anagram, so it is kept as romanized syllables (ji-i-n-no-ha-shi-ra = jiin no hashira, 'temple pillar') and glossed in Terumoto's next line. Depends on 074 keeping the riddle in romaji."
+ },
+ {
+  "key": "U06002",
+  "note": "Wrong-answer branch of the riddle."
+ },
+ {
+  "key": "U06003"
+ },
+ {
+  "key": "U06004"
+ },
+ {
+  "key": "U06005"
+ },
+ {
+  "key": "U06006"
+ },
+ {
+  "key": "U06007",
+  "note": "Soldier 15 after losing the medicine auction (he bid 20/100/170)."
+ },
+ {
+  "key": "U06008"
+ },
+ {
+  "key": "U06009"
+ },
+ {
+  "key": "U06010",
+  "note": "'a man' used: Terumoto is male (characters.json)."
+ },
+ {
+  "key": "U06011"
+ },
+ {
+  "key": "U06012"
+ },
+ {
+  "key": "U06013"
+ },
+ {
+  "key": "U06014"
+ },
+ {
+  "key": "U06015"
+ },
+ {
+  "key": "U06016",
+  "en": "The swordsman drank the medicine."
+ },
+ {
+  "key": "U06017"
+ },
+ {
+  "key": "U06018"
+ },
+ {
+  "key": "U06019",
+  "en": "The swordsman's Attack rose by 3.",
+  "note": "Stat names Attack / Intellect / Accuracy per terms.json; 'X rose by 3.' as in U02034, U03175."
+ },
+ {
+  "key": "U06020"
+ },
+ {
+  "key": "U06021",
+  "en": "The swordsman's Intellect rose by 3."
+ },
+ {
+  "key": "U06022"
+ },
+ {
+  "key": "U06023",
+  "en": "The swordsman's Accuracy rose by 3."
+ },
+ {
+  "key": "U06024"
+ },
+ {
+  "key": "U06025"
+ },
+ {
+  "key": "U06026",
+  "en": "50 gold\nPass"
+ },
+ {
+  "key": "U06027"
+ },
+ {
+  "key": "U06028"
+ },
+ {
+  "key": "U06029"
+ },
+ {
+  "key": "U06030",
+  "en": "110 gold\nPass",
+  "note": "Limit 48 px; 41 / 24 px."
+ },
+ {
+  "key": "U06031"
+ },
+ {
+  "key": "U06032"
+ },
+ {
+  "key": "U06033"
+ },
+ {
+  "key": "U06034",
+  "en": "210 gold\n300 gold\nPass",
+  "note": "Limit 48 px; 41 / 41 / 24 px."
+ },
+ {
+  "key": "U06035"
+ },
+ {
+  "key": "U06036"
+ },
+ {
+  "key": "U06037"
+ },
+ {
+  "key": "U06038"
+ },
+ {
+  "key": "U06039",
+  "en": "700 gold\n1000 gold\nPass",
+  "note": "Limit 60 px; 41 / 47 / 24 px."
+ },
+ {
+  "key": "U06040"
+ },
+ {
+  "key": "U06041",
+  "note": "Branch where Terumoto bid 700 without enough funds. 'sir' added to the peddler's complaint (he is addressing Terumoto directly)."
+ },
+ {
+  "key": "U06042"
+ },
+ {
+  "key": "U06043",
+  "en": "Paid 700 gold.",
+  "note": "As 'Paid 1000 gold.' (U04132)."
+ },
+ {
+  "key": "U06044",
+  "note": "Japanese page padding ignored, as in U06040."
+ },
+ {
+  "key": "U06045"
+ },
+ {
+  "key": "U06046"
+ },
+ {
+  "key": "U06047",
+  "note": "Branch where Terumoto passes at 700; his silence and the peddler's are kept as '......'."
+ },
+ {
+  "key": "U06048"
+ },
+ {
+  "key": "U06049",
+  "en": "Drank the medicine.",
+  "note": "Subject (Terumoto) kept omitted, matching the subjectless system-message style ('Paid 700 gold.')."
+ },
+ {
+  "key": "U06050"
+ },
+ {
+  "key": "U06051"
+ },
+ {
+  "key": "U06052",
+  "en": "Attack rose by 3."
+ },
+ {
+  "key": "U06053"
+ },
+ {
+  "key": "U06054"
+ },
+ {
+  "key": "U06055"
+ },
+ {
+  "key": "U06056"
+ },
+ {
+  "key": "U06057"
+ },
+ {
+  "key": "U06058",
+  "note": "Where 'going' refers to is not stated (likely the injured-child event in this town); kept open."
+ },
+ {
+  "key": "U06059"
+ },
+ {
+  "key": "U06060"
+ },
+ {
+  "key": "U06061"
+ },
+ {
+  "key": "U06062"
+ },
+ {
+  "key": "U06063"
+ },
+ {
+  "key": "U06064",
+  "note": "Peddler's gender not stated; 'they'."
+ },
+ {
+  "key": "U06065"
+ },
+ {
+  "key": "U06066"
+ },
+ {
+  "key": "U06067"
+ },
+ {
+  "key": "U06068"
+ },
+ {
+  "key": "U06069"
+ },
+ {
+  "key": "U06070"
+ },
+ {
+  "key": "U06071"
+ },
+ {
+  "key": "U06072"
+ },
+ {
+  "key": "U06073"
+ },
+ {
+  "key": "U06074"
+ },
+ {
+  "key": "U06075"
+ },
+ {
+  "key": "U06076"
+ },
+ {
+  "key": "U06077"
+ },
+ {
+  "key": "U06078"
+ },
+ {
+  "key": "U06079"
+ }
+]

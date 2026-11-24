@@ -1,0 +1,265 @@
+[
+ {
+  "key": "U06960"
+ },
+ {
+  "key": "U06961"
+ },
+ {
+  "key": "U06962",
+  "note": "The komuso who took some of Terumoto's strength to forge a sword (U05600). Old-man voice ('Aye')."
+ },
+ {
+  "key": "U06963"
+ },
+ {
+  "key": "U06964"
+ },
+ {
+  "key": "U06965"
+ },
+ {
+  "key": "U06966"
+ },
+ {
+  "key": "U06967"
+ },
+ {
+  "key": "U06968",
+  "note": "Echoes Sun Tzu, as Nobunaga's line in U05150 ('Know your enemy and know yourself')."
+ },
+ {
+  "key": "U06969"
+ },
+ {
+  "key": "U06970"
+ },
+ {
+  "key": "U06971",
+  "note": "Subject restored as 'your' (the apothecary asking Terumoto). Shared by 2 occurrences."
+ },
+ {
+  "key": "U06972"
+ },
+ {
+  "key": "U06973",
+  "note": "Shared by 2 occurrences."
+ },
+ {
+  "key": "U06974"
+ },
+ {
+  "key": "U06975"
+ },
+ {
+  "key": "U06976",
+  "note": "Shared by 2 occurrences."
+ },
+ {
+  "key": "U06977"
+ },
+ {
+  "key": "U06978",
+  "note": "The windstorm event in R_26 (cf. U06926, U06956). Subject 'we' restored (speaker and those at the tavern); 'I' is also possible. JP blank line (padding) not kept."
+ },
+ {
+  "key": "U06979"
+ },
+ {
+  "key": "U06980"
+ },
+ {
+  "key": "U06981"
+ },
+ {
+  "key": "U06982"
+ },
+ {
+  "key": "U06983"
+ },
+ {
+  "key": "U06984"
+ },
+ {
+  "key": "U06985"
+ },
+ {
+  "key": "U06986"
+ },
+ {
+  "key": "U06987",
+  "note": "Shared by 2 occurrences."
+ },
+ {
+  "key": "U06988"
+ },
+ {
+  "key": "U06989",
+  "note": "Motoharu was wounded by the Mysterious Monk (U06777)."
+ },
+ {
+  "key": "U06990"
+ },
+ {
+  "key": "U06991"
+ },
+ {
+  "key": "U06992"
+ },
+ {
+  "key": "U06993"
+ },
+ {
+  "key": "U06994"
+ },
+ {
+  "key": "U06995"
+ },
+ {
+  "key": "U06996",
+  "en": "Pacification of Mino and Owari\nVictory Conditions\n  1. Defeat all enemies\nDefeat Conditions\n  1. Mouri Terumoto retreats\n  2. Mouri HQ is captured\n  3. More than 90 turns pass",
+  "note": "Glossary battle name and battle_ui wording (terms.json 'X retreats', 'Mouri HQ is captured', 'More than N turns pass', 'Defeat all enemies')."
+ },
+ {
+  "key": "U06997"
+ },
+ {
+  "key": "U06998",
+  "en": "Pacification of Mino and Owari\n\nVictory Conditions\n  1. Defeat all enemies\nDefeat Conditions\n  1. Mouri Terumoto retreats\n  2. Mouri HQ is captured\n  3. More than 90 turns pass",
+  "note": "Same as U06996 with the JP blank second line kept (line count must match)."
+ },
+ {
+  "key": "U06999",
+  "note": "Hanzo's withdrawal line on the battle map."
+ },
+ {
+  "key": "U07000"
+ },
+ {
+  "key": "U07001"
+ },
+ {
+  "key": "U07002"
+ },
+ {
+  "key": "U07003"
+ },
+ {
+  "key": "U07004"
+ },
+ {
+  "key": "U07005"
+ },
+ {
+  "key": "U07006"
+ },
+ {
+  "key": "U07007",
+  "en": "&\nThere's a shrine here! Grant us victory!\n\nHm? What's this......"
+ },
+ {
+  "key": "U07008",
+  "en": "Honda Tadakatsu's army appeared."
+ },
+ {
+  "key": "U07009"
+ },
+ {
+  "key": "U07010",
+  "en": "Shibata Katsuie's army arrived.",
+  "note": "Pattern as U00340 ('...arrived.'). 31 characters."
+ },
+ {
+  "key": "U07011"
+ },
+ {
+  "key": "U07012"
+ },
+ {
+  "key": "U07013"
+ },
+ {
+  "key": "U07014"
+ },
+ {
+  "key": "U07015"
+ },
+ {
+  "key": "U07016"
+ },
+ {
+  "key": "U07017"
+ },
+ {
+  "key": "U07018"
+ },
+ {
+  "key": "U07019"
+ },
+ {
+  "key": "U07020"
+ },
+ {
+  "key": "U07021",
+  "en": "Final Episode: The Decisive Battle",
+  "note": "Glossary form (terms.json), 34 characters. Shared by 4 occurrences."
+ },
+ {
+  "key": "U07022"
+ },
+ {
+  "key": "U07023"
+ },
+ {
+  "key": "U07024"
+ },
+ {
+  "key": "U07025"
+ },
+ {
+  "key": "U07026"
+ },
+ {
+  "key": "U07027"
+ },
+ {
+  "key": "U07028"
+ },
+ {
+  "key": "U07029"
+ },
+ {
+  "key": "U07030",
+  "note": "The thief (dressed as a yamabushi) running off after bumping into Terumoto."
+ },
+ {
+  "key": "U07031"
+ },
+ {
+  "key": "U07032"
+ },
+ {
+  "key": "U07033",
+  "en": "As a farmer\nAs a yamabushi\nAs a townsman\nAs a ninja"
+ },
+ {
+  "key": "U07034"
+ },
+ {
+  "key": "U07035",
+  "en": "Red\nBlack\nWhite\nBrown"
+ },
+ {
+  "key": "U07036"
+ },
+ {
+  "key": "U07037",
+  "en": "Wore a white hat\nHad a very fat face\nHad a thick beard\nHad a big forehead scar"
+ },
+ {
+  "key": "U07038"
+ },
+ {
+  "key": "U07039"
+ }
+]

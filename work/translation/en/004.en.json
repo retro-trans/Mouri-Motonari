@@ -1,0 +1,287 @@
+[
+ {
+  "key": "U00320",
+  "en": "&\nLooks like this is a mine.",
+  "note": "Blank speaker header (a Mouri unit on the map). Shared by 5 occurrences."
+ },
+ {
+  "key": "U00321"
+ },
+ {
+  "key": "U00322"
+ },
+ {
+  "key": "U00323",
+  "en": "&\nHello! Is anyone here!?",
+  "note": "Blank speaker header (Mouri unit entering a burned village). Shared by 7 occurrences."
+ },
+ {
+  "key": "U00324",
+  "en": "The village was already set ablaze,\nand everyone seems to have gone.",
+  "note": "Label, 2 lines, limit 168 px: 167 / 166 px. Shared by 7 occurrences."
+ },
+ {
+  "key": "U00325",
+  "note": "Japanese page break before the gift kept as a beat."
+ },
+ {
+  "key": "U00326"
+ },
+ {
+  "key": "U00327",
+  "en": "Got 200 gold."
+ },
+ {
+  "key": "U00328"
+ },
+ {
+  "key": "U00329"
+ },
+ {
+  "key": "U00330"
+ },
+ {
+  "key": "U00331"
+ },
+ {
+  "key": "U00332"
+ },
+ {
+  "key": "U00333"
+ },
+ {
+  "key": "U00334"
+ },
+ {
+  "key": "U00335",
+  "en": "Found materials in the castle town."
+ },
+ {
+  "key": "U00336"
+ },
+ {
+  "key": "U00337"
+ },
+ {
+  "key": "U00338",
+  "en": "Shishido Motoyoshi's army appeared."
+ },
+ {
+  "key": "U00339",
+  "note": "Shishido (pragmatic, respects Motonari) chooses to watch rather than strike."
+ },
+ {
+  "key": "U00340",
+  "en": "Mototsuna's reinforcements arrived.",
+  "note": "'Aio Mototsuna's reinforcements arrived.' is 39 characters (limit 36); family name dropped (Mototsuna is unique). Alt: 'Aio Mototsuna's relief force came.' (35)."
+ },
+ {
+  "key": "U00341"
+ },
+ {
+  "key": "U00342"
+ },
+ {
+  "key": "U00343"
+ },
+ {
+  "key": "U00344"
+ },
+ {
+  "key": "U00345"
+ },
+ {
+  "key": "U00346"
+ },
+ {
+  "key": "U00347"
+ },
+ {
+  "key": "U00348"
+ },
+ {
+  "key": "U00349",
+  "en": "Oda Nobutada died; Arita Castle fell"
+ },
+ {
+  "key": "U00350",
+  "note": "Blank speaker header = an enemy unit."
+ },
+ {
+  "key": "U00351",
+  "en": "Our HQ has been captured."
+ },
+ {
+  "key": "U00352"
+ },
+ {
+  "key": "U00353",
+  "en": "Enemy leader Takeda Motoshige slain."
+ },
+ {
+  "key": "U00354",
+  "en": "Episode 2: A Single Flower",
+  "note": "Glossary form. Shared by 2 occurrences."
+ },
+ {
+  "key": "U00355",
+  "en": "Motonao's Castle: Aki-Takamatsu"
+ },
+ {
+  "key": "U00356"
+ },
+ {
+  "key": "U00357",
+  "en": "Gassan-Toda Castle: Council Chamber",
+  "note": "Glossary form (35 characters). Shared by 12 occurrences."
+ },
+ {
+  "key": "U00358"
+ },
+ {
+  "key": "U00359"
+ },
+ {
+  "key": "U00360"
+ },
+ {
+  "key": "U00361",
+  "en": "Talk to Shiji Hiroyoshi"
+ },
+ {
+  "key": "U00362"
+ },
+ {
+  "key": "U00363"
+ },
+ {
+  "key": "U00364",
+  "en": "Go to the Living Quarters"
+ },
+ {
+  "key": "U00365"
+ },
+ {
+  "key": "U00366"
+ },
+ {
+  "key": "U00367"
+ },
+ {
+  "key": "U00368"
+ },
+ {
+  "key": "U00369",
+  "note": "Subject restored: 'Okata' (the birth follows in U00367/U00371). Lady Sugi calls her plain 'Okata'."
+ },
+ {
+  "key": "U00370",
+  "en": "Go to the Retainers' Hall"
+ },
+ {
+  "key": "U00371"
+ },
+ {
+  "key": "U00372",
+  "en": "Attack rose by 5.",
+  "note": "Stat name from the glossary ('Attack'); pattern as the pilot's 'Luck rose by 5.'."
+ },
+ {
+  "key": "U00373",
+  "en": "Defense rose by 5.",
+  "note": "Stat name from the glossary ('Defense')."
+ },
+ {
+  "key": "U00374"
+ },
+ {
+  "key": "U00375",
+  "note": "Japanese differs from U00084 only in line breaks; pilot English reused."
+ },
+ {
+  "key": "U00376",
+  "note": "Japanese differs from U00086 only in line breaks; pilot English reused."
+ },
+ {
+  "key": "U00377"
+ },
+ {
+  "key": "U00378",
+  "note": "Japanese differs from U00090 only in line breaks; pilot English reused."
+ },
+ {
+  "key": "U00379",
+  "en": "Ogurayama Castle: Council Chamber",
+  "note": "Glossary forms. Shared by 20 occurrences."
+ },
+ {
+  "key": "U00380",
+  "en": "Ogurayama Castle: Retainers' Hall",
+  "note": "Glossary forms."
+ },
+ {
+  "key": "U00381",
+  "en": "Ogurayama Castle: Living Quarters",
+  "note": "Glossary forms. Shared by 22 occurrences."
+ },
+ {
+  "key": "U00382",
+  "en": "Ogurayama: Storehouse"
+ },
+ {
+  "key": "U00383",
+  "en": "Ogurayama: Tavern",
+  "note": "Shared by 20 occurrences."
+ },
+ {
+  "key": "U00384",
+  "en": "Ogurayama: Market",
+  "note": "Shared by 21 occurrences."
+ },
+ {
+  "key": "U00385"
+ },
+ {
+  "key": "U00386"
+ },
+ {
+  "key": "U00387"
+ },
+ {
+  "key": "U00388"
+ },
+ {
+  "key": "U00389"
+ },
+ {
+  "key": "U00390"
+ },
+ {
+  "key": "U00391"
+ },
+ {
+  "key": "U00392",
+  "en": "Road to Koriyama Castle"
+ },
+ {
+  "key": "U00393"
+ },
+ {
+  "key": "U00394"
+ },
+ {
+  "key": "U00395"
+ },
+ {
+  "key": "U00396"
+ },
+ {
+  "key": "U00397"
+ },
+ {
+  "key": "U00398"
+ },
+ {
+  "key": "U00399"
+ }
+]

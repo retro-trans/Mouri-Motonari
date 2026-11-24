@@ -1,0 +1,327 @@
+[
+ {
+  "key": "I0483",
+  "en": "Heh. So you only looked strong, didn't you?"
+ },
+ {
+  "key": "I0484",
+  "en": "Grr, you're running away?! Coward..."
+ },
+ {
+  "key": "I0485",
+  "en": "That's a ninja for you. So quick to run away..."
+ },
+ {
+  "key": "I0486",
+  "en": "So the wretch ran off! Nothing but talk!"
+ },
+ {
+  "key": "I0487",
+  "en": "So they ran off... Well, no matter.",
+  "note": "Subject restored as \"they\" (the fled opponent, gender unknown)."
+ },
+ {
+  "key": "I0488",
+  "en": "So the wretch ran off. Nothing but talk.",
+  "note": "Same as I0486 with a period (the Japanese differs only by 。 vs ！)."
+ },
+ {
+  "key": "I0489",
+  "en": "Lost their nerve...? Heh. With skill like that, no wonder."
+ },
+ {
+  "key": "I0490",
+  "en": "Ha ha ha! They turned tail and ran!"
+ },
+ {
+  "key": "I0491",
+  "en": "Lost their nerve? Hmph. No surprise, with that skill.",
+  "note": "Female-speech variant of I0489."
+ },
+ {
+  "key": "I0492",
+  "en": "Is that the end of it, then?"
+ },
+ {
+  "key": "I0493",
+  "en": "Quitting halfway through? I can't say I approve."
+ },
+ {
+  "key": "I0494",
+  "en": "Young lord, have you hurt yourself?"
+ },
+ {
+  "key": "I0495",
+  "en": "I very nearly lost to you, young lord."
+ },
+ {
+  "key": "I0496",
+  "en": "You're running away?! ...No, I won't chase too far."
+ },
+ {
+  "key": "I0497",
+  "en": "Whew, that was close... That saved my hide."
+ },
+ {
+  "key": "I0498",
+  "en": "Whew, that was close... Seems I've been spared."
+ },
+ {
+  "key": "I0499",
+  "en": "Why did you run? I was the one losing..."
+ },
+ {
+  "key": "I0500",
+  "en": "I'd have said they had the upper hand..."
+ },
+ {
+  "key": "I0501",
+  "en": "Why did you run? We were only just getting started..."
+ },
+ {
+  "key": "I0502",
+  "en": "I came awfully close to losing there."
+ },
+ {
+  "key": "I0503",
+  "en": "That kunoichi is quite skilled."
+ },
+ {
+  "key": "I0504",
+  "en": "Fled or not, that kunoichi is more skilled than I am."
+ },
+ {
+  "key": "I0505",
+  "en": "Pathetic. And you call yourself a Mouri clan samurai?"
+ },
+ {
+  "key": "I0506",
+  "en": "Whew... That was a near thing."
+ },
+ {
+  "key": "I0507",
+  "en": "Looks like I managed to win, somehow."
+ },
+ {
+  "key": "I0508",
+  "en": "You're quite skilled, I must say."
+ },
+ {
+  "key": "I0509",
+  "en": "That was good practice. You have my thanks."
+ },
+ {
+  "key": "I0510",
+  "en": "That was a hard-fought match."
+ },
+ {
+  "key": "I0511",
+  "en": "Seems I just about held out. ...Good grief."
+ },
+ {
+  "key": "I0512",
+  "en": "Fearsome skill. I never thought I'd win."
+ },
+ {
+  "key": "I0513",
+  "en": "...That was a formidable opponent."
+ },
+ {
+  "key": "I0514",
+  "en": "That was a highly skilled opponent."
+ },
+ {
+  "key": "I0515",
+  "en": "Ngh... To think you'd push me this far..."
+ },
+ {
+  "key": "I0516",
+  "en": "Whew, that was close."
+ },
+ {
+  "key": "I0517",
+  "en": "You're quite skilled too, but no match for me."
+ },
+ {
+  "key": "I0518",
+  "en": "Fool... Can you not even see the gap in our skill?"
+ },
+ {
+  "key": "I0519",
+  "en": "I can't afford to lose that easily!"
+ },
+ {
+  "key": "I0520",
+  "en": "The win is mine. Well, don't let it get you down."
+ },
+ {
+  "key": "I0521",
+  "en": "You still lack discipline. Keep at your training."
+ },
+ {
+  "key": "I0522",
+  "en": "Skill like that is no match for me. Is there no one else?"
+ },
+ {
+  "key": "I0523",
+  "en": "You were ten years too early to take me on."
+ },
+ {
+  "key": "I0524",
+  "en": "Well then, who's next?!"
+ },
+ {
+  "key": "I0525",
+  "en": "...Weak! You need more training!"
+ },
+ {
+  "key": "I0526",
+  "en": "You fool! You dared to face me with skill like that?!"
+ },
+ {
+  "key": "I0527",
+  "en": "I win! Don't you think you need more training?"
+ },
+ {
+  "key": "I0528",
+  "en": "Looks like you'd better hone your skills some more."
+ },
+ {
+  "key": "I0529",
+  "en": "Weak, so weak. You're no match for me."
+ },
+ {
+  "key": "I0530",
+  "en": "I've wasted my time here."
+ },
+ {
+  "key": "I0531",
+  "en": "Splendid. The fruit of your daily training, I take it?"
+ },
+ {
+  "key": "I0532",
+  "en": "I never dreamed you were this strong. Remarkable."
+ },
+ {
+  "key": "I0533",
+  "en": "I had no idea you were so strong. I'm truly impressed."
+ },
+ {
+  "key": "I0534",
+  "en": "Hmm... I never thought I'd lose to you, young lord."
+ },
+ {
+  "key": "I0535",
+  "en": "I-I merely let my guard down a little, that's all."
+ },
+ {
+  "key": "I0536",
+  "en": "You've grown strong yourself, young lord."
+ },
+ {
+  "key": "I0537",
+  "en": "Hm, you really are strong. My training still falls short."
+ },
+ {
+  "key": "I0538",
+  "en": "I thought I was close to winning..."
+ },
+ {
+  "key": "I0539",
+  "en": "Just as I thought. That one's quite skilled, it seems."
+ },
+ {
+  "key": "I0540",
+  "en": "\nNinja are strong...",
+  "note": "Leading blank line kept (the Japanese record starts with a line break)."
+ },
+ {
+  "key": "I0541",
+  "en": "Blast it! Beaten by a mere ninja!"
+ },
+ {
+  "key": "I0542",
+  "en": "Gah! Why?! Why did I lose?!"
+ },
+ {
+  "key": "I0543",
+  "en": "To lose to such a one... What a humiliation..."
+ },
+ {
+  "key": "I0544",
+  "en": "To be bested by a fellow kunoichi..."
+ },
+ {
+  "key": "I0545",
+  "en": "I shouldn't have lost to that opponent..."
+ },
+ {
+  "key": "I0546",
+  "en": "Blast, I got careless! Fight me again! Don't run!"
+ },
+ {
+  "key": "I0547",
+  "en": "I yield. I am utterly defeated."
+ },
+ {
+  "key": "I0548",
+  "en": "I hope you'll spar with me again."
+ },
+ {
+  "key": "I0549",
+  "en": "Impressive as ever, young lord. You're strong indeed."
+ },
+ {
+  "key": "I0550",
+  "en": "I'm hardly fit to be your sparring partner, young lord."
+ },
+ {
+  "key": "I0551",
+  "en": "Impressive, young lord. You really are strong."
+ },
+ {
+  "key": "I0552",
+  "en": "\nSo strong...",
+  "note": "Leading blank line kept (the Japanese record starts with a line break)."
+ },
+ {
+  "key": "I0553",
+  "en": "Please... take me on as your pupil..."
+ },
+ {
+  "key": "I0554",
+  "en": "S-so this is a ninja. ...Impressive."
+ },
+ {
+  "key": "I0555",
+  "en": "I should never have challenged a ninja."
+ },
+ {
+  "key": "I0556",
+  "en": "Seems I still need more training myself."
+ },
+ {
+  "key": "I0557",
+  "en": "Beaten by a fellow ninja... How galling."
+ },
+ {
+  "key": "I0558",
+  "en": "Such strength! I can't hope to match it."
+ },
+ {
+  "key": "I0559",
+  "en": "A kunoichi, eh... Not someone I'd want as an enemy."
+ },
+ {
+  "key": "I0560",
+  "en": "We're both kunoichi, yet there's such a gap between us..."
+ },
+ {
+  "key": "I0561",
+  "en": "To think I'd lose... Who is that?"
+ },
+ {
+  "key": "I0562",
+  "en": "I'm impressed. I lost this bout, fair and square."
+ }
+]

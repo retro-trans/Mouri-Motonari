@@ -1,0 +1,267 @@
+[
+ {
+  "key": "U03040",
+  "note": "Motozumi's reply on a branch whose trigger is not in this slice (its offset comes before the plan in U03042): read as Motonari having said he trusts him. If the trigger is something else, 'Thank you' still holds."
+ },
+ {
+  "key": "U03041"
+ },
+ {
+  "key": "U03042"
+ },
+ {
+  "key": "U03043",
+  "en": "Trust Motozumi\nCan't fully trust him"
+ },
+ {
+  "key": "U03044"
+ },
+ {
+  "key": "U03045"
+ },
+ {
+  "key": "U03046"
+ },
+ {
+  "key": "U03047"
+ },
+ {
+  "key": "U03048"
+ },
+ {
+  "key": "U03049"
+ },
+ {
+  "key": "U03050"
+ },
+ {
+  "key": "U03051"
+ },
+ {
+  "key": "U03052"
+ },
+ {
+  "key": "U03053"
+ },
+ {
+  "key": "U03054"
+ },
+ {
+  "key": "U03055"
+ },
+ {
+  "key": "U03056"
+ },
+ {
+  "key": "U03057"
+ },
+ {
+  "key": "U03058"
+ },
+ {
+  "key": "U03059"
+ },
+ {
+  "key": "U03060"
+ },
+ {
+  "key": "U03061",
+  "en": "Ask for aid\nDon't ask for aid"
+ },
+ {
+  "key": "U03062",
+  "note": "Read as Nomi's response on the 'Don't ask for aid' branch: he restates the condition. Branch assignment inferred from script order."
+ },
+ {
+  "key": "U03063"
+ },
+ {
+  "key": "U03064",
+  "en": "Lend us aid for a while\nLend us aid for the battle\nLend us aid for just one day"
+ },
+ {
+  "key": "U03065"
+ },
+ {
+  "key": "U03066"
+ },
+ {
+  "key": "U03067"
+ },
+ {
+  "key": "U03068"
+ },
+ {
+  "key": "U03069"
+ },
+ {
+  "key": "U03070",
+  "en": "Gave them the \"Sobering Water.\"",
+  "note": "Narration line; pattern 'Gave Tsuda Yoichi 500 gold.' (U00790). 'them' for the unconscious drunk (gender unknown). Shared by 6 occurrences."
+ },
+ {
+  "key": "U03071"
+ },
+ {
+  "key": "U03072"
+ },
+ {
+  "key": "U03073"
+ },
+ {
+  "key": "U03074",
+  "note": "Shared by 6 occurrences."
+ },
+ {
+  "key": "U03075",
+  "note": "Shared by 6 occurrences."
+ },
+ {
+  "key": "U03076",
+  "note": "Shared by 6 occurrences."
+ },
+ {
+  "key": "U03077"
+ },
+ {
+  "key": "U03078",
+  "note": "Shared by 4 occurrences."
+ },
+ {
+  "key": "U03079",
+  "note": "Same English as U02464. Shared by 4 occurrences."
+ },
+ {
+  "key": "U03080"
+ },
+ {
+  "key": "U03081",
+  "note": "Same English as U02469 (Takema Sadakuni)."
+ },
+ {
+  "key": "U03082",
+  "note": "Same English as U02473."
+ },
+ {
+  "key": "U03083"
+ },
+ {
+  "key": "U03084"
+ },
+ {
+  "key": "U03085"
+ },
+ {
+  "key": "U03086",
+  "note": "Japanese page breaks inside Nemoto's hesitant lines kept as beats. The sentence split across two sections follows the Japanese."
+ },
+ {
+  "key": "U03087"
+ },
+ {
+  "key": "U03088"
+ },
+ {
+  "key": "U03089",
+  "note": "Shared by 2 occurrences."
+ },
+ {
+  "key": "U03090",
+  "note": "Shared by 2 occurrences."
+ },
+ {
+  "key": "U03091",
+  "note": "Motonari is talking to Saito (who answers), suggesting he sit with Wada. Shared by 2 occurrences."
+ },
+ {
+  "key": "U03092",
+  "note": "Shared by 2 occurrences."
+ },
+ {
+  "key": "U03093"
+ },
+ {
+  "key": "U03094",
+  "note": "Shared by 2 occurrences."
+ },
+ {
+  "key": "U03095"
+ },
+ {
+  "key": "U03096",
+  "note": "Variant of U02491 (slice 031); English reused with small changes where the Japanese differs. 'he' for the craftsman: Yanohara Sukehide is male (characters.json)."
+ },
+ {
+  "key": "U03097"
+ },
+ {
+  "key": "U03098"
+ },
+ {
+  "key": "U03099"
+ },
+ {
+  "key": "U03100"
+ },
+ {
+  "key": "U03101"
+ },
+ {
+  "key": "U03102"
+ },
+ {
+  "key": "U03103"
+ },
+ {
+  "key": "U03104"
+ },
+ {
+  "key": "U03105"
+ },
+ {
+  "key": "U03106"
+ },
+ {
+  "key": "U03107"
+ },
+ {
+  "key": "U03108"
+ },
+ {
+  "key": "U03109"
+ },
+ {
+  "key": "U03110"
+ },
+ {
+  "key": "U03111"
+ },
+ {
+  "key": "U03112"
+ },
+ {
+  "key": "U03113"
+ },
+ {
+  "key": "U03114"
+ },
+ {
+  "key": "U03115"
+ },
+ {
+  "key": "U03116",
+  "note": "Item name as in U02529. Motonari's mention has no 『』 in the Japanese, so no quotes."
+ },
+ {
+  "key": "U03117",
+  "note": "Same Japanese as U02473 / U03082 apart from line breaks; same English. Shared by 11 occurrences."
+ },
+ {
+  "key": "U03118",
+  "note": "Shared by 2 occurrences."
+ },
+ {
+  "key": "U03119",
+  "note": "The 'peddler' is a spy: the next unit (U03120, slice 039) has a ninja gloating over the information. The English keeps the innocent surface."
+ }
+]

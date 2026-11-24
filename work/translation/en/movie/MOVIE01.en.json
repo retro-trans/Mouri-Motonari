@@ -1,0 +1,407 @@
+{
+ "movie": "MOVIE01",
+ "note": "Opening film after New Game: Mouri Hiromoto's deathbed (Ep. 0 prologue), then the map narration (1506-1516). Japanese transcribed with faster-whisper large-v3 (tools/transcribe_movie.py) and corrected by context; times in seconds from the start of the film (frame = round(t * 15) + 1).",
+ "subtitles": [
+  {
+   "start": 8.5,
+   "end": 9.45,
+   "speaker": "Shojumaru",
+   "en": "Father!"
+  },
+  {
+   "start": 9.5,
+   "end": 11.4,
+   "speaker": "Hiromoto's wife",
+   "en": "My lord, you mustn't strain yourself."
+  },
+  {
+   "start": 11.75,
+   "end": 15.5,
+   "speaker": "Mouri Hiromoto",
+   "en": "Shojumaru... Listen to me."
+  },
+  {
+   "start": 16.5,
+   "end": 22.3,
+   "speaker": "Mouri Hiromoto",
+   "en": "A house whose kin are not united rots away from within."
+  },
+  {
+   "start": 23.1,
+   "end": 27.2,
+   "speaker": "Mouri Hiromoto",
+   "en": "In this age of war, such a house is doomed to fall."
+  },
+  {
+   "start": 31.2,
+   "end": 33.4,
+   "speaker": "Hiromoto's wife",
+   "en": "My lord, I'll send for the physician..."
+  },
+  {
+   "start": 33.95,
+   "end": 35.4,
+   "speaker": "Mouri Hiromoto",
+   "en": "There is no need."
+  },
+  {
+   "start": 37.6,
+   "end": 40.7,
+   "speaker": "Mouri Hiromoto",
+   "en": "Support your elder brother, Kochiyomaru."
+  },
+  {
+   "start": 40.75,
+   "end": 44.4,
+   "speaker": "Mouri Hiromoto",
+   "en": "Never let the two of you fall out,"
+  },
+  {
+   "start": 44.95,
+   "end": 48.3,
+   "speaker": "Mouri Hiromoto",
+   "en": "but work together to make the Mouri clan prosper."
+  },
+  {
+   "start": 48.35,
+   "end": 50.4,
+   "speaker": "Shojumaru",
+   "en": "I understand, Father."
+  },
+  {
+   "start": 56.3,
+   "end": 57.6,
+   "speaker": "Hiromoto's wife",
+   "en": "My lord!"
+  },
+  {
+   "start": 65.6,
+   "end": 69.75,
+   "speaker": "Narrator",
+   "en": "In 1506, the year Motonari's father Hiromoto passed away,"
+  },
+  {
+   "start": 70.3,
+   "end": 76.7,
+   "speaker": "Narrator",
+   "en": "the Chugoku region was ruled by two great powers: the Ouchi in the west and the Amago in the east."
+  },
+  {
+   "start": 77.6,
+   "end": 82.0,
+   "speaker": "Narrator",
+   "en": "Caught between them, the Mouri clan sided with Ouchi Yoshioki."
+  },
+  {
+   "start": 83.1,
+   "end": 87.6,
+   "speaker": "Narrator",
+   "en": "Kochiyomaru was granted a character from Yoshioki's name and became Okimoto."
+  },
+  {
+   "start": 87.65,
+   "end": 92.5,
+   "speaker": "Narrator",
+   "en": "He served in the army of Yoshioki, who marched on Kyoto with Shogun Yoshitane at his head,"
+  },
+  {
+   "start": 92.55,
+   "end": 94.6,
+   "speaker": "Narrator",
+   "en": "and fought in battles across the land."
+  },
+  {
+   "start": 95.25,
+   "end": 99.9,
+   "speaker": "Narrator",
+   "en": "Meanwhile, to quell any unrest while he was away, Yoshioki"
+  },
+  {
+   "start": 100.4,
+   "end": 104.3,
+   "speaker": "Narrator",
+   "en": "sent Takeda Motoshige home to guard his rear."
+  },
+  {
+   "start": 105.2,
+   "end": 110.1,
+   "speaker": "Narrator",
+   "en": "But Takeda Motoshige had already been won over by the Amago,"
+  },
+  {
+   "start": 110.15,
+   "end": 113.9,
+   "speaker": "Narrator",
+   "en": "and was biding his time, watching for a chance to expand his lands."
+  },
+  {
+   "start": 115.1,
+   "end": 118.5,
+   "speaker": "Narrator",
+   "en": "It was then that Okimoto fell ill."
+  },
+  {
+   "start": 120.0,
+   "end": 125.4,
+   "speaker": "Narrator",
+   "en": "Shojumaru, now of age and renamed Motonari, was twenty years old,"
+  },
+  {
+   "start": 125.45,
+   "end": 129.6,
+   "speaker": "Narrator",
+   "en": "a young man who had yet to see a battlefield."
+  }
+ ],
+ "labels": [
+  {
+   "id": "year",
+   "en": [
+    "Eisho 3",
+    "(1506)"
+   ],
+   "frames": [
+    1008,
+    1050
+   ],
+   "box": [
+    138,
+    26,
+    174,
+    210
+   ],
+   "ref": [
+    1050,
+    1065
+   ],
+   "size": 13,
+   "fixed_scale": true,
+   "chain": [
+    [
+     1008,
+     1020,
+     "back"
+    ]
+   ],
+   "settled": 1024
+  },
+  {
+   "id": "ouchi",
+   "en": [
+    "Ouchi Yoshioki"
+   ],
+   "frames": [
+    1064,
+    1468
+   ],
+   "box": [
+    32,
+    170,
+    121,
+    203
+   ],
+   "ref": [
+    1050,
+    1065
+   ],
+   "settled": 1090,
+   "hold": [
+    1090,
+    1450
+   ],
+   "size": 12
+  },
+  {
+   "id": "amago",
+   "en": [
+    "Amago Tsunehisa"
+   ],
+   "frames": [
+    1094,
+    1362
+   ],
+   "box": [
+    190,
+    106,
+    283,
+    141
+   ],
+   "ref": [
+    1050,
+    1065
+   ],
+   "settled": 1120,
+   "hold": [
+    1120,
+    1344
+   ],
+   "size": 12,
+   "early_boxes": [
+    [
+     1110,
+     [
+      140,
+      116,
+      320,
+      170
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "oki",
+   "en": [
+    "Oki"
+   ],
+   "frames": [
+    1258,
+    1299
+   ],
+   "box": [
+    116,
+    146,
+    200,
+    196
+   ],
+   "ref": [
+    1050,
+    1065
+   ],
+   "settled": 1290,
+   "size": 15
+  },
+  {
+   "id": "okimoto",
+   "en": [
+    "Okimoto"
+   ],
+   "frames": [
+    1300,
+    1468
+   ],
+   "box": [
+    112,
+    148,
+    199,
+    181
+   ],
+   "ref": [
+    1050,
+    1065
+   ],
+   "settled": 1320,
+   "hold": [
+    1320,
+    1450
+   ],
+   "size": 12
+  },
+  {
+   "id": "takeda",
+   "en": [
+    "Takeda Motoshige"
+   ],
+   "frames": [
+    1482,
+    1718
+   ],
+   "box": [
+    32,
+    161,
+    125,
+    195
+   ],
+   "ref": [
+    1472,
+    1479
+   ],
+   "settled": 1520,
+   "hold": [
+    1520,
+    1704
+   ],
+   "size": 12,
+   "chain": [
+    [
+     1482,
+     1499,
+     "back"
+    ]
+   ],
+   "early_boxes": [
+    [
+     1492,
+     [
+      0,
+      168,
+      150,
+      215
+     ]
+    ]
+   ],
+   "fade": [
+    [
+     1705,
+     1718,
+     1704
+    ]
+   ],
+   "motion_ignore": [
+    [
+     0,
+     60,
+     150,
+     170
+    ]
+   ]
+  },
+  {
+   "id": "shoju",
+   "en": [
+    "Shojumaru"
+   ],
+   "frames": [
+    1818,
+    1849
+   ],
+   "box": [
+    106,
+    146,
+    215,
+    189
+   ],
+   "ref": [
+    1800,
+    1820
+   ],
+   "size": 12
+  },
+  {
+   "id": "motonari",
+   "en": [
+    "Mouri Motonari"
+   ],
+   "frames": [
+    1849,
+    1974
+   ],
+   "box": [
+    26,
+    158,
+    305,
+    217
+   ],
+   "ref": [
+    1800,
+    1820
+   ],
+   "settled": 1930,
+   "hold": [
+    1880,
+    1974
+   ],
+   "size": 20
+  }
+ ],
+ "review": "Self-reviewed 2026-11-13 (accuracy against the transcript, voice, proofreading); not yet through separate review agents."
+}

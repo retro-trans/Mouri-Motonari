@@ -1,0 +1,338 @@
+[
+ {
+  "key": "I0403",
+  "en": "Is this, too, a trial? The path of the Buddha is a harsh one.",
+  "note": "Officer #53 = Saiei (male warrior monk; confirmed by acc from the DATA.E3 name table). Sortie I0347 prays to the Buddha. [proof: note]"
+ },
+ {
+  "key": "I0404",
+  "en": "Guess my time to shine is over. Maybe I'll head home and think up a new song."
+ },
+ {
+  "key": "I0405",
+  "en": "Hmm... Will our lord be all right without the supply unit?"
+ },
+ {
+  "key": "I0406",
+  "en": "Battle of Arita Castle"
+ },
+ {
+  "key": "I0407",
+  "en": "Siege of Kagamiyama",
+  "note": "Glossary 'Siege of Kagamiyama Castle' is 135 px > 120; 'Castle' dropped."
+ },
+ {
+  "key": "I0408",
+  "en": "Battle of Funayama",
+  "note": "Glossary 'Battle of Funayama Castle' is 131 px > 120; 'Castle' dropped."
+ },
+ {
+  "key": "I0409",
+  "en": "Battle of Kanayama",
+  "note": "Glossary 'Battle of Kanayama Castle' is 132 px > 120; 'Castle' dropped."
+ },
+ {
+  "key": "I0410",
+  "en": "Pacification of Aki"
+ },
+ {
+  "key": "I0411",
+  "en": "Battle of Koriyama",
+  "note": "Glossary full form (170 px) and short 'Battle of Yoshida-Koriyama' (135 px) exceed 120 px; uses the glossary short castle form 'Koriyama'."
+ },
+ {
+  "key": "I0412",
+  "en": "Retreat from Izumo"
+ },
+ {
+  "key": "I0413",
+  "en": "Interception in Bingo"
+ },
+ {
+  "key": "I0414",
+  "en": "Siege of Kannabe Castle"
+ },
+ {
+  "key": "I0415",
+  "en": "Pacif. of Aki and Bingo",
+  "note": "Glossary 'Pacification of Aki and Bingo' is 139 px > 120; abbreviated."
+ },
+ {
+  "key": "I0416",
+  "en": "Westward Push in Aki",
+  "note": "Glossary 'Westward Push through Aki' is 130 px > 120."
+ },
+ {
+  "key": "I0417",
+  "en": "Battle of Itsukushima"
+ },
+ {
+  "key": "I0418",
+  "en": "Suo-Nagato Offensive"
+ },
+ {
+  "key": "I0419",
+  "en": "Struggle for Moji Castle"
+ },
+ {
+  "key": "I0420",
+  "en": "Battle of Iwami Ginzan"
+ },
+ {
+  "key": "I0421",
+  "en": "Siege of Shiraga Castle"
+ },
+ {
+  "key": "I0422",
+  "en": "Siege of Gassan-Toda",
+  "note": "Glossary 'Siege of Gassan-Toda Castle' is 143 px > 120; 'Castle' dropped."
+ },
+ {
+  "key": "I0423",
+  "en": "Battle of Ozu Castle"
+ },
+ {
+  "key": "I0424",
+  "en": "Chikuzen Campaign"
+ },
+ {
+  "key": "I0425",
+  "en": "Battle of Mount Fube"
+ },
+ {
+  "key": "I0426",
+  "en": "Bizen Campaign"
+ },
+ {
+  "key": "I0427",
+  "en": "Battle of Kizugawaguchi"
+ },
+ {
+  "key": "I0428",
+  "en": "Battle of Kozuki Castle"
+ },
+ {
+  "key": "I0429",
+  "en": "Pursuit of the Hashiba",
+  "note": "Glossary 'Pursuit of the Hashiba Army' is 136 px > 120; 'Army' dropped."
+ },
+ {
+  "key": "I0430",
+  "en": "Kinai Offensive"
+ },
+ {
+  "key": "I0431",
+  "en": "Battle of Azuchi Castle"
+ },
+ {
+  "key": "I0432",
+  "en": "Pacif. of Mino and Owari",
+  "note": "Glossary 'Pacification of Mino and Owari' is 144 px > 120; abbreviated like I0415."
+ },
+ {
+  "key": "I0433",
+  "en": "Battle of Sekigahara"
+ },
+ {
+  "key": "I0434",
+  "en": "Battle of Gifu Castle"
+ },
+ {
+  "key": "I0435",
+  "en": "I'll show no mercy, mind you. Are you ready?"
+ },
+ {
+  "key": "I0436",
+  "en": "I won't go easy on you. Is that clear?"
+ },
+ {
+  "key": "I0437",
+  "en": "I won't go easy on you. All right?"
+ },
+ {
+  "key": "I0438",
+  "en": "Facing you, young lord? This will be awkward. Ha ha ha!"
+ },
+ {
+  "key": "I0439",
+  "en": "Well, well! Are you training too, young lord?"
+ },
+ {
+  "key": "I0440",
+  "en": "I see you're skilled. Now, face me fair and square!"
+ },
+ {
+  "key": "I0441",
+  "en": "This one's good... That's no ordinary swordwork."
+ },
+ {
+  "key": "I0442",
+  "en": "Oh? So you're a ninja... You'll make a worthy opponent."
+ },
+ {
+  "key": "I0443",
+  "en": "Not a samurai...\nNot a bandit...\n...A ninja!",
+  "note": "Line breaks kept as in the Japanese (dramatic beats)."
+ },
+ {
+  "key": "I0444",
+  "en": "Hm, this one's good. Who are you?!",
+  "note": "[proof: '!?' -> '?!']"
+ },
+ {
+  "key": "I0445",
+  "en": "A kunoichi... I can't let my guard down."
+ },
+ {
+  "key": "I0446",
+  "en": "You should make a worthy opponent."
+ },
+ {
+  "key": "I0447",
+  "en": "I can see you're quite skilled."
+ },
+ {
+  "key": "I0448",
+  "en": "Heh. Come at me any way you like."
+ },
+ {
+  "key": "I0449",
+  "en": "I'll teach you there's always someone better!"
+ },
+ {
+  "key": "I0450",
+  "en": "Hee hee. Come at me any way you like."
+ },
+ {
+  "key": "I0451",
+  "en": "Don't hold back just because you're facing me."
+ },
+ {
+  "key": "I0452",
+  "en": "No need to hold back. Come on, have at me!"
+ },
+ {
+  "key": "I0453",
+  "en": "Don't go easy on me! Strike as hard as you like!"
+ },
+ {
+  "key": "I0454",
+  "en": "Practice or not, this is a real duel. Don't hold back."
+ },
+ {
+  "key": "I0455",
+  "en": "Get a good taste of my swordsmanship!"
+ },
+ {
+  "key": "I0456",
+  "en": "You dare challenge me? Laughable!"
+ },
+ {
+  "key": "I0457",
+  "en": "\n...Let's fight!",
+  "note": "Leading empty line kept as in the Japanese."
+ },
+ {
+  "key": "I0458",
+  "en": "\nHere I come!",
+  "note": "Leading empty line kept as in the Japanese."
+ },
+ {
+  "key": "I0459",
+  "en": "See what a kunoichi can do!"
+ },
+ {
+  "key": "I0460",
+  "en": "\nPrepare yourself!",
+  "note": "Leading empty line kept as in the Japanese."
+ },
+ {
+  "key": "I0461",
+  "en": "Heh, your stance is full of openings."
+ },
+ {
+  "key": "I0462",
+  "en": "I can already see how this ends."
+ },
+ {
+  "key": "I0463",
+  "en": "Scorn me, will you?! Your carelessness will be fatal!"
+ },
+ {
+  "key": "I0464",
+  "en": "Not so fast! I'll turn the tables on you!"
+ },
+ {
+  "key": "I0465",
+  "en": "Here I come!\n%",
+  "note": "% = technique name at runtime; kept on its own line (16 bytes estimated)."
+ },
+ {
+  "key": "I0466",
+  "en": "Take this!\n%"
+ },
+ {
+  "key": "I0467",
+  "en": "Witness this technique!\n%!"
+ },
+ {
+  "key": "I0468",
+  "en": "Right! Time for\n%!"
+ },
+ {
+  "key": "I0469",
+  "en": "Secret sword art!\n%"
+ },
+ {
+  "key": "I0470",
+  "en": "Hyaaah!\n%!"
+ },
+ {
+  "key": "I0471",
+  "en": "Now's my chance!\n%"
+ },
+ {
+  "key": "I0472",
+  "en": "Secret art...\n%..."
+ },
+ {
+  "key": "I0473",
+  "en": "Behold a kunoichi's art!\n%!"
+ },
+ {
+  "key": "I0474",
+  "en": "Looks like I'll\nhave to use\n%."
+ },
+ {
+  "key": "I0475",
+  "en": "I never thought I'd\nhave to use\n%..."
+ },
+ {
+  "key": "I0476",
+  "en": "It seems I must\nresort to\n%."
+ },
+ {
+  "key": "I0477",
+  "en": "Are we done? Then let us sheathe our swords."
+ },
+ {
+  "key": "I0478",
+  "en": "I see. Then let us end it here."
+ },
+ {
+  "key": "I0479",
+  "en": "You still need more training, it seems. Ha ha ha!"
+ },
+ {
+  "key": "I0480",
+  "en": "Young lord, a match must be fought to the very end."
+ },
+ {
+  "key": "I0481",
+  "en": "Running away...? Is that sword of yours just for show?!"
+ },
+ {
+  "key": "I0482",
+  "en": "Heh. So you only look tough."
+ }
+]

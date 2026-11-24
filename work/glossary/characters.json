@@ -1,0 +1,6312 @@
+[
+ {
+  "jp": "毛利元就",
+  "en": "Mouri Motonari",
+  "en_macron": "Mōri Motonari",
+  "reading": "もうり もとなり",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Protagonist (chapters 1-20). Second son of Mouri Hiromoto; younger brother of Okimoto, guardian of Komatsumaru, then head of the Mouri clan and lord of Yoshida-Koriyama Castle.",
+  "personality": "Wise, patient strategist and a kind, approachable lord who mingles with townsfolk and helps commoners; devoted husband and father; grows into the shrewd elder statesman of the west.",
+  "nicknames": [
+   "元就様 (Lord Motonari)",
+   "殿 (my lord)",
+   "父上 (Father, by his children)",
+   "お爺さま (Grandfather, by Terumoto)",
+   "叔父上 (Uncle, by Komatsumaru)",
+   "兄上/兄者 (Brother, by Mototsuna)",
+   "元就公 (Lord Motonari, posthumous/respectful)",
+   "毛利の若造 (the Mouri whelp, by enemies)",
+   "毛利の次男坊 (the Mouri second son)",
+   "毛利の若様 (young Mouri lord, by Myo)",
+   "智将 (the wise general)",
+   "松寿丸 (Shojumaru, childhood name)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 4039,
+  "first_unit": "U00047",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/毛利元就",
+   "https://en.wikipedia.org/wiki/Mōri_Motonari",
+   "https://koei.fandom.com/wiki/Motonari_Mōri",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢",
+   "UI gaps pass 2026-10-28 (work/translation/en/ui/reports/_gaps.md 1.8)"
+  ],
+  "note": "Childhood name 松寿丸 \"Shojumaru\" (P0562)."
+ },
+ {
+  "jp": "毛利輝元",
+  "en": "Mouri Terumoto",
+  "en_macron": "Mōri Terumoto",
+  "reading": "もうり てるもと",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Protagonist of chapter 3 (ep. 21-final). Son of Mouri Takamoto, grandson and successor of Motonari; leads the Mouri against Oda, Akechi and Tokugawa in the game's alternate history.",
+  "personality": "Gentle, merciful and earnest; trusts his uncles and retainers but can turn reckless when angered by cruelty or betrayal; in love with the kunoichi Hotaru.",
+  "nicknames": [
+   "輝元様 (Lord Terumoto)",
+   "輝元 (by family)",
+   "智将元就の孫 (grandson of the wise general Motonari)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 820,
+  "first_unit": "U03864",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/毛利輝元",
+   "https://en.wikipedia.org/wiki/Mōri_Terumoto",
+   "https://koei.fandom.com/wiki/Terumoto_Mōri",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "毛利隆元",
+  "en": "Mouri Takamoto",
+  "en_macron": "Mōri Takamoto",
+  "reading": "もうり たかもと",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Motonari's eldest son and heir; hostage of the Ouchi in youth; later Mouri head in name; assassinated by poison (ep. 16). Childhood name Sho no Taro.",
+  "personality": "Earnest, dutiful and somewhat introspective heir; seeks guidance at Ankokuji; brave but burdened by responsibility.",
+  "nicknames": [
+   "少輔太郎 / 太郎 (Sho no Taro / Taro, childhood)",
+   "太郎様 (Master Taro)",
+   "隆元様 (Lord Takamoto)",
+   "兄上 (Brother, by siblings)",
+   "父上 (Father, by Terumoto)",
+   "毛利家の嫡男 (Mouri heir)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 157,
+  "first_unit": "U01441",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/毛利隆元",
+   "https://en.wikipedia.org/wiki/Mōri_Takamoto",
+   "https://koei.fandom.com/wiki/Takamoto_Mōri",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "少輔太郎",
+  "en": "Sho no Taro",
+  "en_macron": "Shō no Tarō",
+  "reading": "しょうのたろう",
+  "reading_confidence": "game_wiki",
+  "gender": "male",
+  "gender_evidence": "Same person as Mouri Takamoto (Wikipedia); script U01413 renames him 隆元",
+  "role": "Childhood name of Mouri Takamoto (speaker label in ep. 4-5).",
+  "personality": "Lively boy, eager for his first battle (\"私の初陣はいつでござるか\").",
+  "nicknames": [
+   "太郎",
+   "太郎様"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 15,
+  "first_unit": "U00955",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/毛利隆元",
+   "https://en.wikipedia.org/wiki/Mōri_Takamoto",
+   "https://koei.fandom.com/wiki/Takamoto_Mōri",
+   "script: first line U00955 (work/source/text/units.json)"
+  ],
+  "note": "Koei wiki spells \"Shō no Tarō\". Reading しょうのたろう."
+ },
+ {
+  "jp": "吉川元春",
+  "en": "Kikkawa Motoharu",
+  "en_macron": "Kikkawa Motoharu",
+  "reading": "きっかわ もとはる",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Motonari's second son; adopted into and heads the Kikkawa clan (one of the \"Two Rivers\"); Mouri's foremost field commander. Childhood name Sho no Jiro.",
+  "personality": "Hot-blooded, brave and reckless warrior (his wife worries about his \"無茶\"); blunt but affectionate father to Hiroie.",
+  "nicknames": [
+   "少輔次郎 / 次郎 (Sho no Jiro / Jiro, childhood)",
+   "次郎様 (Master Jiro)",
+   "元春様 (Lord Motoharu)",
+   "兄上 (Brother)",
+   "父上 (Father, by Hiroie)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 177,
+  "first_unit": "U02200",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/吉川元春",
+   "https://en.wikipedia.org/wiki/Kikkawa_Motoharu",
+   "https://koei.fandom.com/wiki/Motoharu_Kikkawa",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "少輔次郎",
+  "en": "Sho no Jiro",
+  "en_macron": "Shō no Jirō",
+  "reading": "しょうのじろう",
+  "reading_confidence": "game_wiki",
+  "gender": "male",
+  "gender_evidence": "Same person as Kikkawa Motoharu (Wikipedia); script U02170 renames him 元春",
+  "role": "Childhood name of Kikkawa Motoharu (speaker label in ep. 6-9).",
+  "personality": "Bold, impatient boy eager to fight; joins the defense of Koriyama against orders.",
+  "nicknames": [
+   "次郎",
+   "次郎様",
+   "次郎兄"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 42,
+  "first_unit": "U01410",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/吉川元春",
+   "https://en.wikipedia.org/wiki/Kikkawa_Motoharu",
+   "https://koei.fandom.com/wiki/Motoharu_Kikkawa",
+   "script: first line U01410 (work/source/text/units.json)"
+  ],
+  "note": "Koei wiki spells \"Shō no Jirō\". Reading しょうのじろう."
+ },
+ {
+  "jp": "小早川隆景",
+  "en": "Kobayakawa Takakage",
+  "en_macron": "Kobayakawa Takakage",
+  "short": "Takakage",
+  "reading": "こばやかわ たかかげ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Motonari's third son; adopted into the Takehara Kobayakawa clan (lord of Takayama Castle); Mouri's chief strategist and navy head. Childhood name Tokujumaru.",
+  "personality": "Calm, thoughtful and studious strategist (described as 落ち着きがあり、思慮深い); his wife notes he reads difficult books.",
+  "nicknames": [
+   "徳寿丸 (Tokujumaru, childhood)",
+   "隆景様 (Lord Takakage)",
+   "兄上 (Brother)",
+   "父上 (Father)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 149,
+  "first_unit": "U02219",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/小早川隆景",
+   "https://en.wikipedia.org/wiki/Kobayakawa_Takakage",
+   "https://koei.fandom.com/wiki/Takakage_Kobayakawa",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "徳寿丸",
+  "en": "Tokujumaru",
+  "en_macron": "Tokujumaru",
+  "reading": "とくじゅまる",
+  "reading_confidence": "game_wiki",
+  "gender": "male",
+  "gender_evidence": "Same person as Kobayakawa Takakage (Wikipedia); renamed 隆景 in U02170",
+  "role": "Childhood name of Kobayakawa Takakage (speaker label in ep. 6-9).",
+  "personality": "Composed, perceptive child who already thinks like a strategist (U01488).",
+  "nicknames": [
+   "徳寿丸様"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 28,
+  "first_unit": "U01413",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/小早川隆景",
+   "https://en.wikipedia.org/wiki/Kobayakawa_Takakage",
+   "https://koei.fandom.com/wiki/Takakage_Kobayakawa",
+   "script: first line U01413 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "毛利興元",
+  "en": "Mouri Okimoto",
+  "en_macron": "Mōri Okimoto",
+  "reading": "もうり おきもと",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Motonari's elder brother and head of the Mouri clan; dies of illness worsened by drink in episode 1.",
+  "personality": "Hot-tempered and proud; refuses to retreat; drank heavily to steel himself for constant war (per his wife).",
+  "nicknames": [
+   "興元様",
+   "殿 (by his retainers)",
+   "兄上 (Brother, by Motonari)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 16,
+  "first_unit": "U00010",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/毛利興元",
+   "https://en.wikipedia.org/wiki/Mōri_Okimoto"
+  ]
+ },
+ {
+  "jp": "幸千代丸",
+  "en": "Kochiyomaru",
+  "en_macron": "Kōchiyomaru",
+  "reading": "こうちよまる",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia (childhood name of Mouri Okimoto)",
+  "role": "Childhood name of Mouri Okimoto (毛利興元), used in the opening film (MOVIE01) before he takes 興 from Ouchi Yoshioki's name.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": false,
+  "lines": 0,
+  "first_unit": "MOVIE01",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/毛利興元"
+  ],
+  "note": "Opening film only."
+ },
+ {
+  "jp": "毛利幸松丸",
+  "en": "Mouri Komatsumaru",
+  "en_macron": "Mōri Kōmatsumaru",
+  "short": "Komatsumaru",
+  "reading": "もうり こうまつまる",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Okimoto's infant son and nominal Mouri head under Motonari's guardianship; dies of fever after a head-viewing ceremony (ep. 3).",
+  "personality": "Timid, frightened child.",
+  "nicknames": [
+   "幸松丸",
+   "幸松丸様"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 13,
+  "first_unit": "U00056",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/毛利幸松丸",
+   "https://en.wikipedia.org/wiki/Mōri_Kōmatsumaru"
+  ]
+ },
+ {
+  "jp": "杉の方",
+  "en": "Lady Sugi",
+  "en_macron": "Lady Sugi",
+  "reading": "すぎのかた",
+  "reading_confidence": "game_wiki",
+  "gender": "female",
+  "gender_evidence": "Wikipedia (杉大方: female, Mouri Hiromoto's consort); script: 侍女 says 杉の方の侍女",
+  "role": "Consort of Mouri Hiromoto (in the game she became his principal wife, 正室, after Motonari's mother died: U00061) and Motonari's foster mother; leaves the words \"百万一心\" on her death (ep. 8).",
+  "personality": "Wise, caring and steady maternal figure; Motonari's trusted counsel in family matters.",
+  "nicknames": [
+   "杉の方殿",
+   "杉の方様",
+   "お杉の方"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 63,
+  "first_unit": "U00050",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/杉大方",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢",
+   "script: first line U00050 (work/source/text/units.json)",
+   "follow-up pass 2026-10-28 (reports/_followup.md)"
+  ],
+  "note": "Koei wiki writes \"Sugi no Kata\". Policy: の方 -> \"Lady X\"."
+ },
+ {
+  "jp": "藤の方",
+  "en": "Lady Fuji",
+  "en_macron": "Lady Fuji",
+  "reading": "ふじのかた",
+  "reading_confidence": "game_wiki",
+  "gender": "female",
+  "gender_evidence": "ja.wikipedia game article: 興元の正室 (wife of Okimoto); script U00056 藤殿",
+  "role": "Wife of Mouri Okimoto and mother of Komatsumaru.",
+  "personality": "Quiet, grieving widow devoted to her son.",
+  "nicknames": [
+   "藤殿 (by Lady Sugi)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 20,
+  "first_unit": "U00053",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢",
+   "script: first line U00053 (work/source/text/units.json)"
+  ],
+  "note": "Historical woman (Okimoto's wife existed) but \"Fuji no Kata\" is the game's name; Koei wiki \"Fuji no Kata\"."
+ },
+ {
+  "jp": "相合の方",
+  "en": "Lady Aio",
+  "en_macron": "Lady Aiō",
+  "reading": "あいおうのかた",
+  "reading_confidence": "game_wiki",
+  "gender": "female",
+  "gender_evidence": "Wikipedia (相合大方, mother of Aio Mototsuna); script: 我が息子、元綱 / 母が坂殿に",
+  "role": "Concubine of Mouri Hiromoto and mother of Aio Mototsuna; schemes with the Amago to make her son clan head.",
+  "personality": "Ambitious, manipulative mother.",
+  "nicknames": [
+   "母上 (by Mototsuna)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 18,
+  "first_unit": "U00052",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/相合大方",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢",
+   "script: first line U00052 (work/source/text/units.json)"
+  ],
+  "note": "Koei wiki writes \"Aio no Kata\"."
+ },
+ {
+  "jp": "おかた",
+  "en": "Okata",
+  "en_macron": "Okata",
+  "reading": "おかた",
+  "reading_confidence": "game_wiki",
+  "gender": "female",
+  "gender_evidence": "Wikipedia (妙玖, Motonari's wife); script: 元就の妻, gives birth (U00367)",
+  "role": "Motonari's wife (née Myo-hime, daughter of Kikkawa Kunitsune); mother of Takamoto, Kikuhime, Motoharu and Takakage; dies in 1545 (ep. 9).",
+  "personality": "Gentle, warm and supportive; strong-willed in a quiet way.",
+  "nicknames": [
+   "おかた様 (Lady Okata)",
+   "妙姫 / 妙 (Myo-hime / Myo, maiden name)",
+   "母上 (Mother, by her children)",
+   "妙の方 / お妙の方 / お妙 (profiles)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 75,
+  "first_unit": "U00371",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/妙玖",
+   "https://koei.fandom.com/wiki/Myōkyū",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢",
+   "script: first line U00371 (work/source/text/units.json)",
+   "UI gaps pass 2026-10-28 (work/translation/en/ui/reports/_gaps.md 1.8)"
+  ],
+  "note": "Historical name 妙玖 (Myokyu, posthumous Buddhist name). \"おかた\" (= \"the lady/wife\") is how the household calls her. The profiles call her 妙の方 / お妙の方 / お妙 (P0194-P0199, P0564-P0584). Whether the married wife in P0577-P0584 is \"Lady Myo\" or \"Okata\" is pending user decision I-09 (_ui_decisions.md). Profiles follow the script: \"Lady Myo\" up to the wedding (P0194-P0199, P0564-P0576), \"Okata\" for the married wife (P0577-P0583). User decision I-09 A."
+ },
+ {
+  "jp": "妙姫",
+  "en": "Lady Myo",
+  "en_macron": "Lady Myō",
+  "reading": "みょうひめ",
+  "reading_confidence": "game_wiki",
+  "gender": "female",
+  "gender_evidence": "Wikipedia (妙玖); script U00391 わが娘、妙 (Kunitsune's daughter)",
+  "role": "Maiden name of Okata, daughter of Kikkawa Kunitsune; speaker label only in ep. 2 before her marriage.",
+  "personality": "Spirited, teasing young noblewoman (\"あら、毛利の若様\").",
+  "nicknames": [
+   "妙 (Myo)",
+   "吉川家の姫様",
+   "妙の方 / お妙の方 / お妙 (profiles)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 9,
+  "first_unit": "U00385",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/妙玖",
+   "https://koei.fandom.com/wiki/Myōkyū",
+   "script: first line U00385 (work/source/text/units.json)",
+   "UI gaps pass 2026-10-28 (work/translation/en/ui/reports/_gaps.md 1.8)"
+  ],
+  "note": "Koei wiki gives \"Myōhime\"; the kanji 妙 could also be read たえ (Tae). Reading follows Koei wiki; confirm if a voiced line exists. The profiles call her 妙の方 / お妙の方 / お妙 (P0194-P0199, P0564-P0584). Whether the married wife in P0577-P0584 is \"Lady Myo\" or \"Okata\" is pending user decision I-09 (_ui_decisions.md)."
+ },
+ {
+  "jp": "菊姫",
+  "en": "Lady Kiku",
+  "en_macron": "Lady Kiku",
+  "reading": "きくひめ",
+  "reading_confidence": "game_wiki",
+  "gender": "female",
+  "gender_evidence": "Script: 姫; U01415 嫁 (bride) of Shishido Takaie; おかた calls her a daughter (U00941)",
+  "role": "Motonari's daughter; marries Shishido Takaie, Kunishi Motosuke or Kodama Naritada depending on story branch (U01415-U01418).",
+  "personality": "Cheerful, dutiful daughter who accepts a political marriage with good grace.",
+  "nicknames": [
+   "菊 (Kiku)",
+   "菊姫様"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 17,
+  "first_unit": "U01209",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/五龍局",
+   "https://en.wikipedia.org/wiki/Lady_Goryū",
+   "script: first line U01209 (work/source/text/units.json)"
+  ],
+  "note": "Loosely based on Goryu no Tsubone (real name Shin), wife of Shishido Takaie; \"Kikuhime\" is the game's name (Koei wiki: Kikuhime)."
+ },
+ {
+  "jp": "隆元の妻",
+  "en": "Takamoto's Wife",
+  "en_macron": "Takamoto's Wife",
+  "reading": "たかもとのつま",
+  "reading_confidence": "wikipedia",
+  "gender": "female",
+  "gender_evidence": "Script: 武士の妻 (U02434); 隆元の妻 label",
+  "role": "Wife of Mouri Takamoto and mother of Terumoto; daughter of Naito Okimori, adopted by Ouchi Yoshitaka (Ozaki no Tsubone).",
+  "personality": "Resolute samurai wife (\"私は泣きませぬ\") and protective mother.",
+  "nicknames": [
+   "母上 (by Terumoto)",
+   "奥方様"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 28,
+  "first_unit": "U02434",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/尾崎局"
+  ],
+  "note": "Historical: Ozaki no Tsubone (尾崎局)."
+ },
+ {
+  "jp": "元春の妻",
+  "en": "Motoharu's Wife",
+  "en_macron": "Motoharu's Wife",
+  "reading": "もとはるのつま",
+  "reading_confidence": "wikipedia",
+  "gender": "female",
+  "gender_evidence": "Script: 元春の妻 label; mother of Hiroie (U03884)",
+  "role": "Wife of Kikkawa Motoharu (daughter of Kumagai Nobunao) and mother of Hiroie.",
+  "personality": "Worrier who frets about her reckless husband; doting mother.",
+  "nicknames": [
+   "母上 (by Hiroie)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 20,
+  "first_unit": "U02716",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/新庄局"
+  ],
+  "note": "Historical: Shinjo no Tsubone (新庄局)."
+ },
+ {
+  "jp": "隆景の妻",
+  "en": "Takakage's Wife",
+  "en_macron": "Takakage's Wife",
+  "reading": "たかかげのつま",
+  "reading_confidence": "wikipedia",
+  "gender": "female",
+  "gender_evidence": "Script: 隆景の妻 label; Wikipedia 問田大方",
+  "role": "Wife of Kobayakawa Takakage.",
+  "personality": "Curious, refined lady who wonders about her husband's books.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 27,
+  "first_unit": "U02733",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/問田大方",
+   "https://en.wikipedia.org/wiki/Lady_Toida",
+   "https://koei.fandom.com/wiki/Lady_Toida"
+  ],
+  "note": "Historical: Toida no Okata (問田大方)."
+ },
+ {
+  "jp": "相合元綱",
+  "en": "Aio Mototsuna",
+  "en_macron": "Aiō Mototsuna",
+  "reading": "あいおう もとつな",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Motonari's half-brother; pushed by his mother and the Amago into rebelling for the clan headship; defeated at the Battle of Funayama Castle (ep. 3), flees into Amago territory and is killed there by the Amago (U00945, U04568; profiles).",
+  "personality": "Brave, capable warrior who loves his brother but cannot abandon his mother and retainers; a reluctant rebel.",
+  "nicknames": [
+   "元綱様",
+   "元綱"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 45,
+  "first_unit": "U00011",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/相合元綱",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "吉川広家",
+  "en": "Kikkawa Hiroie",
+  "en_macron": "Kikkawa Hiroie",
+  "reading": "きっかわ ひろいえ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Son of Kikkawa Motoharu; replaces his father in the late game.",
+  "personality": "Headstrong boy who hates books and wants to fight like his father; grows into a dutiful commander.",
+  "nicknames": [
+   "広家"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 28,
+  "first_unit": "U04370",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/吉川広家",
+   "https://en.wikipedia.org/wiki/Kikkawa_Hiroie",
+   "https://koei.fandom.com/wiki/Hiroie_Kikkawa",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "志道広良",
+  "en": "Shiji Hiroyoshi",
+  "en_macron": "Shiji Hiroyoshi",
+  "reading": "しじ ひろよし",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Senior Mouri retainer (karo) and tactician; Kuchiba Michiyoshi's elder brother; dies after Itsukushima leaving his son Hirotada.",
+  "personality": "Cautious, wise veteran advisor; calm voice of counsel.",
+  "nicknames": [
+   "志道殿",
+   "志道",
+   "広良",
+   "父上 (by Hirotada)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 152,
+  "first_unit": "U00009",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/志道広良",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "口羽通良",
+  "en": "Kuchiba Michiyoshi",
+  "en_macron": "Kuchiba Michiyoshi",
+  "short": "Michiyoshi",
+  "reading": "くちば みちよし",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Mouri retainer, younger brother of Shiji Hiroyoshi; runs intelligence through the ninja Seki Masakiyo; later Motoharu's aide.",
+  "personality": "Level-headed, practical intelligence officer.",
+  "nicknames": [
+   "口羽殿",
+   "通良",
+   "口羽様"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 152,
+  "first_unit": "U00065",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/口羽通良",
+   "https://en.wikipedia.org/wiki/Kuchiba_Michiyoshi",
+   "https://koei.fandom.com/wiki/Michiyoshi_Kuchiba",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "福原広俊",
+  "en": "Fukubara Hirotoshi",
+  "en_macron": "Fukubara Hirotoshi",
+  "short": "Hirotoshi",
+  "reading": "ふくばら ひろとし",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Senior Mouri retainer and Motonari's maternal grandfather; dies in ep. 4, entrusting the dream of unifying Aki.",
+  "personality": "Steady, staunch elder who refuses to retire.",
+  "nicknames": [
+   "福原殿",
+   "福原",
+   "広俊"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 59,
+  "first_unit": "U00008",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/福原広俊",
+   "https://en.wikipedia.org/wiki/Fukubara_Hirotoshi",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ],
+  "note": "The ja.wikipedia game article reads ふくはら; the person article reads ふくばら (used here)."
+ },
+ {
+  "jp": "福原貞俊",
+  "en": "Fukubara Sadatoshi",
+  "en_macron": "Fukubara Sadatoshi",
+  "short": "Sadatoshi",
+  "reading": "ふくばら さだとし",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Son of Fukubara Hirotoshi; succeeds him in ep. 4 and serves to the end as a senior general.",
+  "personality": "Loyal, steady and dependable.",
+  "nicknames": [
+   "貞俊",
+   "福原様"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 137,
+  "first_unit": "U01124",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/福原貞俊",
+   "https://en.wikipedia.org/wiki/Fukubara_Sadatoshi",
+   "https://koei.fandom.com/wiki/Sadatoshi_Fukuhara",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "志道広忠",
+  "en": "Shiji Hirotada",
+  "en_macron": "Shiji Hirotada",
+  "reading": "しじ ひろただ",
+  "reading_confidence": "game_wiki",
+  "gender": "male",
+  "gender_evidence": "Script U03266-7: calls Hiroyoshi 父上, introduced as 子の広忠 (his son)",
+  "role": "Son and successor of Shiji Hiroyoshi (from ep. 13); senior Mouri retainer under Terumoto.",
+  "personality": "Dutiful, formal staff officer.",
+  "nicknames": [
+   "広忠"
+  ],
+  "historical": false,
+  "speaking": true,
+  "lines": 63,
+  "first_unit": "U03266",
+  "sources": [
+   "https://koei.fandom.com/wiki/Mouri_Motonari:_Chikai_no_Sanshi (Koei Wiki game page lists \"Hirotada Shiji\")",
+   "script: first line U03266 (work/source/text/units.json)"
+  ],
+  "note": "No Wikipedia article. Hiroyoshi's historical heir was his grandson Shiji Motoyasu (志道元保); \"Hirotada\" appears to be the game's figure."
+ },
+ {
+  "jp": "児玉就忠",
+  "en": "Kodama Naritada",
+  "en_macron": "Kodama Naritada",
+  "reading": "こだま なりただ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Mouri retainer and cavalry commander from Motonari's first battle; may marry Kikuhime in one branch.",
+  "personality": "Bold and eager to the point of recklessness (Motonari: 猪突しすぎる); emotional (sheds tears of joy).",
+  "nicknames": [
+   "就忠"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 72,
+  "first_unit": "U00071",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/児玉就忠",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "児玉就方",
+  "en": "Kodama Narikata",
+  "en_macron": "Kodama Narikata",
+  "reading": "こだま なりかた",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Younger brother of Kodama Naritada; Mouri retainer and later navy commander.",
+  "personality": "Taciturn; speaks haltingly with long pauses; good-natured.",
+  "nicknames": [
+   "就方"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 29,
+  "first_unit": "U00916",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/児玉就方",
+   "https://koei.fandom.com/wiki/Narikata_Kodama"
+  ]
+ },
+ {
+  "jp": "児玉元良",
+  "en": "Kodama Motoyoshi",
+  "en_macron": "Kodama Motoyoshi",
+  "reading": "こだま もとよし",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Son of Kodama Naritada; joins in ep. 18.",
+  "personality": "Cocky, eager young officer (\"父の倍は働いて見せましょう\").",
+  "nicknames": [
+   "元良"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 39,
+  "first_unit": "U04626",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/児玉元良"
+  ]
+ },
+ {
+  "jp": "国司元相",
+  "en": "Kunishi Motosuke",
+  "en_macron": "Kunishi Motosuke",
+  "reading": "くにし もとすけ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Mouri retainer leading the archers; may marry Kikuhime in one branch; retires before ep. 18 in favour of his son Mototake.",
+  "personality": "Calm, thoughtful and learned archer; physically frail (U01417).",
+  "nicknames": [
+   "国司殿",
+   "国司"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 72,
+  "first_unit": "U00071",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/国司元相",
+   "https://en.wikipedia.org/wiki/Kunishi_Motosuke",
+   "https://koei.fandom.com/wiki/Motosuke_Kunishi",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "国司元武",
+  "en": "Kunishi Mototake",
+  "en_macron": "Kunishi Mototake",
+  "reading": "くにし もとたけ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Son of Kunishi Motosuke; archer officer from ep. 18.",
+  "personality": "Earnest and disciplined.",
+  "nicknames": [
+   "元武"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 30,
+  "first_unit": "U04626",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/国司元武"
+  ]
+ },
+ {
+  "jp": "飯田義武",
+  "en": "Iida Yoshitake",
+  "en_macron": "Iida Yoshitake",
+  "reading": "いいだ よしたけ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Mouri retainer commanding the infantry/spear corps.",
+  "personality": "Practical, stern old soldier.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 71,
+  "first_unit": "U00071",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/飯田義武",
+   "https://en.wikipedia.org/wiki/Iida_Yoshitake",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "桂広澄",
+  "en": "Katsura Hirozumi",
+  "en_macron": "Katsura Hirozumi",
+  "reading": "かつら ひろずみ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Mouri retainer who backs Aio Mototsuna for clan head; father of Katsura Motozumi.",
+  "personality": "Opinionated and distrustful of the untested Motonari.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 16,
+  "first_unit": "U00064",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/桂広澄",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "桂元澄",
+  "en": "Katsura Motozumi",
+  "en_macron": "Katsura Motozumi",
+  "reading": "かつら もとずみ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Son of Katsura Hirozumi; sides with Mototsuna but is won over by Motonari; key in the Itsukushima deception (false pledge to Sue).",
+  "personality": "Loyal, well-informed and reliable; a little wry.",
+  "nicknames": [
+   "桂殿"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 55,
+  "first_unit": "U00365",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/桂元澄",
+   "https://en.wikipedia.org/wiki/Katsura_Motozumi",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "坂広秀",
+  "en": "Saka Hirohide",
+  "en_macron": "Saka Hirohide",
+  "reading": "さか ひろひで",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Mouri retainer who conspires with the Amago (via Kamei Hidetsuna) to install Mototsuna; killed in ep. 3.",
+  "personality": "Scheming, stubborn partisan of Mototsuna.",
+  "nicknames": [
+   "坂殿",
+   "坂"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 39,
+  "first_unit": "U00013",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/坂広秀",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "渡辺勝",
+  "en": "Watanabe Suguru",
+  "en_macron": "Watanabe Suguru",
+  "reading": "わたなべ すぐる",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Mouri retainer who supports Mototsuna; father of Watanabe Kayo (Toraichi).",
+  "personality": "Proud warrior who values Mototsuna's valor; loving father.",
+  "nicknames": [
+   "渡辺勝殿"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 14,
+  "first_unit": "U00012",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/渡辺勝_(戦国武将)",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "渡辺通",
+  "en": "Watanabe Kayo",
+  "en_macron": "Watanabe Kayō",
+  "reading": "わたなべ かよう",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Son of Watanabe Suguru (childhood name Toraichi), raised by Yamanouchi Takamichi; dies covering Motonari's retreat from Izumo (ep. 7).",
+  "personality": "Self-sacrificing and loyal, eager to restore his father's name.",
+  "nicknames": [
+   "虎市 (Toraichi, childhood)",
+   "虎市丸 (Toraichimaru, childhood name)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 13,
+  "first_unit": "U01707",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/渡辺通_(武将)",
+   "https://koei.fandom.com/wiki/Kayō_Watanabe",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢",
+   "UI gaps pass 2026-10-28 (work/translation/en/ui/reports/_gaps.md 1.8)"
+  ],
+  "note": "Reading かよう per Wikipedia person article and Koei wiki (\"Kayō\"); the ja.wikipedia game article and Wikipedia also give とおる (Toru). Childhood name 虎市丸 \"Toraichimaru\" in the profiles (P0638-P0640)."
+ },
+ {
+  "jp": "乃美宗勝",
+  "en": "Nomi Munekatsu",
+  "en_macron": "Nomi Munekatsu",
+  "reading": "のみ むねかつ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Kobayakawa retainer and navy commander; key to the Itsukushima naval plan.",
+  "personality": "Earnest, practical naval officer.",
+  "nicknames": [
+   "乃美殿"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 72,
+  "first_unit": "U01918",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/乃美宗勝",
+   "https://en.wikipedia.org/wiki/Nomi_Munekatsu",
+   "https://koei.fandom.com/wiki/Munekatsu_Nomi",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "世鬼政清",
+  "en": "Seki Masakiyo",
+  "en_macron": "Seki Masakiyo",
+  "reading": "せき まさきよ",
+  "reading_confidence": "game_wiki",
+  "gender": "male",
+  "gender_evidence": "Script: Hotaru calls him 父上 and is 世鬼政清の娘 (U05159, U05418)",
+  "role": "Mouri ninja chief recruited via Kuchiba Michiyoshi (ep. 2); foster father of the kunoichi Hotaru.",
+  "personality": "Quiet, devoted and ruthless when duty demands; protective of Hotaru.",
+  "nicknames": [
+   "世鬼",
+   "世鬼殿",
+   "父上 (by Hotaru)"
+  ],
+  "historical": false,
+  "speaking": true,
+  "lines": 100,
+  "first_unit": "U00363",
+  "sources": [
+   "https://koei.fandom.com/wiki/Masakiyo_Seiki",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢",
+   "script: first line U00363 (work/source/text/units.json)"
+  ],
+  "note": "The Seki (世鬼) were a historical Mouri ninja family, but Masakiyo is presented as fictional (Koei wiki). Reading せき follows the ja.wikipedia game article; Koei wiki romanizes \"Seiki\"."
+ },
+ {
+  "jp": "蛍",
+  "en": "Hotaru",
+  "en_macron": "Hotaru",
+  "reading": "ほたる",
+  "reading_confidence": "game_wiki",
+  "gender": "female",
+  "gender_evidence": "Script: 世鬼の娘 (U05159), くノ一",
+  "role": "Kunoichi, foster daughter of Seki Masakiyo (found as an orphan); joins in ep. 20; Terumoto's love interest.",
+  "personality": "Devoted, brave and gentle; torn between duty as a kunoichi and her feelings for Terumoto.",
+  "nicknames": [
+   "蛍殿",
+   "世鬼の娘",
+   "あねさん (by ninja subordinates)"
+  ],
+  "historical": false,
+  "speaking": true,
+  "lines": 39,
+  "first_unit": "U05156",
+  "sources": [
+   "https://koei.fandom.com/wiki/Mouri_Motonari:_Chikai_no_Sanshi (Koei Wiki game page lists \"Hotaru\")",
+   "script: first line U05156 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "志乃",
+  "en": "Shino",
+  "en_macron": "Shino",
+  "reading": "しの",
+  "reading_confidence": "guess",
+  "gender": "female",
+  "gender_evidence": "Script U05139: 志乃という女 (Seki); 恵心 calls her お嬢さん/女子 (U04903)",
+  "role": "Young woman devoted to Yamanaka Shikanosuke; cares for his mother, later lives with him in Kyoto and bears his child.",
+  "personality": "Gentle, loyal and quietly persistent; begs Shikanosuke to give up revenge.",
+  "nicknames": [
+   "志乃殿 (by Ekei)"
+  ],
+  "historical": false,
+  "speaking": true,
+  "lines": 65,
+  "first_unit": "U03269",
+  "sources": [
+   "https://koei.fandom.com/wiki/Mouri_Motonari:_Chikai_no_Sanshi (Koei Wiki game page lists \"Shino\")",
+   "script: first line U03269 (work/source/text/units.json)"
+  ],
+  "note": "Reading しの is the standard reading; Koei wiki also gives \"Shino\"."
+ },
+ {
+  "jp": "安藤景綱",
+  "en": "Ando Kagetsuna",
+  "en_macron": "Andō Kagetsuna",
+  "reading": "あんどう かげつな",
+  "reading_confidence": "game_wiki",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker in script (uses 拙者)",
+  "role": "Ouchi officer who defects to the Amago side during the siege of Kagamiyama and then joins the Mouri as a supply (cart) unit.",
+  "personality": "Courteous, businesslike.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 7,
+  "first_unit": "U00664",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢",
+   "script: first line U00664 (work/source/text/units.json)"
+  ],
+  "note": "No Wikipedia article found; historicity unverified."
+ },
+ {
+  "jp": "天野隆重",
+  "en": "Amano Takashige",
+  "en_macron": "Amano Takashige",
+  "reading": "あまの たかしげ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Ouchi-side Aki warlord who surrenders to Motonari at Kagamiyama and joins the Mouri.",
+  "personality": "Wary, respects Motonari's ability.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 5,
+  "first_unit": "U00664",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/天野隆重",
+   "https://en.wikipedia.org/wiki/Amano_Takashige",
+   "https://koei.fandom.com/wiki/Takashige_Amano",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "熊谷信直",
+  "en": "Kumagai Nobunao",
+  "en_macron": "Kumagai Nobunao",
+  "reading": "くまがい のぶなお",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Son of Kumagai Motonao; vows revenge on Motonari, later submits and becomes Motoharu's father-in-law and a leading general.",
+  "personality": "Proud, vengeful youth who becomes a fierce, loyal veteran.",
+  "nicknames": [
+   "信直"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 55,
+  "first_unit": "U00100",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/熊谷信直",
+   "https://en.wikipedia.org/wiki/Kumagai_Nobunao",
+   "https://koei.fandom.com/wiki/Nobunao_Kumagai",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "宍戸隆家",
+  "en": "Shishido Takaie",
+  "en_macron": "Shishido Takaie",
+  "reading": "ししど たかいえ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Grandson of Shishido Motoyoshi; joins the Mouri in ep. 5 and may marry Kikuhime.",
+  "personality": "Hot-blooded and proud; resents being used, then a loyal ally.",
+  "nicknames": [
+   "隆家殿",
+   "海賊丸 (Kaizokumaru, childhood name; reading a guess)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 45,
+  "first_unit": "U01172",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/宍戸隆家",
+   "https://en.wikipedia.org/wiki/Shishido_Takaie",
+   "https://koei.fandom.com/wiki/Takaie_Shishido",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢",
+   "UI gaps pass 2026-10-28 (work/translation/en/ui/reports/_gaps.md 1.8)"
+  ],
+  "note": "Childhood name 海賊丸 \"Kaizokumaru\" (P0314-P0318); the reading かいぞくまる is a guess."
+ },
+ {
+  "jp": "香川光景",
+  "en": "Kagawa Mitsukage",
+  "en_macron": "Kagawa Mitsukage",
+  "reading": "かがわ みつかげ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Aki Takeda vassal (Yagi Castle) who later joins the Mouri.",
+  "personality": "Confident veteran.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 16,
+  "first_unit": "U00100",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/香川光景"
+  ]
+ },
+ {
+  "jp": "己斐直之",
+  "en": "Koi Naoyuki",
+  "en_macron": "Koi Naoyuki",
+  "reading": "こい なおゆき",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Aki Takeda vassal (Koi Castle); later sides with Sue and is persuaded to join the Mouri (ep. 11).",
+  "personality": "",
+  "nicknames": [
+   "直之殿"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 8,
+  "first_unit": "U00100",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/己斐直之"
+  ]
+ },
+ {
+  "jp": "村上武吉",
+  "en": "Murakami Takeyoshi",
+  "en_macron": "Murakami Takeyoshi",
+  "short": "Takeyoshi",
+  "reading": "むらかみ たけよし",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Leader of the Noshima Murakami pirates (Murakami navy); joins the Mouri at Itsukushima; later on the enemy side in ep. 21.",
+  "personality": "Rough-talking, battle-loving pirate who hates Sue for banning his tolls.",
+  "nicknames": [
+   "村上",
+   "村上の旦那 (boss Murakami, by pirates)",
+   "武吉"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 28,
+  "first_unit": "U02980",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/村上武吉",
+   "https://en.wikipedia.org/wiki/Murakami_Takeyoshi",
+   "https://koei.fandom.com/wiki/Takeyoshi_Murakami",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "来島通康",
+  "en": "Kurushima Michiyasu",
+  "en_macron": "Kurushima Michiyasu",
+  "short": "Michiyasu",
+  "reading": "くるしま みちやす",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Kurushima pirate leader allied to the Mouri at Itsukushima; father of Michifusa.",
+  "personality": "Rough but more level-headed than Murakami.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 6,
+  "first_unit": "U02977",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/村上通康"
+  ],
+  "note": "Wikipedia lists him as Murakami Michiyasu; game uses the Kurushima surname."
+ },
+ {
+  "jp": "来島通総",
+  "en": "Kurushima Michifusa",
+  "en_macron": "Kurushima Michifusa",
+  "short": "Michifusa",
+  "reading": "くるしま みちふさ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Son of Kurushima Michiyasu; pledges loyalty to the Mouri (ep. 18).",
+  "personality": "Polite, earnest young lord.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 22,
+  "first_unit": "U04641",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/来島通総",
+   "https://en.wikipedia.org/wiki/Kurushima_Michifusa"
+  ]
+ },
+ {
+  "jp": "村上吉充",
+  "en": "Murakami Yoshimitsu",
+  "en_macron": "Murakami Yoshimitsu",
+  "short": "Yoshimitsu",
+  "reading": "むらかみ よしみつ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Innoshima Murakami leader under the Kobayakawa; defends his fort in ep. 8 and joins the Mouri.",
+  "personality": "",
+  "nicknames": [
+   "村上吉充殿"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 6,
+  "first_unit": "U02098",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/村上吉充",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "三吉隆亮",
+  "en": "Miyoshi Takasuke",
+  "en_macron": "Miyoshi Takasuke",
+  "reading": "みよし たかすけ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Bingo warlord, lord of Hiebiyama Castle; joins the Mouri in ep. 8.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 5,
+  "first_unit": "U01704",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/三吉隆亮",
+   "https://koei.fandom.com/wiki/Takasuke_Miyoshi"
+  ]
+ },
+ {
+  "jp": "山内隆通",
+  "en": "Yamanouchi Takamichi",
+  "en_macron": "Yamanouchi Takamichi",
+  "short": "Takamichi",
+  "reading": "やまのうち たかみち",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Bingo warlord, lord of Koyama Castle; foster guardian of Watanabe Kayo; joins the Mouri (ep. 10).",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 4,
+  "first_unit": "U01703",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/山内隆通"
+  ],
+  "note": "甲山城 is Koyama (こうやま), as in terms.json and the script (U00861, U01703, U02663); the role text said \"Konoyama\" until 2026-10-27."
+ },
+ {
+  "jp": "平賀広相",
+  "en": "Hiraga Hirosuke",
+  "en_macron": "Hiraga Hirosuke",
+  "reading": "ひらが ひろすけ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Aki warlord who reluctantly follows his main house and submits to the Mouri (ep. 10).",
+  "personality": "Reluctant to fight Motonari.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 3,
+  "first_unit": "U02638",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/平賀広相",
+   "https://en.wikipedia.org/wiki/Hiraga_Hirosuke"
+  ]
+ },
+ {
+  "jp": "阿曽沼広秀",
+  "en": "Asonuma Hirohide",
+  "en_macron": "Asonuma Hirohide",
+  "reading": "あそぬま ひろひで",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Aki warlord who submits to Takamoto (ep. 10).",
+  "personality": "Distrusts Sue Harukata.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 3,
+  "first_unit": "U02638",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/阿曽沼広秀"
+  ]
+ },
+ {
+  "jp": "清水宗治",
+  "en": "Shimizu Muneharu",
+  "en_macron": "Shimizu Muneharu",
+  "reading": "しみず むねはる",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Lord of Bitchu-Takamatsu Castle, Mouri ally under Terumoto; defends Takamatsu against Hideyoshi.",
+  "personality": "Loyal, upright and self-sacrificing.",
+  "nicknames": [
+   "宗治殿"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 22,
+  "first_unit": "U05422",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/清水宗治",
+   "https://en.wikipedia.org/wiki/Shimizu_Muneharu",
+   "https://koei.fandom.com/wiki/Muneharu_Shimizu"
+  ]
+ },
+ {
+  "jp": "安国寺恵瓊",
+  "en": "Ankokuji Ekei",
+  "en_macron": "Ankokuji Ekei",
+  "reading": "あんこくじ えけい",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Son of Takeda Nobushige (childhood name Takewakamaru), raised at Ankokuji; becomes the Mouri diplomatic monk.",
+  "personality": "Polite, perceptive and persuasive monk-diplomat.",
+  "nicknames": [
+   "竹若丸 (Takewakamaru, childhood)",
+   "恵瓊殿"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 115,
+  "first_unit": "U02395",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/安国寺恵瓊",
+   "https://en.wikipedia.org/wiki/Ankokuji_Ekei",
+   "https://koei.fandom.com/wiki/Ekei_Ankokuji",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "竹若丸",
+  "en": "Takewakamaru",
+  "en_macron": "Takewakamaru",
+  "reading": "たけわかまる",
+  "reading_confidence": "game_wiki",
+  "gender": "male",
+  "gender_evidence": "Wikipedia (Ankokuji Ekei); script: 武田信重 calls him お前/竹若丸 and he calls Nobushige 父上",
+  "role": "Childhood name of Ankokuji Ekei, son of Takeda Nobushige (ep. 6-7).",
+  "personality": "Anxious, grieving boy who vows revenge for his father.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 12,
+  "first_unit": "U01428",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/安国寺恵瓊",
+   "https://en.wikipedia.org/wiki/Ankokuji_Ekei",
+   "https://koei.fandom.com/wiki/Ekei_Ankokuji",
+   "script: first line U01428 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "平造",
+  "en": "Heizo",
+  "en_macron": "Heizō",
+  "reading": "へいぞう",
+  "reading_confidence": "game_wiki",
+  "gender": "male",
+  "gender_evidence": "Script U00237: 長男の名前は平造 (eldest son); 親父 (his father)",
+  "role": "Bandit chief who once tried to rob Motonari; reforms after his father's death and joins the Mouri (bandit unit).",
+  "personality": "Rough exterior, soft heart (a villager calls him 心やさしい); remorseful son.",
+  "nicknames": [
+   "兄弟 (by Kunitomi Ryuzo)",
+   "平造様"
+  ],
+  "historical": false,
+  "speaking": true,
+  "lines": 109,
+  "first_unit": "U00395",
+  "sources": [
+   "https://koei.fandom.com/wiki/Heizō",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢",
+   "script: first line U00395 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "国富隆造",
+  "en": "Kunitomi Ryuzo",
+  "en_macron": "Kunitomi Ryūzō",
+  "reading": "くにとみ りゅうぞう",
+  "reading_confidence": "game_wiki",
+  "gender": "male",
+  "gender_evidence": "Script: 義兄弟 (sworn brother) of Heizo; 俺様",
+  "role": "Amago-side bandit leader who attacks the retreating Mouri, then submits to Motonari (ep. 7).",
+  "personality": "Swaggering, rough bandit who is cowed by Motonari's presence.",
+  "nicknames": [
+   "兄弟 (by Heizo)"
+  ],
+  "historical": false,
+  "speaking": true,
+  "lines": 84,
+  "first_unit": "U01868",
+  "sources": [
+   "https://koei.fandom.com/wiki/Ryūzō_Kunitomi",
+   "script: first line U01868 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "長介",
+  "en": "Chosuke",
+  "en_macron": "Chōsuke",
+  "reading": "ちょうすけ",
+  "reading_confidence": "game_wiki",
+  "gender": "male",
+  "gender_evidence": "Script U03608: この長介という男",
+  "role": "Hapless courier who keeps losing money to bandits; joins as the supply (cart) unit leader (ep. 14).",
+  "personality": "Timid, apologetic, endlessly borrowing money; grateful.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 252,
+  "first_unit": "U03608",
+  "sources": [
+   "https://koei.fandom.com/wiki/Chōsuke",
+   "script: first line U03608 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "蘭",
+  "en": "Ran",
+  "en_macron": "Ran",
+  "reading": "らん",
+  "reading_confidence": "game_wiki",
+  "gender": "female",
+  "gender_evidence": "Script U01785: くノ一の蘭 (kunoichi = female ninja)",
+  "role": "Kunoichi who joins in ep. 7 after proving her skill.",
+  "personality": "Proud and confident; insists on being trusted.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 116,
+  "first_unit": "U01785",
+  "sources": [
+   "https://koei.fandom.com/wiki/Mouri_Motonari:_Chikai_no_Sanshi (Koei Wiki game page lists \"Ran\")",
+   "script: first line U01785 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "斉藤辰美",
+  "en": "Saito Tatsuyoshi",
+  "en_macron": "Saitō Tatsuyoshi",
+  "reading": "さいとう たつよし",
+  "reading_confidence": "game_wiki",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker in script (uses 拙者/私)",
+  "role": "Ronin swordsman fighting for the Ouchi for a post; spared by Motonari when his sword breaks and joins the Mouri (ep. 4).",
+  "personality": "Honourable, plain-spoken ronin who enjoys a drink.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 25,
+  "first_unit": "U01127",
+  "sources": [
+   "https://koei.fandom.com/wiki/Mouri_Motonari:_Chikai_no_Sanshi (Koei Wiki game page lists \"Tatsuyoshi Saitō\")",
+   "script: first line U01127 (work/source/text/units.json)"
+  ],
+  "note": "Reading follows Koei wiki; 辰美 could also be read たつみ (Tatsumi)."
+ },
+ {
+  "jp": "和田与一",
+  "en": "Wada Yaichi",
+  "en_macron": "Wada Yaichi",
+  "reading": "わだ やいち",
+  "reading_confidence": "game_wiki",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker in script",
+  "role": "Free-spirited ronin met at a tavern; drinking companion of Saito Tatsuyoshi; joins the Mouri (ep. 12; his profile tags it ep. 11).",
+  "personality": "Easygoing, independent; dislikes serving any faction.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 22,
+  "first_unit": "U03089",
+  "sources": [
+   "https://koei.fandom.com/wiki/Mouri_Motonari:_Chikai_no_Sanshi (Koei Wiki game page lists \"Yaichi Wada\")",
+   "script: first line U03089 (work/source/text/units.json)"
+  ],
+  "note": "Reading follows Koei wiki (\"Yaichi\"); 与一 is more usually よいち (Yoichi)."
+ },
+ {
+  "jp": "斉栄",
+  "en": "Saiei",
+  "en_macron": "Saiei",
+  "reading": "さいえい",
+  "reading_confidence": "guess",
+  "gender": "male",
+  "gender_evidence": "Script U02752/U02858: his late wife and children (妻子)",
+  "role": "Warrior monk (僧兵) drinking at the temple after losing his family; joins in ep. 11.",
+  "personality": "Grief-stricken, withdrawn, drowning his sorrows; finds purpose again.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 33,
+  "first_unit": "U02751",
+  "sources": [
+   "https://koei.fandom.com/wiki/Mouri_Motonari:_Chikai_no_Sanshi (Koei Wiki game page lists \"Sai'ie\")",
+   "script: first line U02751 (work/source/text/units.json)"
+  ],
+  "note": "Koei wiki gives \"Sai'ie\", which does not match a natural reading of 斉栄; さいえい chosen. Unresolved."
+ },
+ {
+  "jp": "響四郎",
+  "en": "Kyoshiro",
+  "en_macron": "Kyōshirō",
+  "reading": "きょうしろう",
+  "reading_confidence": "game_wiki",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker in script",
+  "role": "Failed armorer who plays his late father's flute; joins as the drum-and-fife (musician) unit after Motonari recovers the flute (ep. 11).",
+  "personality": "Self-doubting, humble; cheerful once given purpose.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 48,
+  "first_unit": "U02758",
+  "sources": [
+   "https://koei.fandom.com/wiki/Mouri_Motonari:_Chikai_no_Sanshi (Koei Wiki game page lists \"Kyōshirō\")",
+   "script: first line U02758 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "野尻基助",
+  "en": "Nojiri Motosuke",
+  "en_macron": "Nojiri Motosuke",
+  "reading": "のじり もとすけ",
+  "reading_confidence": "game_wiki",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker in script",
+  "role": "Ninja leader protecting Kannabe's castle town; persuaded by Seki to stand down (ep. 9).",
+  "personality": "Weary of war, protective of commoners.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 4,
+  "first_unit": "U02359",
+  "sources": [
+   "https://koei.fandom.com/wiki/Mouri_Motonari:_Chikai_no_Sanshi (Koei Wiki game page lists \"Motosuke Nojiri\")",
+   "https://flier8000.xsrv.jp/mouri/html/09.html (calls him 架空の人物, fictional)",
+   "script: first line U02359 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "正木健一郎",
+  "en": "Masaki Kenichiro",
+  "en_macron": "Masaki Kenichirō",
+  "reading": "まさき けんいちろう",
+  "reading_confidence": "game_wiki",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker in script",
+  "role": "Leader of the Bungo Masaki pirates hired by the Otomo; joins the Mouri (ep. 14). Source conflict: profile P0448 says 豊後水軍 (Bungo navy), his own battle line I0335 says 豊前海賊 (Buzen pirates).",
+  "personality": "Gruff, sardonic pirate.",
+  "nicknames": [
+   "正木"
+  ],
+  "historical": false,
+  "speaking": true,
+  "lines": 3,
+  "first_unit": "U03802",
+  "sources": [
+   "https://koei.fandom.com/wiki/Mouri_Motonari:_Chikai_no_Sanshi (Koei Wiki game page lists \"Kenichirō Masaki\")",
+   "script: first line U03802 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "土谷幽覚",
+  "en": "Tsuchiya Yukaku",
+  "en_macron": "Tsuchiya Yūkaku",
+  "reading": "つちや ゆうかく",
+  "reading_confidence": "guess",
+  "gender": "male",
+  "gender_evidence": "Script U04877: caption 村に青年が捕らわれていた (a young man), followed by his own line U04878.",
+  "role": "Travelling entertainer held captive by pirates in Iyo; freed and joins (ep. 18).",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 2,
+  "first_unit": "U04867",
+  "sources": [
+   "https://koei.fandom.com/wiki/Mouri_Motonari:_Chikai_no_Sanshi (Koei Wiki game page lists \"Yuugen Tsuchiya\" (does not match 幽覚))",
+   "script: first line U04867 (work/source/text/units.json)",
+   "follow-up pass 2026-10-28 (reports/_followup.md)"
+  ],
+  "note": "Koei wiki reading conflicts; ゆうかく chosen as the standard reading of 幽覚."
+ },
+ {
+  "jp": "穂村忠重",
+  "en": "Homura Tadashige",
+  "en_macron": "Homura Tadashige",
+  "reading": "ほむら ただしげ",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker in script",
+  "role": "Apothecary (薬師) helped by Heizo; joins the workshop.",
+  "personality": "Grateful, admires Heizo.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 35,
+  "first_unit": "U01504",
+  "sources": [
+   "script: first line U01504 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "関義信",
+  "en": "Seki Yoshinobu",
+  "en_macron": "Seki Yoshinobu",
+  "reading": "せき よしのぶ",
+  "reading_confidence": "guess",
+  "gender": "male",
+  "gender_evidence": "Script U01024: 弓匠の関義信という男",
+  "role": "Craftsman (bowyer 弓匠) recruitable for the workshop. Met at the Ogurayama market.",
+  "personality": "Honest, grateful; borrows 500 gold from Motonari and later repays it with interest.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 190,
+  "first_unit": "U00511",
+  "sources": [
+   "script: first line U00511 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "伊木尋長",
+  "en": "Igi Hironaga",
+  "en_macron": "Igi Hironaga",
+  "reading": "いぎ ひろなが",
+  "reading_confidence": "guess",
+  "gender": "male",
+  "gender_evidence": "Script U01051: 伊木尋長という男",
+  "role": "Craftsman (bowyer 弓匠) recruitable for the workshop.",
+  "personality": "Skilled bowyer who drinks to pass the time; will join only alongside Seki Yoshinobu.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 48,
+  "first_unit": "U01021",
+  "sources": [
+   "script: first line U01021 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "村田三十郎",
+  "en": "Murata Sanjuro",
+  "en_macron": "Murata Sanjūrō",
+  "reading": "むらた さんじゅうろう",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (bowyer 弓匠) recruitable for the workshop.",
+  "personality": "Believes tactics start with shogi; tests Motonari by having him beat his father at shogi.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 85,
+  "first_unit": "U01716",
+  "sources": [
+   "script: first line U01716 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "猪垣三郎太",
+  "en": "Igaki Saburota",
+  "en_macron": "Igaki Saburōta",
+  "reading": "いがき さぶろうた",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (bowyer 弓匠) recruitable for the workshop.",
+  "personality": "Fugitive from harsh Amago employment; desperate, grateful.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 18,
+  "first_unit": "U00210",
+  "sources": [
+   "script: first line U00210 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "小島善兵衛",
+  "en": "Kojima Zenbei",
+  "en_macron": "Kojima Zenbei",
+  "reading": "こじま ぜんべえ",
+  "reading_confidence": "guess",
+  "gender": "male",
+  "gender_evidence": "Script U04960: この男 (said of him)",
+  "role": "Craftsman (bowyer 弓匠) recruitable for the workshop.",
+  "personality": "Earnest worker; appears once with amnesia.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 74,
+  "first_unit": "U04954",
+  "sources": [
+   "script: first line U04954 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "九門村重",
+  "en": "Kumon Murashige",
+  "en_macron": "Kumon Murashige",
+  "reading": "くもん むらしげ",
+  "reading_confidence": "guess",
+  "gender": "male",
+  "gender_evidence": "Script U04483: 九門村重という男; 俺",
+  "role": "Craftsman (ninja-tool maker 忍具匠) recruitable for the workshop.",
+  "personality": "Embittered and distrustful after a falling-out with his master; taciturn; reconciles once the misunderstanding is cleared.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 177,
+  "first_unit": "U04382",
+  "sources": [
+   "script: first line U04382 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "石山越忠",
+  "en": "Ishiyama Etsutada",
+  "en_macron": "Ishiyama Etsutada",
+  "short": "Etsutada",
+  "reading": "いしやま えつただ",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (ninja-tool maker 忍具匠) recruitable for the workshop.",
+  "personality": "Loyal to his mentor, the swordsmith Okura Shinnoshin.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 60,
+  "first_unit": "U00184",
+  "sources": [
+   "script: first line U00184 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "百舌鳥一草",
+  "en": "Mozu Isso",
+  "en_macron": "Mozu Issō",
+  "reading": "もず いっそう",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (ninja-tool maker 忍具匠) recruitable for the workshop.",
+  "personality": "Wants to serve a charismatic, righteous leader; follows Motonari's good deeds.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 39,
+  "first_unit": "U01985",
+  "sources": [
+   "script: first line U01985 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "手島松吾",
+  "en": "Teshima Shogo",
+  "en_macron": "Teshima Shōgo",
+  "reading": "てしま しょうご",
+  "reading_confidence": "guess",
+  "gender": "male",
+  "gender_evidence": "Script U03394: 息子の手島松吾 (her son)",
+  "role": "Craftsman (gunsmith 鉄砲鍛冶) recruitable for the workshop.",
+  "personality": "Struggling gunsmith too ashamed to go home; moved by his mother's letter.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 140,
+  "first_unit": "U03328",
+  "sources": [
+   "script: first line U03328 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "竹間貞国",
+  "en": "Takema Sadakuni",
+  "en_macron": "Takema Sadakuni",
+  "reading": "たけま さだくに",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (gunsmith 鉄砲鍛冶) recruitable for the workshop.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 24,
+  "first_unit": "U02468",
+  "sources": [
+   "script: first line U02468 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "徳俵米造",
+  "en": "Tokudawara Yonezo",
+  "en_macron": "Tokudawara Yonezō",
+  "short": "Yonezo",
+  "reading": "とくだわら よねぞう",
+  "reading_confidence": "guess",
+  "gender": "male",
+  "gender_evidence": "Script U03602: 長男の私 (eldest son)",
+  "role": "Craftsman (gunsmith 鉄砲鍛冶) recruitable for the workshop.",
+  "personality": "Farmer's eldest son torn between family duty and his dream of gunsmithing.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 47,
+  "first_unit": "U03602",
+  "sources": [
+   "script: first line U03602 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "米倉与六",
+  "en": "Yonekura Yoroku",
+  "en_macron": "Yonekura Yoroku",
+  "reading": "よねくら よろく",
+  "reading_confidence": "guess",
+  "gender": "male",
+  "gender_evidence": "Script U04700: あのときの、男の子か",
+  "role": "Craftsman (gunsmith 鉄砲鍛冶) recruitable for the workshop.",
+  "personality": "Grateful; the boy who once worked at the workshop, now a qualified gunsmith.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 55,
+  "first_unit": "U04699",
+  "sources": [
+   "script: first line U04699 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "津田余市",
+  "en": "Tsuda Yoichi",
+  "en_macron": "Tsuda Yoichi",
+  "reading": "つだ よいち",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (cannon maker 大砲工) recruitable for the workshop.",
+  "personality": "Proud of his cannons; borrows 500 gold early on.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 110,
+  "first_unit": "U00787",
+  "sources": [
+   "script: first line U00787 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "雪見風綱",
+  "en": "Yukimi Kazetsuna",
+  "en_macron": "Yukimi Kazetsuna",
+  "reading": "ゆきみ かぜつな",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (cannon maker 大砲工) recruitable for the workshop.",
+  "personality": "Proud of his skill and haggles over his fee, then admits he badly needs work.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 100,
+  "first_unit": "U04128",
+  "sources": [
+   "script: first line U04128 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "大蔵真之進",
+  "en": "Okura Shinnoshin",
+  "en_macron": "Ōkura Shinnoshin",
+  "reading": "おおくら しんのしん",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (swordsmith 刀工師) recruitable for the workshop.",
+  "personality": "Confident in his skill; mentor of Ishiyama Etsutada.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 20,
+  "first_unit": "U00180",
+  "sources": [
+   "script: first line U00180 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "唐島通典",
+  "en": "Karashima Michinori",
+  "en_macron": "Karashima Michinori",
+  "short": "Michinori",
+  "reading": "からしま みちのり",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (swordsmith 刀工師) recruitable for the workshop.",
+  "personality": "Follows his father's advice to serve Motonari.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 30,
+  "first_unit": "U00797",
+  "sources": [
+   "script: first line U00797 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "諏訪雁次郎",
+  "en": "Suwa Ganjiro",
+  "en_macron": "Suwa Ganjirō",
+  "reading": "すわ がんじろう",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (swordsmith 刀工師) recruitable for the workshop.",
+  "personality": "Polite heir of a swordsmith family.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 42,
+  "first_unit": "U01494",
+  "sources": [
+   "script: first line U01494 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "比古重春",
+  "en": "Hiko Shigeharu",
+  "en_macron": "Hiko Shigeharu",
+  "reading": "ひこ しげはる",
+  "reading_confidence": "guess",
+  "gender": "male",
+  "gender_evidence": "Script U06624: 私の父親は、比古重春 (father)",
+  "role": "Craftsman (swordsmith 刀工師) recruitable for the workshop.",
+  "personality": "Anxious father of an injured son; grateful.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 31,
+  "first_unit": "U01974",
+  "sources": [
+   "script: first line U01974 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "居駒忠良",
+  "en": "Ikoma Tadayoshi",
+  "en_macron": "Ikoma Tadayoshi",
+  "reading": "いこま ただよし",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (swordsmith 刀工師) recruitable for the workshop.",
+  "personality": "Out-of-work drinker who turns surly when drunk (\"酒を飲むと、人が変わる\"); rough speech (あっし, ～やす).",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 90,
+  "first_unit": "U03066",
+  "sources": [
+   "script: first line U03066 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "剣持六郎",
+  "en": "Kenmochi Rokuro",
+  "en_macron": "Kenmochi Rokurō",
+  "reading": "けんもち ろくろう",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (swordsmith 刀工師) recruitable for the workshop.",
+  "personality": "Timid (rescued from danger); grateful.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 84,
+  "first_unit": "U03893",
+  "sources": [
+   "script: first line U03893 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "加藤権六",
+  "en": "Kato Gonroku",
+  "en_macron": "Katō Gonroku",
+  "reading": "かとう ごんろく",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (swordsmith 刀工師) recruitable for the workshop.",
+  "personality": "Swore off making swords because they take lives; agrees to work only for a peaceful world; uses あっし.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 126,
+  "first_unit": "U04106",
+  "sources": [
+   "script: first line U04106 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "新藤光胤",
+  "en": "Shindo Mitsutane",
+  "en_macron": "Shindō Mitsutane",
+  "reading": "しんどう みつたね",
+  "reading_confidence": "guess",
+  "gender": "male",
+  "gender_evidence": "Script U04972: なさけない父親; his daughter calls him 父ちゃん",
+  "role": "Craftsman (swordsmith 刀工師) recruitable for the workshop.",
+  "personality": "Unemployed father ashamed to go home to his daughter.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 72,
+  "first_unit": "U04967",
+  "sources": [
+   "script: first line U04967 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "日生紀秋",
+  "en": "Hinase Noriaki",
+  "en_macron": "Hinase Noriaki",
+  "reading": "ひなせ のりあき",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (swordsmith 刀工師) recruitable for the workshop.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 1,
+  "first_unit": "U00687",
+  "sources": [
+   "script: first line U00687 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "相馬宝雪",
+  "en": "Soma Hosetsu",
+  "en_macron": "Sōma Hōsetsu",
+  "reading": "そうま ほうせつ",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (swordsmith 刀工師) recruitable for the workshop.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 1,
+  "first_unit": "U02365",
+  "sources": [
+   "script: first line U02365 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "斉藤小六",
+  "en": "Saito Koroku",
+  "en_macron": "Saitō Koroku",
+  "reading": "さいとう ころく",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (swordsmith 刀工師) recruitable for the workshop.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 1,
+  "first_unit": "U03812",
+  "sources": [
+   "script: first line U03812 (work/source/text/units.json)"
+  ],
+  "note": "A guide site lists him as a spearsmith (槍工師); the script (U03812) says 刀工師."
+ },
+ {
+  "jp": "神楽双円",
+  "en": "Kagura Soen",
+  "en_macron": "Kagura Sōen",
+  "reading": "かぐら そうえん",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (swordsmith 刀工師) recruitable for the workshop.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 1,
+  "first_unit": "U05909",
+  "sources": [
+   "script: first line U05909 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "沼田八兵衛",
+  "en": "Numata Hachibei",
+  "en_macron": "Numata Hachibei",
+  "reading": "ぬまた はちべえ",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (spearsmith 槍工師) recruitable for the workshop.",
+  "personality": "Injured craftsman eager to work again.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 35,
+  "first_unit": "U00169",
+  "sources": [
+   "script: first line U00169 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "山之上為次",
+  "en": "Yamanoue Tametsugu",
+  "en_macron": "Yamanoue Tametsugu",
+  "short": "Tametsugu",
+  "reading": "やまのうえ ためつぐ",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (spearsmith 槍工師) recruitable for the workshop.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 25,
+  "first_unit": "U00793",
+  "sources": [
+   "script: first line U00793 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "三笠陣左",
+  "en": "Mikasa Jinza",
+  "en_macron": "Mikasa Jinza",
+  "reading": "みかさ じんざ",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (spearsmith 槍工師) recruitable for the workshop.",
+  "personality": "Proud he can remove any rust.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 65,
+  "first_unit": "U01713",
+  "sources": [
+   "script: first line U01713 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "長谷部宗安",
+  "en": "Hasebe Muneyasu",
+  "en_macron": "Hasebe Muneyasu",
+  "reading": "はせべ むねやす",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (spearsmith 槍工師) recruitable for the workshop.",
+  "personality": "Starving and destitute when found; grateful.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 48,
+  "first_unit": "U01013",
+  "sources": [
+   "script: first line U01013 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "板野蔵源八",
+  "en": "Itanokura Genpachi",
+  "en_macron": "Itanokura Genpachi",
+  "short": "Genpachi",
+  "reading": "いたのくら げんぱち",
+  "reading_confidence": "guess",
+  "gender": "male",
+  "gender_evidence": "Script U04742: 板野蔵源八って男",
+  "role": "Craftsman (spearsmith 槍工師) recruitable for the workshop.",
+  "personality": "Polite when sober, surly when drinking.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 44,
+  "first_unit": "U04688",
+  "sources": [
+   "script: first line U04688 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "野間兵三郎",
+  "en": "Noma Heizaburo",
+  "en_macron": "Noma Heizaburō",
+  "reading": "のま へいざぶろう",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (spearsmith 槍工師) recruitable for the workshop.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 1,
+  "first_unit": "U02642",
+  "sources": [
+   "script: first line U02642 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "小野堂軒",
+  "en": "Ono Doken",
+  "en_macron": "Ono Dōken",
+  "reading": "おの どうけん",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (spearsmith 槍工師) recruitable for the workshop.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 1,
+  "first_unit": "U03509",
+  "sources": [
+   "script: first line U03509 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "桐生新兵衛",
+  "en": "Kiryu Shinbei",
+  "en_macron": "Kiryū Shinbei",
+  "reading": "きりゅう しんべえ",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (spearsmith 槍工師) recruitable for the workshop.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 1,
+  "first_unit": "U05367",
+  "sources": [
+   "script: first line U05367 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "国瓦長高",
+  "en": "Kunigawara Nagataka",
+  "en_macron": "Kunigawara Nagataka",
+  "short": "Nagataka",
+  "reading": "くにがわら ながたか",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (armorer 甲冑師) recruitable for the workshop.",
+  "personality": "Courteous; grateful when the lost tool box is returned.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 46,
+  "first_unit": "U00172",
+  "sources": [
+   "script: first line U00172 (work/source/text/units.json)",
+   "follow-up pass 2026-10-28 (reports/_followup.md)"
+  ]
+ },
+ {
+  "jp": "根本甚助",
+  "en": "Nemoto Jinsuke",
+  "en_macron": "Nemoto Jinsuke",
+  "reading": "ねもと じんすけ",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (armorer 甲冑師) recruitable for the workshop.",
+  "personality": "Modest perfectionist (a pirate calls him 完全主義) who leaves on a training journey before joining.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 65,
+  "first_unit": "U02741",
+  "sources": [
+   "script: first line U02741 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "羽佐間元景",
+  "en": "Hazama Motokage",
+  "en_macron": "Hazama Motokage",
+  "reading": "はざま もとかげ",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (armorer 甲冑師) recruitable for the workshop.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 1,
+  "first_unit": "U04876",
+  "sources": [
+   "script: first line U04876 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "安岐信治",
+  "en": "Aki Nobuharu",
+  "en_macron": "Aki Nobuharu",
+  "reading": "あき のぶはる",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (shield maker 盾細工匠) recruitable for the workshop.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 42,
+  "first_unit": "U03318",
+  "sources": [
+   "script: first line U03318 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "馬島十兵衛",
+  "en": "Majima Jubei",
+  "en_macron": "Majima Jūbei",
+  "reading": "まじま じゅうべえ",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (shield maker 盾細工匠) recruitable for the workshop.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 1,
+  "first_unit": "U02943",
+  "sources": [
+   "script: first line U02943 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "矢ノ原祐秀",
+  "en": "Yanohara Sukehide",
+  "en_macron": "Yanohara Sukehide",
+  "short": "Sukehide",
+  "reading": "やのはら すけひで",
+  "reading_confidence": "guess",
+  "gender": "male",
+  "gender_evidence": "Script U02320: 酒場で会った男; his daughter calls him お父さん",
+  "role": "Craftsman (apothecary 薬師) recruitable for the workshop.",
+  "personality": "Despairing father who gave up work after losing his child; resolves to start over when reunited.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 75,
+  "first_unit": "U02238",
+  "sources": [
+   "script: first line U02238 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "宇田島茂造",
+  "en": "Utajima Shigezo",
+  "en_macron": "Utajima Shigezō",
+  "reading": "うたじま しげぞう",
+  "reading_confidence": "guess",
+  "gender": "male",
+  "gender_evidence": "Script: the townsperson's 息子 (son) saved with medicine in U00572-U00575; U02459 identifies Utajima as that child (あの時の子供がおぬしか).",
+  "role": "Craftsman (apothecary 薬師) recruitable for the workshop.",
+  "personality": "Repays a childhood debt: Motonari once saved his life with medicine.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 60,
+  "first_unit": "U02459",
+  "sources": [
+   "script: first line U02459 (work/source/text/units.json)",
+   "follow-up pass 2026-10-28 (reports/_followup.md)"
+  ]
+ },
+ {
+  "jp": "楢岡源坐",
+  "en": "Naraoka Genza",
+  "en_macron": "Naraoka Genza",
+  "reading": "ならおか げんざ",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (apothecary 薬師) recruitable for the workshop.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 1,
+  "first_unit": "U00331",
+  "sources": [
+   "script: first line U00331 (work/source/text/units.json)"
+  ],
+  "note": "A guide site calls him a ninja-tool maker (忍具匠); the script (U00331) says 薬師."
+ },
+ {
+  "jp": "福延大膳",
+  "en": "Fukunobu Daizen",
+  "en_macron": "Fukunobu Daizen",
+  "reading": "ふくのぶ だいぜん",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (apothecary 薬師) recruitable for the workshop.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 1,
+  "first_unit": "U05659",
+  "sources": [
+   "script: first line U05659 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "田路彦一",
+  "en": "Toji Hikoichi",
+  "en_macron": "Tōji Hikoichi",
+  "reading": "とうじ ひこいち",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (craftsman 職人) recruitable for the workshop.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 1,
+  "first_unit": "U01132",
+  "sources": [
+   "script: first line U01132 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "高橋右京太",
+  "en": "Takahashi Ukyota",
+  "en_macron": "Takahashi Ukyōta",
+  "reading": "たかはし うきょうた",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (craftsman 職人) recruitable for the workshop.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 1,
+  "first_unit": "U01594",
+  "sources": [
+   "script: first line U01594 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "江尻又造",
+  "en": "Ejiri Matazo",
+  "en_macron": "Ejiri Matazō",
+  "reading": "えじり またぞう",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker found in script; check in-game portrait before using he/she",
+  "role": "Craftsman (craftsman 職人) recruitable for the workshop. Came from Izumo.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 1,
+  "first_unit": "U01896",
+  "sources": [
+   "script: first line U01896 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "吉川国経",
+  "en": "Kikkawa Kunitsune",
+  "en_macron": "Kikkawa Kunitsune",
+  "short": "Kunitsune",
+  "reading": "きっかわ くにつね",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Head of the Kikkawa clan (Ogurayama Castle); father of Okata; arranges her marriage to Motonari.",
+  "personality": "Proud, warm patriarch who values the Mouri alliance.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 14,
+  "first_unit": "U00391",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/吉川国経",
+   "https://en.wikipedia.org/wiki/Kikkawa_Kunitsune"
+  ]
+ },
+ {
+  "jp": "吉川元経",
+  "en": "Kikkawa Mototsune",
+  "en_macron": "Kikkawa Mototsune",
+  "short": "Mototsune",
+  "reading": "きっかわ もとつね",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Kikkawa heir, Okata's brother; killed at Kanayama Castle (ep. 4).",
+  "personality": "Courteous and prudent.",
+  "nicknames": [
+   "元経殿"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 27,
+  "first_unit": "U00014",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/吉川元経",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "吉川経世",
+  "en": "Kikkawa Tsuneyo",
+  "en_macron": "Kikkawa Tsuneyo",
+  "reading": "きっかわ つねよ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Younger brother of Mototsune; uncle of Okitsune; pro-Mouri Kikkawa elder who arranges Motoharu's adoption.",
+  "personality": "Friendly, loyal to Motonari.",
+  "nicknames": [
+   "経世殿"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 41,
+  "first_unit": "U00390",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/吉川経世",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "吉川興経",
+  "en": "Kikkawa Okitsune",
+  "en_macron": "Kikkawa Okitsune",
+  "reading": "きっかわ おきつね",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Son of Mototsune; Kikkawa head who sides with the Amago, defects and is later deposed.",
+  "personality": "Proud, resentful of everyone praising Motonari.",
+  "nicknames": [
+   "興経様"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 20,
+  "first_unit": "U01423",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/吉川興経",
+   "https://koei.fandom.com/wiki/Okitsune_Kikkawa",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "小田信忠",
+  "en": "Oda Nobutada",
+  "en_macron": "Oda Nobutada",
+  "reading": "おだ のぶただ",
+  "reading_confidence": "game_wiki",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Kikkawa vassal, lord of Arita Castle (ep. 1).",
+  "personality": "Desperate defender awaiting relief.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 5,
+  "first_unit": "U00298",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢",
+   "script: first line U00298 (work/source/text/units.json)"
+  ],
+  "note": "No Wikipedia article (mentioned in 有田中井手の戦い). ja.wikipedia game article prints the reading as おだ おぶただ (typo for のぶただ)."
+ },
+ {
+  "jp": "小早川正平",
+  "en": "Kobayakawa Masahira",
+  "en_macron": "Kobayakawa Masahira",
+  "short": "Masahira",
+  "reading": "こばやかわ まさひら",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Head of the Numata Kobayakawa; dies holding the rearguard in the retreat from Izumo (ep. 7).",
+  "personality": "Brave, self-sacrificing.",
+  "nicknames": [
+   "正平殿",
+   "正平様"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 7,
+  "first_unit": "U01702",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/小早川正平",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "宍戸元源",
+  "en": "Shishido Motoyoshi",
+  "en_macron": "Shishido Motoyoshi",
+  "short": "Shishido M.",
+  "reading": "ししど もとよし",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Lord of Goryu Castle, long-time Mouri rival; later reconciles.",
+  "personality": "Pragmatic, respects Motonari.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 12,
+  "first_unit": "U00030",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/宍戸元源"
+  ]
+ },
+ {
+  "jp": "熊谷元直",
+  "en": "Kumagai Motonao",
+  "en_macron": "Kumagai Motonao",
+  "reading": "くまがい もとなお",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Aki Takeda general, lord of Aki-Takamatsu Castle; killed by Motonari in his first battle (ep. 1).",
+  "personality": "Arrogant veteran who scorns the \"Mouri whelp\".",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 8,
+  "first_unit": "U00100",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/熊谷元直_(戦国時代)",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "天野興定",
+  "en": "Amano Okisada",
+  "en_macron": "Amano Okisada",
+  "reading": "あまの おきさだ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Aki warlord (Ouchi side) sent to relieve Kagamiyama (ep. 2).",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 3,
+  "first_unit": "U00664",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/天野興定",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "武田元繁",
+  "en": "Takeda Motoshige",
+  "en_macron": "Takeda Motoshige",
+  "reading": "たけだ もとしげ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Head of the Aki Takeda; killed at Arita (ep. 1).",
+  "personality": "Aggressive, overconfident.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 11,
+  "first_unit": "U00099",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/武田元繁",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "武田光和",
+  "en": "Takeda Mitsukazu",
+  "en_macron": "Takeda Mitsukazu",
+  "reading": "たけだ みつかず",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Son of Motoshige, lord of Kanayama Castle; killed in ep. 5.",
+  "personality": "Impatient, anxious for reinforcements.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 15,
+  "first_unit": "U00099",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/武田光和",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "武田信重",
+  "en": "Takeda Nobushige",
+  "en_macron": "Takeda Nobushige",
+  "reading": "たけだ のぶしげ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Younger brother of Mitsukazu and last Aki Takeda head; father of Takewakamaru (Ekei); commits suicide when Kanayama falls (ep. 7).",
+  "personality": "Honourable; argues against betraying the Mouri.",
+  "nicknames": [
+   "信重様"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 20,
+  "first_unit": "U00099",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/武田信重",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "江田隆連",
+  "en": "Eda Takatsura",
+  "en_macron": "Eda Takatsura",
+  "reading": "えだ たかつら",
+  "reading_confidence": "game_wiki",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Bingo warlord who defects to the Amago during the Aki-Bingo campaign (ep. 10).",
+  "personality": "Cowardly turncoat.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 6,
+  "first_unit": "U02638",
+  "sources": [
+   "script: first line U02638 (work/source/text/units.json)"
+  ],
+  "note": "No Wikipedia article; Koei wiki \"Takatsura Eda\"; mentioned historically (旗返山城, 1553 defection)."
+ },
+ {
+  "jp": "平賀隆保",
+  "en": "Hiraga Takayasu",
+  "en_macron": "Hiraga Takayasu",
+  "reading": "ひらが たかやす",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Main-line Hiraga lord loyal to Yoshitaka; killed in ep. 10.",
+  "personality": "Fiercely loyal to the Ouchi.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 2,
+  "first_unit": "U02638",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/平賀隆保"
+  ]
+ },
+ {
+  "jp": "杉原理興",
+  "en": "Sugihara Tadaoki",
+  "en_macron": "Sugihara Tadaoki",
+  "reading": "すぎはら ただおき",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Lord of Kannabe Castle (Bingo) who defects to the Amago; defeated in ep. 9.",
+  "personality": "Opportunistic, contemptuous of the declining Ouchi.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 9,
+  "first_unit": "U01708",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/山名理興"
+  ],
+  "note": "Wikipedia now titles him Yamana Tadaoki (山名理興), noting the traditional name Sugihara."
+ },
+ {
+  "jp": "益田藤兼",
+  "en": "Masuda Fujikane",
+  "en_macron": "Masuda Fujikane",
+  "reading": "ますだ ふじかね",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Iwami warlord, lord of Nanao Castle; submits to Motoharu (ep. 15).",
+  "personality": "Pragmatic.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 3,
+  "first_unit": "U04052",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/益田藤兼"
+  ]
+ },
+ {
+  "jp": "福屋隆兼",
+  "en": "Fukuya Takakane",
+  "en_macron": "Fukuya Takakane",
+  "reading": "ふくや たかかね",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Iwami warlord defending the silver mine for the Amago (ep. 15).",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 3,
+  "first_unit": "U04036",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/福屋隆兼"
+  ]
+ },
+ {
+  "jp": "吉見正頼",
+  "en": "Yoshimi Masayori",
+  "en_macron": "Yoshimi Masayori",
+  "reading": "よしみ まさより",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Iwami warlord (Sanbonmatsu Castle) who rose against Sue; persuaded by Motonari to withdraw (ep. 13).",
+  "personality": "Torn between Ouchi loyalty and debt to Motonari.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 6,
+  "first_unit": "U03498",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/吉見正頼",
+   "https://koei.fandom.com/wiki/Masayori_Yoshimi"
+  ],
+  "note": "Wikipedia gives both ただより/まさより; Koei wiki uses Masayori."
+ },
+ {
+  "jp": "大内義興",
+  "en": "Ouchi Yoshioki",
+  "en_macron": "Ōuchi Yoshioki",
+  "reading": "おおうち よしおき",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Head of the Ouchi clan, ruler of western Honshu; father of Yoshitaka.",
+  "personality": "Stern, harsh with his son.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 14,
+  "first_unit": "U00721",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大内義興",
+   "https://en.wikipedia.org/wiki/Ōuchi_Yoshioki",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "大内義隆",
+  "en": "Ouchi Yoshitaka",
+  "en_macron": "Ōuchi Yoshitaka",
+  "reading": "おおうち よしたか",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Ouchi head after Yoshioki; adoptive father of Takamoto's wife; overthrown by Sue Harukata (ep. 10).",
+  "personality": "Cultured aesthete who neglects war after the defeat at Gassan-Toda.",
+  "nicknames": [
+   "義隆様"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 49,
+  "first_unit": "U00723",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大内義隆",
+   "https://en.wikipedia.org/wiki/Ōuchi_Yoshitaka",
+   "https://koei.fandom.com/wiki/Yoshitaka_Ōuchi",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "大内義長",
+  "en": "Ouchi Yoshinaga",
+  "en_macron": "Ōuchi Yoshinaga",
+  "reading": "おおうち よしなが",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Otomo Sorin's brother installed by Sue as puppet Ouchi head (formerly Otomo Haruhide); dies in ep. 13.",
+  "personality": "Resentful of being a puppet.",
+  "nicknames": [
+   "晴英 (Haruhide, earlier name)",
+   "義長様"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 19,
+  "first_unit": "U02670",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大内義長",
+   "https://en.wikipedia.org/wiki/Ōuchi_Yoshinaga"
+  ]
+ },
+ {
+  "jp": "大内輝弘",
+  "en": "Ouchi Teruhiro",
+  "en_macron": "Ōuchi Teruhiro",
+  "reading": "おおうち てるひろ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Ouchi exile sheltered by the Otomo; raids Katsuyama Castle (ep. 19).",
+  "personality": "Eager to repay the Otomo.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 6,
+  "first_unit": "U04896",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大内輝弘"
+  ]
+ },
+ {
+  "jp": "陶興房",
+  "en": "Sue Okifusa",
+  "en_macron": "Sue Okifusa",
+  "reading": "すえ おきふさ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Ouchi senior retainer, father of Harukata.",
+  "personality": "Stern veteran.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 6,
+  "first_unit": "U00722",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/陶興房",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "陶晴賢",
+  "en": "Sue Harukata",
+  "en_macron": "Sue Harukata",
+  "reading": "すえ はるかた",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Ouchi senior retainer who overthrows Yoshitaka; defeated by Motonari at Itsukushima (ep. 12).",
+  "personality": "Hawkish, ambitious and forceful.",
+  "nicknames": [
+   "陶殿",
+   "叛将 (the rebel general)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 125,
+  "first_unit": "U01438",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/陶晴賢",
+   "https://en.wikipedia.org/wiki/Sue_Harukata",
+   "https://koei.fandom.com/wiki/Harukata_Sue",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "陶長房",
+  "en": "Sue Nagafusa",
+  "en_macron": "Sue Nagafusa",
+  "reading": "すえ ながふさ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Son of Sue Harukata.",
+  "personality": "Desperate to preserve his father's legacy.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 8,
+  "first_unit": "U02674",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/陶長房"
+  ]
+ },
+ {
+  "jp": "杉重矩",
+  "en": "Sugi Shigenori",
+  "en_macron": "Sugi Shigenori",
+  "reading": "すぎ しげのり",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Ouchi senior retainer; killed by Sue.",
+  "personality": "Boastful but loyal to the Ouchi.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 40,
+  "first_unit": "U00660",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/杉重矩",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "杉重輔",
+  "en": "Sugi Shigesuke",
+  "en_macron": "Sugi Shigesuke",
+  "reading": "すぎ しげすけ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Son of Sugi Shigenori; avenges his father on Sue Nagafusa and joins the Mouri (ep. 13).",
+  "personality": "Vengeful, grateful.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 2,
+  "first_unit": "U03513",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/杉重輔"
+  ]
+ },
+ {
+  "jp": "杉隆泰",
+  "en": "Sugi Takayasu",
+  "en_macron": "Sugi Takayasu",
+  "reading": "すぎ たかやす",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Ouchi loyalist, lord of Kurakakeyama Castle (ep. 13).",
+  "personality": "Fierce Ouchi loyalist.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 4,
+  "first_unit": "U03498",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/杉隆泰"
+  ]
+ },
+ {
+  "jp": "蔵田房信",
+  "en": "Kurata Fusanobu",
+  "en_macron": "Kurata Fusanobu",
+  "reading": "くらた ふさのぶ",
+  "reading_confidence": "game_wiki",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Ouchi commander of Kagamiyama Castle (ep. 2).",
+  "personality": "Determined defender.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 13,
+  "first_unit": "U00659",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢",
+   "script: first line U00659 (work/source/text/units.json)"
+  ],
+  "note": "Wikipedia: no individual article (in 鏡山城の戦い)."
+ },
+ {
+  "jp": "蔵田直信",
+  "en": "Kurata Naonobu",
+  "en_macron": "Kurata Naonobu",
+  "reading": "くらた なおのぶ",
+  "reading_confidence": "game_wiki",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Uncle of Fusanobu; defects at Kagamiyama after Mouri intrigue.",
+  "personality": "Self-interested (Seki: 私利私欲に走りやすい).",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 11,
+  "first_unit": "U00664",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢",
+   "script: first line U00664 (work/source/text/units.json)"
+  ],
+  "note": "Wikipedia: no individual article."
+ },
+ {
+  "jp": "内藤興盛",
+  "en": "Naito Okimori",
+  "en_macron": "Naitō Okimori",
+  "reading": "ないとう おきもり",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Ouchi senior retainer who brings the Mouri into the Ouchi camp; father of Takamoto's wife.",
+  "personality": "Courteous negotiator.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 31,
+  "first_unit": "U00722",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/内藤興盛",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "内藤隆世",
+  "en": "Naito Takayo",
+  "en_macron": "Naitō Takayo",
+  "reading": "ないとう たかよ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Ouchi retainer under Yoshinaga.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 10,
+  "first_unit": "U02673",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/内藤隆世"
+  ]
+ },
+ {
+  "jp": "江良房栄",
+  "en": "Era Fusahide",
+  "en_macron": "Era Fusahide",
+  "reading": "えら ふさひで",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Sue Harukata's general who opposes crossing to Itsukushima.",
+  "personality": "Cautious, sharp tactician.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 26,
+  "first_unit": "U01439",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/江良房栄"
+  ]
+ },
+ {
+  "jp": "弘中隆兼",
+  "en": "Hironaka Takakane",
+  "en_macron": "Hironaka Takakane",
+  "short": "Hironaka",
+  "reading": "ひろなか たかかね",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Ouchi/Sue general killed at Itsukushima.",
+  "personality": "Loyal, honourable warrior.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 40,
+  "first_unit": "U01439",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/弘中隆兼",
+   "https://en.wikipedia.org/wiki/Hironaka_Takakane"
+  ]
+ },
+ {
+  "jp": "弘中隆助",
+  "en": "Hironaka Takasuke",
+  "en_macron": "Hironaka Takasuke",
+  "short": "Takasuke",
+  "reading": "ひろなか たかすけ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Son of Hironaka Takakane; dies with him at Itsukushima.",
+  "personality": "Dutiful son.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 7,
+  "first_unit": "U03002",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/弘中隆助"
+  ]
+ },
+ {
+  "jp": "相良武任",
+  "en": "Sagara Taketo",
+  "en_macron": "Sagara Taketō",
+  "reading": "さがら たけとう",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Yoshitaka's civil-faction favourite; killed in Sue's coup.",
+  "personality": "Calculating bureaucrat.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 15,
+  "first_unit": "U01438",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/相良武任",
+   "https://en.wikipedia.org/wiki/Sagara_Taketō"
+  ]
+ },
+ {
+  "jp": "冷泉隆豊",
+  "en": "Reizei Takatoyo",
+  "en_macron": "Reizei Takatoyo",
+  "reading": "れいぜい たかとよ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Yoshitaka's loyal retainer who dies with him.",
+  "personality": "Loyal courtier-warrior.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 6,
+  "first_unit": "U01439",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/冷泉隆豊"
+  ]
+ },
+ {
+  "jp": "三浦房清",
+  "en": "Miura Fusakiyo",
+  "en_macron": "Miura Fusakiyo",
+  "reading": "みうら ふさきよ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Sue faction general.",
+  "personality": "Hawkish.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 12,
+  "first_unit": "U02375",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/三浦房清"
+  ]
+ },
+ {
+  "jp": "白井賢胤",
+  "en": "Shirai Katatane",
+  "en_macron": "Shirai Katatane",
+  "reading": "しらい かたたね",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Sue faction general (navy).",
+  "personality": "Hawkish.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 10,
+  "first_unit": "U02375",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/白井賢胤"
+  ]
+ },
+ {
+  "jp": "宮川房長",
+  "en": "Miyagawa Fusanaga",
+  "en_macron": "Miyagawa Fusanaga",
+  "short": "Fusanaga",
+  "reading": "みやがわ ふさなが",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Sue general killed at Oshikibata (ep. 11).",
+  "personality": "Loyal to Sue.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 8,
+  "first_unit": "U02375",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/宮川房長"
+  ]
+ },
+ {
+  "jp": "椙杜房康",
+  "en": "Suginomori Fusayasu",
+  "en_macron": "Suginomori Fusayasu",
+  "short": "Fusayasu",
+  "reading": "すぎのもり ふさやす",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Ouchi retainer, lord of Rengeyama Castle; wavers in ep. 13.",
+  "personality": "Pragmatic.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 5,
+  "first_unit": "U02375",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/椙杜房康"
+  ]
+ },
+ {
+  "jp": "山崎興盛",
+  "en": "Yamasaki Okimori",
+  "en_macron": "Yamasaki Okimori",
+  "reading": "やまさき おきもり",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Ouchi loyalist defending against the Mouri (ep. 13).",
+  "personality": "Stubbornly loyal.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 3,
+  "first_unit": "U03498",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/山崎興盛"
+  ]
+ },
+ {
+  "jp": "野間隆実",
+  "en": "Noma Takazane",
+  "en_macron": "Noma Takazane",
+  "reading": "のま たかざね",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Aki warlord loyal to Sue (ep. 11).",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 4,
+  "first_unit": "U02932",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/野間隆実"
+  ]
+ },
+ {
+  "jp": "新里式部",
+  "en": "Niizato Shikibu",
+  "en_macron": "Niizato Shikibu",
+  "reading": "にいざと しきぶ",
+  "reading_confidence": "guess",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Sue-side defender of Sakurao Castle (ep. 11).",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 4,
+  "first_unit": "U02932",
+  "sources": [
+   "script: first line U02932 (work/source/text/units.json)"
+  ],
+  "note": "Name not found on Wikipedia; Sakurao was historically held by a Niizato (新里) retainer. Reading guessed."
+ },
+ {
+  "jp": "右田重正",
+  "en": "Migita Shigemasa",
+  "en_macron": "Migita Shigemasa",
+  "reading": "みぎた しげまさ",
+  "reading_confidence": "guess",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Ouchi retainer (one line, ep. 11).",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 1,
+  "first_unit": "U02672",
+  "sources": [
+   "script: first line U02672 (work/source/text/units.json)"
+  ],
+  "note": "Not found on Wikipedia; reading guessed."
+ },
+ {
+  "jp": "尼子経久",
+  "en": "Amago Tsunehisa",
+  "en_macron": "Amago Tsunehisa",
+  "reading": "あまご つねひさ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Founder of Amago power in San'in, lord of Gassan-Toda Castle; grandfather of Haruhisa.",
+  "personality": "Cunning, patient schemer.",
+  "nicknames": [
+   "経久様",
+   "大殿 (the old lord, by Haruhisa)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 51,
+  "first_unit": "U00041",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/尼子経久",
+   "https://en.wikipedia.org/wiki/Amago_Tsunehisa",
+   "https://koei.fandom.com/wiki/Tsunehisa_Amago",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "尼子晴久",
+  "en": "Amago Haruhisa",
+  "en_macron": "Amago Haruhisa",
+  "reading": "あまご はるひさ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Amago head after Tsunehisa; besieges Yoshida-Koriyama.",
+  "personality": "Ambitious and hot-headed.",
+  "nicknames": [
+   "晴久様",
+   "晴久殿"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 73,
+  "first_unit": "U00358",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/尼子晴久",
+   "https://en.wikipedia.org/wiki/Amago_Haruhisa",
+   "https://koei.fandom.com/wiki/Haruhisa_Amago",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "尼子久幸",
+  "en": "Amago Hisayuki",
+  "en_macron": "Amago Hisayuki",
+  "reading": "あまご ひさゆき",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Tsunehisa's younger brother; killed at Yoshida-Koriyama.",
+  "personality": "Cautious elder who warns Haruhisa.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 6,
+  "first_unit": "U00358",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/尼子久幸",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "尼子国久",
+  "en": "Amago Kunihisa",
+  "en_macron": "Amago Kunihisa",
+  "reading": "あまご くにひさ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Tsunehisa's second son, leader of the Shinguto.",
+  "personality": "Proud, aggressive.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 24,
+  "first_unit": "U00358",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/尼子国久",
+   "https://en.wikipedia.org/wiki/Amago_Kunihisa",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "尼子誠久",
+  "en": "Amago Sanehisa",
+  "en_macron": "Amago Sanehisa",
+  "reading": "あまご さねひさ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Son of Kunihisa, Shinguto leader; father of Katsuhisa (Magoshiro).",
+  "personality": "Aggressive.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 14,
+  "first_unit": "U01419",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/尼子誠久",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ],
+  "note": "The ja.wikipedia game article reads まさひさ; the person article reads さねひさ (used here)."
+ },
+ {
+  "jp": "尼子義久",
+  "en": "Amago Yoshihisa",
+  "en_macron": "Amago Yoshihisa",
+  "reading": "あまご よしひさ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Last Amago head; defends Gassan-Toda (ep. 15-17).",
+  "personality": "Anxious, suspicious leader.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 34,
+  "first_unit": "U03877",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/尼子義久",
+   "https://en.wikipedia.org/wiki/Amago_Yoshihisa",
+   "https://koei.fandom.com/wiki/Yoshihisa_Amago"
+  ]
+ },
+ {
+  "jp": "尼子倫久",
+  "en": "Amago Tomohisa",
+  "en_macron": "Amago Tomohisa",
+  "reading": "あまご ともひさ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Younger brother of Yoshihisa.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 11,
+  "first_unit": "U03877",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/尼子倫久"
+  ]
+ },
+ {
+  "jp": "尼子勝久",
+  "en": "Amago Katsuhisa",
+  "en_macron": "Amago Katsuhisa",
+  "reading": "あまご かつひさ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Son of Sanehisa of the Shinguto (profile P0028: 新宮党尼子誠久の遺児) (childhood name Magoshiro); figurehead of the Amago restoration army.",
+  "personality": "Weak-willed figurehead; flees in battle.",
+  "nicknames": [
+   "孫四郎 (Magoshiro, earlier name)",
+   "勝久様"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 14,
+  "first_unit": "U05179",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/尼子勝久",
+   "https://en.wikipedia.org/wiki/Amago_Katsuhisa",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "亀井秀綱",
+  "en": "Kamei Hidetsuna",
+  "en_macron": "Kamei Hidetsuna",
+  "reading": "かめい ひでつな",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Amago senior retainer and Tsunehisa's confidant; plots against the Mouri.",
+  "personality": "Cunning schemer.",
+  "nicknames": [
+   "秀綱"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 67,
+  "first_unit": "U00035",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/亀井秀綱"
+  ]
+ },
+ {
+  "jp": "山中満幸",
+  "en": "Yamanaka Mitsuyuki",
+  "en_macron": "Yamanaka Mitsuyuki",
+  "short": "Mitsuyuki",
+  "reading": "やまなか みつゆき",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Amago retainer, father of Shikanosuke; killed fighting the Mouri.",
+  "personality": "Devoted husband and Amago loyalist.",
+  "nicknames": [
+   "満幸様"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 11,
+  "first_unit": "U01908",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/山中満幸"
+  ]
+ },
+ {
+  "jp": "山中鹿之介",
+  "en": "Yamanaka Shikanosuke",
+  "en_macron": "Yamanaka Shikanosuke",
+  "short": "Shikanosuke",
+  "reading": "やまなか しかのすけ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Amago retainer (real name Yukimori) leading the Amago restoration; Motonari's nemesis; killed in ep. 23.",
+  "personality": "Zealous, vengeful Amago loyalist driven by his father's death.",
+  "nicknames": [
+   "鹿之介",
+   "鹿之介様 (by Shino)",
+   "鹿之助 (variant kanji in the profiles: Yamanaka Shikanosuke)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 133,
+  "first_unit": "U03269",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/山中幸盛",
+   "https://en.wikipedia.org/wiki/Yamanaka_Yukimori",
+   "https://koei.fandom.com/wiki/Shikanosuke_Yamanaka",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢",
+   "UI gaps pass 2026-10-28 (work/translation/en/ui/reports/_gaps.md 1.8)"
+  ],
+  "note": "Game spells 鹿之介; historical name Yamanaka Yukimori (幸盛), commonly 鹿介/鹿之助. The profiles write 山中鹿之助 (variant kanji, P0006-P0008, P0028-P0031, P0091-P0093); same person, same English."
+ },
+ {
+  "jp": "立原久綱",
+  "en": "Tachihara Hisatsuna",
+  "en_macron": "Tachihara Hisatsuna",
+  "short": "Hisatsuna",
+  "reading": "たちはら ひさつな",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Amago retainer, Shikanosuke's uncle and ally in the restoration.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 21,
+  "first_unit": "U02727",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/立原久綱"
+  ]
+ },
+ {
+  "jp": "秋上伊織助",
+  "en": "Akiage Iorinosuke",
+  "en_macron": "Akiage Iorinosuke",
+  "short": "Iorinosuke",
+  "reading": "あきあげ いおりのすけ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Amago restoration warrior, one of the \"Ten Braves of Amago\".",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 15,
+  "first_unit": "U04899",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/秋上宗信",
+   "https://koei.fandom.com/wiki/Munenobu_Akiage"
+  ],
+  "note": "Historical model Akiage Munenobu; the name Iorinosuke is the Ten Braves name (Koei wiki \"Iorinosuke Akiage\")."
+ },
+ {
+  "jp": "上田早苗助",
+  "en": "Ueda Sanaenosuke",
+  "en_macron": "Ueda Sanaenosuke",
+  "reading": "うえだ さなえのすけ",
+  "reading_confidence": "game_wiki",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Amago restoration warrior (one of the Ten Braves).",
+  "personality": "Defiant.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 8,
+  "first_unit": "U04899",
+  "sources": [
+   "https://koei.fandom.com/wiki/Sanaesuke_Ueda",
+   "script: first line U04899 (work/source/text/units.json)"
+  ],
+  "note": "No Wikipedia article; reading from Koei wiki \"Sanaesuke Ueda\"."
+ },
+ {
+  "jp": "横道兵庫助",
+  "en": "Yokomichi Hyogonosuke",
+  "en_macron": "Yokomichi Hyōgonosuke",
+  "short": "Hyogonosuke",
+  "reading": "よこみち ひょうごのすけ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Amago restoration warrior (one of the Ten Braves).",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 5,
+  "first_unit": "U04899",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/横道秀綱",
+   "https://koei.fandom.com/wiki/Hidetsuna_Yokomichi"
+  ],
+  "note": "Historical model Yokomichi Hidetsuna (Wikipedia: よこじ/よこみち); Koei wiki \"Hyōgosuke Yokomichi\"."
+ },
+ {
+  "jp": "牛尾幸清",
+  "en": "Ushio Yoshikiyo",
+  "en_macron": "Ushio Yoshikiyo",
+  "reading": "うしお よしきよ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Amago general (ep. 8).",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 5,
+  "first_unit": "U01906",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/牛尾幸清"
+  ]
+ },
+ {
+  "jp": "赤穴久清",
+  "en": "Akana Hisakiyo",
+  "en_macron": "Akana Hisakiyo",
+  "reading": "あかな ひさきよ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Amago general who pursues Motonari in the retreat from Izumo.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 4,
+  "first_unit": "U01861",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/赤穴久清",
+   "https://koei.fandom.com/wiki/Hisakiyo_Akana"
+  ]
+ },
+ {
+  "jp": "三沢為清",
+  "en": "Mizawa Tamekiyo",
+  "en_macron": "Mizawa Tamekiyo",
+  "reading": "みざわ ためきよ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Izumo warlord, lord of Mizawa Castle.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 8,
+  "first_unit": "U01706",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/三沢為清"
+  ]
+ },
+ {
+  "jp": "三刀屋久扶",
+  "en": "Mitoya Hisasuke",
+  "en_macron": "Mitoya Hisasuke",
+  "reading": "みとや ひさすけ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Izumo warlord, lord of Mitoya Castle.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 7,
+  "first_unit": "U01705",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/三刀屋久扶"
+  ]
+ },
+ {
+  "jp": "本城常光",
+  "en": "Honjo Tsunemitsu",
+  "en_macron": "Honjō Tsunemitsu",
+  "reading": "ほんじょう つねみつ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Amago general defending Iwami Ginzan (ep. 15).",
+  "personality": "Proud of his assignment.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 7,
+  "first_unit": "U03877",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/本城常光"
+  ]
+ },
+ {
+  "jp": "宇山久信",
+  "en": "Uyama Hisanobu",
+  "en_macron": "Uyama Hisanobu",
+  "reading": "うやま ひさのぶ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Amago senior retainer; the Mouri (Takakage, through Seki) plant a false report that he is secretly in league with them (U04371, U04375), and Yoshihisa has him killed (ep. 17, U04571).",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 8,
+  "first_unit": "U02727",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/宇山久兼",
+   "https://en.wikipedia.org/wiki/Uyama_Hisakane",
+   "follow-up pass 2026-10-28 (reports/_followup.md)"
+  ],
+  "note": "The historical chief retainer was Uyama Hisakane (宇山久兼), killed with his son; the game names him 久信."
+ },
+ {
+  "jp": "湯原春綱",
+  "en": "Yuhara Harutsuna",
+  "en_macron": "Yuhara Harutsuna",
+  "reading": "ゆはら はるつな",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Amago general who lays an ambush at Gassan-Toda, then submits (ep. 17).",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 5,
+  "first_unit": "U02727",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/湯原春綱"
+  ]
+ },
+ {
+  "jp": "松田誠保",
+  "en": "Matsuda Masayasu",
+  "en_macron": "Matsuda Masayasu",
+  "reading": "まつだ まさやす",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Amago general defending Shiraga Castle (ep. 16).",
+  "personality": "Defiant to the end.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 3,
+  "first_unit": "U04286",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/松田誠保"
+  ]
+ },
+ {
+  "jp": "大友宗麟",
+  "en": "Otomo Sorin",
+  "en_macron": "Ōtomo Sōrin",
+  "reading": "おおとも そうりん",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Head of the Otomo clan of Bungo; Mouri rival in northern Kyushu.",
+  "personality": "Shrewd and opportunistic.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 18,
+  "first_unit": "U02670",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大友義鎮",
+   "https://en.wikipedia.org/wiki/Ōtomo_Sōrin",
+   "https://koei.fandom.com/wiki/Sōrin_Ōtomo",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "大友義統",
+  "en": "Otomo Yoshimune",
+  "en_macron": "Ōtomo Yoshimune",
+  "reading": "おおとも よしむね",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Sorin's son; relieves Ozu Castle (ep. 18).",
+  "personality": "Boastful.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 7,
+  "first_unit": "U03539",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大友義統",
+   "https://en.wikipedia.org/wiki/Ōtomo_Yoshimune",
+   "https://koei.fandom.com/wiki/Yoshimune_Ōtomo"
+  ]
+ },
+ {
+  "jp": "立花道雪",
+  "en": "Tachibana Dosetsu",
+  "en_macron": "Tachibana Dōsetsu",
+  "short": "Dosetsu",
+  "reading": "たちばな どうせつ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Otomo senior general.",
+  "personality": "Fearsome, respected warrior (\"雷神の化身\", incarnation of the Thunder God).",
+  "nicknames": [
+   "雷神の化身 (Thunder God incarnate)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 23,
+  "first_unit": "U02670",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/立花道雪",
+   "https://koei.fandom.com/wiki/Dōsetsu_Tachibana"
+  ]
+ },
+ {
+  "jp": "臼杵鑑速",
+  "en": "Usuki Akihaya",
+  "en_macron": "Usuki Akihaya",
+  "reading": "うすき あきはや",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Otomo senior retainer.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 11,
+  "first_unit": "U02670",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/臼杵鑑速"
+  ]
+ },
+ {
+  "jp": "田原親宏",
+  "en": "Tawara Chikahiro",
+  "en_macron": "Tawara Chikahiro",
+  "reading": "たわら ちかひろ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Otomo retainer defending Moji (ep. 14).",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 6,
+  "first_unit": "U02670",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/田原親宏"
+  ]
+ },
+ {
+  "jp": "田原親賢",
+  "en": "Tawara Chikakata",
+  "en_macron": "Tawara Chikakata",
+  "reading": "たわら ちかかた",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Otomo retainer defending Moji (ep. 14).",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 6,
+  "first_unit": "U02670",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/田原親賢"
+  ]
+ },
+ {
+  "jp": "吉弘鑑理",
+  "en": "Yoshihiro Akimasa",
+  "en_macron": "Yoshihiro Akimasa",
+  "short": "Akimasa",
+  "reading": "よしひろ あきまさ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Otomo senior retainer.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 9,
+  "first_unit": "U03501",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/吉弘鑑理"
+  ]
+ },
+ {
+  "jp": "吉弘鎮信",
+  "en": "Yoshihiro Shigenobu",
+  "en_macron": "Yoshihiro Shigenobu",
+  "short": "Shigenobu",
+  "reading": "よしひろ しげのぶ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Otomo general (ep. 19).",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 4,
+  "first_unit": "U03539",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/吉弘鎮信"
+  ]
+ },
+ {
+  "jp": "志賀親度",
+  "en": "Shiga Chikanori",
+  "en_macron": "Shiga Chikanori",
+  "reading": "しが ちかのり",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Otomo retainer.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 9,
+  "first_unit": "U02670",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/志賀親度"
+  ]
+ },
+ {
+  "jp": "秋月種実",
+  "en": "Akizuki Tanezane",
+  "en_macron": "Akizuki Tanezane",
+  "reading": "あきづき たねざね",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Son of Akizuki Fumitane; seeks Mouri support against the Otomo (ep. 14).",
+  "personality": "Earnest, vengeful for his father.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 14,
+  "first_unit": "U03547",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/秋月種実",
+   "https://en.wikipedia.org/wiki/Akizuki_Tanezane"
+  ]
+ },
+ {
+  "jp": "高橋鑑種",
+  "en": "Takahashi Akitane",
+  "en_macron": "Takahashi Akitane",
+  "short": "Akitane",
+  "reading": "たかはし あきたね",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Otomo retainer who rebels and allies with the Mouri (ep. 19).",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 3,
+  "first_unit": "U05113",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/高橋鑑種"
+  ]
+ },
+ {
+  "jp": "立花鑑載",
+  "en": "Tachibana Akitoshi",
+  "en_macron": "Tachibana Akitoshi",
+  "short": "Akitoshi",
+  "reading": "たちばな あきとし",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Otomo retainer, lord of Tachibana Castle; rebels.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 1,
+  "first_unit": "U02670",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/立花鑑載"
+  ]
+ },
+ {
+  "jp": "河野通直",
+  "en": "Kono Michinao",
+  "en_macron": "Kōno Michinao",
+  "reading": "こうの みちなお",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Lord of Yuzuki Castle (Iyo); requests Mouri aid (ep. 18).",
+  "personality": "Grateful ally.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 6,
+  "first_unit": "U04663",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/河野通直_(弾正少弼)",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ],
+  "note": "Wikipedia lists かわの as an alternative; こうの per the ja.wikipedia game article."
+ },
+ {
+  "jp": "宇都宮豊綱",
+  "en": "Utsunomiya Toyotsuna",
+  "en_macron": "Utsunomiya Toyotsuna",
+  "short": "Toyotsuna",
+  "reading": "うつのみや とよつな",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Lord of Ozu Castle (Iyo), Mouri enemy (ep. 18).",
+  "personality": "Panicky.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 5,
+  "first_unit": "U04860",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/宇都宮豊綱"
+  ]
+ },
+ {
+  "jp": "西園寺公広",
+  "en": "Saionji Kinhiro",
+  "en_macron": "Saionji Kinhiro",
+  "reading": "さいおんじ きんひろ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Iyo warlord allied to Utsunomiya.",
+  "personality": "Calm, respects Motonari.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 3,
+  "first_unit": "U04860",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/西園寺公広"
+  ]
+ },
+ {
+  "jp": "三村元親",
+  "en": "Mimura Motochika",
+  "en_macron": "Mimura Motochika",
+  "reading": "みむら もとちか",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Bitchu warlord who seeks Mouri help, later turns against Terumoto (ep. 21).",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 14,
+  "first_unit": "U04904",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/三村元親"
+  ]
+ },
+ {
+  "jp": "宇喜多直家",
+  "en": "Ukita Naoie",
+  "en_macron": "Ukita Naoie",
+  "reading": "うきた なおいえ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Bizen warlord; surrenders to Terumoto (ep. 21).",
+  "personality": "Calculating.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 5,
+  "first_unit": "U05648",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/宇喜多直家",
+   "https://en.wikipedia.org/wiki/Ukita_Naoie",
+   "https://koei.fandom.com/wiki/Naoie_Ukita"
+  ]
+ },
+ {
+  "jp": "宇喜多忠家",
+  "en": "Ukita Tadaie",
+  "en_macron": "Ukita Tadaie",
+  "reading": "うきた ただいえ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Naoie's younger brother; killed in ep. 21.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 3,
+  "first_unit": "U05648",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/宇喜多忠家"
+  ]
+ },
+ {
+  "jp": "織田信長",
+  "en": "Oda Nobunaga",
+  "en_macron": "Oda Nobunaga",
+  "reading": "おだ のぶなが",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Lord of Owari, later master of central Japan; killed at Honno-ji.",
+  "personality": "Rude, brash, short-tempered and ruthless.",
+  "nicknames": [
+   "うつけ (the fool, early nickname)",
+   "殿 (by his retainers)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 106,
+  "first_unit": "U02184",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/織田信長",
+   "https://en.wikipedia.org/wiki/Oda_Nobunaga",
+   "https://koei.fandom.com/wiki/Nobunaga_Oda",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "織田信雄",
+  "en": "Oda Nobukatsu",
+  "en_macron": "Oda Nobukatsu",
+  "reading": "おだ のぶかつ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Nobunaga's son, figurehead of the anti-Mouri coalition.",
+  "personality": "Timid.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 5,
+  "first_unit": "U06770",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/織田信雄",
+   "https://en.wikipedia.org/wiki/Oda_Nobukatsu",
+   "https://koei.fandom.com/wiki/Nobukatsu_Oda"
+  ]
+ },
+ {
+  "jp": "織田信孝",
+  "en": "Oda Nobutaka",
+  "en_macron": "Oda Nobutaka",
+  "reading": "おだ のぶたか",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Nobunaga's third son, defeated in Kinai (ep. 25).",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 4,
+  "first_unit": "U06532",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/織田信孝",
+   "https://en.wikipedia.org/wiki/Oda_Nobutaka"
+  ]
+ },
+ {
+  "jp": "羽柴秀吉",
+  "en": "Hashiba Hideyoshi",
+  "en_macron": "Hashiba Hideyoshi",
+  "short": "Hideyoshi",
+  "reading": "はしば ひでよし",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Oda general (later Toyotomi Hideyoshi) leading the campaign against the Mouri.",
+  "personality": "Scheming and sly.",
+  "nicknames": [
+   "猿 (Monkey, by Nobunaga/Katsuie)",
+   "おやじ様 (Father, by his retainers Kiyomasa / Mitsunari)",
+   "藤吉郎 (Tokichiro, earlier name)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 70,
+  "first_unit": "U04618",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/豊臣秀吉",
+   "https://koei.fandom.com/wiki/Hideyoshi_Toyotomi",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "羽柴秀長",
+  "en": "Hashiba Hidenaga",
+  "en_macron": "Hashiba Hidenaga",
+  "reading": "はしば ひでなが",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Hideyoshi's younger brother.",
+  "personality": "",
+  "nicknames": [
+   "兄者 (calls Hideyoshi)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 5,
+  "first_unit": "U06158",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/豊臣秀長",
+   "https://en.wikipedia.org/wiki/Toyotomi_Hidenaga",
+   "https://koei.fandom.com/wiki/Hidenaga_Hashiba"
+  ]
+ },
+ {
+  "jp": "柴田勝家",
+  "en": "Shibata Katsuie",
+  "en_macron": "Shibata Katsuie",
+  "reading": "しばた かついえ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Oda senior general.",
+  "personality": "Loud, loyal braggart.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 23,
+  "first_unit": "U03835",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/柴田勝家",
+   "https://en.wikipedia.org/wiki/Shibata_Katsuie",
+   "https://koei.fandom.com/wiki/Katsuie_Shibata"
+  ]
+ },
+ {
+  "jp": "滝川一益",
+  "en": "Takigawa Kazumasu",
+  "en_macron": "Takigawa Kazumasu",
+  "short": "Kazumasu",
+  "reading": "たきがわ かずます",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Oda general.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 9,
+  "first_unit": "U03837",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/滝川一益",
+   "https://en.wikipedia.org/wiki/Takigawa_Kazumasu",
+   "https://koei.fandom.com/wiki/Kazumasu_Takigawa"
+  ]
+ },
+ {
+  "jp": "佐々成政",
+  "en": "Sassa Narimasa",
+  "en_macron": "Sassa Narimasa",
+  "reading": "さっさ なりまさ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Oda general.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 10,
+  "first_unit": "U03837",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/佐々成政",
+   "https://en.wikipedia.org/wiki/Sassa_Narimasa",
+   "https://koei.fandom.com/wiki/Narimasa_Sassa"
+  ]
+ },
+ {
+  "jp": "佐久間信盛",
+  "en": "Sakuma Nobumori",
+  "en_macron": "Sakuma Nobumori",
+  "reading": "さくま のぶもり",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Oda general.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 5,
+  "first_unit": "U03837",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/佐久間信盛",
+   "https://en.wikipedia.org/wiki/Sakuma_Nobumori",
+   "https://koei.fandom.com/wiki/Nobumori_Sakuma"
+  ]
+ },
+ {
+  "jp": "前田利家",
+  "en": "Maeda Toshiie",
+  "en_macron": "Maeda Toshiie",
+  "reading": "まえだ としいえ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Oda general.",
+  "personality": "",
+  "nicknames": [
+   "又佐 / 槍の又佐 (Mataza / Mataza of the Spear)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 5,
+  "first_unit": "U04891",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/前田利家",
+   "https://en.wikipedia.org/wiki/Maeda_Toshiie",
+   "https://koei.fandom.com/wiki/Toshiie_Maeda"
+  ]
+ },
+ {
+  "jp": "丹羽長秀",
+  "en": "Niwa Nagahide",
+  "en_macron": "Niwa Nagahide",
+  "reading": "にわ ながひで",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Oda senior retainer.",
+  "personality": "Stern and cautious.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 7,
+  "first_unit": "U04891",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/丹羽長秀",
+   "https://en.wikipedia.org/wiki/Niwa_Nagahide",
+   "https://koei.fandom.com/wiki/Nagahide_Niwa"
+  ]
+ },
+ {
+  "jp": "九鬼嘉隆",
+  "en": "Kuki Yoshitaka",
+  "en_macron": "Kuki Yoshitaka",
+  "reading": "くき よしたか",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Oda navy commander at Kizugawaguchi.",
+  "personality": "Braggart pirate.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 4,
+  "first_unit": "U05898",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/九鬼嘉隆",
+   "https://en.wikipedia.org/wiki/Kuki_Yoshitaka",
+   "https://koei.fandom.com/wiki/Yoshitaka_Kuki"
+  ]
+ },
+ {
+  "jp": "蜂須賀小六",
+  "en": "Hachisuka Koroku",
+  "en_macron": "Hachisuka Koroku",
+  "reading": "はちすか ころく",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Hideyoshi's veteran retainer (Masakatsu).",
+  "personality": "Boisterous.",
+  "nicknames": [
+   "小六正勝 (Koroku Masakatsu)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 8,
+  "first_unit": "U05933",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/蜂須賀正勝",
+   "https://en.wikipedia.org/wiki/Hachisuka_Masakatsu",
+   "https://koei.fandom.com/wiki/Koroku_Hachisuka"
+  ],
+  "note": "16 chars exactly."
+ },
+ {
+  "jp": "加藤清正",
+  "en": "Kato Kiyomasa",
+  "en_macron": "Katō Kiyomasa",
+  "reading": "かとう きよまさ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Hideyoshi's retainer.",
+  "personality": "Brave, devoted to Hideyoshi.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 9,
+  "first_unit": "U05933",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/加藤清正",
+   "https://en.wikipedia.org/wiki/Katō_Kiyomasa",
+   "https://koei.fandom.com/wiki/Kiyomasa_Katō"
+  ]
+ },
+ {
+  "jp": "福島正則",
+  "en": "Fukushima Masanori",
+  "en_macron": "Fukushima Masanori",
+  "short": "Masanori",
+  "reading": "ふくしま まさのり",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Hideyoshi's retainer.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 5,
+  "first_unit": "U05933",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/福島正則",
+   "https://en.wikipedia.org/wiki/Fukushima_Masanori",
+   "https://koei.fandom.com/wiki/Masanori_Fukushima"
+  ]
+ },
+ {
+  "jp": "黒田官兵衛",
+  "en": "Kuroda Kanbei",
+  "en_macron": "Kuroda Kanbei",
+  "reading": "くろだ かんべえ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Hideyoshi's strategist (Yoshitaka).",
+  "personality": "Shrewd strategist.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 14,
+  "first_unit": "U06158",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/黒田孝高",
+   "https://en.wikipedia.org/wiki/Kuroda_Yoshitaka",
+   "https://koei.fandom.com/wiki/Kanbei_Kuroda"
+  ]
+ },
+ {
+  "jp": "石田三成",
+  "en": "Ishida Mitsunari",
+  "en_macron": "Ishida Mitsunari",
+  "reading": "いしだ みつなり",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Hideyoshi's retainer defending Himeji.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 2,
+  "first_unit": "U06364",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/石田三成",
+   "https://en.wikipedia.org/wiki/Ishida_Mitsunari",
+   "https://koei.fandom.com/wiki/Mitsunari_Ishida"
+  ]
+ },
+ {
+  "jp": "明智光秀",
+  "en": "Akechi Mitsuhide",
+  "en_macron": "Akechi Mitsuhide",
+  "reading": "あけち みつひで",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Oda general who kills Nobunaga at Honno-ji; defeated by Terumoto.",
+  "personality": "Righteous, compassionate, critical of Nobunaga's cruelty.",
+  "nicknames": [
+   "光秀殿"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 49,
+  "first_unit": "U04619",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/明智光秀",
+   "https://en.wikipedia.org/wiki/Akechi_Mitsuhide",
+   "https://koei.fandom.com/wiki/Mitsuhide_Akechi",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "明智秀満",
+  "en": "Akechi Hidemitsu",
+  "en_macron": "Akechi Hidemitsu",
+  "reading": "あけち ひでみつ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Akechi general defending Azuchi.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 5,
+  "first_unit": "U06384",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/明智秀満",
+   "https://en.wikipedia.org/wiki/Akechi_Hidemitsu",
+   "https://koei.fandom.com/wiki/Hidemitsu_Akechi"
+  ]
+ },
+ {
+  "jp": "斎藤利三",
+  "en": "Saito Toshimitsu",
+  "en_macron": "Saitō Toshimitsu",
+  "reading": "さいとう としみつ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Akechi senior retainer.",
+  "personality": "Loyal to the end.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 14,
+  "first_unit": "U06384",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/斎藤利三",
+   "https://en.wikipedia.org/wiki/Saitō_Toshimitsu",
+   "https://koei.fandom.com/wiki/Toshimitsu_Saitō",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "細川藤孝",
+  "en": "Hosokawa Fujitaka",
+  "en_macron": "Hosokawa Fujitaka",
+  "short": "Fujitaka",
+  "reading": "ほそかわ ふじたか",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Lord of Tango, reluctant Akechi ally (ep. 25).",
+  "personality": "Philosophical.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 3,
+  "first_unit": "U06537",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/細川藤孝",
+   "https://en.wikipedia.org/wiki/Hosokawa_Fujitaka",
+   "https://koei.fandom.com/wiki/Fujitaka_Hosokawa"
+  ]
+ },
+ {
+  "jp": "筒井順慶",
+  "en": "Tsutsui Junkei",
+  "en_macron": "Tsutsui Junkei",
+  "reading": "つつい じゅんけい",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Lord of Yamato, reluctant Akechi ally (ep. 25).",
+  "personality": "Would rather stay neutral.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 3,
+  "first_unit": "U06536",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/筒井順慶",
+   "https://en.wikipedia.org/wiki/Tsutsui_Junkei"
+  ]
+ },
+ {
+  "jp": "徳川家康",
+  "en": "Tokugawa Ieyasu",
+  "en_macron": "Tokugawa Ieyasu",
+  "reading": "とくがわ いえやす",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Oda ally, later the final antagonist (ep. 26-final). Childhood name Takechiyo, earlier name Matsudaira Motoyasu.",
+  "personality": "Patient, calculating.",
+  "nicknames": [
+   "竹千代 (Takechiyo)",
+   "松平元康 (Matsudaira Motoyasu)",
+   "街道一の弓取り (the Finest Bowman of the Tokaido)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 59,
+  "first_unit": "U04615",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/徳川家康",
+   "https://en.wikipedia.org/wiki/Tokugawa_Ieyasu",
+   "https://koei.fandom.com/wiki/Ieyasu_Tokugawa",
+   "https://ja.wikipedia.org/wiki/毛利元就_誓いの三矢"
+  ]
+ },
+ {
+  "jp": "竹千代",
+  "en": "Takechiyo",
+  "en_macron": "Takechiyo",
+  "reading": "たけちよ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia (Tokugawa Ieyasu)",
+  "role": "Childhood name of Tokugawa Ieyasu, hostage of the Oda (ep. 9-10, final).",
+  "personality": "Composed, serious boy; hardened by Nobunaga.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 23,
+  "first_unit": "U02178",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/徳川家康",
+   "https://en.wikipedia.org/wiki/Tokugawa_Ieyasu",
+   "https://koei.fandom.com/wiki/Ieyasu_Tokugawa"
+  ]
+ },
+ {
+  "jp": "松平元康",
+  "en": "Matsudaira Motoyasu",
+  "en_macron": "Matsudaira Motoyasu",
+  "short": "Motoyasu",
+  "reading": "まつだいら もとやす",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia (Tokugawa Ieyasu)",
+  "role": "Earlier name of Tokugawa Ieyasu as an Imagawa vassal at Okehazama (ep. 15).",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 4,
+  "first_unit": "U03855",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/徳川家康",
+   "https://en.wikipedia.org/wiki/Tokugawa_Ieyasu",
+   "https://koei.fandom.com/wiki/Ieyasu_Tokugawa"
+  ]
+ },
+ {
+  "jp": "松平広忠",
+  "en": "Matsudaira Hirotada",
+  "en_macron": "Matsudaira Hirotada",
+  "short": "Matsudaira H.",
+  "reading": "まつだいら ひろただ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Father of Takechiyo (Ieyasu).",
+  "personality": "Gentle father (final scene).",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 1,
+  "first_unit": "U07241",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/松平広忠",
+   "https://en.wikipedia.org/wiki/Matsudaira_Hirotada"
+  ]
+ },
+ {
+  "jp": "本多忠勝",
+  "en": "Honda Tadakatsu",
+  "en_macron": "Honda Tadakatsu",
+  "reading": "ほんだ ただかつ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Tokugawa general.",
+  "personality": "Eager, fearless warrior.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 11,
+  "first_unit": "U06770",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/本多忠勝",
+   "https://en.wikipedia.org/wiki/Honda_Tadakatsu",
+   "https://koei.fandom.com/wiki/Tadakatsu_Honda"
+  ]
+ },
+ {
+  "jp": "井伊直政",
+  "en": "Ii Naomasa",
+  "en_macron": "Ii Naomasa",
+  "reading": "いい なおまさ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Tokugawa general.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 7,
+  "first_unit": "U06770",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/井伊直政",
+   "https://en.wikipedia.org/wiki/Ii_Naomasa",
+   "https://koei.fandom.com/wiki/Naomasa_Ii"
+  ]
+ },
+ {
+  "jp": "榊原康政",
+  "en": "Sakakibara Yasumasa",
+  "en_macron": "Sakakibara Yasumasa",
+  "short": "Yasumasa",
+  "reading": "さかきばら やすまさ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Tokugawa general.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 9,
+  "first_unit": "U06770",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/榊原康政",
+   "https://en.wikipedia.org/wiki/Sakakibara_Yasumasa",
+   "https://koei.fandom.com/wiki/Yasumasa_Sakakibara"
+  ]
+ },
+ {
+  "jp": "酒井忠次",
+  "en": "Sakai Tadatsugu",
+  "en_macron": "Sakai Tadatsugu",
+  "reading": "さかい ただつぐ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Tokugawa senior general.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 7,
+  "first_unit": "U06770",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/酒井忠次",
+   "https://en.wikipedia.org/wiki/Sakai_Tadatsugu",
+   "https://koei.fandom.com/wiki/Tadatsugu_Sakai"
+  ]
+ },
+ {
+  "jp": "石川数正",
+  "en": "Ishikawa Kazumasa",
+  "en_macron": "Ishikawa Kazumasa",
+  "short": "Kazumasa",
+  "reading": "いしかわ かずまさ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Tokugawa senior retainer.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 9,
+  "first_unit": "U06770",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/石川数正",
+   "https://en.wikipedia.org/wiki/Ishikawa_Kazumasa"
+  ]
+ },
+ {
+  "jp": "服部半蔵",
+  "en": "Hattori Hanzo",
+  "en_macron": "Hattori Hanzō",
+  "reading": "はっとり はんぞう",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Tokugawa ninja leader (Masanari).",
+  "personality": "Sinister and sadistic; enjoys killing.",
+  "nicknames": [
+   "半蔵"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 11,
+  "first_unit": "U06771",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/服部正成",
+   "https://en.wikipedia.org/wiki/Hattori_Hanzō",
+   "https://koei.fandom.com/wiki/Hanzō_Hattori"
+  ]
+ },
+ {
+  "jp": "今川義元",
+  "en": "Imagawa Yoshimoto",
+  "en_macron": "Imagawa Yoshimoto",
+  "short": "Yoshimoto",
+  "reading": "いまがわ よしもと",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Lord of Suruga, killed at Okehazama (ep. 15).",
+  "personality": "Complacent.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 3,
+  "first_unit": "U03849",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/今川義元",
+   "https://en.wikipedia.org/wiki/Imagawa_Yoshimoto",
+   "https://koei.fandom.com/wiki/Yoshimoto_Imagawa"
+  ]
+ },
+ {
+  "jp": "足利義昭",
+  "en": "Ashikaga Yoshiaki",
+  "en_macron": "Ashikaga Yoshiaki",
+  "short": "Yoshiaki",
+  "reading": "あしかが よしあき",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Fifteenth Ashikaga shogun; exiled by Nobunaga, seeks Mouri support.",
+  "personality": "Spoiled, selfish and petulant.",
+  "nicknames": [
+   "将軍 (the Shogun)",
+   "義昭様"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 44,
+  "first_unit": "U04889",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/足利義昭",
+   "https://en.wikipedia.org/wiki/Ashikaga_Yoshiaki",
+   "https://koei.fandom.com/wiki/Yoshiaki_Ashikaga"
+  ]
+ },
+ {
+  "jp": "本願寺顕如",
+  "en": "Honganji Kennyo",
+  "en_macron": "Honganji Kennyo",
+  "reading": "ほんがんじ けんにょ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Head abbot of the Ishiyama Hongan-ji (ep. 22).",
+  "personality": "Devout, grateful.",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 3,
+  "first_unit": "U05703",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/顕如",
+   "https://en.wikipedia.org/wiki/Kōsa",
+   "https://koei.fandom.com/wiki/Kennyo"
+  ]
+ },
+ {
+  "jp": "本願寺教如",
+  "en": "Honganji Kyonyo",
+  "en_macron": "Honganji Kyonyo",
+  "reading": "ほんがんじ きょうにょ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Kennyo's son (one line, ep. 22).",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": true,
+  "lines": 1,
+  "first_unit": "U05703",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/教如"
+  ]
+ },
+ {
+  "jp": "恵心",
+  "en": "Eshin",
+  "en_macron": "Eshin",
+  "reading": "えしん",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia (竺雲恵心, a monk)",
+  "role": "Abbot of Ankokuji who raises Takewakamaru (Ekei) and later helps Shino.",
+  "personality": "Kind, wise old monk.",
+  "nicknames": [
+   "恵心様"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 15,
+  "first_unit": "U01670",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/竺雲恵心"
+  ],
+  "note": "Historical: Jikuun Eshin, Ekei's teacher."
+ },
+ {
+  "jp": "町民",
+  "en": "Townsperson",
+  "en_macron": "Townsperson",
+  "reading": "ちょうみん",
+  "reading_confidence": "generic",
+  "gender": "mixed",
+  "gender_evidence": "Label shared by many different NPCs; script shows both female (あたし, ～ですわ/かしら) and male speech under it",
+  "role": "Generic speaker label. Castle-town resident (most common NPC).",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 1584,
+  "first_unit": "U00045",
+  "sources": [
+   "script: first line U00045 (work/source/text/units.json)"
+  ],
+  "note": "Use \"Townsperson\"; \"Townsfolk\" for plural mentions. Never assume he/she for a given line without context."
+ },
+ {
+  "jp": "農民",
+  "en": "Farmer",
+  "en_macron": "Farmer",
+  "reading": "のうみん",
+  "reading_confidence": "generic",
+  "gender": "mixed",
+  "gender_evidence": "Label shared by many different NPCs; script shows both female (あたし, ～ですわ/かしら) and male speech under it",
+  "role": "Generic speaker label. Farmer / peasant NPC.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 913,
+  "first_unit": "U00047",
+  "sources": [
+   "script: first line U00047 (work/source/text/units.json)"
+  ],
+  "note": "Prefer \"Farmer\" over \"Peasant\" (neutral, shorter)."
+ },
+ {
+  "jp": "兵士",
+  "en": "Soldier",
+  "en_macron": "Soldier",
+  "reading": "へいし",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. Generic soldier, guard, messenger or facility attendant (also explains the training ground and storehouse).",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 821,
+  "first_unit": "U00025",
+  "sources": [
+   "script: first line U00025 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "老人",
+  "en": "Elder",
+  "en_macron": "Elder",
+  "reading": "ろうじん",
+  "reading_confidence": "generic",
+  "gender": "mixed",
+  "gender_evidence": "Label shared by many NPCs; includes women (title U06483 老女; あたし in several lines)",
+  "role": "Generic speaker label. Elderly NPC; also the shogi master in the training ground.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 794,
+  "first_unit": "U00047",
+  "sources": [
+   "script: first line U00047 (work/source/text/units.json)"
+  ],
+  "note": "\"Old Man\" would be wrong for some lines; \"Elder\" is neutral and short."
+ },
+ {
+  "jp": "男の子",
+  "en": "Boy",
+  "en_macron": "Boy",
+  "reading": "おとこのこ",
+  "reading_confidence": "generic",
+  "gender": "male",
+  "gender_evidence": "Label itself (男の子 = boy)",
+  "role": "Generic speaker label. Young boy NPC.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 414,
+  "first_unit": "U00262",
+  "sources": [
+   "script: first line U00262 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "女の子",
+  "en": "Girl",
+  "en_macron": "Girl",
+  "reading": "おんなのこ",
+  "reading_confidence": "generic",
+  "gender": "female",
+  "gender_evidence": "Label itself (女の子 = girl)",
+  "role": "Generic speaker label. Young girl NPC.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 290,
+  "first_unit": "U00266",
+  "sources": [
+   "script: first line U00266 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "武芸者",
+  "en": "Swordsman",
+  "en_macron": "Swordsman",
+  "reading": "ぶげいしゃ",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. Wandering martial artist / duellist NPC; also the game's 武芸者 unit class.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 399,
+  "first_unit": "U00293",
+  "sources": [
+   "script: first line U00293 (work/source/text/units.json)"
+  ],
+  "note": "Matches the class name \"Swordsman\" (Koei wiki). If a female 武芸者 line is confirmed, switch the label to \"Martial Artist\"."
+ },
+ {
+  "jp": "侍女",
+  "en": "Maid",
+  "en_macron": "Maid",
+  "reading": "じじょ",
+  "reading_confidence": "generic",
+  "gender": "female",
+  "gender_evidence": "侍女 = female attendant; named maids 松 (Matsu) and 竹 (Take) (U00284, U00288); ～ですわ speech",
+  "role": "Generic speaker label. Lady-in-waiting / maid in the castle residences.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 291,
+  "first_unit": "U00283",
+  "sources": [
+   "script: first line U00283 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "薬師",
+  "en": "Apothecary",
+  "en_macron": "Apothecary",
+  "reading": "くすし",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. Physician / medicine maker NPC (and the craftsman type).",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 254,
+  "first_unit": "U00093",
+  "sources": [
+   "script: first line U00093 (work/source/text/units.json)"
+  ],
+  "note": "Reading くすし (archaic \"physician\"); やくし also possible. Not \"Pharmacist\"."
+ },
+ {
+  "jp": "僧侶",
+  "en": "Monk",
+  "en_macron": "Monk",
+  "reading": "そうりょ",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. Temple monk NPC (explains skills, gives fortunes).",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 240,
+  "first_unit": "U00278",
+  "sources": [
+   "script: first line U00278 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "虚無僧",
+  "en": "Komuso Monk",
+  "en_macron": "Komuso Monk",
+  "reading": "こむそう",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. Wandering basket-hatted flute monk who brings news and rumours.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 236,
+  "first_unit": "U01920",
+  "sources": [
+   "script: first line U01920 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "忍者",
+  "en": "Ninja",
+  "en_macron": "Ninja",
+  "reading": "にんじゃ",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. Generic ninja (Mouri, Amago or Tokugawa).",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 232,
+  "first_unit": "U00036",
+  "sources": [
+   "script: first line U00036 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "くノ一",
+  "en": "Kunoichi",
+  "en_macron": "Kunoichi",
+  "reading": "くのいち",
+  "reading_confidence": "generic",
+  "gender": "female",
+  "gender_evidence": "くノ一 = female ninja by definition",
+  "role": "Generic speaker label. Generic female ninja.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 224,
+  "first_unit": "U01223",
+  "sources": [
+   "script: first line U01223 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "海賊",
+  "en": "Pirate",
+  "en_macron": "Pirate",
+  "reading": "かいぞく",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. Pirate / sailor NPC (also gossip about craftsmen).",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 167,
+  "first_unit": "U02924",
+  "sources": [
+   "script: first line U02924 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "山賊",
+  "en": "Bandit",
+  "en_macron": "Bandit",
+  "reading": "さんぞく",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. Bandit NPC.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 158,
+  "first_unit": "U00396",
+  "sources": [
+   "script: first line U00396 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "軍師",
+  "en": "Strategist",
+  "en_macron": "Strategist",
+  "reading": "ぐんし",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. Tactician NPC who explains unit types; also shogi opponent. Same word is the 軍師 unit class.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 140,
+  "first_unit": "U01343",
+  "sources": [
+   "script: first line U01343 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "兵法家",
+  "en": "Tactician",
+  "en_macron": "Tactician",
+  "reading": "へいほうか",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. Military-science scholar NPC giving battle tips.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 116,
+  "first_unit": "U00633",
+  "sources": [
+   "script: first line U00633 (work/source/text/units.json)"
+  ],
+  "note": "Kept distinct from 軍師 \"Strategist\"."
+ },
+ {
+  "jp": "山伏",
+  "en": "Yamabushi",
+  "en_macron": "Yamabushi",
+  "reading": "やまぶし",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. Mountain ascetic NPC (some with strange arts).",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 55,
+  "first_unit": "U00045",
+  "sources": [
+   "script: first line U00045 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "商人",
+  "en": "Merchant",
+  "en_macron": "Merchant",
+  "reading": "しょうにん",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. Market merchant NPC.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 43,
+  "first_unit": "U00086",
+  "sources": [
+   "script: first line U00086 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "家臣",
+  "en": "Retainer",
+  "en_macron": "Retainer",
+  "reading": "かしん",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. Unnamed retainer of any clan.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 37,
+  "first_unit": "U00356",
+  "sources": [
+   "script: first line U00356 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "演習官",
+  "en": "Drill Officer",
+  "en_macron": "Drill Officer",
+  "reading": "えんしゅうかん",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. Training-ground official who explains drills.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 24,
+  "first_unit": "U00089",
+  "sources": [
+   "script: first line U00089 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "倉庫番",
+  "en": "Storekeeper",
+  "en_macron": "Storekeeper",
+  "reading": "そうこばん",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. Storehouse keeper who explains the storehouse.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 22,
+  "first_unit": "U00075",
+  "sources": [
+   "script: first line U00075 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "宣教師",
+  "en": "Missionary",
+  "en_macron": "Missionary",
+  "reading": "せんきょうし",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. Portuguese missionary (speaks in katakana with an accent; keep a foreign accent in English).",
+  "personality": "Polite, earnest Portuguese missionary. Voice (user decision 20A, 2026-10-28): the halting-comma style - simple, polite, mostly grammatical English cut into short phrases by commas, following the pauses of the katakana (\"You must, believe, in God. Do this, and surely, you will be saved.\"). Small slips only where the Japanese itself slips (U03755 クダサリ: \"for to spread\"). Portuguese words stay (Obrigado, Adios, Ate breve). No pidgin (\"Me go\", \"It mean\") and no accent spelling (\"zat\", \"vill\").",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 22,
+  "first_unit": "U01317",
+  "sources": [
+   "script: first line U01317 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "琵琶法師",
+  "en": "Biwa Minstrel",
+  "en_macron": "Biwa Minstrel",
+  "reading": "びわほうし",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. Blind lute-playing storyteller monk.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 17,
+  "first_unit": "U01920",
+  "sources": [
+   "script: first line U01920 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "担当官",
+  "en": "Workshop Clerk",
+  "en_macron": "Workshop Clerk",
+  "reading": "たんとうかん",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. Official in charge of the workshop (工房), ep. 1 tutorial.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 18,
+  "first_unit": "U00079",
+  "sources": [
+   "script: first line U00079 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "荷駄隊",
+  "en": "Supply Unit",
+  "en_macron": "Supply Unit",
+  "reading": "にだたい",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. Member of a supply / transport unit.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 10,
+  "first_unit": "U04036",
+  "sources": [
+   "script: first line U04036 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "騎馬隊",
+  "en": "Cavalry",
+  "en_macron": "Cavalry",
+  "reading": "きばたい",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. Member of a cavalry unit.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 9,
+  "first_unit": "U00664",
+  "sources": [
+   "script: first line U00664 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "槍隊",
+  "en": "Spearmen",
+  "en_macron": "Spearmen",
+  "reading": "やりたい",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. Member of a spear unit.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 3,
+  "first_unit": "U00339",
+  "sources": [
+   "script: first line U00339 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "小姓",
+  "en": "Page",
+  "en_macron": "Page",
+  "reading": "こしょう",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. A lord's page (e.g. Ashikaga Yoshiaki's page at Kokoku-ji, U05691).",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 2,
+  "first_unit": "U05691",
+  "sources": [
+   "script: first line U05691 (work/source/text/units.json)",
+   "follow-up pass 2026-10-28 (reports/_followup.md)"
+  ]
+ },
+ {
+  "jp": "武将",
+  "en": "Commander",
+  "en_macron": "Commander",
+  "reading": "ぶしょう",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. Unnamed samurai commander/officer of any army.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 22,
+  "first_unit": "U00026",
+  "sources": [
+   "script: first line U00026 (work/source/text/units.json)"
+  ],
+  "note": "I-29 (UI gaps pass 2026-10-28): in the UI the role word 武将 is \"Officer(s)\" (E0148, E0329, E0333, E0595; descriptions \"officer\"); this speaker label stays \"Commander\"."
+ },
+ {
+  "jp": "毛利軍兵士",
+  "en": "Mouri Soldier",
+  "en_macron": "Mouri Soldier",
+  "reading": "もうりぐんへいし",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Label shared by many NPCs; no consistent gender marker",
+  "role": "Generic speaker label. Mouri foot soldier (opening scene).",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 9,
+  "first_unit": "U00003",
+  "sources": [
+   "script: first line U00003 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "謎の僧侶",
+  "en": "Mysterious Monk",
+  "en_macron": "Mysterious Monk",
+  "reading": "なぞのそうりょ",
+  "reading_confidence": "generic",
+  "gender": "male",
+  "gender_evidence": "Script U07191: 鹿之介の子であったか (Shikanosuke's son)",
+  "role": "Generic speaker label. Masked monk who attacks Kikkawa Motoharu and later joins the Tokugawa; revealed at Sekigahara to be Shikanosuke's son (spoiler).",
+  "personality": "Cold avenger.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 6,
+  "first_unit": "U06774",
+  "sources": [
+   "script: first line U06774 (work/source/text/units.json)"
+  ],
+  "note": "Do not reveal his identity in the label."
+ },
+ {
+  "jp": "室",
+  "en": "Hirotada's Wife",
+  "en_macron": "Hirotada's Wife",
+  "reading": "しつ",
+  "reading_confidence": "generic",
+  "gender": "female",
+  "gender_evidence": "室 = wife/consort; final scene with Matsudaira Hirotada and Takechiyo (U07241-U07243)",
+  "role": "Generic speaker label. Matsudaira Hirotada's wife (Takechiyo's mother) in the final scene.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": true,
+  "lines": 1,
+  "first_unit": "U07243",
+  "sources": [
+   "script: first line U07243 (work/source/text/units.json)"
+  ],
+  "note": "Historically Odai no Kata (於大の方); unnamed in the script. Alternative label \"Lady\"."
+ },
+ {
+  "jp": "鹿之介の母",
+  "en": "Shikanosuke's Mother",
+  "en_macron": "Shikanosuke's Mother",
+  "short": "Lady Yamanaka",
+  "reading": "しかのすけのはは",
+  "reading_confidence": "generic",
+  "gender": "female",
+  "gender_evidence": "Script: gives birth to Shikanosuke (U01908); he calls her 母上 (U04623)",
+  "role": "Wife of Yamanaka Mitsuyuki and mother of Shikanosuke; raises him in Izumo.",
+  "personality": "Proud Amago widow, bitter toward the Mouri; gives her son his father's sword.",
+  "nicknames": [
+   "母上 (by Shikanosuke)"
+  ],
+  "historical": true,
+  "speaking": true,
+  "lines": 18,
+  "first_unit": "U01908",
+  "sources": [
+   "script: first line U01908 (work/source/text/units.json)"
+  ],
+  "note": "Real person, unnamed in the script."
+ },
+ {
+  "jp": "毛利弘元",
+  "en": "Mouri Hiromoto",
+  "en_macron": "Mōri Hiromoto",
+  "reading": "もうり ひろもと",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Non-speaking. Father of Okimoto, Motonari and Mototsuna (died before the story). Mentioned in U00931, U01399.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": false,
+  "sources": [
+   "https://ja.wikipedia.org/wiki/毛利弘元",
+   "https://en.wikipedia.org/wiki/Mōri_Hiromoto",
+   "script: U00931, U01399 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "小早川興景",
+  "en": "Kobayakawa Okikage",
+  "en_macron": "Kobayakawa Okikage",
+  "short": "Okikage",
+  "reading": "こばやかわ おきかげ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Non-speaking. Head of the Takehara Kobayakawa, married to Motonari's niece; his death opens the way for Tokujumaru's adoption. Mentioned in U01637.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": false,
+  "sources": [
+   "https://ja.wikipedia.org/wiki/小早川興景",
+   "script: U01637 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "吉川経家",
+  "en": "Kikkawa Tsuneie",
+  "en_macron": "Kikkawa Tsuneie",
+  "reading": "きっかわ つねいえ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Non-speaking. Kikkawa commander of Tottori Castle who commits suicide to save the garrison. Mentioned in U06199, U06201, U06203.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": false,
+  "sources": [
+   "https://ja.wikipedia.org/wiki/吉川経家",
+   "script: U06199, U06201, U06203 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "吉川経安",
+  "en": "Kikkawa Tsuneyasu",
+  "en_macron": "Kikkawa Tsuneyasu",
+  "short": "Tsuneyasu",
+  "reading": "きっかわ つねやす",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Non-speaking. Father of Tsuneie, head of a Kikkawa branch. Mentioned in U06199.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": false,
+  "sources": [
+   "https://ja.wikipedia.org/wiki/吉川経安",
+   "script: U06199 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "足利義輝",
+  "en": "Ashikaga Yoshiteru",
+  "en_macron": "Ashikaga Yoshiteru",
+  "short": "Yoshiteru",
+  "reading": "あしかが よしてる",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Non-speaking. Thirteenth Ashikaga shogun; mediates (for a price) between the Mouri and Otomo. Mentioned in U04084, U04087.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": false,
+  "sources": [
+   "https://ja.wikipedia.org/wiki/足利義輝",
+   "https://en.wikipedia.org/wiki/Ashikaga_Yoshiteru",
+   "script: U04084, U04087 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "織田信秀",
+  "en": "Oda Nobuhide",
+  "en_macron": "Oda Nobuhide",
+  "reading": "おだ のぶひで",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Non-speaking. Nobunaga's father; his funeral is shown in ep. 11. Mentioned in U02177, U02678.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": false,
+  "sources": [
+   "https://ja.wikipedia.org/wiki/織田信秀",
+   "https://en.wikipedia.org/wiki/Oda_Nobuhide",
+   "script: U02177, U02678 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "別所長治",
+  "en": "Bessho Nagaharu",
+  "en_macron": "Bessho Nagaharu",
+  "reading": "べっしょ ながはる",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Non-speaking. Oda-side lord of Miki Castle who rebels at Takakage's urging. Mentioned in U05949, U05958.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": false,
+  "sources": [
+   "https://ja.wikipedia.org/wiki/別所長治",
+   "https://en.wikipedia.org/wiki/Bessho_Nagaharu",
+   "script: U05949, U05958 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "荒木村重",
+  "en": "Araki Murashige",
+  "en_macron": "Araki Murashige",
+  "reading": "あらき むらしげ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Non-speaking. Lord of Arioka Castle who rebels against Nobunaga. Mentioned in U06197, U06199.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": false,
+  "sources": [
+   "https://ja.wikipedia.org/wiki/荒木村重",
+   "https://en.wikipedia.org/wiki/Araki_Murashige",
+   "script: U06197, U06199 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "秋月文種",
+  "en": "Akizuki Fumitane",
+  "en_macron": "Akizuki Fumitane",
+  "reading": "あきづき ふみたね",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Non-speaking. Father of Akizuki Tanezane, killed by the Otomo. Mentioned in U03539, U03542.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": false,
+  "sources": [
+   "https://ja.wikipedia.org/wiki/秋月文種",
+   "script: U03539, U03542 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "山名豊国",
+  "en": "Yamana Toyokuni",
+  "en_macron": "Yamana Toyokuni",
+  "reading": "やまな とよくに",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Non-speaking. Inaba lord backing the Amago remnants. Mentioned in U05407, U05422.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": false,
+  "sources": [
+   "https://ja.wikipedia.org/wiki/山名豊国",
+   "https://en.wikipedia.org/wiki/Yamana_Toyokuni",
+   "script: U05407, U05422 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "斎藤道三",
+  "en": "Saito Dosan",
+  "en_macron": "Saitō Dōsan",
+  "reading": "さいとう どうさん",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Non-speaking. \"The Viper\" (まむし), former master of Inabayama/Gifu. Mentioned in U07218.",
+  "personality": "",
+  "nicknames": [
+   "まむし (the Viper)"
+  ],
+  "historical": true,
+  "speaking": false,
+  "sources": [
+   "https://ja.wikipedia.org/wiki/斎藤道三",
+   "https://en.wikipedia.org/wiki/Saitō_Dōsan",
+   "script: U07218 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "石川久孝",
+  "en": "Ishikawa Hisataka",
+  "en_macron": "Ishikawa Hisataka",
+  "short": "Hisataka",
+  "reading": "いしかわ ひさたか",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No individual Wikipedia article; no gender marker in script",
+  "role": "Non-speaking. Bitchu lord, ally of Mimura Motochika. Mentioned in U05465.",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": false,
+  "sources": [
+   "script: U05465 (work/source/text/units.json)"
+  ],
+  "note": "Historical Bitchu warlord (Ishikawa clan of Bitchu-Takamatsu) but no Wikipedia article found; reading guessed."
+ },
+ {
+  "jp": "粟屋",
+  "en": "Awaya",
+  "en_macron": "Awaya",
+  "reading": "あわや",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "Only the surname appears (粟屋様の部隊)",
+  "role": "Non-speaking. Mouri officer whose unit is wiped out in the opening scene. Mentioned in U00003.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": false,
+  "sources": [
+   "script: U00003 (work/source/text/units.json)"
+  ],
+  "note": "Probably the Mouri retainer family Awaya (粟屋氏); given name not stated."
+ },
+ {
+  "jp": "佐吉",
+  "en": "Sakichi",
+  "en_macron": "Sakichi",
+  "reading": "さきち",
+  "reading_confidence": "guess",
+  "gender": "male",
+  "gender_evidence": "Script U00006: 俺の女房の弟 (my wife's younger brother)",
+  "role": "Non-speaking. Dead Mouri soldier in the opening scene. Mentioned in U00005, U00006.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": false,
+  "sources": [
+   "script: U00005, U00006 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "松",
+  "en": "Matsu",
+  "en_macron": "Matsu",
+  "reading": "まつ",
+  "reading_confidence": "guess",
+  "gender": "female",
+  "gender_evidence": "Script U00284: 杉の方の侍女で松と申します (a maid)",
+  "role": "Lady Sugi's maid; speaks under the 侍女 label. Mentioned in U00284.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": false,
+  "sources": [
+   "script: U00284 (work/source/text/units.json)"
+  ]
+ },
+ {
+  "jp": "竹",
+  "en": "Take",
+  "en_macron": "Take",
+  "reading": "たけ",
+  "reading_confidence": "guess",
+  "gender": "female",
+  "gender_evidence": "Script U00288: 杉の方の侍女で竹と申します (a maid)",
+  "role": "Lady Sugi's maid; speaks under the 侍女 label. Mentioned in U00288.",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": false,
+  "sources": [
+   "script: U00288 (work/source/text/units.json)"
+  ],
+  "note": "\"Take\" (竹, bamboo) is a woman's name, not the English verb; consider \"Lady Take\" only if ambiguity arises in context."
+ },
+ {
+  "jp": "あやめ",
+  "en": "Ayame",
+  "en_macron": "Ayame",
+  "reading": "あやめ",
+  "reading_confidence": "guess",
+  "gender": "female",
+  "gender_evidence": "Script: speaks under the label くノ一12 (kunoichi); calls herself 天下の盗人忍者・あやめ様 (U03286).",
+  "role": "Ninja thief who keeps turning up hunting hidden castle treasure with her partner Sakichi (U03286, U03550, U04355, U04643, U04912); later teases Terumoto (U05941, U06212). Speaks under the label くノ一12.",
+  "personality": "Brash, cheeky and boastful; calls herself the finest ninja thief in the land; teases Terumoto as a \"little boy\".",
+  "nicknames": [
+   "あねさん (Sis, by Sakichi)",
+   "天下の盗人忍者 (the finest ninja thief in the land, self-styled)"
+  ],
+  "historical": false,
+  "speaking": false,
+  "sources": [
+   "script: U03286-U06212 (work/source/text/units.json)",
+   "follow-up pass 2026-10-28 (reports/_followup.md)"
+  ],
+  "note": "Written in kana in the script, so the reading is certain. Also in terms.json (minor_name)."
+ },
+ {
+  "jp": "左吉",
+  "en": "Sakichi",
+  "en_macron": "Sakichi",
+  "reading": "さきち",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "Speaks under the label 忍者12; no gender marker in the script (calls Ayame あねさん).",
+  "role": "Ayame's partner in the ninja-thief pair (U03286-U06212). Speaks under the label 忍者12. Different person from 佐吉 'Sakichi', the dead soldier of the opening (U00005).",
+  "personality": "Nervous sidekick; finds Ayame creepy when she gloats (U03285).",
+  "nicknames": [],
+  "historical": false,
+  "speaking": false,
+  "sources": [
+   "script: U03285-U06212 (work/source/text/units.json)",
+   "follow-up pass 2026-10-28 (reports/_followup.md)"
+  ],
+  "note": "Same romanization as 佐吉 (U00005) by coincidence of reading; whether to tell them apart is in reports/_decisions.md. Also in terms.json (minor_name)."
+ },
+ {
+  "jp": "お郁",
+  "en": "Iku",
+  "en_macron": "Iku",
+  "reading": "いく",
+  "reading_confidence": "guess",
+  "gender": "female",
+  "gender_evidence": "Script: Elder 14's 娘 (daughter) (U06484); お郁 in her mother's lines (U06479).",
+  "role": "Woman in Himeji (label 農民24) whom Terumoto reunites with the mother who abandoned her, identified by a birthmark on the right arm (U06473-U06487, again U06690-U06696).",
+  "personality": "Forgiving; overjoyed that her mother is alive.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": false,
+  "sources": [
+   "script: U06473-U06696 (work/source/text/units.json)",
+   "follow-up pass 2026-10-28 (reports/_followup.md)"
+  ],
+  "note": "The お prefix is dropped by the honorific policy (terms.json). Also in terms.json (minor_name)."
+ },
+ {
+  "jp": "一藤宜範",
+  "en": "Ichifuji Yoshinori",
+  "en_macron": "Ichifuji Yoshinori",
+  "short": "Yoshinori",
+  "reading": "いちふじ よしのり",
+  "reading_confidence": "guess",
+  "gender": "unknown",
+  "gender_evidence": "No gender marker in the profile text (P0088, P0089); 024 uses no pronouns.",
+  "role": "Non-speaking. Game-original genin: the last opponent of a six-bout winning streak at the Training Ground, who then joins the Mouri Army (format profiles P0088 / P0089, Ep. 19).",
+  "personality": "A masterless lone wolf.",
+  "nicknames": [],
+  "historical": false,
+  "speaking": false,
+  "sources": [
+   "ui: P0088, P0089 (024)",
+   "tools/names.py name box \"Yoshinori\"",
+   "UI gaps pass 2026-10-28 (work/translation/en/ui/reports/_gaps.md 1.8)"
+  ],
+  "note": "Both readings are guesses: the family name 一藤 is not read anywhere (いちふじ chosen; かずふじ / いっとう possible); the given name follows the name box \"Yoshinori\" in tools/names.py. The profile text uses only \"Yoshinori\"."
+ },
+ {
+  "jp": "尼子政久",
+  "en": "Amago Masahisa",
+  "en_macron": "Amago Masahisa",
+  "reading": "あまご まさひさ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Profile text: 父・尼子政久 (father of Amago Haruhisa, P0044); Wikipedia",
+  "role": "Non-speaking. Son of Amago Tsunehisa and father of Haruhisa; killed in battle before the story (P0044, P0045).",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": false,
+  "sources": [
+   "https://ja.wikipedia.org/wiki/尼子政久",
+   "ui: P0044, P0045",
+   "UI gaps pass 2026-10-28 (work/translation/en/ui/reports/_gaps.md 1.8)"
+  ],
+  "note": "Added from the UI profiles (UI gaps pass 2026-10-28)."
+ },
+ {
+  "jp": "天野遠景",
+  "en": "Amano Tokage",
+  "en_macron": "Amano Tōkage",
+  "reading": "あまの とおかげ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Non-speaking. Kamakura-period Minamoto vassal; ancestor of the Amano of Komeyama Castle (P0068, P0069).",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": false,
+  "sources": [
+   "https://ja.wikipedia.org/wiki/天野遠景",
+   "ui: P0068, P0069",
+   "UI gaps pass 2026-10-28 (work/translation/en/ui/reports/_gaps.md 1.8)"
+  ],
+  "note": "Added from the UI profiles (UI gaps pass 2026-10-28)."
+ },
+ {
+  "jp": "足利義稙",
+  "en": "Ashikaga Yoshitane",
+  "en_macron": "Ashikaga Yoshitane",
+  "reading": "あしかが よしたね",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Non-speaking. Former shogun restored by Ouchi Yoshioki (P0117-P0121).",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": false,
+  "sources": [
+   "https://ja.wikipedia.org/wiki/足利義稙",
+   "ui: P0117-P0121",
+   "UI gaps pass 2026-10-28 (work/translation/en/ui/reports/_gaps.md 1.8)"
+  ],
+  "note": "Added from the UI profiles (UI gaps pass 2026-10-28)."
+ },
+ {
+  "jp": "北畠具房",
+  "en": "Kitabatake Tomofusa",
+  "en_macron": "Kitabatake Tomofusa",
+  "reading": "きたばたけ ともふさ",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Non-speaking. Adoptive father of Oda Nobukatsu (P0150, P0151).",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": false,
+  "sources": [
+   "https://ja.wikipedia.org/wiki/北畠具房",
+   "ui: P0150, P0151",
+   "UI gaps pass 2026-10-28 (work/translation/en/ui/reports/_gaps.md 1.8)"
+  ],
+  "note": "Added from the UI profiles (UI gaps pass 2026-10-28)."
+ },
+ {
+  "jp": "神戸具盛",
+  "en": "Kanbe Tomomori",
+  "en_macron": "Kanbe Tomomori",
+  "reading": "かんべ とももり",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Non-speaking. Adoptive father of Oda Nobutaka (P0152, P0153).",
+  "personality": "",
+  "nicknames": [],
+  "historical": true,
+  "speaking": false,
+  "sources": [
+   "https://ja.wikipedia.org/wiki/神戸具盛",
+   "ui: P0152, P0153",
+   "UI gaps pass 2026-10-28 (work/translation/en/ui/reports/_gaps.md 1.8)"
+  ],
+  "note": "Added from the UI profiles (UI gaps pass 2026-10-28)."
+ },
+ {
+  "jp": "鈴木重秀",
+  "en": "Suzuki Shigehide",
+  "en_macron": "Suzuki Shigehide",
+  "short": "Shigehide",
+  "reading": "すずき しげひで",
+  "reading_confidence": "wikipedia",
+  "gender": "male",
+  "gender_evidence": "Wikipedia",
+  "role": "Non-speaking officer with a profile (P0379, P0380): leader of the Saika group (雑賀衆) of Kii.",
+  "personality": "",
+  "nicknames": [
+   "雑賀孫一 (Saika Magoichi; not used in the game text)"
+  ],
+  "historical": true,
+  "speaking": false,
+  "sources": [
+   "https://ja.wikipedia.org/wiki/鈴木重秀",
+   "ui: P0379, P0380 (028)",
+   "tools/names.py name box \"Shigehide\"",
+   "UI gaps pass 2026-10-28 (work/translation/en/ui/reports/_gaps.md 1.8)"
+  ],
+  "note": "Added from the UI profiles (UI gaps pass 2026-10-28)."
+ },
+ {
+  "jp": "左近",
+  "en": "Sakon",
+  "en_macron": "Sakon",
+  "reading": "さこん",
+  "reading_confidence": "generic",
+  "gender": "unknown",
+  "gender_evidence": "Named only in two battle balloons (E0453, E0454); identity not confirmed.",
+  "role": "Non-speaking. Addressed in two battle speech balloons (\"Sakon! I leave the command to you!\", E0453, E0454).",
+  "personality": "",
+  "nicknames": [],
+  "historical": false,
+  "speaking": false,
+  "sources": [
+   "ui: E0453, E0454 (011)",
+   "UI gaps pass 2026-10-28 (work/translation/en/ui/reports/_gaps.md 1.8)"
+  ],
+  "note": "Slice 011 takes him to be Shima Sakon (speaker presumably Ishida Mitsunari); neither appears in the script, so the identity and gender are unconfirmed (historical left false until confirmed)."
+ }
+]

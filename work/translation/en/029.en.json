@@ -1,0 +1,267 @@
+[
+ {
+  "key": "U02320"
+ },
+ {
+  "key": "U02321"
+ },
+ {
+  "key": "U02322"
+ },
+ {
+  "key": "U02323"
+ },
+ {
+  "key": "U02324"
+ },
+ {
+  "key": "U02325"
+ },
+ {
+  "key": "U02326"
+ },
+ {
+  "key": "U02327"
+ },
+ {
+  "key": "U02328"
+ },
+ {
+  "key": "U02329",
+  "note": "Missionary's broken katakana Japanese rendered as halting broken English, as in U01317/U01396."
+ },
+ {
+  "key": "U02330"
+ },
+ {
+  "key": "U02331"
+ },
+ {
+  "key": "U02332"
+ },
+ {
+  "key": "U02333",
+  "en": "Received the purse.",
+  "note": "Caption, 19 chars. Subjectless system caption with a period, like 'Found treasure.'."
+ },
+ {
+  "key": "U02334"
+ },
+ {
+  "key": "U02335"
+ },
+ {
+  "key": "U02336"
+ },
+ {
+  "key": "U02337"
+ },
+ {
+  "key": "U02338"
+ },
+ {
+  "key": "U02339"
+ },
+ {
+  "key": "U02340",
+  "note": "Restored 'her': the patient is not named; taken as Lady Okata, whose funeral is mentioned in U02344 (same scene set, maids' lines in the residence). Uncertain."
+ },
+ {
+  "key": "U02341"
+ },
+ {
+  "key": "U02342"
+ },
+ {
+  "key": "U02343",
+  "note": "Same unnamed patient as U02340; 'her' assumed to be Lady Okata. Uncertain."
+ },
+ {
+  "key": "U02344"
+ },
+ {
+  "key": "U02345"
+ },
+ {
+  "key": "U02346"
+ },
+ {
+  "key": "U02347"
+ },
+ {
+  "key": "U02348"
+ },
+ {
+  "key": "U02349"
+ },
+ {
+  "key": "U02350"
+ },
+ {
+  "key": "U02351"
+ },
+ {
+  "key": "U02352"
+ },
+ {
+  "key": "U02353"
+ },
+ {
+  "key": "U02354"
+ },
+ {
+  "key": "U02355"
+ },
+ {
+  "key": "U02356"
+ },
+ {
+  "key": "U02357"
+ },
+ {
+  "key": "U02358",
+  "en": "Siege of Kannabe Castle\nVictory Conditions\n  1. Make Sugihara Tadaoki retreat\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 60 turns pass",
+  "note": "terms.json wording ('X retreats', 'Mouri HQ is captured', 'More than N turns pass'), as U00300/U00860. 0.2.14: names written in full; the boxes now take 240 px (narration window) / 256 px (goal box) per line."
+ },
+ {
+  "key": "U02359"
+ },
+ {
+  "key": "U02360",
+  "note": "The Japanese page break falls mid-sentence; English moves the page break to the sentence end."
+ },
+ {
+  "key": "U02361",
+  "note": "Nojiri's gender is 'unknown' in characters.json; Seki refers to the ninja group/leader as 'they/them'."
+ },
+ {
+  "key": "U02362",
+  "en": "Siege of Kannabe Castle\n\nVictory Conditions\n  1. Make Sugihara Tadaoki retreat\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 60 turns pass",
+  "note": "Same as U02358 with the Japanese blank second line kept. 0.2.14: names written in full; the boxes now take 240 px (narration window) / 256 px (goal box) per line."
+ },
+ {
+  "key": "U02363"
+ },
+ {
+  "key": "U02364",
+  "en": "&\nThere's a shrine here!\n\nWe'll pray for our victory!",
+  "note": "Empty speaker line copied as is. Pattern of U00318."
+ },
+ {
+  "key": "U02365"
+ },
+ {
+  "key": "U02366"
+ },
+ {
+  "key": "U02367",
+  "note": "Acc: restored subject 'You' (the taunt is aimed at the Mouri side caught in the pincer)."
+ },
+ {
+  "key": "U02368"
+ },
+ {
+  "key": "U02369"
+ },
+ {
+  "key": "U02370",
+  "en": "Nojiri Motosuke joined your army.",
+  "note": "Glossary pattern with period (as U00866, U01788). 33 chars."
+ },
+ {
+  "key": "U02371",
+  "note": "Pattern of U00881. Count 2."
+ },
+ {
+  "key": "U02372"
+ },
+ {
+  "key": "U02373",
+  "en": "Episode 10: Sue Harukata the Rebel",
+  "note": "Glossary form in full (34 chars). Count 2."
+ },
+ {
+  "key": "U02374",
+  "en": "Konomine Castle: Retainers' Hall",
+  "note": "Caption, 32 chars; glossary castle + room pattern. Count 3."
+ },
+ {
+  "key": "U02375"
+ },
+ {
+  "key": "U02376"
+ },
+ {
+  "key": "U02377"
+ },
+ {
+  "key": "U02378"
+ },
+ {
+  "key": "U02379"
+ },
+ {
+  "key": "U02380"
+ },
+ {
+  "key": "U02381"
+ },
+ {
+  "key": "U02382"
+ },
+ {
+  "key": "U02383"
+ },
+ {
+  "key": "U02384"
+ },
+ {
+  "key": "U02385"
+ },
+ {
+  "key": "U02386"
+ },
+ {
+  "key": "U02387",
+  "note": "Subject 'We' (the Mouri house, on Takamoto's behalf); I would also fit."
+ },
+ {
+  "key": "U02388"
+ },
+ {
+  "key": "U02389"
+ },
+ {
+  "key": "U02390",
+  "en": "Mountains near Yoshida-Koriyama"
+ },
+ {
+  "key": "U02391"
+ },
+ {
+  "key": "U02392"
+ },
+ {
+  "key": "U02393"
+ },
+ {
+  "key": "U02394"
+ },
+ {
+  "key": "U02395"
+ },
+ {
+  "key": "U02396"
+ },
+ {
+  "key": "U02397",
+  "en": "Ankoku-ji: Temple Grounds"
+ },
+ {
+  "key": "U02398",
+  "note": "Long silent stare (33 dots) -> two ellipses (long pause)."
+ },
+ {
+  "key": "U02399"
+ }
+]

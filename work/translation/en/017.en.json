@@ -1,0 +1,271 @@
+[
+ {
+  "key": "U01360",
+  "en": "Ninja\nKunoichi\nStrat.\nBandit\nPirate\nWar Monk\nSupply Co.\nFife&Drum\nCancel"
+ },
+ {
+  "key": "U01361"
+ },
+ {
+  "key": "U01362"
+ },
+ {
+  "key": "U01363"
+ },
+ {
+  "key": "U01364"
+ },
+ {
+  "key": "U01365"
+ },
+ {
+  "key": "U01366"
+ },
+ {
+  "key": "U01367"
+ },
+ {
+  "key": "U01368"
+ },
+ {
+  "key": "U01369"
+ },
+ {
+  "key": "U01370"
+ },
+ {
+  "key": "U01371"
+ },
+ {
+  "key": "U01372",
+  "en": "Got stolen money back from bandit."
+ },
+ {
+  "key": "U01373",
+  "note": "Same bandit, before Motonari confronts him (or after, if the player never does)."
+ },
+ {
+  "key": "U01374"
+ },
+ {
+  "key": "U01375"
+ },
+ {
+  "key": "U01376",
+  "en": "Pacification of Aki\nVictory Conditions\n  1. Defeat all enemies\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 70 turns pass",
+  "note": "Glossary battle name and battle-UI wording (as U00860)."
+ },
+ {
+  "key": "U01377",
+  "en": "Hearing the Mouri had marched,\nTakeda vassals Kumagai Nobunao\nand Kagawa Mitsukage made ready\nto meet them, each at his castle.\nBehind the two of them,\nTakeda Mitsukazu took position."
+ },
+ {
+  "key": "U01378"
+ },
+ {
+  "key": "U01379"
+ },
+ {
+  "key": "U01380",
+  "en": "Pacification of Aki\n\nVictory Conditions\n  1. Defeat all enemies\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 70 turns pass",
+  "note": "Same as U01376 with the JP blank second line kept (line count must match)."
+ },
+ {
+  "key": "U01381"
+ },
+ {
+  "key": "U01382"
+ },
+ {
+  "key": "U01383"
+ },
+ {
+  "key": "U01384"
+ },
+ {
+  "key": "U01385"
+ },
+ {
+  "key": "U01386"
+ },
+ {
+  "key": "U01387"
+ },
+ {
+  "key": "U01388",
+  "en": "&\nWhoa! Cough! Cough! Cough!\n\nThe ceiling came crashing down! That was close...",
+  "note": "Blank speaker header (the unit that triggered the trap); kept as '&'."
+ },
+ {
+  "key": "U01389",
+  "en": "&\nWhoa! Cough! Cough! Cough!\n\nThis smoke seems to be poison. That was close...",
+  "note": "Blank speaker header kept."
+ },
+ {
+  "key": "U01390",
+  "en": "Bandits appeared.",
+  "note": "Shared caption (count 2). Plural/indefinite because the caption itself does not say how many; the scene that follows has the friendly Bandit 2 (U01391) and the hostile Bandit 12 (U01394). Period as in 'Got 100 gold.'."
+ },
+ {
+  "key": "U01391",
+  "note": "Bandit 2 is the father whose daughter Motonari helped (U01307). The JP page break falls mid-sentence; treated as padding."
+ },
+ {
+  "key": "U01392",
+  "note": "Same wording as U00682."
+ },
+ {
+  "key": "U01393"
+ },
+ {
+  "key": "U01394"
+ },
+ {
+  "key": "U01395"
+ },
+ {
+  "key": "U01396"
+ },
+ {
+  "key": "U01397"
+ },
+ {
+  "key": "U01398",
+  "en": "Kagawa Mitsukage joined your army.",
+  "note": "Glossary pattern 'X joined your army' plus a period, as in U00866."
+ },
+ {
+  "key": "U01399"
+ },
+ {
+  "key": "U01400",
+  "en": "Shishido Takaie joined your army."
+ },
+ {
+  "key": "U01401"
+ },
+ {
+  "key": "U01402",
+  "en": "Kumagai Nobunao joined your army.",
+  "note": "Shared caption (count 2)."
+ },
+ {
+  "key": "U01403"
+ },
+ {
+  "key": "U01404"
+ },
+ {
+  "key": "U01405",
+  "note": "Shared (count 2)."
+ },
+ {
+  "key": "U01406",
+  "en": "Episode 6: The Tiger of Izumo",
+  "note": "Glossary form in full (29 chars). Shared (count 2)."
+ },
+ {
+  "key": "U01407",
+  "en": "Motonari's campaign to unify Aki\ncame to a close with the Kikkawa\nand Takeda still on the Amago side.\n\n\n\nThough he had extended his power,\nhe was not yet able to stand up to\nthe Amago, and for the time being\nhis dream of uniting Aki was shelved.\n\n\nAnd so several years went by.\nA third son, Tokujumaru, was born to\nthe Mouri; Ouchi Yoshioki died and\nYoshitaka became clan head; and\nTakeda Nobushige succeeded his\nbrother Mitsukazu, killed in battle.\nThe time was ripe, and the West was\nabout to stir mightily once again..."
+ },
+ {
+  "key": "U01408"
+ },
+ {
+  "key": "U01409"
+ },
+ {
+  "key": "U01410"
+ },
+ {
+  "key": "U01411"
+ },
+ {
+  "key": "U01412"
+ },
+ {
+  "key": "U01413"
+ },
+ {
+  "key": "U01414"
+ },
+ {
+  "key": "U01415"
+ },
+ {
+  "key": "U01416",
+  "en": "Wed Kunishi Motosuke\nWed Kodama Naritada"
+ },
+ {
+  "key": "U01417"
+ },
+ {
+  "key": "U01418"
+ },
+ {
+  "key": "U01419"
+ },
+ {
+  "key": "U01420"
+ },
+ {
+  "key": "U01421"
+ },
+ {
+  "key": "U01422",
+  "en": "Okitsune's Seat: Ogurayama Castle"
+ },
+ {
+  "key": "U01423"
+ },
+ {
+  "key": "U01424"
+ },
+ {
+  "key": "U01425",
+  "en": "Riverbank near Kanayama Castle"
+ },
+ {
+  "key": "U01426"
+ },
+ {
+  "key": "U01427"
+ },
+ {
+  "key": "U01428"
+ },
+ {
+  "key": "U01429"
+ },
+ {
+  "key": "U01430",
+  "note": "Shared (count 2). The brothers playing chase."
+ },
+ {
+  "key": "U01431"
+ },
+ {
+  "key": "U01432"
+ },
+ {
+  "key": "U01433"
+ },
+ {
+  "key": "U01434"
+ },
+ {
+  "key": "U01435"
+ },
+ {
+  "key": "U01436"
+ },
+ {
+  "key": "U01437"
+ },
+ {
+  "key": "U01438"
+ },
+ {
+  "key": "U01439"
+ }
+]

@@ -1,0 +1,285 @@
+[
+ {
+  "key": "U04000"
+ },
+ {
+  "key": "U04001",
+  "note": "Meditation silence; count 5."
+ },
+ {
+  "key": "U04002"
+ },
+ {
+  "key": "U04003",
+  "en": "Accuracy rose by 5."
+ },
+ {
+  "key": "U04004"
+ },
+ {
+  "key": "U04005"
+ },
+ {
+  "key": "U04006"
+ },
+ {
+  "key": "U04007",
+  "note": "Swordsman 1 is the boastful drinker of U02354/U02619; same swagger."
+ },
+ {
+  "key": "U04008"
+ },
+ {
+  "key": "U04009",
+  "note": "Count 2."
+ },
+ {
+  "key": "U04010",
+  "note": "Count 4."
+ },
+ {
+  "key": "U04011",
+  "note": "Count 2. Speaker stands at the storehouse; 'you' = the player/Mouri side (impersonal in the Japanese)."
+ },
+ {
+  "key": "U04012"
+ },
+ {
+  "key": "U04013",
+  "note": "Count 2. Subject restored as 'you' (the listener)."
+ },
+ {
+  "key": "U04014"
+ },
+ {
+  "key": "U04015",
+  "note": "Count 2."
+ },
+ {
+  "key": "U04016",
+  "note": "The Japanese blank line between the two sentences is page padding; joined into one page run."
+ },
+ {
+  "key": "U04017",
+  "note": "Kunoichi is a gendered label (glossary), so 'she'. Ninja 1's gender unknown; no pronoun needed."
+ },
+ {
+  "key": "U04018"
+ },
+ {
+  "key": "U04019"
+ },
+ {
+  "key": "U04020"
+ },
+ {
+  "key": "U04021",
+  "note": "Count 5 (repeated training shout)."
+ },
+ {
+  "key": "U04022"
+ },
+ {
+  "key": "U04023",
+  "en": "Speed rose by 5."
+ },
+ {
+  "key": "U04024"
+ },
+ {
+  "key": "U04025"
+ },
+ {
+  "key": "U04026"
+ },
+ {
+  "key": "U04027",
+  "note": "Near-duplicate of U02926/U03217; wording reused. Nemoto Jinsuke's gender is unknown, so the family name is repeated instead of a pronoun. Mid-sentence Japanese blank line is page padding; ignored."
+ },
+ {
+  "key": "U04028",
+  "note": "Count 6."
+ },
+ {
+  "key": "U04029",
+  "note": "Count 5. Compare U00395 (Heizo)."
+ },
+ {
+  "key": "U04030"
+ },
+ {
+  "key": "U04031",
+  "note": "What was nearly finished is not stated (the maids' side project, cf. U02902); kept vague as 'it'."
+ },
+ {
+  "key": "U04032"
+ },
+ {
+  "key": "U04033"
+ },
+ {
+  "key": "U04034"
+ },
+ {
+  "key": "U04035",
+  "en": "Battle of Iwami Ginzan\nVictory Conditions\n  1. Defeat all enemies\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 60 turns pass",
+  "note": "Battle name and conditions from terms.json."
+ },
+ {
+  "key": "U04036"
+ },
+ {
+  "key": "U04037",
+  "en": "Battle of Iwami Ginzan\n\nVictory Conditions\n  1. Defeat all enemies\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 60 turns pass",
+  "note": "Same as U04035 with the Japanese blank second line kept."
+ },
+ {
+  "key": "U04038",
+  "en": "Beat a supply unit: got silver bars"
+ },
+ {
+  "key": "U04039"
+ },
+ {
+  "key": "U04040"
+ },
+ {
+  "key": "U04041",
+  "en": "&\nThere's a shrine here! Grant us victory!",
+  "note": "Blank speaker line copied as is (Mouri unit on the map), cf. U00318/U02364. Count 4."
+ },
+ {
+  "key": "U04042",
+  "en": "Mine Entrance"
+ },
+ {
+  "key": "U04043",
+  "en": "Enemy supply unit carried off silver",
+  "note": "36 characters. Count 10."
+ },
+ {
+  "key": "U04044",
+  "en": "Enemy unit destroyed a mine entrance",
+  "note": "36 characters. Count 10."
+ },
+ {
+  "key": "U04045",
+  "en": "This had already been destroyed."
+ },
+ {
+  "key": "U04046",
+  "en": "This had already been mined.",
+  "note": "Count 10."
+ },
+ {
+  "key": "U04047",
+  "en": "Enemy supply unit headed for Izumo",
+  "note": "Count 10."
+ },
+ {
+  "key": "U04048"
+ },
+ {
+  "key": "U04049"
+ },
+ {
+  "key": "U04050"
+ },
+ {
+  "key": "U04051"
+ },
+ {
+  "key": "U04052"
+ },
+ {
+  "key": "U04053",
+  "en": "Masuda Fujikane joined your army.",
+  "note": "Glossary caption pattern \"X joined your army.\" (with period)."
+ },
+ {
+  "key": "U04054",
+  "en": "Fujikane's reinforcements arrived."
+ },
+ {
+  "key": "U04055"
+ },
+ {
+  "key": "U04056"
+ },
+ {
+  "key": "U04057"
+ },
+ {
+  "key": "U04058",
+  "en": "Shikanosuke's House",
+  "note": "Count 2."
+ },
+ {
+  "key": "U04059"
+ },
+ {
+  "key": "U04060"
+ },
+ {
+  "key": "U04061",
+  "en": "Episode 16: Takamoto Falls",
+  "note": "terms.json. Count 3."
+ },
+ {
+  "key": "U04062"
+ },
+ {
+  "key": "U04063",
+  "en": "Talk to Shiji Hirotada and Kunishi Motosuke"
+ },
+ {
+  "key": "U04064"
+ },
+ {
+  "key": "U04065"
+ },
+ {
+  "key": "U04066"
+ },
+ {
+  "key": "U04067"
+ },
+ {
+  "key": "U04068",
+  "note": "Count 2."
+ },
+ {
+  "key": "U04069"
+ },
+ {
+  "key": "U04070"
+ },
+ {
+  "key": "U04071"
+ },
+ {
+  "key": "U04072"
+ },
+ {
+  "key": "U04073"
+ },
+ {
+  "key": "U04074"
+ },
+ {
+  "key": "U04075"
+ },
+ {
+  "key": "U04076"
+ },
+ {
+  "key": "U04077"
+ },
+ {
+  "key": "U04078"
+ },
+ {
+  "key": "U04079",
+  "en": "Visit Kobayakawa Takakage at Takayama"
+ }
+]

@@ -1,0 +1,272 @@
+[
+ {
+  "key": "U03280"
+ },
+ {
+  "key": "U03281"
+ },
+ {
+  "key": "U03282"
+ },
+ {
+  "key": "U03283",
+  "en": "Talk to Shiji Hirotada to sortie",
+  "note": "Same pattern as U00150 ('Talk to Shiji Hiroyoshi to sortie')."
+ },
+ {
+  "key": "U03284"
+ },
+ {
+  "key": "U03285"
+ },
+ {
+  "key": "U03286"
+ },
+ {
+  "key": "U03287"
+ },
+ {
+  "key": "U03288",
+  "note": "The ninja's 'Ah!' is unexplained; U03289 shows they dropped something as they fled, so this is probably the moment it falls. Kept as a bare exclamation."
+ },
+ {
+  "key": "U03289"
+ },
+ {
+  "key": "U03290"
+ },
+ {
+  "key": "U03291"
+ },
+ {
+  "key": "U03292",
+  "note": "Merchant 3 greeting the established Merchant 1 as a new colleague; with U03293-U03295 these are the newcomer's greetings to the two existing merchants."
+ },
+ {
+  "key": "U03293"
+ },
+ {
+  "key": "U03294"
+ },
+ {
+  "key": "U03295"
+ },
+ {
+  "key": "U03296",
+  "en": "Nagato-Katsuyama: Storehouse"
+ },
+ {
+  "key": "U03297",
+  "en": "Nagato-Katsuyama: Workshop"
+ },
+ {
+  "key": "U03298",
+  "en": "Nagato-Katsuyama: Tavern"
+ },
+ {
+  "key": "U03299",
+  "en": "Nagato-Katsuyama: Market"
+ },
+ {
+  "key": "U03300",
+  "en": "Nagato-Katsuyama: Temple"
+ },
+ {
+  "key": "U03301"
+ },
+ {
+  "key": "U03302"
+ },
+ {
+  "key": "U03303",
+  "note": "Fukubara re-raising the envoy proposal of U03306 when it was not accepted; the choice U03304 follows."
+ },
+ {
+  "key": "U03304",
+  "en": "Send Fukubara as envoy\nDon't send Fukubara",
+  "note": "'Don't send Fukubara as envoy' is 146 px against the 144 px limit, so the second option drops the repeated 'as envoy' (understood from the first option)."
+ },
+ {
+  "key": "U03305"
+ },
+ {
+  "key": "U03306"
+ },
+ {
+  "key": "U03307"
+ },
+ {
+  "key": "U03308",
+  "note": "Shiji (staff officer) to Motonari before the sortie (label U03283); 'my lord' added for address."
+ },
+ {
+  "key": "U03309"
+ },
+ {
+  "key": "U03310"
+ },
+ {
+  "key": "U03311"
+ },
+ {
+  "key": "U03312"
+ },
+ {
+  "key": "U03313"
+ },
+ {
+  "key": "U03314"
+ },
+ {
+  "key": "U03315"
+ },
+ {
+  "key": "U03316"
+ },
+ {
+  "key": "U03317"
+ },
+ {
+  "key": "U03318"
+ },
+ {
+  "key": "U03319"
+ },
+ {
+  "key": "U03320"
+ },
+ {
+  "key": "U03321",
+  "note": "Same form as U02486."
+ },
+ {
+  "key": "U03322"
+ },
+ {
+  "key": "U03323"
+ },
+ {
+  "key": "U03324",
+  "note": "Townsperson 3 has apparently treated the collapsed Ikoma (gender unknown, so singular 'them'). The listener (Motonari) and what was given are not shown."
+ },
+ {
+  "key": "U03325"
+ },
+ {
+  "key": "U03326"
+ },
+ {
+  "key": "U03327"
+ },
+ {
+  "key": "U03328"
+ },
+ {
+  "key": "U03329"
+ },
+ {
+  "key": "U03330",
+  "en": "Handed over the letter.",
+  "note": "Pattern of U00515 ('Gave ... 500 gold.')."
+ },
+ {
+  "key": "U03331"
+ },
+ {
+  "key": "U03332",
+  "en": "Teshima Shogo began reading it.",
+  "note": "Compressed from 'Teshima Shogo began to read the letter.' (39 chars, over the 36-character caption limit); 'it' = the letter handed over in U03330."
+ },
+ {
+  "key": "U03333",
+  "en": "Dear Shogo......"
+ },
+ {
+  "key": "U03334",
+  "en": "You ran out of the house,\nsaying you'd come back\na true craftsman,\nand how many years\nhave gone by since then?"
+ },
+ {
+  "key": "U03335",
+  "en": "Your mother hasn't forgotten you\nfor even a single day......"
+ },
+ {
+  "key": "U03336",
+  "en": "You've always been stubborn,\nso could it be that you can't\nbring yourself to come home\nand don't know what to do?"
+ },
+ {
+  "key": "U03337",
+  "en": "Even if your work isn't\ngoing well, your mother doesn't\nmind in the least.\nWhat matters more than anything\nis that you're well."
+ },
+ {
+  "key": "U03338",
+  "en": "Just come home to me safe and well,\nand that alone\nwill be enough...... I'm always\nwaiting eagerly for your return."
+ },
+ {
+  "key": "U03339",
+  "en": "Love, Mother......"
+ },
+ {
+  "key": "U03340"
+ },
+ {
+  "key": "U03341"
+ },
+ {
+  "key": "U03342"
+ },
+ {
+  "key": "U03343"
+ },
+ {
+  "key": "U03344"
+ },
+ {
+  "key": "U03345"
+ },
+ {
+  "key": "U03346"
+ },
+ {
+  "key": "U03347"
+ },
+ {
+  "key": "U03348",
+  "note": "Same as U02486."
+ },
+ {
+  "key": "U03349",
+  "note": "Same JP as U02487; English kept consistent. Editorial: aligned with the edited U02241/U02487/U02750 (same JP)."
+ },
+ {
+  "key": "U03350",
+  "note": "Same JP as U02488; English kept consistent, including the page break before the request. Editorial: aligned with the edited U02243/U02488 (same JP)."
+ },
+ {
+  "key": "U03351"
+ },
+ {
+  "key": "U03352"
+ },
+ {
+  "key": "U03353"
+ },
+ {
+  "key": "U03354"
+ },
+ {
+  "key": "U03355"
+ },
+ {
+  "key": "U03356"
+ },
+ {
+  "key": "U03357",
+  "note": "Listener taken to be Motonari (cf. U03358, same soldier); 'sir' added for address. Editorial: 'my lord' instead of 'sir' (a Mouri soldier addressing Motonari)."
+ },
+ {
+  "key": "U03358"
+ },
+ {
+  "key": "U03359"
+ }
+]

@@ -1,0 +1,384 @@
+[
+ {
+  "key": "D0481",
+  "en": "Unity"
+ },
+ {
+  "key": "D0482",
+  "en": "Counsel"
+ },
+ {
+  "key": "D0483",
+  "en": "Skill Aid",
+  "note": "Skill #56 (desc IMSG 312: restores one ally's skill points). Not in glossary."
+ },
+ {
+  "key": "D0484",
+  "en": "Spite Rite"
+ },
+ {
+  "key": "D0485",
+  "en": "Cheer Song"
+ },
+ {
+  "key": "D0486",
+  "en": "Cloud Art"
+ },
+ {
+  "key": "D0487",
+  "en": "Plunder",
+  "note": "Skill #60 (desc IMSG 316: steals all of an enemy unit's money)."
+ },
+ {
+  "key": "D0488",
+  "en": "Alms Round"
+ },
+ {
+  "key": "D0489",
+  "en": "Fast March"
+ },
+ {
+  "key": "D0490",
+  "en": "Fast Horse",
+  "note": "Skill #63 (desc IMSG 319: extra movement at a durability cost)."
+ },
+ {
+  "key": "D0491",
+  "en": "Fast Ship"
+ },
+ {
+  "key": "E0001",
+  "en": "Skill failed.",
+  "note": "In place, 15 B: 'The skill failed.' (17 B) does not fit."
+ },
+ {
+  "key": "E0002",
+  "en": "No units within range."
+ },
+ {
+  "key": "E0003",
+  "en": "No enemy units within range."
+ },
+ {
+  "key": "E0004",
+  "en": "Slot 1"
+ },
+ {
+  "key": "E0005",
+  "en": "Temporary Memory",
+  "note": "Save slot label (pointer table 800BE764/768/76C)."
+ },
+ {
+  "key": "E0006",
+  "en": "Not enough free blocks.",
+  "note": "Memory card free blocks."
+ },
+ {
+  "key": "E0007",
+  "en": "New Data"
+ },
+ {
+  "key": "E0008",
+  "en": "Ep. 1: The Young Eagle's Debut",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. "
+ },
+ {
+  "key": "E0009",
+  "en": "Ep. 2: A Single Flower",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. "
+ },
+ {
+  "key": "E0010",
+  "en": "Ep. 3: Brothers",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. "
+ },
+ {
+  "key": "E0011",
+  "en": "Ep. 4: Time to Part Ways",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. "
+ },
+ {
+  "key": "E0012",
+  "en": "Ep. 5: What Makes a Leader",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. "
+ },
+ {
+  "key": "E0013",
+  "en": "Ep. 6: The Tiger of Izumo",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. "
+ },
+ {
+  "key": "E0014",
+  "en": "Ep. 7: A Foolish March",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. "
+ },
+ {
+  "key": "E0015",
+  "en": "Ep. 8: A Million Hearts as One",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. "
+ },
+ {
+  "key": "E0016",
+  "en": "Ep. 9: Lesson of Three Arrows",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. Glossary 'Lesson of the Three Arrows' is 166 px > 156; 'the' dropped."
+ },
+ {
+  "key": "E0017",
+  "en": "Ep. 10: Sue Harukata the Rebel",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. "
+ },
+ {
+  "key": "E0018",
+  "en": "Ep. 11: Intrigue",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. "
+ },
+ {
+  "key": "E0019",
+  "en": "Ep. 12: Surprise! Itsukushima",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. Glossary 'Surprise Attack! Itsukushima' is 178 px > 156; compressed."
+ },
+ {
+  "key": "E0020",
+  "en": "Ep. 13: The Puppet Daimyo",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. "
+ },
+ {
+  "key": "E0021",
+  "en": "Ep. 14: The Wily Sorin of Bungo",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. Glossary full form 169 px > 156; uses the glossary alternative 'The Wily Sorin of Bungo'."
+ },
+ {
+  "key": "E0022",
+  "en": "Ep. 15: The Rising Star of Owari",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. "
+ },
+ {
+  "key": "E0023",
+  "en": "Ep. 16: Takamoto Falls",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. "
+ },
+ {
+  "key": "E0024",
+  "en": "Ep. 17: The Fall of Toda",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. "
+ },
+ {
+  "key": "E0025",
+  "en": "Ep. 18: Relief for Iyo",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. "
+ },
+ {
+  "key": "E0026",
+  "en": "Ep. 19: Pincer Attack",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. "
+ },
+ {
+  "key": "E0027",
+  "en": "Ep. 20: Dream of Amago Revival",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. Glossary 'Dream of an Amago Revival' is 160 px > 156; 'an' dropped."
+ },
+ {
+  "key": "E0028",
+  "en": "Ep. 21: Oath of Three Arrows",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. Glossary/game subtitle 'Oath of the Three Arrows' gives 160 px > 156; 'the' dropped. Revisit if the window proves wider."
+ },
+ {
+  "key": "E0029",
+  "en": "Ep. 22: A New Enemy",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. "
+ },
+ {
+  "key": "E0030",
+  "en": "Ep. 23: The Last of Shikanosuke",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. "
+ },
+ {
+  "key": "E0031",
+  "en": "Ep. 24: Loyalty on the Lake",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. "
+ },
+ {
+  "key": "E0032",
+  "en": "Ep. 25: Crimson Lake Biwa",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. "
+ },
+ {
+  "key": "E0033",
+  "en": "Ep. 26: Kyoto's Vengeful Ghost",
+  "note": "Episode title, 'Ep. N:' form (156 px table width). Shared with the in-game window table 8010109C (printed at 0x80083690) and the save title. Glossary 'The Vengeful Ghost of Kyoto' is 176 px > 156; reworded."
+ },
+ {
+  "key": "E0034",
+  "en": "Finale: Decisive Battle"
+ },
+ {
+  "key": "E0035",
+  "en": "Ending"
+ },
+ {
+  "key": "E0036",
+  "en": "Battle of Arita",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. Glossary 'Battle of Arita Castle' (22 B) would overflow the save title with Ep. 1."
+ },
+ {
+  "key": "E0037",
+  "en": "Siege of Kagamiyama",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. Glossary '...Castle' is 26 B > 22."
+ },
+ {
+  "key": "E0038",
+  "en": "Battle of Funayama",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. Glossary '...Castle' is 25 B > 22."
+ },
+ {
+  "key": "E0039",
+  "en": "Battle of Kanayama",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. Glossary '...Castle' (25 B) overflows the save title with Ep. 4."
+ },
+ {
+  "key": "E0040",
+  "en": "Pacification of Aki",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. "
+ },
+ {
+  "key": "E0041",
+  "en": "Yoshida-Koriyama",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. Glossary short 'Battle of Yoshida-Koriyama' (26 B) overflows the save title by 1 byte with Ep. 6."
+ },
+ {
+  "key": "E0042",
+  "en": "Retreat from Izumo",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. "
+ },
+ {
+  "key": "E0043",
+  "en": "Bingo Interception",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. Glossary 'Interception in Bingo' is 21 B > 19."
+ },
+ {
+  "key": "E0044",
+  "en": "Siege of Kannabe",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. Glossary '...Castle' is 23 B > 22."
+ },
+ {
+  "key": "E0045",
+  "en": "Pacify Aki-Bingo",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. Glossary 'Pacification of Aki and Bingo' is 29 B > 25 and overflows the save title."
+ },
+ {
+  "key": "E0046",
+  "en": "Aki Westward Push",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. Glossary 'Westward Push through Aki' is 25 B > 19."
+ },
+ {
+  "key": "E0047",
+  "en": "Itsukushima",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. Glossary 'Battle of Itsukushima' is 21 B > 16."
+ },
+ {
+  "key": "E0048",
+  "en": "Suo-Nagato Push",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. Glossary 'Suo-Nagato Offensive' is 20 B > 19."
+ },
+ {
+  "key": "E0049",
+  "en": "Struggle for Moji",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. Glossary '...Moji Castle' is 24 B > 22."
+ },
+ {
+  "key": "E0050",
+  "en": "Iwami Ginzan"
+ },
+ {
+  "key": "E0051",
+  "en": "Siege of Shiraga",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. Glossary '...Castle' is 23 B > 22."
+ },
+ {
+  "key": "E0052",
+  "en": "Siege of Gassan-Toda",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. Glossary '...Castle' (27 B) overflows the save title."
+ },
+ {
+  "key": "E0053",
+  "en": "Battle of Ozu Castle",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. "
+ },
+ {
+  "key": "E0054",
+  "en": "Chikuzen Campaign",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. "
+ },
+ {
+  "key": "E0055",
+  "en": "Battle of Mt. Fube",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. Glossary 'Battle of Mount Fube' (20 B) overflows the save title with Ep. 20 by 2 bytes."
+ },
+ {
+  "key": "E0056",
+  "en": "Bizen Campaign",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. "
+ },
+ {
+  "key": "E0057",
+  "en": "Battle of Kizugawaguchi",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. "
+ },
+ {
+  "key": "E0058",
+  "en": "Battle of Kozuki",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. Glossary '...Castle' (23 B) is > 22."
+ },
+ {
+  "key": "E0059",
+  "en": "Pursuit of Hashiba",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. Glossary 'Pursuit of the Hashiba Army' is 27 B > 22."
+ },
+ {
+  "key": "E0060",
+  "en": "Kinai Offensive",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. "
+ },
+ {
+  "key": "E0061",
+  "en": "Battle of Azuchi",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. Glossary '...Castle' is 23 B > 22."
+ },
+ {
+  "key": "E0062",
+  "en": "Pacify Mino-Owari",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. Glossary 'Pacification of Mino and Owari' is 30 B > 19."
+ },
+ {
+  "key": "E0063",
+  "en": "Battle of Sekigahara",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. "
+ },
+ {
+  "key": "E0064",
+  "en": "Battle of Gifu Castle",
+  "note": "Battle name, used only in the save title (table 800BE7EC, index = episode stage). Save-title piece (sprintf at 0x8001622C): the title is built by concatenation in a 72-byte stack buffer (caller 0x80015EB8, sp+0x10..0x57; saved s0/s1/ra follow), so prefix + episode + battle must stay <= 71 bytes. "
+ },
+ {
+  "key": "E0065",
+  "en": "%s %s:"
+ },
+ {
+  "key": "E0066",
+  "en": ", %s Turn %2d",
+  "note": "Battle part of the save title (battle name + turn). Leading space separates it from the episode title, which is concatenated directly before it (the Japanese relied on 』). [0.2.4: ', ' save-list split marker (E0474).]"
+ },
+ {
+  "key": "E0067",
+  "en": ", %s HQ"
+ },
+ {
+  "key": "E0068",
+  "en": "Yes          No"
+ },
+ {
+  "key": "E0069",
+  "en": "Saving requires a Memory Card\nwith at least 4 free blocks.\nPlease take note.",
+  "note": "[acc: \"Memory Card\" capitalised as in glossary / E0072-E0092]"
+ }
+]

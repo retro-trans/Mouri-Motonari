@@ -1,0 +1,336 @@
+[
+ {
+  "key": "E0710",
+  "en": "Use"
+ },
+ {
+  "key": "E0711",
+  "en": "Give"
+ },
+ {
+  "key": "E0712",
+  "en": "Drop"
+ },
+ {
+  "key": "E0713",
+  "en": "Target"
+ },
+ {
+  "key": "E0714",
+  "en": "None",
+  "note": "Skill-panel value: no required item (0x800653C8)."
+ },
+ {
+  "key": "E0715",
+  "en": "Self",
+  "note": "Skill target value (0x800653E0)."
+ },
+ {
+  "key": "E0716",
+  "en": "One"
+ },
+ {
+  "key": "E0717",
+  "en": "Many"
+ },
+ {
+  "key": "E0718",
+  "en": "Clear",
+  "note": "Weather. Printed only as the %s of the message box E0348 \"Turn %w  %s\" (0x800693A4 -> 0x8003F828), which grows with the text, so the 12 px limit taken from the 1-character Japanese does not apply. Documented width exception. Matches E0282 \"The skies cleared.\""
+ },
+ {
+  "key": "E0719",
+  "en": "Cloudy",
+  "note": "Weather, see E0718 (message box E0348 \"Turn %w  %s\"). Documented width exception."
+ },
+ {
+  "key": "E0720",
+  "en": "Rain",
+  "note": "Weather, see E0718 (message box E0348 \"Turn %w  %s\"). Documented width exception."
+ },
+ {
+  "key": "E0721",
+  "en": "OK"
+ },
+ {
+  "key": "E0722",
+  "en": "No"
+ },
+ {
+  "key": "E0723",
+  "en": "Asc"
+ },
+ {
+  "key": "E0724",
+  "en": "Desc"
+ },
+ {
+  "key": "E0725",
+  "en": "Cannon"
+ },
+ {
+  "key": "E0726",
+  "en": "Ninja"
+ },
+ {
+  "key": "E0727",
+  "en": "Armor"
+ },
+ {
+  "key": "E0728",
+  "en": "Shd"
+ },
+ {
+  "key": "E0729",
+  "en": "Med"
+ },
+ {
+  "key": "E0730",
+  "en": "%s"
+ },
+ {
+  "key": "E0731",
+  "en": "%s"
+ },
+ {
+  "key": "E0732",
+  "en": "Mats"
+ },
+ {
+  "key": "E0733",
+  "en": "Buy"
+ },
+ {
+  "key": "E0734",
+  "en": "-",
+  "note": "Forge placeholder dash."
+ },
+ {
+  "key": "E0735",
+  "en": "Type"
+ },
+ {
+  "key": "E0736",
+  "en": "Lv"
+ },
+ {
+  "key": "E0737",
+  "en": "Make?"
+ },
+ {
+  "key": "E0738",
+  "en": "Artisan"
+ },
+ {
+  "key": "E0739",
+  "en": "X",
+  "note": "Forge mark ×: the \"cannot make\" mark (with ○ E0743 / △ E0744 at 0x800716D0-0x80071700; legend E0372 \"X: Can't make\"). It is also printed beside the material icons, where it reads as \"times\"."
+ },
+ {
+  "key": "E0740",
+  "en": "Shield Sm."
+ },
+ {
+  "key": "E0741",
+  "en": "Make"
+ },
+ {
+  "key": "E0742",
+  "en": "Have"
+ },
+ {
+  "key": "E0743",
+  "en": "O",
+  "note": "Mark ○ = \"O\", as in the legends E0370 / E0374."
+ },
+ {
+  "key": "E0744",
+  "en": "^",
+  "note": "Mark △ = \"^\", as in the legend E0371."
+ },
+ {
+  "key": "E0745",
+  "en": "+%u"
+ },
+ {
+  "key": "E0746",
+  "en": "None"
+ },
+ {
+  "key": "E0747",
+  "en": "------",
+  "note": "3 full-width dashes -> 6 hyphens (30 px of 36)."
+ },
+ {
+  "key": "E0748",
+  "en": "(%s)",
+  "note": "Shop header."
+ },
+ {
+  "key": "E0749",
+  "en": "x",
+  "note": "Shop: price x quantity = total (E0750 \"=\" follows), so a lower-case \"x\" as a times sign, not the X mark of E0739."
+ },
+ {
+  "key": "E0750",
+  "en": "="
+ },
+ {
+  "key": "E0751",
+  "en": "System"
+ },
+ {
+  "key": "E0752",
+  "en": "Info"
+ },
+ {
+  "key": "E0753",
+  "en": "Save"
+ },
+ {
+  "key": "E0754",
+  "en": "Load"
+ },
+ {
+  "key": "E0755",
+  "en": "Profiles"
+ },
+ {
+  "key": "E0756",
+  "en": "Settings",
+  "note": "Same word as E0121."
+ },
+ {
+  "key": "E0757",
+  "en": "Rally"
+ },
+ {
+  "key": "E0758",
+  "en": "Unit List"
+ },
+ {
+  "key": "E0759",
+  "en": "Ongoing"
+ },
+ {
+  "key": "E0760",
+  "en": "One-time"
+ },
+ {
+  "key": "E0761",
+  "en": "Items"
+ },
+ {
+  "key": "E0762",
+  "en": "Wait"
+ },
+ {
+  "key": "E0763",
+  "en": "Usable"
+ },
+ {
+  "key": "E0764",
+  "en": "OK"
+ },
+ {
+  "key": "E0765",
+  "en": "Foes"
+ },
+ {
+  "key": "E0766",
+  "en": "Allies"
+ },
+ {
+  "key": "E0767",
+  "en": "A-O"
+ },
+ {
+  "key": "E0768",
+  "en": "Ka-Ko"
+ },
+ {
+  "key": "E0769",
+  "en": "Sa-So"
+ },
+ {
+  "key": "E0770",
+  "en": "Ta-To"
+ },
+ {
+  "key": "E0771",
+  "en": "Na-No"
+ },
+ {
+  "key": "E0772",
+  "en": "Ha-Ho"
+ },
+ {
+  "key": "E0773",
+  "en": "Ma-Mo"
+ },
+ {
+  "key": "E0774",
+  "en": "Ya-Yo"
+ },
+ {
+  "key": "E0775",
+  "en": "Ra-Ro"
+ },
+ {
+  "key": "E0776",
+  "en": "Wa"
+ },
+ {
+  "key": "E0777",
+  "en": "Episode 1",
+  "note": "Same format as E0406-E0421 (slice 011)."
+ },
+ {
+  "key": "E0778",
+  "en": "Episode 2"
+ },
+ {
+  "key": "E0779",
+  "en": "Episode 3"
+ },
+ {
+  "key": "E0780",
+  "en": "Episode 4"
+ },
+ {
+  "key": "E0781",
+  "en": "Episode 5"
+ },
+ {
+  "key": "E0782",
+  "en": "Episode 6"
+ },
+ {
+  "key": "E0783",
+  "en": "Episode 7"
+ },
+ {
+  "key": "E0784",
+  "en": "Episode 8"
+ },
+ {
+  "key": "E0785",
+  "en": "Episode 9"
+ },
+ {
+  "key": "E0786",
+  "en": "Episode 10"
+ },
+ {
+  "key": "E0787",
+  "en": "Final Episode"
+ },
+ {
+  "key": "I0001",
+  "en": "An early work by a swordsmith.\nExpect next to no power from it."
+ },
+ {
+  "key": "I0002",
+  "en": "An early work by a spearsmith.\nExpect next to no power from it."
+ }
+]

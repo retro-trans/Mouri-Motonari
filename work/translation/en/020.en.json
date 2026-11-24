@@ -1,0 +1,264 @@
+[
+ {
+  "key": "U01600"
+ },
+ {
+  "key": "U01601"
+ },
+ {
+  "key": "U01602"
+ },
+ {
+  "key": "U01603"
+ },
+ {
+  "key": "U01604"
+ },
+ {
+  "key": "U01605"
+ },
+ {
+  "key": "U01606"
+ },
+ {
+  "key": "U01607"
+ },
+ {
+  "key": "U01608"
+ },
+ {
+  "key": "U01609"
+ },
+ {
+  "key": "U01610",
+  "en": "Got 1000 gold.",
+  "note": "Same form as earlier gold captions ('Got 100 gold.', U00271). Shared by 21 occurrences."
+ },
+ {
+  "key": "U01611",
+  "en": "Episode 7: A Foolish March",
+  "note": "Glossary form (terms.json)."
+ },
+ {
+  "key": "U01612",
+  "en": "Mountains Toward Gassan-Toda Castle"
+ },
+ {
+  "key": "U01613"
+ },
+ {
+  "key": "U01614"
+ },
+ {
+  "key": "U01615"
+ },
+ {
+  "key": "U01616",
+  "en": "Kanayama Castle: Living Quarters"
+ },
+ {
+  "key": "U01617"
+ },
+ {
+  "key": "U01618"
+ },
+ {
+  "key": "U01619"
+ },
+ {
+  "key": "U01620"
+ },
+ {
+  "key": "U01621"
+ },
+ {
+  "key": "U01622",
+  "en": "Before the Mouri Army's onslaught,\nthe Takeda Army was powerless.\nThe battle ended with the suicide\nof Takeda Nobushige, and the\nAki-Takeda clan perished here..."
+ },
+ {
+  "key": "U01623"
+ },
+ {
+  "key": "U01624",
+  "en": "Go to the Living Quarters, Retainers' Hall\nand Council Chamber"
+ },
+ {
+  "key": "U01625",
+  "en": ""
+ },
+ {
+  "key": "U01626"
+ },
+ {
+  "key": "U01627"
+ },
+ {
+  "key": "U01628"
+ },
+ {
+  "key": "U01629"
+ },
+ {
+  "key": "U01630"
+ },
+ {
+  "key": "U01631"
+ },
+ {
+  "key": "U01632"
+ },
+ {
+  "key": "U01633"
+ },
+ {
+  "key": "U01634"
+ },
+ {
+  "key": "U01635"
+ },
+ {
+  "key": "U01636"
+ },
+ {
+  "key": "U01637"
+ },
+ {
+  "key": "U01638",
+  "note": "Retainer 8 is the Kobayakawa branch-house envoy."
+ },
+ {
+  "key": "U01639"
+ },
+ {
+  "key": "U01640",
+  "en": "Hear the retainers' views, then go to\nthe Living Quarters"
+ },
+ {
+  "key": "U01641"
+ },
+ {
+  "key": "U01642",
+  "en": ""
+ },
+ {
+  "key": "U01643"
+ },
+ {
+  "key": "U01644"
+ },
+ {
+  "key": "U01645",
+  "en": "The Mouri and the other local lords\nof Aki and Bingo on the Ouchi side\njoined Ouchi Yoshitaka's army.\nSweeping on, they took the Amago\noutpost Akana Castle and, led by\nKikkawa Okitsune, invaded Izumo.\nBefore besieging Gassan-Toda,\nYoshitaka convened his generals."
+ },
+ {
+  "key": "U01646",
+  "en": "Talk to the generals",
+  "note": "Scene menu (limit 72 px): 'Talk to generals' is 80 px. Earlier slices use 'See lords' / 'See vassals' for the same pattern. 0.2.14: written in full, since the scene-goal box now fits the English text (the shortened form was for the 8 px per character box)."
+ },
+ {
+  "key": "U01647",
+  "en": "Ouchi Army HQ"
+ },
+ {
+  "key": "U01648"
+ },
+ {
+  "key": "U01649"
+ },
+ {
+  "key": "U01650"
+ },
+ {
+  "key": "U01651"
+ },
+ {
+  "key": "U01652"
+ },
+ {
+  "key": "U01653"
+ },
+ {
+  "key": "U01654",
+  "note": "Japanese blank line kept as a page break (one sentence split over two pages)."
+ },
+ {
+  "key": "U01655"
+ },
+ {
+  "key": "U01656"
+ },
+ {
+  "key": "U01657"
+ },
+ {
+  "key": "U01658",
+  "note": "Narikata's halting speech: leading pauses kept; the line break before the second '...' kept as an explicit break inside the section (no page break)."
+ },
+ {
+  "key": "U01659"
+ },
+ {
+  "key": "U01660"
+ },
+ {
+  "key": "U01661"
+ },
+ {
+  "key": "U01662"
+ },
+ {
+  "key": "U01663"
+ },
+ {
+  "key": "U01664"
+ },
+ {
+  "key": "U01665"
+ },
+ {
+  "key": "U01666"
+ },
+ {
+  "key": "U01667",
+  "note": "Okata's relief at Takamoto's coming home (U01631)."
+ },
+ {
+  "key": "U01668"
+ },
+ {
+  "key": "U01669",
+  "en": "Ankoku-ji"
+ },
+ {
+  "key": "U01670"
+ },
+ {
+  "key": "U01671",
+  "note": "Page break added after the shocked silence as a reaction beat."
+ },
+ {
+  "key": "U01672"
+ },
+ {
+  "key": "U01673"
+ },
+ {
+  "key": "U01674"
+ },
+ {
+  "key": "U01675"
+ },
+ {
+  "key": "U01676"
+ },
+ {
+  "key": "U01677",
+  "note": "Kamei's aside. Japanese blank line kept as a page break inside the thought."
+ },
+ {
+  "key": "U01678"
+ },
+ {
+  "key": "U01679"
+ }
+]

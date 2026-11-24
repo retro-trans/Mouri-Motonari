@@ -1,0 +1,280 @@
+[
+ {
+  "key": "U03520"
+ },
+ {
+  "key": "U03521"
+ },
+ {
+  "key": "U03522",
+  "en": "Sugi Shigesuke joined your army.",
+  "note": "Glossary pattern 'X joined your army' with a period (as U00866)."
+ },
+ {
+  "key": "U03523"
+ },
+ {
+  "key": "U03524",
+  "en": "Suginomori Fusayasu joined your army",
+  "note": "Glossary pattern; with the period it is 37 characters, so the period is dropped as in U02131 (36 chars)."
+ },
+ {
+  "key": "U03525",
+  "note": "Bare '&' speaker (enemy unit) copied as is; same English as U02137/U02371."
+ },
+ {
+  "key": "U03526"
+ },
+ {
+  "key": "U03527",
+  "en": "Got 800 gold.",
+  "note": "terms.json form 'Got N gold.'."
+ },
+ {
+  "key": "U03528",
+  "en": "Ep. 14: Sorin, Cunning Lord of Bungo",
+  "note": "terms.json 'Episode 14: Sorin, Cunning Lord of Bungo' is 40 characters (limit 36); shortened to 'Ep. 14' as in U02960 'Ep. 12: ...' (36 chars). Shared by 2 occurrences."
+ },
+ {
+  "key": "U03529",
+  "en": "Nagato-Katsuyama Castle"
+ },
+ {
+  "key": "U03530",
+  "en": "Katsuyama Castle: Living Quarters"
+ },
+ {
+  "key": "U03531"
+ },
+ {
+  "key": "U03532",
+  "en": "Katsuyama Castle: Castle Interior",
+  "note": "As U03530: province prefix dropped to fit 36 (33 chars); glossary 'Castle Interior'."
+ },
+ {
+  "key": "U03533"
+ },
+ {
+  "key": "U03534"
+ },
+ {
+  "key": "U03535"
+ },
+ {
+  "key": "U03536",
+  "note": "Spoken to the baby, then a thought. The baby's sex is not stated here (characters.json: Seki later fosters the kunoichi Hotaru), so 'you' only."
+ },
+ {
+  "key": "U03537"
+ },
+ {
+  "key": "U03538"
+ },
+ {
+  "key": "U03539"
+ },
+ {
+  "key": "U03540"
+ },
+ {
+  "key": "U03541"
+ },
+ {
+  "key": "U03542"
+ },
+ {
+  "key": "U03543",
+  "en": "Ogurayama Castle: Mouri Takamoto's Residence",
+  "note": "Full form since 0.2.12 (caption box sized by text width, limit 288 px): family name and 'Residence' restored; 'Koriyama Castle' is the approved short form used by the other Koriyama captions. 228 px."
+ },
+ {
+  "key": "U03544",
+  "en": "Katsuyama Castle: Council Chamber",
+  "note": "As U03530 (province prefix dropped; 33 chars). Shared by 11 occurrences."
+ },
+ {
+  "key": "U03545"
+ },
+ {
+  "key": "U03546"
+ },
+ {
+  "key": "U03547"
+ },
+ {
+  "key": "U03548",
+  "en": "Katsuyama Castle: Retainers' Hall",
+  "note": "As U03530 (province prefix dropped; 34 chars). Shared by 7 occurrences."
+ },
+ {
+  "key": "U03549"
+ },
+ {
+  "key": "U03550"
+ },
+ {
+  "key": "U03551"
+ },
+ {
+  "key": "U03552"
+ },
+ {
+  "key": "U03553"
+ },
+ {
+  "key": "U03554",
+  "note": "Pre-sortie prompt (cf. U02206 'Are your preparations complete, my lord?'). Takamoto speaks to his father, so 'Father' instead of 'my lord'; the Japanese has no address word."
+ },
+ {
+  "key": "U03555"
+ },
+ {
+  "key": "U03556"
+ },
+ {
+  "key": "U03557"
+ },
+ {
+  "key": "U03558",
+  "en": "Decide\nThink some more"
+ },
+ {
+  "key": "U03559",
+  "en": "Give aid\nRefuse aid"
+ },
+ {
+  "key": "U03560",
+  "note": "Thought shown when the player lacks 2000 gold. Subject 'we' (the Mouri) and object 'him' (Tanezane) restored."
+ },
+ {
+  "key": "U03561"
+ },
+ {
+  "key": "U03562"
+ },
+ {
+  "key": "U03563"
+ },
+ {
+  "key": "U03564"
+ },
+ {
+  "key": "U03565"
+ },
+ {
+  "key": "U03566"
+ },
+ {
+  "key": "U03567"
+ },
+ {
+  "key": "U03568",
+  "note": "Gameplay hint. JP page break falls between sentences and is kept."
+ },
+ {
+  "key": "U03569"
+ },
+ {
+  "key": "U03570"
+ },
+ {
+  "key": "U03571"
+ },
+ {
+  "key": "U03572"
+ },
+ {
+  "key": "U03573"
+ },
+ {
+  "key": "U03574"
+ },
+ {
+  "key": "U03575"
+ },
+ {
+  "key": "U03576",
+  "note": "Katsura's own father Hirozumi took his own life (earlier episodes), which explains his sympathy; not added to the line."
+ },
+ {
+  "key": "U03577"
+ },
+ {
+  "key": "U03578"
+ },
+ {
+  "key": "U03579",
+  "note": "Murakami's joke, rough register kept."
+ },
+ {
+  "key": "U03580"
+ },
+ {
+  "key": "U03581"
+ },
+ {
+  "key": "U03582",
+  "note": "JP page break mid-sentence dropped."
+ },
+ {
+  "key": "U03583",
+  "note": "Same English as U03314 (one particle differs)."
+ },
+ {
+  "key": "U03584"
+ },
+ {
+  "key": "U03585"
+ },
+ {
+  "key": "U03586"
+ },
+ {
+  "key": "U03587"
+ },
+ {
+  "key": "U03588"
+ },
+ {
+  "key": "U03589"
+ },
+ {
+  "key": "U03590"
+ },
+ {
+  "key": "U03591"
+ },
+ {
+  "key": "U03592",
+  "note": "As U03324. Shared by 2 occurrences."
+ },
+ {
+  "key": "U03593"
+ },
+ {
+  "key": "U03594"
+ },
+ {
+  "key": "U03595",
+  "note": "Same English as U03326 (only line breaks differ). Utajima's gender unknown: no pronoun. Shared by 2 occurrences."
+ },
+ {
+  "key": "U03596",
+  "note": "Same English as U03328 (only line breaks differ). Shared by 2 occurrences."
+ },
+ {
+  "key": "U03597",
+  "en": "You ran out of the house,\nsaying you'd come back a true\ncraftsman, and how many years\nhave gone by since then?",
+  "note": "Letter from Teshima Shogo's mother; same wording as U03334 but re-broken to the 4 JP lines. Shared by 5 occurrences."
+ },
+ {
+  "key": "U03598",
+  "en": "You've always been stubborn, so\naren't you at a loss now, unable\nto bring yourself to come home?",
+  "note": "Same wording as U03336, re-broken to the 3 JP lines."
+ },
+ {
+  "key": "U03599",
+  "en": "Even if your work isn't going\nwell, your mother doesn't\nmind in the least.\nAbove all, what matters most\nis that you're well.",
+  "note": "Same wording as U03337 with the JP line breaks of this version. Shared by 3 occurrences."
+ }
+]

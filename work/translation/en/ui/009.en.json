@@ -1,0 +1,341 @@
+[
+ {
+  "key": "E0230",
+  "en": "Kun. Chief"
+ },
+ {
+  "key": "E0231",
+  "en": "Yamabushi"
+ },
+ {
+  "key": "E0232",
+  "en": "Are you sure?",
+  "note": "Same wording as E0103."
+ },
+ {
+  "key": "E0233",
+  "en": "    Yes      No"
+ },
+ {
+  "key": "E0234",
+  "en": "Attack",
+  "note": "Glossary stat. Table 0x800FED10 feeds the second %s of E0238/E0239 (code 0x80040368); the 『』 brackets are dropped as in E0199-E0204."
+ },
+ {
+  "key": "E0235",
+  "en": "Defense",
+  "note": "Glossary stat."
+ },
+ {
+  "key": "E0236",
+  "en": "Intellect",
+  "note": "Glossary stat."
+ },
+ {
+  "key": "E0237",
+  "en": "Allies"
+ },
+ {
+  "key": "E0238",
+  "en": "%s: %s rose.",
+  "note": "The first %s is an officer name OR E0237/E0661/E0662 (Allies / Enemies / Both armies), so \"%s's %s rose.\" would give \"Allies's\"; colon form works for both. Printed by the message box 0x8003F828 (code 0x80040300-0x80040380)."
+ },
+ {
+  "key": "E0239",
+  "en": "%s: %s fell.",
+  "note": "Same pattern as E0238."
+ },
+ {
+  "key": "E0240",
+  "en": "%s took %w damage.",
+  "note": "%w kept as is (game-specific number specifier)."
+ },
+ {
+  "key": "E0241",
+  "en": "%s is no longer bound."
+ },
+ {
+  "key": "E0242",
+  "en": "%s is bound."
+ },
+ {
+  "key": "E0243",
+  "en": "%s is no longer unlucky."
+ },
+ {
+  "key": "E0244",
+  "en": "%s is unlucky."
+ },
+ {
+  "key": "E0245",
+  "en": "%s is no longer sealed."
+ },
+ {
+  "key": "E0246",
+  "en": "%s is sealed."
+ },
+ {
+  "key": "E0247",
+  "en": "%s is no longer confused."
+ },
+ {
+  "key": "E0248",
+  "en": "%s is confused."
+ },
+ {
+  "key": "E0249",
+  "en": "%s is no longer wounded.",
+  "note": "As E0208."
+ },
+ {
+  "key": "E0250",
+  "en": "%s is badly wounded.",
+  "note": "As E0218."
+ },
+ {
+  "key": "E0251",
+  "en": "%s retreated with\nambitions unfulfilled."
+ },
+ {
+  "key": "E0252",
+  "en": "%s retreated."
+ },
+ {
+  "key": "E0253",
+  "en": "So dies the Mouri dream..."
+ },
+ {
+  "key": "E0254",
+  "en": "End%4u/%3u"
+ },
+ {
+  "key": "E0255",
+  "en": "SP %4u/%3u"
+ },
+ {
+  "key": "E0256",
+  "en": "%s was bound."
+ },
+ {
+  "key": "E0257",
+  "en": "%s was sealed."
+ },
+ {
+  "key": "E0258",
+  "en": "%s was confused."
+ },
+ {
+  "key": "E0259",
+  "en": "The weapon for this skill isn't equipped."
+ },
+ {
+  "key": "E0260",
+  "en": "Can only be used in rain."
+ },
+ {
+  "key": "E0261",
+  "en": "%s was unlucky."
+ },
+ {
+  "key": "E0262",
+  "en": "Cannot recover any further."
+ },
+ {
+  "key": "E0263",
+  "en": "This unit's Endurance was too low."
+ },
+ {
+  "key": "E0264",
+  "en": "Cannot be used due to rain."
+ },
+ {
+  "key": "E0265",
+  "en": "Cannot be used while badly wounded."
+ },
+ {
+  "key": "E0266",
+  "en": "Cannot be used: Skill Points too high."
+ },
+ {
+  "key": "E0267",
+  "en": "Cannot be done while bound."
+ },
+ {
+  "key": "E0268",
+  "en": "Can only be used at sea."
+ },
+ {
+  "key": "E0269",
+  "en": "Only usable in castle towns or villages.",
+  "note": "\"Can only be used in castle towns or villages.\" is 211 px > 204."
+ },
+ {
+  "key": "E0270",
+  "en": "Cannot be used at sea or in shoals.",
+  "note": "[gaps pass 2026-10-28, I-33: was \"Cannot be used at sea or in shallows.\"]"
+ },
+ {
+  "key": "E0271",
+  "en": "Can only be used in uplands or woods.",
+  "note": "[gaps pass 2026-10-28, I-32/I-34: was \"Can only be used in mountains or forests.\"]"
+ },
+ {
+  "key": "E0272",
+  "en": "Can only be used at sea or in shoals.",
+  "note": "[gaps pass 2026-10-28, I-33: was \"Can only be used at sea or in shallows.\"]"
+ },
+ {
+  "key": "E0273",
+  "en": "Can only be used on enemies in mountains."
+ },
+ {
+  "key": "E0274",
+  "en": "Can only be used on enemies at sea."
+ },
+ {
+  "key": "E0275",
+  "en": "Can only target Cavalry units."
+ },
+ {
+  "key": "E0276",
+  "en": "There are no enemy units at sea."
+ },
+ {
+  "key": "E0277",
+  "en": "Cannot be used on Kunoichi."
+ },
+ {
+  "key": "E0278",
+  "en": "Defense cannot be lowered any further."
+ },
+ {
+  "key": "E0279",
+  "en": "Cannot be used on that unit any more."
+ },
+ {
+  "key": "E0280",
+  "en": "Cannot target units yet to act."
+ },
+ {
+  "key": "E0281",
+  "en": "It began to rain."
+ },
+ {
+  "key": "E0282",
+  "en": "The skies cleared."
+ },
+ {
+  "key": "E0283",
+  "en": "Cannot do any more."
+ },
+ {
+  "key": "E0284",
+  "en": "There is no need to recover."
+ },
+ {
+  "key": "E0285",
+  "en": "Level too low."
+ },
+ {
+  "key": "E0286",
+  "en": "Cannot be used on that unit."
+ },
+ {
+  "key": "E0287",
+  "en": "Cannot attack with nothing equipped.",
+  "note": "\"Nothing is equipped, so you cannot attack.\" is 208 px > 204."
+ },
+ {
+  "key": "E0288",
+  "en": "Cannot attack due to rain."
+ },
+ {
+  "key": "E0289",
+  "en": "Not carrying any items.",
+  "note": "Subject (the unit) left implicit, as in the other system messages."
+ },
+ {
+  "key": "E0290",
+  "en": "Gave it to %s."
+ },
+ {
+  "key": "E0291",
+  "en": "Cannot carry any more items."
+ },
+ {
+  "key": "E0292",
+  "en": "Equip %s?"
+ },
+ {
+  "key": "E0293",
+  "en": "Unequipped %s."
+ },
+ {
+  "key": "E0294",
+  "en": "Not enough Skill Points.",
+  "note": "[gaps pass 2026-10-28, I-30: was \"Not enough skill points.\"]"
+ },
+ {
+  "key": "E0295",
+  "en": "Cannot target the leader."
+ },
+ {
+  "key": "E0296",
+  "en": "Cannot do that here."
+ },
+ {
+  "key": "E0297",
+  "en": "Cannot target Supply Corps."
+ },
+ {
+  "key": "E0298",
+  "en": "Cannot target own unit."
+ },
+ {
+  "key": "E0299",
+  "en": "Got %d gold."
+ },
+ {
+  "key": "E0300",
+  "en": "Not within move range.",
+  "note": "In-place 23-byte slot."
+ },
+ {
+  "key": "E0301",
+  "en": "Cannot Class Up any further.",
+  "note": "Class Up as E0154."
+ },
+ {
+  "key": "E0302",
+  "en": "Skills are sealed."
+ },
+ {
+  "key": "E0303",
+  "en": "Execute Rally?"
+ },
+ {
+  "key": "E0304",
+  "en": "Give the equipped %s?"
+ },
+ {
+  "key": "E0305",
+  "en": "Give %s?"
+ },
+ {
+  "key": "E0306",
+  "en": "Can't give to own unit.",
+  "note": "In-place 23-byte slot: \"Cannot give...\" is 24 bytes, so this one keeps \"Can't\"."
+ },
+ {
+  "key": "E0307",
+  "en": "Discard the equipped %s?"
+ },
+ {
+  "key": "E0308",
+  "en": "Discard %s?"
+ },
+ {
+  "key": "E0309",
+  "en": "Discarded %s."
+ }
+]

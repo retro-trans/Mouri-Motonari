@@ -1,0 +1,262 @@
+[
+ {
+  "key": "U00080"
+ },
+ {
+  "key": "U00081"
+ },
+ {
+  "key": "U00082",
+  "en": "Koriyama: Tavern"
+ },
+ {
+  "key": "U00083"
+ },
+ {
+  "key": "U00084"
+ },
+ {
+  "key": "U00085",
+  "en": "Koriyama: Market",
+  "note": "Shared caption (count 28). Glossary form in full: titles allow 36 characters (checker TITLE_BYTES), so the earlier 72 px abbreviation \"Mkt.\" was not needed (acc review)."
+ },
+ {
+  "key": "U00086"
+ },
+ {
+  "key": "U00087"
+ },
+ {
+  "key": "U00088",
+  "en": "Koriyama: Training Ground",
+  "note": "Shared caption (count 28). Glossary form in full (25 chars, title limit 36); abbreviation not needed (acc review)."
+ },
+ {
+  "key": "U00089"
+ },
+ {
+  "key": "U00090"
+ },
+ {
+  "key": "U00091",
+  "en": "Koriyama: Temple"
+ },
+ {
+  "key": "U00092",
+  "en": "Koriyama Castle: Mouri Komatsumaru's Residence",
+  "note": "Full form since 0.2.12 (caption box sized by text width, limit 288 px): family name and 'Residence' restored; 'Koriyama Castle' is the approved short form used by the other Koriyama captions. 234 px."
+ },
+ {
+  "key": "U00093"
+ },
+ {
+  "key": "U00094"
+ },
+ {
+  "key": "U00095"
+ },
+ {
+  "key": "U00096"
+ },
+ {
+  "key": "U00097"
+ },
+ {
+  "key": "U00098",
+  "en": "Kanayama Castle: Living Quarters",
+  "note": "Glossary form in full (32 chars, title limit 36), same as U01616 (acc review)."
+ },
+ {
+  "key": "U00099"
+ },
+ {
+  "key": "U00100"
+ },
+ {
+  "key": "U00101",
+  "en": "The day after Mouri Okimoto died..."
+ },
+ {
+  "key": "U00102"
+ },
+ {
+  "key": "U00103"
+ },
+ {
+  "key": "U00104",
+  "en": "Koriyama: House"
+ },
+ {
+  "key": "U00105"
+ },
+ {
+  "key": "U00106"
+ },
+ {
+  "key": "U00107"
+ },
+ {
+  "key": "U00108"
+ },
+ {
+  "key": "U00109"
+ },
+ {
+  "key": "U00110"
+ },
+ {
+  "key": "U00111"
+ },
+ {
+  "key": "U00112"
+ },
+ {
+  "key": "U00113",
+  "note": "Japanese is identical to U00108 (Fukubara), so the English is identical too."
+ },
+ {
+  "key": "U00114"
+ },
+ {
+  "key": "U00115",
+  "en": "Sortie\nDon't sortie"
+ },
+ {
+  "key": "U00116"
+ },
+ {
+  "key": "U00117"
+ },
+ {
+  "key": "U00118"
+ },
+ {
+  "key": "U00119"
+ },
+ {
+  "key": "U00120"
+ },
+ {
+  "key": "U00121"
+ },
+ {
+  "key": "U00122"
+ },
+ {
+  "key": "U00123"
+ },
+ {
+  "key": "U00124"
+ },
+ {
+  "key": "U00125"
+ },
+ {
+  "key": "U00126"
+ },
+ {
+  "key": "U00127"
+ },
+ {
+  "key": "U00128"
+ },
+ {
+  "key": "U00129"
+ },
+ {
+  "key": "U00130"
+ },
+ {
+  "key": "U00131",
+  "note": "No context in the line itself; kept general (most likely the succession quarrel or the Amago threat)."
+ },
+ {
+  "key": "U00132"
+ },
+ {
+  "key": "U00133"
+ },
+ {
+  "key": "U00134"
+ },
+ {
+  "key": "U00135"
+ },
+ {
+  "key": "U00136",
+  "en": "Go to Mouri Okimoto's Residence",
+  "note": "Label limit is 96 px; \"Go to Mouri Okimoto's Residence\" is 156 px. \"Visit\" instead of \"Go to\" and \"Res.\" for Residence (95 px). 0.2.14: written in full, since the scene-goal box now fits the English text (the shortened form was for the 8 px per character box)."
+ },
+ {
+  "key": "U00137"
+ },
+ {
+  "key": "U00138"
+ },
+ {
+  "key": "U00139"
+ },
+ {
+  "key": "U00140",
+  "en": "Luck rose by 5."
+ },
+ {
+  "key": "U00141"
+ },
+ {
+  "key": "U00142"
+ },
+ {
+  "key": "U00143"
+ },
+ {
+  "key": "U00144"
+ },
+ {
+  "key": "U00145"
+ },
+ {
+  "key": "U00146"
+ },
+ {
+  "key": "U00147"
+ },
+ {
+  "key": "U00148"
+ },
+ {
+  "key": "U00149"
+ },
+ {
+  "key": "U00150",
+  "en": "Talk to Shiji Hiroyoshi to sortie"
+ },
+ {
+  "key": "U00151"
+ },
+ {
+  "key": "U00152"
+ },
+ {
+  "key": "U00153"
+ },
+ {
+  "key": "U00154"
+ },
+ {
+  "key": "U00155"
+ },
+ {
+  "key": "U00156"
+ },
+ {
+  "key": "U00157"
+ },
+ {
+  "key": "U00158",
+  "note": "Direction: Lady Fuji asks Motonari to look after her son."
+ },
+ {
+  "key": "U00159"
+ }
+]

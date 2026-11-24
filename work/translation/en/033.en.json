@@ -1,0 +1,289 @@
+[
+ {
+  "key": "U02640",
+  "en": "Pacification of Aki and Bingo\n\nVictory Conditions\n  1. Defeat all enemies\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 60 turns pass",
+  "note": "Glossary battle name and battle-UI wording, as U02637; the Japanese blank second line is kept."
+ },
+ {
+  "key": "U02641",
+  "en": "&\nWhoa! There's gold in a place like this!",
+  "note": "Bare '&' speaker line copied as is (a unit finding gold on the battle map)."
+ },
+ {
+  "key": "U02642"
+ },
+ {
+  "key": "U02643"
+ },
+ {
+  "key": "U02644"
+ },
+ {
+  "key": "U02645",
+  "en": "Seki Masakiyo's ninja appeared."
+ },
+ {
+  "key": "U02646"
+ },
+ {
+  "key": "U02647",
+  "en": "Attack and Defense rose.",
+  "note": "Stat names from terms.json; pattern 'Attack rose by 5.' (U00372), here with no amount given."
+ },
+ {
+  "key": "U02648"
+ },
+ {
+  "key": "U02649",
+  "en": "Amago Haruhisa's main army arrived."
+ },
+ {
+  "key": "U02650"
+ },
+ {
+  "key": "U02651",
+  "en": "Eda Takatsura defected to the Amago."
+ },
+ {
+  "key": "U02652"
+ },
+ {
+  "key": "U02653",
+  "en": "Pacification of Aki and Bingo\nVictory Conditions\n  1. Make Amago Haruhisa retreat\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 60 turns pass"
+ },
+ {
+  "key": "U02654",
+  "en": "Pacif. of Aki and Bingo (Goal Changed)\n\nVictory Conditions\n  1. Make Amago Haruhisa retreat\nDefeat Conditions\n  1. Mouri Motonari retreats\n  2. Mouri HQ is captured\n  3. More than 60 turns pass",
+  "note": "First line limit 180 px. Glossary 'Pacification of Aki and Bingo (Victory Conditions Changed)' is 281 px; abbreviated to 'Pacif.' and '(Goal Changed)' (180 px, exact fit; only one victory condition, so 'Goal'). Alt: 'Pacification of Aki & Bingo (New Goal)' (178). Rest as U02653."
+ },
+ {
+  "key": "U02655"
+ },
+ {
+  "key": "U02656"
+ },
+ {
+  "key": "U02657"
+ },
+ {
+  "key": "U02658",
+  "en": "Takamichi joined your army.",
+  "note": "Glossary pattern 'X joined your army'. 'Yamanouchi Takamichi joined your army' is 37 chars (limit 36), so the family name is dropped, as U00340 dropped Aio. Alt: 'Yamanouchi Takamichi joined you.' (32)."
+ },
+ {
+  "key": "U02659"
+ },
+ {
+  "key": "U02660",
+  "en": "Asonuma Hirohide joined your army.",
+  "note": "Glossary pattern with period (34 chars)."
+ },
+ {
+  "key": "U02661"
+ },
+ {
+  "key": "U02662",
+  "en": "Hiraga Hirosuke joined your army.",
+  "note": "Glossary pattern with period (33 chars)."
+ },
+ {
+  "key": "U02663"
+ },
+ {
+  "key": "U02664"
+ },
+ {
+  "key": "U02665"
+ },
+ {
+  "key": "U02666",
+  "note": "Bare '&' speaker copied as is (Eda's side, defeat event); pattern of U01608/U02371."
+ },
+ {
+  "key": "U02667",
+  "note": "Japanese blank lines kept as one page beat."
+ },
+ {
+  "key": "U02668",
+  "en": "Episode 11: Intrigue",
+  "note": "Glossary form (terms.json). Shared by 2 occurrences."
+ },
+ {
+  "key": "U02669",
+  "en": "Usuki Castle: Council Chamber",
+  "note": "Glossary castle + room (29 chars). Shared by 4 occurrences."
+ },
+ {
+  "key": "U02670"
+ },
+ {
+  "key": "U02671"
+ },
+ {
+  "key": "U02672"
+ },
+ {
+  "key": "U02673"
+ },
+ {
+  "key": "U02674"
+ },
+ {
+  "key": "U02675",
+  "en": "Kiyosu Castle: Nobuhide's Funeral"
+ },
+ {
+  "key": "U02676"
+ },
+ {
+  "key": "U02677"
+ },
+ {
+  "key": "U02678"
+ },
+ {
+  "key": "U02679"
+ },
+ {
+  "key": "U02680"
+ },
+ {
+  "key": "U02681",
+  "en": "After that, Nobunaga\nsucceeded to the headship of\nthe Oda clan. But it would be\nsome time yet before he\nstepped onto center stage."
+ },
+ {
+  "key": "U02682"
+ },
+ {
+  "key": "U02683"
+ },
+ {
+  "key": "U02684"
+ },
+ {
+  "key": "U02685",
+  "en": "Visit my sons' castles",
+  "note": "Scene menu entry; limit 96 px, 92 px. 'Visit my sons' castles' is 107 px. 0.2.14: written in full, since the scene-goal box now fits the English text (the shortened form was for the 8 px per character box)."
+ },
+ {
+  "key": "U02686",
+  "en": "Sakurao Castle: Council Chamber",
+  "note": "Glossary castle + room (31 chars). Shared by 16 occurrences."
+ },
+ {
+  "key": "U02687",
+  "en": "Sakurao Castle: Retainers' Hall",
+  "note": "Glossary castle + room (31 chars). Shared by 10 occurrences."
+ },
+ {
+  "key": "U02688",
+  "en": "Sakurao Castle: Living Quarters",
+  "note": "Glossary castle + room (31 chars). Shared by 11 occurrences."
+ },
+ {
+  "key": "U02689",
+  "en": "Sakurao: Storehouse"
+ },
+ {
+  "key": "U02690",
+  "en": "Sakurao: Workshop",
+  "note": "Shared by 10 occurrences."
+ },
+ {
+  "key": "U02691",
+  "en": "Sakurao: Tavern",
+  "note": "Shared by 10 occurrences."
+ },
+ {
+  "key": "U02692",
+  "en": "Sakurao: Market",
+  "note": "Shared by 10 occurrences."
+ },
+ {
+  "key": "U02693",
+  "en": "Sakurao: Temple",
+  "note": "Shared by 10 occurrences."
+ },
+ {
+  "key": "U02694"
+ },
+ {
+  "key": "U02695"
+ },
+ {
+  "key": "U02696"
+ },
+ {
+  "key": "U02697"
+ },
+ {
+  "key": "U02698"
+ },
+ {
+  "key": "U02699"
+ },
+ {
+  "key": "U02700"
+ },
+ {
+  "key": "U02701"
+ },
+ {
+  "key": "U02702",
+  "en": "Fight Sue\nThink some more"
+ },
+ {
+  "key": "U02703"
+ },
+ {
+  "key": "U02704"
+ },
+ {
+  "key": "U02705"
+ },
+ {
+  "key": "U02706"
+ },
+ {
+  "key": "U02707"
+ },
+ {
+  "key": "U02708"
+ },
+ {
+  "key": "U02709"
+ },
+ {
+  "key": "U02710"
+ },
+ {
+  "key": "U02711",
+  "note": "Narikata's halting speech (characters.json) kept with pauses."
+ },
+ {
+  "key": "U02712"
+ },
+ {
+  "key": "U02713"
+ },
+ {
+  "key": "U02714",
+  "note": "Same text as U02696 without the page break."
+ },
+ {
+  "key": "U02715"
+ },
+ {
+  "key": "U02716"
+ },
+ {
+  "key": "U02717"
+ },
+ {
+  "key": "U02718"
+ },
+ {
+  "key": "U02719",
+  "en": "Amago Territory: Highway"
+ }
+]

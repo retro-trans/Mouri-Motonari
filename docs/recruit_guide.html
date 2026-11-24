@@ -1,0 +1,262 @@
+<title>Chikai no Sanshi Recruits</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@500;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a single reading column; episodes as stacked bands, each recruit one row with a tick box. */
+:root {
+  --paper: #f2f4f3;
+  --sheet: #ffffff;
+  --ink: #1c2a3a;
+  --muted: #5b6876;
+  --rule: #d5dbe0;
+  --indigo: #2b4a75;
+  --moss: #4f6b3a;
+  --seal: #a8422f;
+  --chip: #e6ebf1;
+  --done: #9aa6b2;
+  --f-head: "Spectral", Georgia, "Times New Roman", serif;
+  --f-body: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --paper: #12171d; --sheet: #1a2129; --ink: #e3e8ee; --muted: #9aa7b4; --rule: #2c3640;
+  --indigo: #8fb0dd; --moss: #a3c088; --seal: #e48a73; --chip: #243040; --done: #5d6a77; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --paper: #12171d; --sheet: #1a2129; --ink: #e3e8ee; --muted: #9aa7b4; --rule: #2c3640;
+  --indigo: #8fb0dd; --moss: #a3c088; --seal: #e48a73; --chip: #243040; --done: #5d6a77; color-scheme: dark }
+
+* { box-sizing: border-box; }
+body { background: var(--paper); color: var(--ink); font: 15px/1.55 var(--f-body); }
+.wrap { max-width: 860px; margin: 0 auto; padding-block: 28px 64px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+h1 { font: 700 2.1rem/1.15 var(--f-head); margin: 0 0 6px; text-wrap: balance; }
+h2 { font: 700 1.35rem/1.2 var(--f-head); margin: 0; text-wrap: balance; }
+h3 { font: 600 0.78rem/1 var(--f-body); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 0; }
+p { margin: 0; }
+.lede { color: var(--muted); max-width: 65ch; }
+a { color: var(--indigo); }
+
+.intro { display: grid; gap: 14px; margin-bottom: 22px; }
+.keys { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 10px; }
+.key { background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; padding: 10px 12px; display: grid; gap: 4px; min-width: 0; }
+.key b { font-weight: 600; }
+
+.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--paper);
+  padding-block: 10px; border-bottom: 1px solid var(--rule); display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; margin-bottom: 8px; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--paper); }
+.bar input[type="search"] { flex: 1 1 200px; min-width: 0; font: inherit; padding: 7px 10px; border: 1px solid var(--rule); border-radius: 6px; background: var(--sheet); color: var(--ink); }
+.seg { display: inline-flex; border: 1px solid var(--rule); border-radius: 6px; overflow: hidden; }
+.seg button { font: 500 .85rem var(--f-body); border: 0; background: var(--sheet); color: var(--ink); padding: 7px 11px; cursor: pointer; }
+.seg button + button { border-left: 1px solid var(--rule); }
+.seg button[aria-pressed="true"] { background: var(--indigo); color: var(--sheet); }
+.bar label { display: inline-flex; gap: 6px; align-items: center; font-size: .9rem; color: var(--muted); }
+.count { font: 500 .85rem var(--f-mono); color: var(--muted); font-variant-numeric: tabular-nums; }
+button:focus-visible, input:focus-visible { outline: 2px solid var(--seal); outline-offset: 2px; }
+
+.ep { padding-block: 18px 6px; border-bottom: 1px solid var(--rule); display: grid; gap: 8px; }
+.ep-head { display: flex; gap: 12px; align-items: baseline; flex-wrap: wrap; }
+.ep-no { font: 500 .8rem var(--f-mono); color: var(--seal); letter-spacing: .04em; }
+.rows { display: grid; }
+.row { display: grid; grid-template-columns: 26px minmax(0, 1fr); gap: 4px 10px; padding-block: 10px; border-top: 1px dashed var(--rule); }
+.row:first-child { border-top: 0; }
+.row input { margin: 4px 0 0; width: 17px; height: 17px; accent-color: var(--moss); }
+.who { display: flex; flex-wrap: wrap; gap: 4px 8px; align-items: baseline; }
+.name { font-weight: 600; }
+.tag { font: 500 .72rem var(--f-body); letter-spacing: .04em; text-transform: uppercase; padding: 2px 7px; border-radius: 99px; background: var(--chip); color: var(--muted); }
+.tag.miss { color: var(--seal); }
+.tag.craft { color: var(--moss); }
+.how { grid-column: 2; color: var(--ink); max-width: 68ch; }
+.how .where { color: var(--muted); }
+.need { grid-column: 2; font-size: .9rem; color: var(--seal); }
+.row.got .name, .row.got .how { color: var(--done); text-decoration: line-through; text-decoration-thickness: 1px; }
+.empty { color: var(--muted); padding: 24px 0; }
+.foot { margin-top: 28px; display: grid; gap: 8px; color: var(--muted); font-size: .9rem; max-width: 70ch; }
+.mono { font-family: var(--f-mono); font-size: .92em; }
+@media (prefers-reduced-motion: no-preference) { .row { transition: color .15s; } }
+</style>
+
+<div class="wrap">
+  <header class="intro">
+    <h1>Chikai no Sanshi Recruits</h1>
+    <p class="lede">Every officer and craftsman who can join the Mouri in <i>Mouri Motonari: Chikai no Sanshi</i> (PS1, Koei 1997), episode by episode, with exactly what triggers each one. Worked out from the game's own event scripts while translating it, so the conditions are what the game checks, not guesses from play.</p>
+    <div class="keys">
+      <div class="key"><b>"X meets Y"</b><span>The two units come into contact on the battle map. The script checks the pair either way round, so X can walk up to Y or Y can come to X. Only the named unit works.</span></div>
+      <div class="key"><b>Missable</b><span>Can be lost for good. Usually the officer is defeated, the battle ends, or a choice turns them away.</span></div>
+      <div class="key"><b>Town</b><span>Talk to the person in the town or castle scene before the battle, sometimes over several visits. The episode range shows how long the chance stays open.</span></div>
+    </div>
+  </header>
+
+  <div class="bar" role="search">
+    <input type="search" id="q" placeholder="Search a name, castle or condition" aria-label="Search recruits">
+    <div class="seg" role="group" aria-label="Show">
+      <button type="button" data-f="all" aria-pressed="true">All</button>
+      <button type="button" data-f="officer" aria-pressed="false">Officers</button>
+      <button type="button" data-f="craft" aria-pressed="false">Craftsmen</button>
+    </div>
+    <label><input type="checkbox" id="miss"> Missable only</label>
+    <label><input type="checkbox" id="hide"> Hide ticked</label>
+    <span class="count" id="count"></span>
+  </div>
+
+  <main id="list"></main>
+
+  <section class="foot">
+    <h3>Notes</h3>
+    <p>Episode numbers are the game's own ("Episode 5: …"). Town-scene recruits are listed under the first episode they can be recruited in; the range shows the last.</p>
+    <p>Battle-map squares are given as the script's (x, y) grid numbers, counted from 0. If a square seems wrong, try the same numbers the other way round.</p>
+    <p>Officers who join on their own (Motonari's sons, retainers' heirs and so on) are listed too, marked "story", so the roster is complete.</p>
+    <p>Not recruitable, although a profile suggests it: Watanabe Kayo (Ep. 7). His "joined" profile carries a developer note saying the feature was only planned, and no script adds him.</p>
+    <p>Craftsmen: from Ep. 21 (Terumoto's chapters) every town craftsman still left can be hired just by talking to him, except Kato Gonroku in Ep. 21. A hire can fail with "let us meet another time", probably when the workshop is full. Battle craftsmen are offered in that one battle only.</p>
+    <p>All of this comes from the scripts and has not yet been played through; if something doesn't fire, the episode or square is the first thing to doubt.</p>
+    <p>Ticks are saved in this browser only.</p>
+  </section>
+</div>
+
+<script>
+// kind: o = officer, c = craftsman; m = missable; s = story (joins on its own)
+const R = [
+ {ep:1,k:'o',s:1,n:'Starting retainers',how:'Fukubara Hirotoshi, Shiji Hiroyoshi, Kuchiba Michiyoshi, Kunishi Motosuke, Kodama Naritada and Iida Yoshitake serve from the start.'},
+ {ep:2,k:'o',s:1,n:'Seki Masakiyo',t:'ninja',how:'Joins with the battle (Kuchiba Michiyoshi recruited him).'},
+ {ep:2,k:'o',m:1,n:'Ando Kagetsuna',t:'supply',where:'Battle: Siege of Kagamiyama Castle',how:'Motonari meets his supply unit. He also joins after the battle if his unit reaches the Amago camp, so just leave it alone.',need:'Lost if you destroy his unit.'},
+ {ep:2,k:'o',m:1,n:'Amano Takashige',where:'Battle: Siege of Kagamiyama Castle',how:'Motonari meets him.'},
+ {ep:3,k:'o',m:1,n:'Katsura Motozumi',where:'Battle: Funayama Castle',how:'Motonari meets him. He has sided with his father and Aio Mototsuna; Motonari talks him back.'},
+ {ep:4,k:'o',s:1,n:'Fukubara Sadatoshi',how:'Takes his late father\'s place at the start of the battle.'},
+ {ep:4,k:'o',s:1,n:'Kodama Narikata',how:'Joins on his brother Naritada\'s recommendation.'},
+ {ep:4,k:'o',m:1,n:'Saito Tatsuyoshi',t:'swordsman',where:'Battle: Kanayama Castle (Ouchi reinforcements)',how:'Motonari meets him. His sword breaks and Motonari spares him.'},
+ {ep:4,to:5,k:'o',m:1,n:'Heizo',t:'bandit',where:'Town (from Ep. 1)',how:'From Ep. 1, talk to the farmer whose father is sick and promise to find his brother Heizo. Find Heizo in the tavern. In Ep. 4 (or 5) talk to the farmer again: Heizo comes home as his father dies. Choose "Recruit".',need:'Choosing not to recruit him loses him.'},
+ {ep:5,k:'o',m:1,n:'Kagawa Mitsukage',where:'Battle: Pacification of Aki (Yagi Castle)',how:'Motonari meets him.',need:'Needed later: he can persuade Koi Naoyuki in Ep. 11.'},
+ {ep:5,k:'o',m:1,n:'Shishido Takaie',where:'Battle: Pacification of Aki',how:'Motonari meets him. If he joins, Motonari marries his daughter Kiku to him in Ep. 6; if not, you choose between Kunishi Motosuke and Kodama Naritada.'},
+ {ep:5,k:'o',m:1,n:'Kumagai Nobunao',where:'Battle: Pacification of Aki (Aki-Takamatsu Castle)',how:'Motonari meets him.',need:'Needed later: he can persuade Koi Naoyuki in Ep. 11.'},
+ {ep:6,k:'o',s:1,n:'Kikkawa Motoharu',t:'Sho no Jiro',how:'Fights his first battle at Koriyama when you let him march.'},
+ {ep:7,k:'o',s:1,n:'Mouri Takamoto',how:'Back from the Ouchi; joins for this episode\'s battle.'},
+ {ep:7,k:'o',m:1,n:'Kunitomi Ryuzo',t:'bandit',where:'Battle: Retreat from Izumo',how:'Motonari meets him, or Heizo meets him or any of his bandits (Heizo was one of the gang).'},
+ {ep:7,to:10,k:'o',m:1,n:'Ran',t:'kunoichi',where:'Town: Koriyama',how:'Talk to the kunoichi training in Koriyama. You can ask her to train more before taking her on; she comes back better. Accept her offer to serve.'},
+ {ep:8,k:'o',m:1,n:'Miyoshi Takasuke',where:'Battle: Interception in Bingo (Hiebiyama Castle)',how:'Motonari meets him while he holds out.'},
+ {ep:8,k:'o',m:1,n:'Murakami Yoshimitsu',t:'navy',where:'Battle: Interception in Bingo',how:'Motonari or Nomi Munekatsu meets him.'},
+ {ep:9,k:'o',s:1,n:'Kobayakawa Takakage and Nomi Munekatsu',how:'Join from Takayama Castle for this episode\'s battle.'},
+ {ep:9,k:'o',m:1,n:'Nojiri Motosuke',t:'ninja',where:'Battle: Siege of Kannabe Castle',how:'Seki Masakiyo meets him (only Seki).'},
+ {ep:10,k:'o',m:1,n:'Yamanouchi Takamichi',where:'Battle: Pacification of Aki and Bingo',how:'Motonari meets him.'},
+ {ep:10,k:'o',m:1,n:'Asonuma Hirohide',where:'Battle: Pacification of Aki and Bingo',how:'Mouri Takamoto meets him.'},
+ {ep:10,k:'o',m:1,n:'Hiraga Hirosuke',where:'Battle: Pacification of Aki and Bingo',how:'Mouri Takamoto meets him.'},
+ {ep:11,k:'o',m:1,n:'Koi Naoyuki',where:'Battle: Koi Castle',how:'Kagawa Mitsukage or Kumagai Nobunao meets him.',need:'Needs Kagawa or Kumagai from Ep. 5.'},
+ {ep:11,to:13,k:'o',m:1,n:'Saiei',t:'warrior monk',where:'Town',how:'A townsman mentions a strong warrior monk at the temple. Talk to Saiei, then ask the old man about his past (he lost his wife and children in a war), then talk to Saiei again and recruit him.'},
+ {ep:11,to:13,k:'o',m:1,n:'Kyoshiro',t:'musician',where:'Town',how:'Confront the bandit who keeps robbing townspeople and get back Kyoshiro\'s stolen flute, then talk to Kyoshiro.'},
+ {ep:11,k:'o',m:1,n:'Wada Yaichi',t:'swordsman',where:'Training Ground',how:'Win six bouts in a row at the Training Ground. He is the sixth opponent.'},
+ {ep:12,k:'o',m:1,n:'Kurushima Michiyasu',t:'navy',where:'Town, before Itsukushima',how:'Talk to Nomi Munekatsu and choose "Ask for aid". Kurushima fights at Itsukushima and afterwards. His son Kurushima Michifusa sides with you from Ep. 18 if you go to Yuzuki Castle.'},
+ {ep:12,k:'o',m:1,n:'Murakami Takeyoshi',t:'navy',where:'Town, before Itsukushima',how:'In the same talk with Nomi, choose "Lend us aid for just one day". The other two answers lose him for this battle.',need:'Leaves in Ep. 19. In Ep. 21 he comes back if Kobayakawa Takakage, Kikkawa Motoharu or Mouri Terumoto meets him, but only if he helped at Itsukushima.'},
+ {ep:13,k:'o',s:1,n:'Shiji Hirotada',how:'Takes his sick father\'s place.'},
+ {ep:13,k:'o',m:1,n:'Yoshimi Masayori',where:'Battle: Suo-Nagato Offensive',how:'Motonari or Takamoto meets him.'},
+ {ep:13,k:'o',m:1,n:'Sugi Shigesuke',where:'Battle: Suo-Nagato Offensive',how:'Motonari meets him (he arrives as reinforcements).'},
+ {ep:13,k:'o',m:1,n:'Suginomori Fusayasu',where:'Battle: Rengeyama Castle',how:'Kikkawa Motoharu meets him.'},
+ {ep:14,k:'o',m:1,n:'Masaki Kenichiro',t:'pirate',where:'Battle: Struggle for Moji Castle',how:'Nomi Munekatsu meets him.'},
+ {ep:14,to:20,k:'o',m:1,n:'Chosuke',t:'supply',where:'Town: Sakurao market',how:'Let him swindle you: pay him 100 gold three times. Then talk to him again and offer him work.'},
+ {ep:14,k:'o',m:1,n:'Akizuki Tanezane',where:'Town (Ep. 14), then battle (Ep. 19)',how:'In Ep. 14, when Takamoto asks, choose "Decide" and "Give aid" (2000 gold). In the Ep. 19 Chikuzen Campaign any Mouri unit meets him and he joins.',need:'Refusing the aid loses him.'},
+ {ep:15,k:'o',m:1,n:'Masuda Fujikane',where:'Battle: Iwami Ginzan',how:'Kikkawa Motoharu meets him.'},
+ {ep:16,k:'o',m:1,n:'Mizawa Tamekiyo',where:'Battle: Siege of Shiraga Castle',how:'Kobayakawa Takakage meets him.',need:'Only after peace with the Otomo: in the Ep. 16 town, give the monk 2000 gold for the Shogun so he arranges the peace.'},
+ {ep:16,k:'o',m:1,n:'Mitoya Hisasuke',where:'Battle: Siege of Shiraga Castle',how:'Kikkawa Motoharu meets him.',need:'Same as Mizawa: peace with the Otomo first (2000 gold to the monk).'},
+ {ep:17,k:'o',s:1,n:'Mouri Terumoto',how:'His first battle.'},
+ {ep:17,k:'o',m:1,n:'Yuhara Harutsuna',where:'Battle: Siege of Gassan-Toda Castle',how:'Mitoya Hisasuke or Mizawa Tamekiyo meets him.',need:'Needs Mitoya or Mizawa from Ep. 16.'},
+ {ep:18,k:'o',s:1,n:'Kunishi Mototake and Kodama Motoyoshi',how:'Take over from their retiring fathers.'},
+ {ep:18,k:'o',m:1,n:'Tsuchiya Yukaku',t:'musician',where:'Battle: Ozu Castle area',how:'Any Mouri unit reaches square (1, 19), where the pirates hold him.'},
+ {ep:19,k:'o',m:1,n:'Ichifuji Yoshinori',t:'ninja',where:'Training Ground',how:'Win six bouts in a row at the Training Ground (from Ep. 19). He is the sixth opponent.'},
+ {ep:20,k:'o',s:1,n:'Hotaru',t:'kunoichi',how:'Seki Masakiyo\'s adopted daughter.'},
+ {ep:21,k:'o',s:1,n:'Ankokuji Ekei',how:'Serves with the army from here.'},
+ {ep:26,k:'o',s:1,n:'Kikkawa Hiroie',how:'Comes in his wounded father\'s place.'},
+ {ep:1,k:'c',m:1,n:'Naraoka Genza',t:'apothecary',where:'Battle: Ep. 1, village at square (26, 14)',how:'Get a unit into the village before an enemy unit does. If the enemy gets there first, the village burns and he is gone.'},
+ {ep:1,to:5,k:'c',n:'Kunigawara Nagataka',t:'armorer',where:'Koriyama: tavern',how:'Ep. 1–3: a townsperson at the Koriyama market has found a box. Choose "Take it myself" and return it to him at the tavern; he offers to join. From Ep. 4 just talk and hire.',need:'"Let them do it" only delays him until Ep. 4.'},
+ {ep:1,to:5,k:'c',n:'Okura Shinnoshin',t:'swordsmith',where:'Koriyama: tavern',how:'Talk and hire.'},
+ {ep:1,to:6,k:'c',n:'Ishiyama Etsutada',t:'ninja-tool maker',where:'Koriyama: tavern',how:'Appears once Okura Shinnoshin has joined. Talk and hire.'},
+ {ep:1,k:'c',m:1,n:'Igaki Saburota',t:'bowyer',where:'Koriyama: market',how:'Ep. 1: talk to the townsperson in the market. A man runs in; choose "Hide him", then hire him. If you never trigger this scene, he stands in the Koriyama market in Ep. 4 only.',need:'"Turn him in", or declining after hiding him, loses him.'},
+ {ep:2,k:'c',m:1,n:'Hinase Noriaki',t:'swordsmith',where:'Battle: Ep. 2, square (29, 13)',how:'Move any unit onto the square.'},
+ {ep:3,to:5,k:'c',n:'Numata Hachibei',t:'spearsmith',where:'Koriyama: market',how:'Hear about him from the old man in the market (or a farmer in Ep. 2). He is injured until Ep. 3, then can be hired.'},
+ {ep:3,to:7,k:'c',n:'Yamanoue Tametsugu',t:'spearsmith',where:'Koriyama: temple',how:'Talk and hire. Not there in Ep. 5.'},
+ {ep:3,to:7,k:'c',n:'Karashima Michinori',t:'swordsmith',where:'Koriyama: market',how:'Talk and hire.'},
+ {ep:4,k:'c',m:1,n:'Toji Hikoichi',t:'craftsman',where:'Battle: Ep. 4, square (20, 31)',how:'Move any unit onto the square.'},
+ {ep:4,to:11,k:'c',n:'Seki Yoshinobu',t:'bowyer',where:'Koriyama: market',how:'Talk and hire. If you lent him 500 gold at the Ogurayama market in Ep. 2, he repays it: "Decline politely" (take back only the 500) gets the offer at once; "Accept it as is" means you talk to him once more.'},
+ {ep:4,to:8,k:'c',n:'Hasebe Muneyasu',t:'spearsmith',where:'Koriyama: market',how:'He is starving: talk once to feed him, then again to hire. Not there in Ep. 5.'},
+ {ep:4,to:8,k:'c',n:'Igi Hironaga',t:'bowyer',where:'Koriyama: tavern',how:'Hear about him from a townsperson in the tavern. He joins once Seki Yoshinobu is in your service. Not there in Ep. 5.'},
+ {ep:6,k:'c',m:1,n:'Takahashi Ukyota',t:'craftsman',where:'Battle: Ep. 6, square (25, 24)',how:'Move any unit onto the square.'},
+ {ep:6,to:12,k:'c',n:'Suwa Ganjiro',t:'swordsmith',where:'Koriyama: Training Ground',how:'Talk and hire.'},
+ {ep:6,to:10,k:'c',n:'Homura Tadashige',t:'apothecary',where:'Koriyama: tavern',how:'Appears only if Heizo joined you. Talk and hire.'},
+ {ep:7,k:'c',m:1,n:'Ejiri Matazo',t:'craftsman',where:'Battle: Ep. 7, square (13, 28)',how:'Move any unit onto the square.'},
+ {ep:7,to:11,k:'c',n:'Mikasa Jinza',t:'spearsmith',where:'Koriyama: storehouse',how:'The soldier in the storehouse hands you rusty iron; Mikasa turns up, cleans it and asks to join. After that he waits in the storehouse.'},
+ {ep:7,to:11,k:'c',n:'Murata Sanjuro',t:'bowyer',where:'Koriyama: temple',how:'He asks you to beat his father at shogi in the Koriyama tavern. You lose the first game. Learn the secret of shogi from the old man at the Training Ground, win the rematch, then report back.'},
+ {ep:8,to:12,k:'c',n:'Hiko Shigeharu',t:'swordsmith',where:'Koriyama: market',how:'Ep. 8: his son is hurt. Talk to the monk in the tavern, learn bonesetting from the yamabushi who then appears at the temple, and heal the boy. From Ep. 9 just talk and hire.'},
+ {ep:8,to:12,k:'c',n:'Mozu Isso',t:'ninja-tool maker',where:'Koriyama: tavern',how:'He wants a good deed from the same episode. Ep. 8: rescue the kidnapped girl and recover the ransom. Ep. 9: return the boastful townsperson\'s lost purse in Takayama. Ep. 10: reunite the Ogurayama mother with her son at the Koriyama temple. Ep. 11–12: just talk.'},
+ {ep:9,k:'c',m:1,n:'Soma Hosetsu',t:'swordsmith',where:'Battle: Ep. 9, village at square (26, 7)',how:'Move any unit onto the square.'},
+ {ep:9,to:13,k:'c',n:'Yanohara Sukehide',t:'apothecary',where:'Koriyama: tavern',how:'Overhear the soldiers in the Koriyama storehouse; he then sits in the tavern refusing work. At the temple, talk to the monk and then the girl looking for her father, and send her to the tavern.'},
+ {ep:10,k:'c',m:1,n:'Noma Heizaburo',t:'spearsmith',where:'Battle: Ep. 10, square (25, 14)',how:'Move any unit onto the square.'},
+ {ep:10,to:13,k:'c',n:'Takema Sadakuni',t:'gunsmith',where:'Takayama: market',how:'Talk and hire.'},
+ {ep:10,to:15,k:'c',m:1,n:'Utajima Shigezo',t:'apothecary',where:'Ogurayama: market',how:'He is the sick boy from Ep. 2. In Ep. 2, get the cure-all medicine from the old man in an Ogurayama house and give it to the mother in the Ogurayama market. Later, talk to him twice to hire.',need:'Skip the Ep. 2 errand and he never appears.'},
+ {ep:10,to:17,k:'c',n:'Tsuda Yoichi',t:'cannon maker',where:'Koriyama: market',how:'Talk to the townsperson who gives you the Three-Monme Shot Manual; Tsuda turns up and asks to join. He stays in the market afterwards.'},
+ {ep:11,k:'c',m:1,n:'Majima Jubei',t:'shield maker',where:'Battle: Ep. 11, square (41, 26)',how:'Move any unit onto the square.'},
+ {ep:11,to:14,k:'c',m:1,n:'Nemoto Jinsuke',t:'armorer',where:'Sakurao: tavern',how:'A pirate at the Sakurao market tells you about him. Ask him to join; he leaves to train and joins when you come back in a later episode.',need:'Ask by Ep. 14 at the latest: starting in Ep. 15 is too late.'},
+ {ep:12,to:17,k:'c',n:'Ikoma Tadayoshi',t:'swordsmith',where:'Ogurayama: tavern',how:'Talk to him: he collapses drunk, gets sobered up and asks for work. Hire.'},
+ {ep:13,k:'c',m:1,n:'Ono Doken',t:'spearsmith',where:'Battle: Ep. 13, square (27, 31)',how:'Move any unit onto the square.'},
+ {ep:13,to:18,k:'c',n:'Aki Nobuharu',t:'shield maker',where:'Nagato-Katsuyama: market',how:'Talk and hire.'},
+ {ep:13,to:19,k:'c',n:'Teshima Shogo',t:'gunsmith',where:'Nagato-Katsuyama: tavern',how:'Take the letter from his mother (at the Sakurao market) to him, then hire him. Tell his mother afterwards for an item.'},
+ {ep:14,k:'c',m:1,n:'Saito Koroku',t:'swordsmith',where:'Battle: Ep. 14, square (36, 35)',how:'Move any unit onto the square.'},
+ {ep:14,to:21,k:'c',n:'Tokudawara Yonezo',t:'gunsmith',where:'Takayama: house (Ep. 21: tavern)',how:'Talk and hire; his farmer father agrees to let him go.'},
+ {ep:15,to:23,k:'c',n:'Kenmochi Rokuro',t:'swordsmith',where:'Takayama: market',how:'Talk to him: you scare off two pirates robbing him. Hire.'},
+ {ep:16,to:23,k:'c',n:'Kato Gonroku',t:'swordsmith',where:'Sakurao: tavern (Ep. 21–23: Ogurayama tavern)',how:'Ep. 16–20: the farmer at the Sakurao market tells you about him. Kato refuses to make swords; talk to the farmer again, then pick "Hire anyway". Ep. 21: first settle the reformed bandit\'s trouble in the Ogurayama tavern. Ep. 22–23: just talk.'},
+ {ep:16,to:20,k:'c',n:'Yukimi Kazetsuna',t:'cannon maker',where:'Takayama: tavern',how:'Hear about him from a townsperson in the tavern. He asks 1000 gold. Either pay, or pick "Don\'t hire": he drops his price and joins free when you pick "Hire" in the next menu.'},
+ {ep:17,to:25,k:'c',n:'Kumon Murashige',t:'ninja-tool maker',where:'Shiraga: tavern (Ep. 21–25: Gassan-Toda tavern)',how:'Ep. 17–20: he won\'t speak. Alternate between him and the townsperson in the tavern until he does, then visit his old master in a Shiraga house and tell Kumon the truth. Hire.'},
+ {ep:18,k:'c',m:1,n:'Hazama Motokage',t:'armorer',where:'Battle: Ep. 18, square (38, 25)',how:'Move any unit onto the square.'},
+ {ep:18,to:25,k:'c',n:'Itanokura Genpachi',t:'spearsmith',where:'Iyo-Yuzuki: tavern (Ep. 21–25: Ogurayama market)',how:'Ep. 18–20: he is drunk and rude. Talk to him, then the townsperson in the tavern, leave and come back: he is sober and can be hired.'},
+ {ep:18,to:22,k:'c',n:'Yonekura Yoroku',t:'gunsmith',where:'Koriyama: market',how:'Talk and hire (he is the boy who asked about workshop jobs in Ep. 11–13).'},
+ {ep:19,to:25,k:'c',n:'Kojima Zenbei',t:'bowyer',where:'Nagato-Katsuyama market (Ep. 21–25: Gassan-Toda market)',how:'Ep. 19–20: meet the man with no memory at the market. A soldier at the workshop reports a missing craftsman. Find the man again at the temple and take him to the workshop. Hire.'},
+ {ep:19,to:24,k:'c',n:'Shindo Mitsutane',t:'swordsmith',where:'Koriyama (Ep. 21–24: tavern)',how:'Ep. 19–20: talk to the girl praying at the temple, then her father in the tavern, then go to the family\'s house: he comes home and can be hired.'},
+ {ep:20,k:'c',m:1,n:'Kiryu Shinbei',t:'spearsmith',where:'Battle: Ep. 20, square (31, 4)',how:'Move any unit onto the square.'},
+ {ep:21,k:'c',m:1,n:'Fukunobu Daizen',t:'apothecary',where:'Battle: Ep. 21, square (24, 17)',how:'Move any unit onto the square.'},
+ {ep:22,k:'c',m:1,n:'Kagura Soen',t:'swordsmith',where:'Battle: Ep. 22, square (1, 34)',how:'Move any unit onto the square. You also get an item.'},
+];
+
+const list = document.getElementById('list');
+const state = { f: 'all', q: '', miss: false, hide: false };
+let ticks = {};
+try { ticks = JSON.parse(localStorage.getItem('mm-recruits') || '{}'); } catch (e) { ticks = {}; }
+const save = () => { try { localStorage.setItem('mm-recruits', JSON.stringify(ticks)); } catch (e) {} };
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const id = r => (r.k + ':' + r.n).replace(/\s+/g, '-');
+
+function render() {
+  const q = state.q.trim().toLowerCase();
+  const rows = R.filter(r =>
+    (state.f === 'all' || (state.f === 'officer') === (r.k === 'o')) &&
+    (!state.miss || r.m) && (!state.hide || !ticks[id(r)]) &&
+    (!q || [r.n, r.t, r.where, r.how, r.need].join(' ').toLowerCase().includes(q)));
+  const eps = [...new Set(rows.map(r => r.ep))].sort((a, b) => a - b);
+  list.innerHTML = eps.length ? eps.map(ep => {
+    const rs = rows.filter(r => r.ep === ep);
+    return `<section class="ep" aria-labelledby="ep${ep}"><div class="ep-head"><span class="ep-no">EPISODE ${ep}</span><h2 id="ep${ep}">${rs.length} ${rs.length === 1 ? 'recruit' : 'recruits'}</h2></div><div class="rows">` +
+      rs.map(r => {
+        const k = id(r), got = !!ticks[k];
+        const tags = [r.k === 'c' ? '<span class="tag craft">craftsman</span>' : '',
+          r.t ? `<span class="tag">${esc(r.t)}</span>` : '',
+          r.s ? '<span class="tag">story</span>' : '', r.m ? '<span class="tag miss">missable</span>' : '',
+          r.to ? `<span class="tag">Ep. ${r.ep}–${r.to}</span>` : ''].join('');
+        return `<div class="row${got ? ' got' : ''}"><input type="checkbox" id="t-${esc(k)}" data-k="${esc(k)}" ${got ? 'checked' : ''} aria-label="Got ${esc(r.n)}">` +
+          `<div class="who"><label class="name" for="t-${esc(k)}">${esc(r.n)}</label>${tags}</div>` +
+          `<p class="how">${r.where ? `<span class="where">${esc(r.where)}. </span>` : ''}${esc(r.how)}</p>` +
+          (r.need ? `<p class="need">${esc(r.need)}</p>` : '') + '</div>';
+      }).join('') + '</div></section>';
+  }).join('') : '<p class="empty">Nothing matches. Clear the search or the filters.</p>';
+  const all = R.filter(r => !r.s), got = all.filter(r => ticks[id(r)]).length;
+  document.getElementById('count').textContent = `${got} / ${all.length} ticked`;
+}
+list.addEventListener('change', e => {
+  const k = e.target.dataset.k; if (!k) return;
+  if (e.target.checked) ticks[k] = 1; else delete ticks[k];
+  save(); render();
+});
+document.getElementById('q').addEventListener('input', e => { state.q = e.target.value; render(); });
+document.getElementById('miss').addEventListener('change', e => { state.miss = e.target.checked; render(); });
+document.getElementById('hide').addEventListener('change', e => { state.hide = e.target.checked; render(); });
+document.querySelectorAll('.seg button').forEach(b => b.addEventListener('click', () => {
+  state.f = b.dataset.f;
+  document.querySelectorAll('.seg button').forEach(x => x.setAttribute('aria-pressed', String(x === b)));
+  render();
+}));
+render();
+</script>
