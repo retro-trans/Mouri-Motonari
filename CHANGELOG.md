@@ -10,6 +10,10 @@ First public release, same content as 0.2.20 (the title screen shows "v0.8.0").
 - Repository: https://github.com/retro-trans/Mouri-Motonari. The translation files are
   committed as Japanese-free `.en.json` copies (`tools/strip_jp.py`); the working files,
   review reports, game data and builds stay out of git (`.gitignore`).
+- Retro Trans Automatic: the game is registered in the retro-trans-tools game library
+  (SLPS-01285) and v0.8.0 is in its patch catalog. Checked with a headless Automatic run:
+  the Japanese BIN is recognized, the published patch downloads and applies with the
+  app's xdelta3, and the output matches the 0.8.0 image's SHA-256.
 
 ## 0.2.20 — project URL and version on the title screen
 

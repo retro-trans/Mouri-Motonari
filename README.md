@@ -33,6 +33,11 @@ with DeltaPatcher or xdelta3. Use a raw single-track BIN (MODE2/2352) with its C
 Check the source hashes in `README-v0.8.0.txt` if your patcher reports a mismatch; keep
 checksum verification enabled.
 
+In Retro Trans **Automatic**, click **Refresh catalog**, then **Browse…** and select your
+Japanese BIN. Keep **Target: Latest** and check that the route ends at **0.8.0**. Choose a
+new **Patched copy** path and click **Patch**. Automatic downloads and verifies the patch,
+then saves the translated BIN and a CUE that already names it.
+
 For example:
 
 ```
